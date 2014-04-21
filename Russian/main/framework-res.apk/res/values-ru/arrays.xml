@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="emailAddressTypes">
+        <item>Личный</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать свой</item>
+     </string-array>
+     <string-array name="imAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другое</item>
+        <item>Создать свой</item>
+     </string-array>
+     <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+     </string-array>
+     <string-array name="organizationTypes">
+        <item>Рабочий</item>
+        <item>Другое</item>
+        <item>Создать свой</item>
+     </string-array>
+     <string-array name="phoneTypes">
+        <item>Home</item>
+        <item>Mobile</item>
+        <item>Work</item>
+        <item>Work Fax</item>
+        <item>Home Fax</item>
+        <item>Pager</item>
+        <item>Other</item>
+        <item>Custom</item>
+     </string-array>
+     <string-array name="postalAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать свой</item>
+     </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <plurals name="directory_item_count">
+        <item quantity="one">файлов: 1</item>
+        <item quantity="other">файлов: %d</item>
+     </plurals>
+     <plurals name="numSelectedFile">
+        <item quantity="one">Выбрано: %1$d</item>
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="zero">Выбрано: %1$d</item>
+     </plurals>
+</resources>

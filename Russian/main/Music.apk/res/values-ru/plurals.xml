@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <plurals name="Ntracks_count">
+        <item quantity="one">Треков: %d</item>
+        <item quantity="other">Треков: %d</item>
+     </plurals>
+     <plurals name="Ntracks_search_result">
+        <item quantity="one">Найдено треков: %d</item>
+        <item quantity="other">Найдено треков: %d</item>
+     </plurals>
+</resources>

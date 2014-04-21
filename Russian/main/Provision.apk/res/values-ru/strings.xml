@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="input_method_category">Выберите метод ввода по умолчанию</string>
+     <string name="input_method_setting">Выберите метод ввода</string>
+     <string name="other_settings">Другие настройки</string>
+     <string name="other_settings_location">Доступ к местоположению</string>
+     <string name="other_settings_location_summary">Разрешить картам и другим приложениям определять местоположение с помощью GPS</string>
+     <string name="other_settings_user_experience">Повышение качества</string>
+     <string name="other_settings_user_experience_summary">Помогите Xiaomi улучшать свои продукты и услуги путем отправки анонимных отчетов</string>
+     <string name="welcome">Добро пожаловать</string>
+</resources>
