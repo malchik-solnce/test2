@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="app_label">Хранилище контактов</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="call_log_provider_label">Call log</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="create_contact">New contact</string>
      <string name="default_directory">Контакты</string>
-     <string name="group_name_contacts">Contacts</string>
-     <string name="group_name_coworkers">Colleagues</string>
-     <string name="group_name_family">Family</string>
-     <string name="group_name_friends">Friends</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="edit_contact">Add to contact</string>
      <string name="local_invisible_directory">Прочее</string>
+     <string name="pound_search_tip">Input number after # to search contacts</string>
      <string name="provider_label">Контакты</string>
      <string name="read_write_all_voicemail_description">Разрешить приложению сохранять и извлекать все голосовые сообщения, к которым есть доступ на этом устройстве</string>
      <string name="read_write_all_voicemail_label">Доступ ко всей голосовой почте</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="send_sms">Send message</string>
      <string name="sharedUserLabel">Приложения ядра Android</string>
-     <string name="unknown">Unknown number</string>
+     <string name="third_party_delete_contact_info">"\"%s\" is trying to delete your contacts. This action can't be carried out by third-party apps. To delete contacts, use MIUI's built-in Contacts app instead."</string>
      <string name="upgrade_msg">Обновление базы данных контактов…</string>
      <string name="upgrade_out_of_memory_notification_text">Нажмите, чтобы завершить обновление</string>
      <string name="upgrade_out_of_memory_notification_ticker">Для обновления контакта требуется больше памяти</string>

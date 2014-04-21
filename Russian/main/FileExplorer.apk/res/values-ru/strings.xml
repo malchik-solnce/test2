@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="account_bind_prompt">"Перенос данных пользователя
 перенос данных может жанять некоторое время,
@@ -20,7 +20,6 @@
      <string name="bind_account_summary">Если у Вас уже есть учетная запись kuaipan, то ее можно привязать к учетной записи Xiaomi, чтобы синхронизировать данные</string>
      <string name="binded_accout_description">Эти два аккаунта были объединены. Теперь Вы можете войти используя либо аккаунт Xiaomi, либо аккаунт Kuaipan. В них обоих будут одни и теже файлы.</string>
      <string name="binded_accout_title">В настоящее время Вы уже связаны с учетной записью KuaiPan</string>
-     <string name="byteShort">B</string>
      <string name="cache_size_label">Кэш</string>
      <string name="cancel">Отмена</string>
      <string name="cancel_app_garbage_cleanup">Не очищать</string>
@@ -30,6 +29,8 @@
      <string name="category_document">Документы</string>
      <string name="category_favorite">Избранное</string>
      <string name="category_log">Журналы</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="category_mirouter">MiRouter</string>
      <string name="category_music">Музыка</string>
      <string name="category_other">Прочее</string>
      <string name="category_picture">Фото</string>
@@ -47,6 +48,7 @@
      <string name="cleanup_complete">Готово</string>
      <string name="cleanup_stopped">Очистка остановлена</string>
      <string name="close">Закрыть</string>
+     <string name="colon">": "</string>
      <string name="compress_fail">Ошибка архивирования, файл уже существует</string>
      <string name="compress_message">Имя архива:</string>
      <string name="compress_title">Создание архива</string>
@@ -69,8 +71,6 @@
      <string name="delete_failed">Ошибка удаления</string>
      <string name="delete_file">Вы уверены, что хотите удалить этот файл?</string>
      <string name="delete_files">Удалить выбранные файлы (%1$d)?</string>
-     <string name="delete_files_and_folders">"Удалить выбранные папки и файлы?
-Файлов: %1$d  Папок: %2$d"</string>
      <string name="delete_folder">Вы уверены, что хотите удалить?</string>
      <string name="delete_folders">Вы уверены, что хотите удалить выбранные папки (%1$d)?</string>
      <string name="des_running_trans">Эти %1$d файлы ожидают отправки</string>
@@ -96,7 +96,6 @@
      <string name="favorite_photo">Фото</string>
      <string name="favorite_ringtone">Мелодии</string>
      <string name="favorite_screen_cap">Скриншоты</string>
-     <string name="fileSizeSuffix">%1$s%2$s</string>
      <string name="file_cleanup">Очистка файлов</string>
      <string name="file_info_canread">Чтение:</string>
      <string name="file_info_canwrite">Запись:</string>
@@ -121,7 +120,6 @@
      <string name="garbage_size_metric">"%s
 мусора"</string>
      <string name="gbk_summary">Если вы используете кодировку GBK, например, в Windows Explorer, выберите этот тип кодирования, чтобы избежать искажения текста на китайском языке</string>
-     <string name="gigabyteShort">GB</string>
      <string name="give_up_cleaning">Отмена</string>
      <string name="header_text_cleaned">мусора очищено</string>
      <string name="header_text_cleaning">мусора осталось</string>
@@ -130,8 +128,8 @@
      <string name="instruction">Адрес синхронизации:</string>
      <string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
      <string name="item_name">Без имени</string>
-     <string name="kilobyteShort">KB</string>
      <string name="kuaipan_over_space">В вашем KuaiPan нет больше свободного места</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="kuaipan_prompt">KuaiPan</string>
      <string name="kuaipan_prompt_message">"
  Идет обслуживание сервиса, пожалуйста, попробуйте позже…
@@ -139,11 +137,9 @@
      <string name="kuaipan_tech_support">При поддержке Kingsoft Kuaipan</string>
      <string name="load_err">Ошибка загрузки</string>
      <string name="loading">Загрузка</string>
-     <string name="local">local</string>
      <string name="local_cache_size">Размер локального кэш: %s</string>
      <string name="login_reg_content">KuaiPan позволяет хранить файлы и синхронизировать их между несколькими устройствами</string>
      <string name="login_reg_content0">KuaiPan - Ваш интернет диск</string>
-     <string name="megabyteShort">мб</string>
      <string name="menu_item_cleanup">Очистка</string>
      <string name="menu_item_search">Поиск</string>
      <string name="menu_item_sort">Сортировка</string>
@@ -216,7 +212,6 @@
      <string name="operation_unfavorite">Удалить из избранного</string>
      <string name="pan_settting">Настройки KuaiPan</string>
      <string name="paused">Пауза</string>
-     <string name="petabyteShort">PB</string>
      <string name="pull_to_signin">Потяните вниз, чтобы войти в систему и получить дополнительное место в облаке</string>
      <string name="query_bind_state">Запрос состояния, пожалуйста, подождите…</string>
      <string name="release_to_signin">Отпустите для входа</string>
@@ -255,14 +250,11 @@
      <string name="storage_usb">USB-накопитель</string>
      <string name="storage_warning">Внешний носитель не доступен</string>
      <string name="sys_size">Всего: %1$s</string>
-     <string name="sys_size_enable">включить</string>
      <string name="sys_size_title">Полный объем</string>
      <string name="tab_category">Категории</string>
      <string name="tab_phone">Файлы</string>
-     <string name="tab_sys_size">Всего памяти</string>
      <string name="temp_file_cleanup_indication">%s временнх файлов</string>
      <string name="temp_file_title">Временные файлы</string>
-     <string name="terabyteShort">TB</string>
      <string name="thumbnail_cleanup_indication">%s эскизов</string>
      <string name="thumbnail_title">Файлы эскизов</string>
      <string name="toast_file_not_can_read">Этот тип файла не поддерживается</string>
@@ -275,8 +267,6 @@
      <string name="trash_box_link">Посетите pan.xiaomi.com для очистки корзины</string>
      <string name="trash_box_message1">Вы можете удалить не нужные файлы для освобождения места</string>
      <string name="trash_box_message2">Вы можете удалить не нужные файлы или очистить корзину для освобождения места</string>
-     <string name="ui_bar_txt_download_progress">Скачивание файлов (осталось: %1$d)</string>
-     <string name="ui_bar_txt_upload_progress">Загрузка файлов (осталось: %1$d)</string>
      <string name="ui_filechange_btn_download">Скачать файлы</string>
      <string name="ui_filechange_btn_upload">Загрузить файлы</string>
      <string name="ui_main_menu_option_sign_in">Войти</string>
@@ -310,5 +300,6 @@
      <string name="wangpan_root_path">Мой диск</string>
      <string name="wifi_state">Статус Wi-Fi</string>
      <string name="xiaomi_account">Аккаунт Xiaomi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="yes">OK</string>
 </resources>

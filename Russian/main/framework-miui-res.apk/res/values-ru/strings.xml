@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate">Activate</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_fail_notification_title">Reactivate sync</string>
+     <string name="activating">Activating…</string>
      <string name="alwaysUsePrompt">Исполь. по умолчанию</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="android_lockscreen_glogin_instructions">To unlock, sign in to your Xiaomi Account.</string>
      <string name="anniversary_of_lifting_martial_law">解嚴紀念</string>
      <string name="anti_aggression_day">反侵略日</string>
      <string name="app_no_notification">ничего</string>
@@ -11,36 +18,591 @@
      <string name="armed_forces_day">軍人節</string>
      <string name="autumn_begins" />
      <string name="autumn_equinox" />
+     <string name="callNoAnswerTimeFormat">Ring %s times</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="call_record_or">or</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="call_record_sample_prefix_miui">Call</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="caller_info_name_delimiter">Or</string>
+     <string name="check_phone_error_title">"Sync hasn't been activated"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="check_phone_io_error">Network error</string>
      <string name="childrens_day" />
      <string name="chinese_youth_day" />
      <string name="christmas_day">Рождество</string>
      <string name="clear_and_bright" />
      <string name="cold_dews" />
-     <string name="copy">复制</string>
-     <string name="cut">剪切</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ac">AC</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ad">AD</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ae">AE</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_af">AF</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ag">AG</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ai">AI</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_al">AL</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_am">AM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_an">AN</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ao">AO</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ar">AR</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_as">AS</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_at">AT</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_au">AU</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_aw">AW</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_az">AZ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ba">BA</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_bb">BB</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_bd">BD</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_be">BE</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_bf">BF</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_bg">BG</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_bh">BH</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_bi">BI</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_bj">BJ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_bm">BM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_bn">BN</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_bo">BO</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_br">BR</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_bs">BS</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_bt">BT</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_bw">BW</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_by">BY</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_bz">BZ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_cd">CD</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_cf">CF</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_cg">CG</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ch">CH</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ci">CI</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ck">CK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_cl">CL</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_cm">CM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_cn">CN</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_co">CO</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_cr">CR</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_cu">CU</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_cv">CV</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_cy">CY</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_cz">CZ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_de">DE</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_dj">DJ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_dk">DK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_dm">DM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_do">DO</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_dz">DZ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ec">EC</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ee">EE</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_eg">EG</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_er">ER</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_es">ES</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_et">ET</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_fi">FI</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_fj">FJ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_fk">FK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_fm">FM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_fo">FO</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_fr">FR</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ga">GA</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_gd">GD</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ge">GE</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_gf">GF</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_gg">GG</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_gh">GH</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_gi">GI</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_gl">GL</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_gm">GM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_gn">GN</string>
+     <string name="country_name_gp_bl_mf">GP/BL/MF</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_gq">GQ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_gr">GR</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_gt">GT</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_gu">GU</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_gw">GW</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_gy">GY</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_hk">HK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_hn">HN</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_hr">HR</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ht">HT</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_hu">HU</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_id">ID</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ie">IE</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_il">IL</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_im">IM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_in">IN</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_io">IO</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_iq">IQ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ir">IR</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_is">IS</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_it">IT</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_je">JE</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_jm">JM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_jo">JO</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_jp">JP</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ke">KE</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_kg">KG</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_kh">KH</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ki">KI</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_km">KM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_kn">KN</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_kp">KP</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_kr">KR</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_kw">KW</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ky">KY</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_la">LA</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_lb">LB</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_lc">LC</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_li">LI</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_lk">LK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_lr">LR</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ls">LS</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_lt">LT</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_lu">LU</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_lv">LV</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ly">LY</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ma">MA</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_mc">MC</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_md">MD</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_me">ME</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_mg">MG</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_mh">MH</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_mk">MK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ml">ML</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_mm">MM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_mn">MN</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_mo">MO</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_mp">MP</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_mq">MQ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_mr">MR</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ms">MS</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_mt">MT</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_mu">MU</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_mv">MV</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_mw">MW</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_mx">MX</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_my">MY</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_mz">MZ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_na">NA</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_nc">NC</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ne">NE</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ng">NG</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ni">NI</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_nl">NL</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_no">NO</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_np">NP</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_nr">NR</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_nu">NU</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_nz">NZ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_om">OM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_pa">PA</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_pe">PE</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_pf">PF</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_pg">PG</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ph">PH</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_pk">PK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_pl">PL</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_pm">PM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_pr">PR</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ps">PS</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_pt">PT</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_pw">PW</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_py">PY</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_qa">QA</string>
+     <string name="country_name_re_yt">RE/YT</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ro">RO</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_rs">RS</string>
+     <string name="country_name_ru_kz">RU/KZ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_rw">RW</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_sa">SA</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_sb">SB</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_sc">SC</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_sd">SD</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_se">SE</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_sg">SG</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_sh">SH</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_si">SI</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_sk">SK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_sl">SI</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_sm">SM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_sn">SN</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_so">SO</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_sr">SR</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_st">ST</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_sv">SV</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_sx">SX</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_sy">SY</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_sz">SZ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_tc">TC</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_td">TD</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_tg">TG</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_th">TH</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_tj">TJ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_tk">TK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_tl">TL</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_tm">TM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_tn">TN</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_to">TO</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_tr">TR</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_tt">TT</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_tv">TV</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_tw">TW</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_tz">TZ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ua">UA</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ug">UG</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_uk">UK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_us_ca">US</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_uy">UY</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_uz">UZ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_va">VA</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_vc">VC</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ve">VE</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_vg">VG</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_vi">VI</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_vn">VN</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_vu">VU</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_wf">WF</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ws">WS</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_ye">YE</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_za">ZA</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_zm">ZM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="country_name_zw">ZW</string>
      <string name="day_following_good_friday">耶穌受難節翌日</string>
+     <string name="day_of_month">" %d"</string>
+     <string name="days">%d days</string>
+     <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
+     <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
+     <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
+     <string name="def_sms_delivered_sound">/system/media/audio/ui/MessageComplete.ogg</string>
+     <string name="def_sms_received_sound">/system/media/audio/notifications/FadeIn.ogg</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="delete">Delete</string>
+     <string name="deprecated_50" />
+     <string name="deprecated_51" />
+     <string name="deprecated_52" />
+     <string name="deprecated_53" />
+     <string name="deprecated_54" />
+     <string name="deprecated_55" />
+     <string name="deprecated_56" />
+     <string name="deprecated_57" />
+     <string name="deprecated_58" />
+     <string name="deprecated_59" />
+     <string name="deprecated_60" />
+     <string name="deprecated_61" />
+     <string name="deprecated_62" />
+     <string name="deprecated_63" />
+     <string name="deprecated_64" />
+     <string name="deprecated_65" />
+     <string name="deprecated_66" />
+     <string name="deprecated_67" />
+     <string name="deprecated_68" />
+     <string name="deprecated_69" />
+     <string name="deprecated_70" />
+     <string name="deprecated_71" />
+     <string name="deprecated_72" />
+     <string name="deprecated_73" />
+     <string name="deprecated_74" />
+     <string name="deprecated_75" />
+     <string name="deprecated_76" />
+     <string name="deprecated_77" />
+     <string name="deprecated_78" />
+     <string name="deprecated_79" />
+     <string name="deprecated_80" />
+     <string name="deprecated_81" />
+     <string name="deprecated_82" />
+     <string name="deprecated_83" />
+     <string name="deprecated_alarm_message_12_hour_formate" />
      <string name="device_hongmi">Телефон Hongmi</string>
      <string name="device_xiaomi">Телефон Xiaomi</string>
      <string name="double_seventh_day" />
      <string name="easter">復活節</string>
+     <string name="err_resource_leak">Unfortunately, %1$s has stopped</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_forbidden">There are some problems with your account.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_not_acceptable">A server error occurred.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_title">Sync error</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_unauthorized">Sync has been disabled due to too many sign in attempts.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="every_day">Every day</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="experimental_validate">Validate</string>
+     <string name="experimental_validate_fail">Sign-in failed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="experimental_validate_password">Password</string>
+     <string name="experimental_validate_progress">Signing in…</string>
+     <string name="experimental_validate_thanks">Thank you!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="experimental_validate_username">Username</string>
+     <string name="experimental_validate_warning">Thank you for helping to make MIUI better!</string>
+     <string name="find_device_check_sim">Checking SIM…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="find_device_sim_change_instructions">Your device has been lockednsert SIM card or enter your Xiaomi Account password.</string>
+     <string name="find_device_sim_change_instructions_no_network">"Your device has been locked.
+To unlock it, insert your SIM card."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="find_device_turn_off_flight_mode">Turn off airplane mode.</string>
+     <string name="find_device_turn_off_flight_mode_instructions">"Your device has been locked.
+To unlock it, turn off airplane mode."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="firewall_setting">Blocklist</string>
      <string name="first_back_long_press_message">"Вы хотите, чтобы функция долгого нажатия клавишуи возврата, закрывало приложение и его сервисы? 
 
 Включите через Настройки > Система > Настройки кнопок"</string>
      <string name="fools_day" />
      <string name="force_exit_message">Приложение \"%1$s\" закрыто</string>
-     <string name="global_actions_airplane_mode">Авиарежим</string>
-     <string name="global_actions_reboot">Перезагрузка</string>
-     <string name="global_actions_shutdown">Выключение</string>
-     <string name="global_actions_silent_mode">Без звука</string>
+     <string name="format_time_in_12_hours">hh:mma</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="global_action_privacy_mode_dialog_message">Calls, notes, pictures, messages, and launcher settings will be hidden from the user.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="global_action_toggle_privacy_mode">Guest mode</string>
      <string name="good_friday">耶穌受難節</string>
      <string name="grain_buds" />
      <string name="grain_in_ear" />
      <string name="grain_rain" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="grant_permissions_account">Access account request</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="grant_permissions_apps">Access apps request</string>
      <string name="great_cold" />
      <string name="great_heat" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="group_name_contacts">Contacts</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="group_name_coworkers">Colleagues</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="group_name_family">Family</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="group_name_friends">Friends</string>
      <string name="heavy_snow" />
      <string name="hksar_establishment_day">行政區成立</string>
      <string name="hoar_frost_falls" />
+     <string name="hours">%d hours</string>
      <string name="insects_awaken" />
      <string name="international_womens_day">Международный Женский день</string>
      <string name="labour_day" />
@@ -50,6 +612,10 @@
      <string name="lockscreen_access_pattern_cleared">Шаблон очищен</string>
      <string name="lockscreen_access_pattern_detected">Шаблон завершен</string>
      <string name="lockscreen_access_pattern_start">Шаблон начат</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lockscreen_unlock_sim_via_puk">Enter PUK code to unlock SIM card</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="login_website_in_case_forget_password">To reset your password, go to i.xiaomi.com.</string>
      <string name="lunar_ba">八</string>
      <string name="lunar_calendar">Лунный календарь</string>
      <string name="lunar_chu">初</string>
@@ -58,6 +624,7 @@
      <string name="lunar_er_shi">二十</string>
      <string name="lunar_jiu">九</string>
      <string name="lunar_leap">闰</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lunar_ling">O</string>
      <string name="lunar_liu">六</string>
      <string name="lunar_nian">廿</string>
@@ -76,36 +643,143 @@
      <string name="memory_clear_nothing_result">Нет памяти для очистки</string>
      <string name="memory_clear_result">"Очищено: %1$s
 Доступно: %2$s"</string>
+     <string name="minutes">%d minutes</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui_copyright_title">Copyright</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="miui_device_name">MIUI</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui_mibi_license_title">Mi Credit User agreement</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui_privacy_policy_title">Privacy policy</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui_user_agreement_title">User agreement</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui_user_manual_title">User guide</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_of_april">Apr</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_of_august">Aug</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_of_december">Dec</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_of_february">Feb</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_of_january">Jan</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_of_july">Jul</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_of_june">Jun</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_of_march">Mar</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_of_may">May</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_of_november">Nov</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_of_october">Oct</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_of_september">Sept</string>
+     <string name="multi_select_title">%1$s selected</string>
      <string name="national_day" />
      <string name="national_father_day" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="never">Never</string>
      <string name="new_years_day">Новый год</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_sim">No SIM card detected</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="open_wifi_settings">Open network connection</string>
      <string name="partys_day" />
-     <string name="paste">粘贴</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="payphone">Payphone</string>
      <string name="peace_day" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="perm_auto_backup">Auto backup</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="perm_data_update_dspt">Allow to send data update water mark</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="perm_data_update_lab">Data update</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="perm_payment_dspt">Allow app to pay through Xiaomi payment service</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="perm_payment_lab">Xiaomi payment service</string>
      <string name="perm_send_push_dspt">Разрешить отправлять push-сообщения в Xiaomi</string>
      <string name="perm_send_push_lab">Отправка push-сообщений</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="perm_tigger_toggle_dspt">Allow apps to trigger toggles in status bar</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="perm_tigger_toggle_lab">Trigger toggles from status bar</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="perm_use_find_device">Find device</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="permdesc_accessNote">Malicious apps can use this to access your personal info.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="permlab_accessNote">Access your notes</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="private_num">Private number</string>
+     <string name="provider_114">Provided by 114号码百事通</string>
+     <string name="provider_sougou">Provided by 搜狗号码通</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="reboot_confirm">Phone will be restarted</string>
      <string name="reboot_confirm_title">Вы уверены, что хотите перезагрузить телефон?</string>
      <string name="reboot_progress">Перезагрузка…</string>
-     <string name="replace">替换</string>
      <string name="retrocession_day">光復節</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="reverse_all">Clear all</string>
+     <string name="safetylegal_activity_unreachable">"Can't connect to network. You can view this information online at %s."</string>
      <string name="screen_button_notification_text">"Нажмите 'Home'+'Power' для включения"</string>
      <string name="screen_button_notification_title">Кнопки на дисплее отключены</string>
      <string name="screen_on_proximity_sensor_hint">"Принудительный выход: нажмите кнопки 'НАЗАД'+'Громкость +'"</string>
      <string name="screen_on_proximity_sensor_summary">Не закрывайте верхнюю половину экрана</string>
      <string name="screen_on_proximity_sensor_title">Режим предотвращения ошибок</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sd_not_available">No SD card detected</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sd_not_available_low_internal_storage">SD card unavailable. Saved to internal storage.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sd_not_available_saved_to_internal_storage">Saved to internal storage</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sd_not_available_use_internal_storage">SD card unavailable. Saved to internal storage.</string>
      <string name="select">Выбрать</string>
      <string name="select_all">Выбрать все</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="send">Send</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="send_sms_for_sync_notice">A text will be sent to activate it. This may incur charges from your carrier.</string>
+     <string name="send_sms_for_sync_title">"Sync hasn't been activated"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="share">Share</string>
      <string name="shutdown_confirm_title">Вы уверены, что хотите выключить устройство?</string>
-     <string name="shutdown_progress">Выключение…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sim_account_name">SIM</string>
+     <string name="sim_changed_reactivate_int_notice">"The SIM card you're using is deactivated. A text will be sent to activate it. This may incur charges from your carrier."</string>
+     <string name="sim_changed_reactivate_notice">"The SIM card you're using is deactivated. A text will be sent to activate it. This may incur charges from your carrier."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sim_in_airplane_mode">Turn off airplane mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sim_locked">SIM card is locked</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sim_not_ready">SIM card is in use. Try again later.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sim_unavailable">SIM card unavailable</string>
      <string name="slight_cold" />
      <string name="slight_heat" />
      <string name="solar_calendar" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="speaker">Speaker</string>
      <string name="spring_begins" />
      <string name="stopping_the_heat" />
      <string name="summer_begins" />
      <string name="summer_solstice" />
+     <string name="sync_one_time_sync">Touch to sync（ %1$s )</string>
      <string name="teachers_day" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="text_copied">Text copied</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="text_cut">Text cut</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="text_pastelist">Clipboard</string>
      <string name="the_armys_day" />
      <string name="the_double_ninth_festival" />
      <string name="the_dragon_boat_festival" />
@@ -114,12 +788,69 @@
      <string name="the_mid_autumn_festival" />
      <string name="the_rains" />
      <string name="the_spring_festival" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="toast_lockscreen_glogin_empty_password">Password is required.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="today">Today</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="tomorrow">Tomorrow</string>
      <string name="tw_childrens_day">兒童節</string>
      <string name="tw_youth_day">青年節</string>
      <string name="united_nations_day">聯合國日</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="unknown">Unknown number</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="unknown_caller">Unknown caller</string>
+     <string name="user_agreement1">"By touching OK, you're agreeing to the terms and conditions outlined in Xiaomi's"</string>
+     <string name="user_agreement2">" User Agreement"</string>
+     <string name="user_agreement3">" and "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_agreement4">Privacy Policy.</string>
+     <string name="user_agreement5" />
+     <string name="v5_date_picker_label_day" />
+     <string name="v5_date_picker_label_month" />
+     <string name="v5_date_picker_label_year" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="v5_date_time_picker_dialog_title">Set reminder time</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="v5_deselect_all">Deselect all</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="v5_edit_mode_title_empty">0 selected</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="v5_icon_menu_bar_more_item_label">More</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="v5_select_all">Select all</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="v5_time_picker_label_hour">H</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="v5_time_picker_label_minute">M</string>
      <string name="valentines_day">День Святого Валентина</string>
      <string name="vernal_equinox" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="volume_alarm">Alarm</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="volume_icon_description_bluetooth">Bluetooth</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="volume_icon_description_incall">Call</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="volume_icon_description_media">Media</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="volume_icon_description_notification">Notification</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="volume_icon_description_ringer">Ringer</string>
+     <string name="volume_ring_description">Ringtone &amp; notifications</string>
+     <string name="wake_alarm_message">Shutdown notification will sound at %s</string>
      <string name="white_dews" />
      <string name="winter_begins">Зима</string>
      <string name="winter_solstice" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="yellow_page_module_sms_sent">Text message sent</string>
+     <string name="yellow_page_sms_disabled_in_privacy_mode">"Can't send message in Guest mode"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="yellow_page_sms_send_failed">Failed to send text message</string>
+     <string name="yellow_page_sms_sending">Sending…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="yellow_page_unable_send_sms">Unable to send text message</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="yesterday">Yesterday</string>
 </resources>
