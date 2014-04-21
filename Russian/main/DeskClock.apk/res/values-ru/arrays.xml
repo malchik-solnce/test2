@@ -2,14 +2,14 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string-array name="alarm_in_furture">
-        <item>Alarm will sound in less than 1 minute</item>
-        <item>Alarm will sound in %1$s</item>
-        <item>Alarm will sound in %2$s</item>
-        <item>Alarm will sound in %1$s %2$s</item>
-        <item>Alarm will sound in %3$s</item>
-        <item>Alarm will sound in %1$s %3$s</item>
-        <item>Alarm will sound in %2$s %3$s</item>
-        <item>Alarm will sound in %1$s %2$s %3$s</item>
+        <item>Будильник зазвонит менее чем через минуту</item>
+        <item>Будильник зазвонит через %1$s</item>
+        <item>Будильник зазвонит через %2$s</item>
+        <item>Будильник зазвонит через %1$s и %2$s</item>
+        <item>Будильник зазвонит через %3$s</item>
+        <item>Будильник зазвонит через %1$s и %3$s</item>
+        <item>Будильник зазвонит через %2$s и %3$s</item>
+        <item>Будильник зазвонит через %1$s, %2$s и %3$s</item>
      </string-array>
      <string-array name="alarm_repeat_type">
         <item>Once</item>
@@ -24,19 +24,6 @@
         <item>Mon to Fri</item>
         <item>Custom</item>
      </string-array>
-     <integer-array name="alarm_repeat_type_no_workdays_values">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item>
-     </integer-array>
-     <integer-array name="alarm_repeat_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-     </integer-array>
      <string-array name="alarm_set">
         <item>Будильник зазвонит менее чем через минуту</item>
         <item>Будильник зазвонит через %1$s</item>

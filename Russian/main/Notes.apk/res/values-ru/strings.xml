@@ -26,7 +26,7 @@
      <string name="button_new_note">Новая заметка</string>
      <string name="call_record_folder_name">Заметки из звонков</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="close">Close</string>
+     <string name="close">Закрыть</string>
      <string name="default_folder_name">Заметки</string>
      <string name="dlg_desc_confirm_alarm_silent">После отключения, сигналы будильника и заметок не будут играть в режиме \"Без звука\"</string>
      <string name="dlg_title_confirm_alarm_silent">Отключение сигналов в режиме \"Без звука\"</string>
@@ -67,18 +67,18 @@
      <string name="notify_alarm_title">Напоминание</string>
      <string name="pref_desc_alarm_when_silent">Сигналы будильника и заметок будут играть в режиме \"Без звука\"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_desc_mode_grid">Grid</string>
+     <string name="pref_desc_mode_grid">Сетка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_desc_mode_list">List</string>
+     <string name="pref_desc_mode_list">Список</string>
      <string name="pref_title_alarm_when_silent">Оповещения в тихом режиме</string>
      <string name="pref_title_common">Общие настройки</string>
      <string name="pref_title_font_size">Размер шрифта</string>
      <string name="pref_title_note_style">Стиль заметок</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="preferences_bg_random_appear_title">Randomize new note color</string>
+     <string name="preferences_bg_random_appear_title">Разноцветные заметки</string>
      <string name="preferences_title">Настройки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="redo">Redo</string>
+     <string name="redo">Повтор</string>
      <string name="search">Заметки</string>
      <string name="search_hint">Найти заметки</string>
      <string name="search_label">Поиск заметок</string>
@@ -87,11 +87,11 @@
      <string name="snippet_image_stub">[Картинка]</string>
      <string name="toast_folder_privacy_mode">Нельзя изменить папку в гостевом режиме</string>
      <string name="toast_message_add_image_fail">Не удалось вставить изображение!</string>
-     <string name="toast_note_privacy_mode">"Can't edit note in Guest mode"</string>
+     <string name="toast_note_privacy_mode">Невозможно редактировать в гостевом режиме</string>
      <string name="toast_reach_text_limit_attachment">Содержание заметки слишком велико для добавления новых вложений</string>
      <string name="toast_reach_text_limit_truncate">Содержание записки автоматически сократится по длине</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="undo">Undo</string>
+     <string name="undo">Отмена</string>
      <string name="widget_havenot_content">Нет заметок, нажмите сюда, чтобы создать заметку</string>
      <string name="widget_under_visit_mode">Не возможно просмотреть заметки, потому что включен гостевой режим</string>
 </resources>
