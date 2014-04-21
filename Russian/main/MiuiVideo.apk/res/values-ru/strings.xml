@@ -1,257 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="about_app_name">Видеоплеер</string>
+     <string name="about_developer_label">Разработчик</string>
+     <string name="about_developer_name">MiDigital</string>
      <string name="about_title">О программе</string>
-     <string name="actors_colon">"Cast: "</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="add_review">Add comment</string>
+     <string name="about_version_label">Версия</string>
+     <string name="actor_colon">Актеры:</string>
      <string name="adjust_position_next_media_notice">Далее</string>
      <string name="adjust_position_prev_media_notice">Назад</string>
      <string name="airkan_control_device_des">Вы можете управлять воспроизведением видео с помощью кнопки в нижней части</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="airkan_device_xiaomi_phone">Xiaomi</string>
-     <string name="airkan_tips">"点这里，将正在播放的视频
-投影到盒子/电视上"</string>
      <string name="airkan_video_playing">воспроизводится</string>
      <string name="airkan_video_playing_in">Видео</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="alert_ignore">Do not show this page again</string>
      <string name="all">Все</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="all_reviews">Comments</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="all_specials">Featured</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="alreadyselected">Selected</string>
+     <string name="all_comment">Все комментарии</string>
      <string name="app_name">Видео</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_recommendation">Recommendations</string>
      <string name="area_colon">"Страна: "</string>
      <string name="authenticated_failed">Ошибка аутентификации</string>
      <string name="authenticating"><CDATA>Идентификация </CDATA></string>
      <string name="authenticating_manually">Ошибка аутентификации</string>
      <string name="auto_play">Автовоспроизведение</string>
      <string name="auto_play_summary">Воспроизводить видео после буферизации или завершения загрузки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="be_living_status">Live</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bestv">Bestv</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="brief_intro">Summary</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="browse_devices">Browse devices</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="browse_folder">Browser</string>
+     <string name="average_score">Оценок</string>
+     <string name="avg_score">%.1f</string>
+     <string name="back">Назад</string>
      <string name="btnplayerforecast">Прогноз</string>
      <string name="btnplayerselect">Канал</string>
      <string name="buffering">Буферизация…</string>
      <string name="buffering_video_netplay_label_v5">Буферизация…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="button_all">All</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="button_ep">Episode</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="button_film">Film</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="button_information">Information</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="button_show">Variety</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="button_sport">Sports</string>
      <string name="cancel">Отмена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cancel_favorite">Unstar</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cancel_hide">Unhide</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cancel_select_all">Deselect all</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cancel_waitfornewset">Stop following</string>
-     <string name="cant_connecting">"Couldn't connect to server"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="channel_more">More</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="check_network">cannot connect to network, please check the network</string>
+     <string name="channel_all_empty_hint">Нет видео</string>
+     <string name="channel_choice_empty_hint">Нет видео</string>
+     <string name="choice">Топ</string>
      <string name="clear_cache">Очистить кеш</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="clear_cache_success">Cache cleared</string>
      <string name="clear_cache_summary">Очистить кешированные файлы изображений</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="clear_history">Clear history</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="clear_offline">Clear offline media cache</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="clear_offline_summary">Clear cached Videos</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="clear_playhistory">Clear player history</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="clear_playhistory_tip">Video player history will be erased.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="clearplayhistory">Clear history</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cnlive">cnlive</string>
      <string name="comment">Комментарии</string>
-     <string name="comment_can_input_prefix" />
-     <string name="comment_can_input_suffix" />
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_detailInfo">Comment</string>
-     <string name="comment_hint">(300 character limit)</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_hint_tip">Your comment will be displayed after a brief review.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_max_error">Your comment cannot exceed 300 characters</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_max_tip">300 character limit</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_publish">Submit</string>
-     <string name="comment_submiting">Submitting…</string>
-     <string name="connecting">Connecting…</string>
+     <string name="comment_count_less_tip">You should enter at least d% characters</string>
+     <string name="comment_count_much_tip">Your comment cannot exceed d% characters</string>
+     <string name="comment_edit_blog_hint">Release to sina</string>
+     <string name="comment_edit_et_hint">Введите комментарий</string>
+     <string name="comment_edit_start_hint">Нажмите на звездочку для оценки:</string>
+     <string name="comment_review_list_empty_hint">Пусто</string>
+     <string name="connect_error">Ошибка подключения</string>
      <string name="continue_to_play_nextset">Воспр. следующий эпизод</string>
      <string name="continue_to_play_nextset_summary">Когда эпизод, который вы смотрите закончится, следующий начнется автоматически</string>
-     <string name="count_bu">Prt. %d</string>
+     <string name="count_comment">%d ratings</string>
+     <string name="count_comment_wan">%.2f0 thousand ratings</string>
      <string name="count_ge">Файлов: %d</string>
+     <string name="count_ge_favorite">Избраноое: %d</string>
+     <string name="count_ge_feature">Файлов: %d</string>
+     <string name="count_ge_feature_media">Файлов: %d</string>
+     <string name="count_ge_media">Видео: %d</string>
+     <string name="count_get_result">Найдено: %d</string>
      <string name="count_ji_quan">Все %d эп.</string>
-     <string name="count_myfavorite">" starred"</string>
      <string name="day">" "</string>
      <string name="declaration">Условия использования</string>
      <string name="declaration_content">Вы принимаете условия использования предусмотренных Sohu Video, iQiyi и других контент-провайдеров видео?</string>
      <string name="delete">Удалить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="delete_media">Delete</string>
-     <string name="delete_media_content">Delete this item?</string>
+     <string name="detail_episode_empty_hint">Пусто</string>
+     <string name="detail_introduce_empty_hint">Пусто</string>
+     <string name="detail_recommend_empty_hint">Пусто</string>
+     <string name="detail_review_list_empty_hint">Пусто</string>
      <string name="di_count_ji">%d серия</string>
-     <string name="di_count_qi">Season %s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dianyingwang">M1905</string>
      <string name="director_colon">"Режиссер: "</string>
      <string name="disk_volume">SD-карта</string>
      <string name="dlna_list_name">DLNA устройство</string>
      <string name="dlna_name">Подключенные устройства</string>
      <string name="download_add_success">Загрузка добавлена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="download_delete">remove task</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="download_fail">Caching failed</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="download_file_fail">Local file access failed, maybe there is no space on SD card</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="download_finish">Caching done</string>
+     <string name="download_error">Ошибка загрузки</string>
      <string name="download_geturl_fail">Не удалось получить URL. Проверьте сеть.</string>
      <string name="download_is_in_tasklist">В списке загрузок</string>
      <string name="download_is_success">Загружено</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="end_live_status">Broadcast has ended</string>
-     <string name="episode_suffix">第%d集</string>
+     <string name="download_percent_hint">Загрузка %d%%</string>
+     <string name="edit">Изменить</string>
+     <string name="edit_comment">Добавить комментарий</string>
+     <string name="episode">Эпизод</string>
+     <string name="episode_prefix">"эпизод "</string>
      <string name="favorite">Избранное</string>
-     <string name="favorited_cannot_hide">"Can't hide starred items"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="fenghuang">iFeng</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="file_not_exist">File not found</string>
+     <string name="feature">Популярное</string>
+     <string name="feature_list_empty_hint">Пусто</string>
+     <string name="feature_media_empty_hint">Пусто</string>
+     <string name="file_error">Ошибка файла</string>
      <string name="filter">Фильтр</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="filter_media">Filter</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="filter_mediaex">Filter</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="filter_program">Filter program</string>
-     <string name="find_media_count_bu">%d results</string>
-     <string name="find_media_searching">Searching…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="finish">Finish</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="finish_download">Caching finished</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="forecast_living_status">Direct broadcast</string>
-     <string name="fullscreen_hint_auto">Entering fullscreen…</string>
-     <string name="fullscreen_hint_horizontal">To enter fullscreen, touch the icon in the upper-left corner</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="fullscreen_hint_vertical">To enter fullscreen, touch the button below</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="fullscreen_to_play">Fullscreen</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="funshion">Funshion</string>
      <string name="gong_count_dlna">DLNA: %d</string>
      <string name="gong_count_xiang">Файлов: %d</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="good">OK</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="have_no_cameravideo">No videos</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="have_no_offlinemedia">Empty</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="hide_media">Hide</string>
-     <string name="hided_cannot_favorite">"Can't star hidden items"</string>
-     <string name="hint_can_not_get_source_info">"Can't find video source's info"</string>
-     <string name="hint_without_selected_set">No source selected, finding source automatically…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="icntv">iCNTV</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="in_download">Caching</string>
-     <string name="in_download_notification">%d videos are in caching</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="in_pause">Paused</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="in_waiting">Waiting</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="jni_invalid_param">Parameters invalid</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="jni_no_media_source">No media source</string>
-     <string name="jni_res_connect_error">"Couldn't connect to network"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="jni_res_json_parse_error">Parsing error</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="jni_res_session_timout">User session timed out</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="jni_res_timout">Network connection timed out</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="jni_res_unkown_error">An unknown error occurred</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="key_back_down_toast">To exit, touch Back again</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="lekan">Lekan</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="letv">Letv</string>
-     <string name="live_loading_symbol"><CDATA>Loading </CDATA></string>
-     <string name="live_loading_to_be_play">Loading…</string>
-     <string name="live_pending_symbol"><CDATA>Buffering </CDATA></string>
-     <string name="live_pending_to_be_play">Loading…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="live_tabs_all">View all</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="live_tabs_choice">Hand picked</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="live_tabs_hot">Popular</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="live_title">Live</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="livetv">Live</string>
-     <string name="load_data_failed">"Couldn't connect to network"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="load_failed_to_try">Failed to load</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="load_file_fail">Local file destroyed</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="load_offline_file_fail">Offline file destroyed, please recache</string>
+     <string name="imports">Импорт</string>
+     <string name="init">Начать</string>
+     <string name="introduce">Описание</string>
+     <string name="live_channel_empty_hint">Нет каналов</string>
+     <string name="live_player_forecast_empty_hint">Пусто</string>
+     <string name="live_player_selecttv_empty_hint">Нет каналов</string>
      <string name="loading">" "<CDATA>Загрузка </CDATA>" "</string>
-     <string name="loading_review"><CDATA>Loading </CDATA></string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="loading_review_failed">Failed to load comment</string>
-     <string name="loading_tv">" "<CDATA>Loading </CDATA>" "</string>
-     <string name="loading_video">" "<CDATA>Loading </CDATA>" "</string>
      <string name="loading_video_netplay_label">Загрузка…</string>
      <string name="loading_video_netplay_label_v5">Загрузка…</string>
-     <string name="local_count_ji">PRC %d Ep.</string>
+     <string name="local_detail_more">Еще %d видео</string>
+     <string name="local_favorite_empty_hint">Пусто</string>
+     <string name="local_media">Видео устройства</string>
+     <string name="local_media_empty_hint">Нет видео</string>
+     <string name="local_video">Устройство</string>
      <string name="login_tip_content">Войдите в аккаунт для синхронизации и обновления шоу которые Вы смотрите</string>
      <string name="login_tip_title">Авторизация</string>
      <string name="manage">Управление</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="media_source_unavailable">Source is unavailable</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mediaset">Series</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mediasetupdated">Series updated</string>
+     <string name="manage_offline_media">Управление оффлайн медиа кэшем</string>
+     <string name="media_name_comment">%s коммен.</string>
      <string name="menu_item_about_label">О программе</string>
      <string name="menu_item_disable_3d_mode">Отключить 3D</string>
      <string name="menu_item_disable_audio_enhance">Отключить усиление звука</string>
@@ -270,174 +123,59 @@
      <string name="menu_wh_item_full_screen_label">На весь экран</string>
      <string name="menu_wh_item_using_16_9_label">Формат 16:9</string>
      <string name="menu_wh_item_using_4_3_label">Формат 4:3</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="minute">mins</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="month">.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="movie_comment">Comments</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="music">Music</string>
+     <string name="more">Еще</string>
+     <string name="my_favorite">Избранное</string>
+     <string name="my_video">Видео</string>
      <string name="mycamera">Мое видео</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mydlna">DLNA resource</string>
      <string name="myfavorite">Избранное</string>
      <string name="myfavorite_onlylocal">" избранное"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="netease">NetEase</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="network_setting">Network</string>
-     <string name="no_comment_tip">"Can't submit an empty comment"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no_favorite">No favorites</string>
-     <string name="no_filter_media">"Couldn't find anything. Try altering your search."</string>
+     <string name="negative_comment">Poor comment</string>
      <string name="no_login_xiaomi_account">Войдите в Xiaomi аккаунт прежде чем комментировать</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no_media">Empty</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no_myfavorite">Not starred</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no_myfavorite_advice">Recommended</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no_myfavorite_advice_onlylocal">Star local videos</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no_playhistory">No history</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no_reviews">No comments</string>
-     <string name="no_search_result">"Couldn't find anything. Try altering your search."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no_special_subject">Empty</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no_subject">No subject</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no_tv">No channels</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no_video">No videos</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="nologin_no_waitfornewset">You need to sign in to follow shows.</string>
-     <string name="notshow_hidemedia">"Don't show hidden files"</string>
      <string name="nowifi_alert_dialog_continue">Да</string>
      <string name="nowifi_alert_dialog_exit">Нет</string>
      <string name="nowifi_alert_dialog_message">Вы собираетесь смотреть видео через мобильную сеть. Возможны денежные затраты. Продолжить?</string>
      <string name="nowifi_alert_dialog_title">Внимание!</string>
+     <string name="offline">Оффлайн</string>
      <string name="offline_alert_title">Уведомление загрузки</string>
      <string name="offline_alert_wifi">Вы используете мобильный интернет. Загрузки будут приостановлены и загружены при подключении к сети Wi-Fi.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="offline_continue">Continue</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="offline_max_promote">Waiting for cache, there are at most 2 caching tasks can be running at the same time.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="offline_media">Available offline</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="offline_media_more">Cahce more</string>
      <string name="offline_no_source">Нет источника</string>
      <string name="offline_no_wifi">Вы не используете Wi-Fi сеть. Проверьте в настройках опцию мобильный интернет, если хотите продолжить.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="offline_select_better_source">Has been switched to available caching source</string>
      <string name="offline_setting">Оффлайн медиа</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
      <string name="online_video">Онлайн</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="open_camera">Camera</string>
      <string name="other_setting">Прочие</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="others">Other</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pause_download">Caching paused</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="paused">Paused</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pick_hide_to_show">Choose items</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pick_myfavorite_to_cancel">Choose items</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pick_video_to_delete">Choose items</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pick_video_to_hide">Choose items</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pick_video_to_myfavorite">Choose items</string>
+     <string name="pause">Пауза</string>
+     <string name="percent_status">%.1f%%</string>
      <string name="play">Смотреть</string>
-     <string name="play_length_colon">"Length: "</string>
+     <string name="play_his_empty_hint">Пусто</string>
+     <string name="play_history">Недавние</string>
      <string name="play_setting">Воспроизведение</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="playvideo">Play</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pps">PPS</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pptv">PPTV</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="publish">Submit</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="qiyi">iQiyi</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="quarter_bell_alert_button_cancel">cancel</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="quarter_bell_alert_button_cancelappointment">remove reservation</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="quarter_bell_alert_button_makeappointment">reservation</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="quarter_bell_alert_message">after reservation, you will receive a reminder before the program begins</string>
-     <string name="quarter_bell_alert_message_cancel">"After the lifting of reservation, you won't receive a reminder before the program begins"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="quarter_bell_alert_title">reminder</string>
+     <string name="positive_comment">Положительные</string>
      <string name="rank">Топ</string>
-     <string name="receive_ad_notify">Message notification/push function</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="receive_ad_notify_summary">After the opening, to receive the latest and popular video notice</string>
      <string name="recentplay">Недавние</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="recommendation">Guess you like</string>
+     <string name="recommend">Recommend</string>
      <string name="reloading_tip">Не удается подключиться к сети</string>
-     <string name="retrieving">Retrieving…</string>
      <string name="retry">Повторить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="review_success">Comment submitted</string>
      <string name="sdcard_storage">Внутренняя память</string>
      <string name="search">Поиск</string>
+     <string name="search_online_video">Поиск видео</string>
+     <string name="search_result_empty_text">Ничего не найдено</string>
+     <string name="search_result_hint">Результатов: %s</string>
+     <string name="search_result_input_hint">Введите ключевое слово</string>
+     <string name="search_result_recommend_empty">Ничего не найдено</string>
      <string name="search_result_recommend_hint">Видео по теме не найдено. Попробуйте другие ключевые слова.</string>
-     <string name="search_result_recommend_title">"Everyone's watching"</string>
-     <string name="searching">" "<CDATA>Searching </CDATA>" "</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="seconds">secs</string>
+     <string name="see_all_count_comment">%d more comments</string>
      <string name="select_all">Выбрать все</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="select_media_source">Select video source</string>
-     <string name="series_colon">"Episodes: "</string>
+     <string name="select_count_xiang">Выбрано: %d</string>
+     <string name="select_none">Отменить все</string>
+     <string name="select_offline_media">Select offline media cache</string>
+     <string name="send">Отправить</string>
      <string name="setting">Настройки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="show_hidemedia">Show hidden files</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sina">Sina</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="souhu">Souhu</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="special_subject">Specials</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="start_download">Start caching</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="start_time">start time</string>
-     <string name="subchannel_all">全部</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="success_add_myfavorite">Starred</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="success_add_waitfornewset">follow success</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="success_cancel_myfavorite">Unstarred</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="success_cancel_waitfornewset">Stopped following</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="success_to_cancel_myfavorite">Canceled</string>
-     <string name="tags_colon">"Genre: "</string>
+     <string name="source_error">Source get error</string>
      <string name="temp_play_history_button_label">История просмотров</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="tencent">Tencent</string>
      <string name="time_colon">"Год: "</string>
      <string name="to_be_play_label_v5">"Далее: "</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="to_live_status">Waiting for broadcast to begin</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="to_play_airekan">Cast</string>
      <string name="toast_back_key_pressed_notice">Нажмите еще раз, чтобы выйти</string>
      <string name="toast_message_continue_play_from">Продолжение просмотра с </string>
      <string name="toast_message_continue_play_hour">ч. </string>
@@ -447,18 +185,12 @@
      <string name="today">"Сегодня "</string>
      <string name="top_status_local_media">Локально</string>
      <string name="top_status_online_media">Онлайн</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="tudou">Tudou</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="unknown_source">Unknown source</string>
+     <string name="type_colon">Жанр:</string>
+     <string name="unfavorite">Не нравится</string>
      <string name="update">Обновлено</string>
      <string name="update_to_count_ji">Добавлена %d серия</string>
-     <string name="update_to_count_qi">Updated to S. %s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="updatedalready">Updated</string>
      <string name="use_cellular_network">Мобильный интернет</string>
      <string name="use_cellular_network_summary">Использовать мобильный интернет для загрузки видео. Возможны денежные затраты.</string>
-     <string name="variety">综艺</string>
      <string name="video">" видео"</string>
      <string name="video_info_audio_bitrate_label">Аудио битрейт:</string>
      <string name="video_info_audio_coding_label">Аудио кодек:</string>
@@ -467,41 +199,14 @@
      <string name="video_info_length_label">Длина:</string>
      <string name="video_info_resolution_label">Разрешение:</string>
      <string name="video_info_video_coding_label">Видео кодек:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="video_library">Video</string>
-     <string name="view_all_reviews">%d more comments</string>
-     <string name="visit_postfix">| visited recently</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_VideoView_error_button">OK</string>
      <string name="vp_VideoView_error_network_not_available">Сеть не доступна</string>
      <string name="vp_VideoView_error_text_invalid_progressive_playback">Невозможно воспроизвести видео</string>
      <string name="vp_VideoView_error_text_unknown">Формат видео не поддерживается</string>
      <string name="vp_VideoView_error_title">Ошибка воспроизведения!</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="vp_full_high_definition">1080P</string>
-     <string name="vp_high_definition">高清</string>
-     <string name="vp_next_ci">下一集</string>
-     <string name="vp_offline">离线</string>
-     <string name="vp_select_ci">选集</string>
-     <string name="vp_standard_definition">标清</string>
-     <string name="vp_super_definition">超清</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="waitfornewset">Follow content</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="waitfornewset_tip_content">You will be notified when a new episode or additional content becomes available.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="wasu">Wasu</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="will_live_status">Live</string>
+     <string name="waiting_to_download">Ожидание</string>
      <string name="write_comment">Добавить</string>
      <string name="xiaomi_account_type_unsupported">Ваша система не поддерживает аккаунт Xiaomi</string>
      <string name="xiaomi_user">Аккаунт Xiaomi</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="year">Year</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="yestorday">Yesterday</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="yinyuetai">YinYueTai</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="youku">Youku</string>
+     <string name="yesterday">Вчера</string>
 </resources>

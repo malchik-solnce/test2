@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="all_downloads">Все загрузки</string>
+     <string name="all_fileter">Все</string>
+     <string name="apk_filter">APK</string>
      <string name="app_downloads">Загрузки от приложения: %s</string>
      <string name="app_label">Загрузки</string>
      <string name="button_sort_by_date">Сортировать по дате</string>
@@ -26,6 +28,7 @@
      <string name="dialog_queued_body">Этот файл в очереди на скачивание</string>
      <string name="dialog_title_not_available">Ошибка загрузки</string>
      <string name="dialog_title_queued_body">Файл не доступен</string>
+     <string name="doc_filter">ДОКУМЕНТ</string>
      <string name="download_complete">Скачанные</string>
      <string name="download_error">Ошибка</string>
      <string name="download_error_insufficient_space">Недостаточно места</string>
@@ -47,11 +50,14 @@
      <string name="editmode_menu_delete">Удалить</string>
      <string name="editmode_menu_share">Отправить</string>
      <string name="keep_queued_download">Оставить</string>
+     <string name="media_filter">МЕДИА</string>
      <string name="menu_enter_edit_mode">Редактировать</string>
      <string name="menu_preferences">Настройки</string>
      <string name="missing_title">Неизвестно</string>
      <string name="no_downloads">Нет загрузок</string>
      <string name="open_download">Открыть</string>
+     <string name="other_filter">ДРУГИЕ</string>
+     <string name="package_filter">ПАКЕТ</string>
      <string name="pause_download">Пауза</string>
      <string name="paused_by_app">Приостановлено</string>
      <string name="paused_queued_for_wifi">Ожидание Wi-Fi</string>
@@ -73,13 +79,4 @@
      <string name="select_all">Выбрать все</string>
      <string name="select_operation_items">Пожалуйста выберите</string>
      <string name="selected_count">Выбрано %1$d из %2$d</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="turn_off_xunlei_message">You may experience slower download speeds.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="turn_off_xunlei_title">Disable Xunlei download engine</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="xunlei_brand">Powered by Xunlei</string>
-     <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="xunlei_switch">Xunlei download engine</string>
 </resources>

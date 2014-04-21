@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
-     <array name="app_locating_animation_scaler">
-        <item>1.0</item>
-        <item>1.4</item>
-        <item>0.9</item>
-        <item>1.1</item>
-        <item>1.0</item>
-     </array>
      <string-array name="editing_mode_entries">
         <item>Сортировка</item>
         <item>Виджеты</item>
         <item>Обои</item>
         <item>Эффекты</item>
-     </string-array>
-     <string-array name="editing_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
      </string-array>
      <string-array name="gadget_weather_theme_type_entries">
         <item>По умолчанию</item>

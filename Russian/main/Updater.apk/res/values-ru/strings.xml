@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="about_device">Сведения о системе</string>
      <string name="active_xiaomi_account">Активировать</string>
@@ -28,17 +28,6 @@
      <string name="check_update_when_wifi_available">Обновлять только по Wi-Fi</string>
      <string name="checking_for_updates">Проверка обновлений</string>
      <string name="choose_recommend">Пожалуйста, выберите рекомендуете или нет</string>
-     <string name="comment_invalid">You need to rate this update (touch the stars)</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_publish">Submit</string>
-     <string name="comment_sending">Sending…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_upload_failed">Failed to send comment</string>
-     <string name="comment_upload_hint">Thank you for your feeback!</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_upload_not_logined">You need to sign in to your Xiaomi Account first</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_upload_success">Sent</string>
      <string name="confirm_download_cancelation_dialog_message">Вы уверены, что хотите отменить загрузку обновления?</string>
      <string name="copy_install_log">Копировать в буфер</string>
      <string name="current_version_text">"Текущая версия "</string>
@@ -51,12 +40,6 @@
      <string name="download_ota_rom">Обновление (%s)</string>
      <string name="download_whole_rom">Полный пакет (%s)</string>
      <string name="downloading_description">Загрузка…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="edit_comment">Add comments</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="edit_comment_title">Edit comment</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="edit_text_default">Write a comment</string>
      <string name="emegency_build">Сборка:</string>
      <string name="exception_while_downloading">Произошла ошибка при загрузке обновления</string>
      <string name="expect">4. Ожидания</string>
@@ -81,18 +64,12 @@
      <string name="mione_update_fail_title">Не удалось обновить</string>
      <string name="mione_update_success_title">Обновление завершено</string>
      <string name="monthly_build">ежемесячная</string>
-     <string name="move_data_to_sdcard_not_enough_space_message">Not enough space on SD card to move the selected %dMB</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="move_data_to_sdcard_title">Transfer data to SD card</string>
-     <string name="moving_data_to_sdcard_message">"Data is being transferred to the SD card, please don't enable USB mode or remove SD card."</string>
-     <string name="moving_data_to_sdcard_progress_format">Transferred %1$ddKb of %2$dKb</string>
      <string name="my_best_update">Это лучшее обновление</string>
      <string name="my_expect_update">Это то, чего я ожидал</string>
      <string name="my_rank">Рейтинг:</string>
      <string name="my_update_feel">Мои ощущения</string>
      <string name="my_worst_update">Это худшее обновление</string>
      <string name="network_error">Не удается подключиться, возможно, из-за проблем с сетью или сервер занят</string>
-     <string name="new_update_content_notification_shade" />
      <string name="new_update_content_title">Есть новая версия!</string>
      <string name="new_update_download_complete_body">Готово к установке: %s</string>
      <string name="new_update_downloading_body">Загрузка: %s</string>
@@ -137,13 +114,6 @@
 Более %2$s пользователей установили MIUI %3$s."</string>
      <string name="sign_in_info_total_more">"Ваш рейтинг обновления более %1$s
 Более %2$s пользователей установили MIUI %3$s."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sina_share_fail">Failed to send</string>
-     <string name="sina_share_pendding">Sending…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sina_share_success">Sent</string>
-     <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
-     <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
      <string name="stable_build">стабильная</string>
      <string name="start_update">Начать обновление</string>
      <string name="submit">Отправить</string>
@@ -159,9 +129,8 @@
      <string name="system_backup_helper">"
 Рекомендуется сделать резервную копию ваших данных."</string>
      <string name="system_backup_ok_text">Создать копию</string>
+     <string name="toast_update_failed_hints">Сбой обновления, скачайте полный пакет!</string>
      <string name="top_secret_build">Секретная сборка</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="unstable_build">Unstable build</string>
      <string name="update_comment_hint">(опционально)</string>
      <string name="update_comment_title">У меня есть что сказать</string>
      <string name="update_feedback">Отзывы о прошивке</string>
@@ -175,8 +144,6 @@
      <string name="update_success">Обновление успешно завершено!</string>
      <string name="update_success_body">Обновлено до %s</string>
      <string name="update_success_title">Обновление</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="updater_finish_download">Download ROM completed</string>
      <string name="upgrade_close">Закрыть</string>
      <string name="upgrade_kernel">Обновления ядра</string>
      <string name="upgrade_kernel_msg">"Ваше ядро несовместимо с прошивкой MIUI. Вы должны обновить его вручную. Зайтите на сайт, чтобы узнать как обновить ядро:

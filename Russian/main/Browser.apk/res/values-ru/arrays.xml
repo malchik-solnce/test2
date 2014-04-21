@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string-array name="bookmarks">
         <item>Google</item>
@@ -31,17 +31,29 @@
         <item>BBC</item>
         <item>http://www.bbc.co.uk/</item>
      </string-array>
-     <!-- The size of the array does not match! Now: 4 must: 8 -->
+     <string-array name="font_size_names">
+        <item>Маленький</item>
+        <item>Обычный</item>
+        <item>Большой</item>
+        <item>Огромный</item>
+     </string-array>
+     <string-array name="font_size_setting">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+     </string-array>
+     <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+     </string-array>
      <string-array name="menu_theme_setting">
         <item>Белая</item>
         <item>Желтая</item>
         <item>Черная</item>
-     </string-array>
-     <string-array name="pre_webapp_text_size_values">
-        <item>150</item>
-        <item>125</item>
-        <item>100</item>
-        <item>75</item>
      </string-array>
      <string-array name="pref_content_plugins_choices">
         <item>Всегда</item>
@@ -68,18 +80,9 @@
         <item>Средний</item>
         <item>Крупный</item>
      </string-array>
-     <string-array name="pref_fling_on_border_choices">
-        <item>Page forward/backward</item>
-        <item>Switch window</item>
-     </string-array>
      <string-array name="pref_homepage_choices">
         <item>Стартовая страница</item>
         <item>Пользовательская</item>
-     </string-array>
-     <string-array name="pref_images_preload_choices">
-        <item>Never</item>
-        <item>Only on WLAN</item>
-        <item>Always</item>
      </string-array>
      <string-array name="pref_link_prefetch_choices">
         <item>Никогда</item>
@@ -93,18 +96,32 @@
         <item>Большой</item>
         <item>Огромный</item>
      </string-array>
-     <string-array name="pref_video_preload_choices">
-        <item>Never</item>
-        <item>Only on WLAN</item>
-        <item>Always</item>
+     <string-array name="search_bar_search_engines_default">
+        <item>google</item>
+        <item>yandex_ru</item>
+        <item>bing</item>
      </string-array>
-     <string-array name="pref_volume_key_choices">
-        <item>Previous page/Next page</item>
-        <item>Previous tab/Next tab</item>
+     <string-array name="search_engines">
+        <item>google</item>
+        <item>yandex_ru</item>
+        <item>bing</item>
      </string-array>
      <string-array name="search_engines_default">
         <item>google</item>
         <item>yandex_ru</item>
         <item>bing</item>
+     </string-array>
+     <string-array name="yandex_ru">
+        <item>Яндекс</item>
+        <item>yandex.ru</item>
+        <item>http://yandex.ru/favicon.ico</item>
+        <item>http://yandex.ru/yandsearch?text={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
+     </string-array>
+     <string-array name="yandex_ru_in_list">
+        <item>search_yandex</item>
+        <item>ic_search_engine_yandex</item>
+        <item>yandex_ru</item>
      </string-array>
 </resources>

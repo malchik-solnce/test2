@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="ErrorTooManyRequests">Обрабатывается слишком много запросов. Повторите попытку позднее.</string>
      <string name="ack_record">Запись подтверждения</string>
@@ -40,10 +40,8 @@
      <string name="download_succ_ok">Открыть</string>
      <string name="download_success">Получено: %1$s</string>
      <string name="download_title">Передача файла</string>
-     <string name="empty_file_notification_sent">Bluetooth share: Remote rejected zero length file %1$s</string>
      <string name="enabling_progress_content">Включение Bluetooth…</string>
      <string name="enabling_progress_title">Подождите…</string>
-     <string name="format_progress_text">%1$d%%</string>
      <string name="hello">Hello, World! (проверка связи)</string>
      <string name="inbound_history_title">Входящие передачи</string>
      <string name="inbound_noti_title">Bluetooth: полученные файлы</string>
@@ -60,12 +58,6 @@
      <string name="incoming_file_toast_msg">Входящий файл с другого устройства. Подтвердите получение этого файла.</string>
      <string name="insert_record">Вставить запись</string>
      <string name="localPhoneName">Мое название</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="miui_transfer_history_title">Bluetooth transfers</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="miui_transfer_inbound_title">Inbound</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="miui_transfer_outbound_title">Outbound</string>
      <string name="no_transfers">История передач пуста</string>
      <string name="not_exist_file">Файл не существует</string>
      <string name="not_exist_file_desc">"Файл не существует! 

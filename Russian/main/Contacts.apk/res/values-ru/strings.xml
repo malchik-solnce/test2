@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="accessibility_calllog_detail">Журнал</string>
      <string name="account_container_title">Из аккаунта</string>
      <string name="account_default">Телефон</string>
      <string name="account_phone">Только телефон, без синхронизации</string>
      <string name="account_sim">SIM-карта</string>
-     <string name="account_sim2">SIM card %d</string>
      <string name="account_type_format">Контакт %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="account_unactivated">Account not activated</string>
      <string name="actionIncomingCall">Входящие вызовы</string>
      <string name="action_menu_overflow_description">Дополнительные опции</string>
      <string name="activity_title_confirm_add_detail">Добавление данных</string>
@@ -34,14 +31,18 @@
      <string name="aggregation_suggestion_edit_dialog_title">Редактировать выбранные контакты</string>
      <string name="aggregation_suggestion_join_dialog_message">Объединить текущий контакт с выбранным контактом?</string>
      <string name="all_list_empty">Нет контактов</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="all_resources">All</string>
+     <string name="anniversary_of_lifting_martial_law">解嚴紀念</string>
+     <string name="anti_aggression_day">反侵略日</string>
      <string name="antispam_mark_my_contribution">Мой вклад в спам-фильтр</string>
      <string name="antispam_provider_format">Поддержка спам-фильтра: %s</string>
+     <string name="arbor_day">植树节</string>
+     <string name="armed_forces_day">軍人節</string>
      <string name="attach_photo_dialog_title">Фото контакта</string>
      <string name="audio_chat">Голосовой чат</string>
      <string name="auto_nickname">Авто</string>
      <string name="auto_set_nickname">Авто</string>
+     <string name="autumn_begins">立秋</string>
+     <string name="autumn_equinox">秋分</string>
      <string name="batch_delete">Удалить несколько</string>
      <string name="batch_delete_msg">"Удалить выбранные контакты?
 
@@ -61,7 +62,6 @@
      <string name="callAgain">Позвонить еще раз</string>
      <string name="callBack">Перезвонить</string>
      <string name="callDetailTitle">Сведения о вызове</string>
-     <string name="callDetailsDurationFormat" formatted="false">%s mins %s secs</string>
      <string name="callShortcutActivityTitle">Выберите номер для вызова</string>
      <string name="call_assistant">Вызов: %s</string>
      <string name="call_callback">Обратный вызов</string>
@@ -101,21 +101,14 @@
      <string name="callrecordview_item_op_time_short_incoming">" | "</string>
      <string name="callrecordview_item_op_time_short_outgoing">" | "</string>
      <string name="callrecordview_menu_add_call_note">Добавить заметку о вызове</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="callrecordview_menu_batch_delete">Delete batch</string>
      <string name="callrecordview_menu_delete">Удалить вызов</string>
      <string name="callrecordview_menu_delete_accepted">Удалить входящие вызовы</string>
      <string name="callrecordview_menu_delete_all">Очистить журнал</string>
      <string name="callrecordview_menu_delete_called">Удалить исходящие вызовы</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: %s? -->
      <string name="callrecordview_menu_delete_confirm">Очистить журнал вызовов?</string>
      <string name="callrecordview_menu_delete_missed">Удалить пропущенные вызовы</string>
      <string name="callrecordview_menu_delete_new">Удалить новые контакты</string>
      <string name="callrecordview_menu_delete_one">Удалить из журнала вызовов</string>
-     <string name="callrecordview_menu_delete_sim">Clear %s call logs</string>
      <string name="callrecordview_menu_delete_stranger">Удалить неизвестные вызовы</string>
      <string name="callrecordview_menu_edit_call_note">Изменить заметку о вызове</string>
      <string name="callrecordview_menu_paste">Вставить</string>
@@ -126,7 +119,6 @@
      <string name="callrecordview_menu_show_called">Только исходящие</string>
      <string name="callrecordview_menu_show_missed">Только пропущенные</string>
      <string name="callrecordview_menu_show_new">Только новые контакты</string>
-     <string name="callrecordview_menu_show_sim">%s calls</string>
      <string name="callrecordview_menu_show_stranger">Только неизвестные</string>
      <string name="callrecordview_menu_show_title">Отображение вызовов</string>
      <string name="cancel_confirmation_dialog_message">Отменить изменения?</string>
@@ -146,18 +138,23 @@
      <string name="chat_yahoo">Чат через Yahoo</string>
      <string name="check_unsynchronized_accounts">Обновление контактов</string>
      <string name="checkhint">проверить другой телефон</string>
+     <string name="childrens_day">儿童节</string>
+     <string name="chinese_youth_day">青年节</string>
+     <string name="christmas_day">圣诞节</string>
      <string name="clearCallLogConfirmation">Журнал звонков будет очищен</string>
      <string name="clearCallLogConfirmation_title">Удаление данных</string>
      <string name="clearCallLogProgress_title">Очистка списка вызовов…</string>
      <string name="clearFrequentsConfirmation">Вы очистите все часто используемые контакты в приложениях Контакты и Телефон. Почтовые приложения будут собирать информацию с нуля.</string>
      <string name="clearFrequentsConfirmation_title">Очистить частые контакты?</string>
      <string name="clearFrequentsProgress_title">Очистка контактов…</string>
+     <string name="clear_and_bright">清明</string>
      <string name="clear_default">Удалить настройки по умолчанию</string>
      <string name="clear_digits">очистить номер телефона</string>
      <string name="click_close">Нажмите, чтобы закрыть</string>
      <string name="close_dial_pad">закрыть клавиатуру</string>
      <string name="cloud_antispam_mark">Пометить</string>
      <string name="cloud_antispam_title">Идентификация номеров</string>
+     <string name="cold_dews">寒露</string>
      <string name="composer_failed_to_get_database_infomation">База данных недоступна</string>
      <string name="composer_has_no_exportable_contact">Не найдены контакты для экспорта. Возможно, экспорт контактов с телефона не поддерживается поставщиком услуг передачи данных.</string>
      <string name="composer_not_initialized">Редактор vCard запущен некорректно</string>
@@ -177,6 +174,7 @@
      <string name="contact_delete_toast">Контакт успешно удален</string>
      <string name="contact_detail_calllog_call_note_tips">Заметка вызова</string>
      <string name="contact_detail_calllog_call_record_tips">Запись вызова</string>
+     <string name="contact_detail_picture_description">Picture. Select to change</string>
      <string name="contact_directory_description">Каталог %1$s</string>
      <string name="contact_edit_title_edit">Редактирование</string>
      <string name="contact_edit_title_insert">Создать контакт %s</string>
@@ -209,11 +207,11 @@
      <string name="date_picker_label">Напомнить за 3 дня и в день рождения</string>
      <string name="date_time_set">Настроить</string>
      <string name="date_year_toggle">Указать год</string>
+     <string name="day_following_good_friday">耶穌受難節翌日</string>
      <string name="default_ringtone">По умолчанию</string>
      <string name="deleteConfirmation">Удалить этот контакт?</string>
      <string name="deleteConfirmationDetail">Удалить контакт \"%s\"?</string>
      <string name="deleteConfirmation_title">Удаление контакта</string>
-     <string name="delete_call_log_selected_title">Delete selected call log?</string>
      <string name="delete_call_log_title">Выбрать журналы для удаления?</string>
      <string name="delete_contact_calllog_title">Удалить журнал вызовов контакта?</string>
      <string name="delete_dial_input">удалить</string>
@@ -225,11 +223,8 @@
      <string name="delete_sim_entries_finish">Контакты с SIM-карты удалены</string>
      <string name="delete_sim_entry_miui">Удалить</string>
      <string name="delete_unknown_contact_calllog_title">Удалить журнал вызовов неизвестных контактов?</string>
-     <string name="deleting">Deleting…</string>
      <string name="deleting_sim_entry_miui">Удаление контактов с SIM-карты</string>
      <string name="description_add_contact">Добавить контакт</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="description_author">Author</string>
      <string name="description_call">Позвонить: %1$s</string>
      <string name="description_call_log_incoming_call">Входящий вызов</string>
      <string name="description_call_log_missed_call">Пропущенный вызов</string>
@@ -239,13 +234,9 @@
      <string name="description_call_log_voicemail">Голосовая почта</string>
      <string name="description_contact_photo">фото контакта</string>
      <string name="description_delete_button">назад</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="description_designer">Designer</string>
      <string name="description_dial_button">набрать</string>
      <string name="description_dial_phone_number">Позвонить %1$s</string>
      <string name="description_digits_edittext">номер для набора</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="description_download">Downloaded</string>
      <string name="description_image_button_eight">восемь</string>
      <string name="description_image_button_five">пять</string>
      <string name="description_image_button_four">четыре</string>
@@ -264,17 +255,7 @@
      <string name="description_search_button">поиск</string>
      <string name="description_send_message">Отправить сообщение %1$s</string>
      <string name="description_send_text_message">Отправить текстовое сообщение %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="description_size">Size</string>
      <string name="description_star">избранное</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="description_summary">Summary</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="description_uploadtime">Update</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="description_version">Version</string>
-     <string name="description_version_szie">Version: %1$s Size: %2$s</string>
-     <string name="description_view_contact">View contact %1$s</string>
      <string name="description_view_contact_detail">Данные контакта</string>
      <string name="description_voicemail_button">голосовая почта</string>
      <string name="deselect_all">Отменить все</string>
@@ -283,6 +264,7 @@
      <string name="device_import_account_dialog_title">выберите аккаунт для импорта</string>
      <string name="device_import_account_dialog_title_suffix">"
 (найдено контактов: %1$s)"</string>
+     <string name="device_import_done_toast">Импортировано контактов: %1$d</string>
      <string name="device_import_failed_message">Ошибка импорта!</string>
      <string name="device_import_local_account">Локальный аккаунт</string>
      <string name="device_import_message">Импорт</string>
@@ -337,11 +319,9 @@
      <string name="display_warn_remove_ungrouped">Вместе с группой \"%s\" перестанут синхронизироваться контакты, не добавленные в группы</string>
      <string name="dlg_add_blacklist">Вы действительно хотите добавить этот номер в черный список?</string>
      <string name="dlg_remove_blacklist">Вы действительно хотите удалить этот номер из черного списка?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="download_failed">Download failed</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="download_preview_failed">Failed to load preview</string>
+     <string name="double_seventh_day">七夕</string>
      <string name="duplicate_group_name">Группа уже существует</string>
+     <string name="easter">復活節</string>
      <string name="editContactDescription">Изменить контакт</string>
      <string name="editGroupDescription">Редактировать группу</string>
      <string name="edit_contact">Изменить контакт</string>
@@ -357,9 +337,8 @@
      <string name="empty_divider_title">Вы можете</string>
      <string name="enter_contact_name">Имя контакта</string>
      <string name="eventLabelsGroup">День рождения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="eventTypeCustom">Custom</string>
      <string name="event_edit_field_hint_text">Дата</string>
+     <string name="expand_collapse_name_fields_description">Expand or collapse name fields</string>
      <string name="export_sim_contact_finish">Экспорт завершен</string>
      <string name="export_sim_contact_finish_failure">"Недостаточно места
 
@@ -371,8 +350,6 @@
 Контактов: %d"</string>
      <string name="export_to_sdcard">На SD-карту</string>
      <string name="export_to_sim">На SIM-карту</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="export_to_sim2">Export to SIM card 2</string>
      <string name="export_to_sim_title">Экспорт на SIM-карту…</string>
      <string name="export_vcard_description">Экспортировать vCard на SD-карту</string>
      <string name="exporting_contact_failed_message">"Не удалось экспортировать данные.
@@ -397,11 +374,10 @@
      <string name="fail_reason_too_many_vcard">Слишком много файлов VCard на SD-карте</string>
      <string name="fail_reason_unknown">Неизвестная ошибка</string>
      <string name="fail_reason_vcard_parse_error">Не возможно открыть vCard по неизвестным причинам</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="fail_to_add_account">Failed to add account</string>
      <string name="favoritesFrequentCalled">Часто вызываемые</string>
      <string name="favoritesFrequentContacted">Часто набираемые</string>
      <string name="favorites_list_empty">Нет избранных</string>
+     <string name="fools_day">愚人节</string>
      <string name="foundTooManyContacts">Найдено более %d</string>
      <string name="frequency_none">Никогда</string>
      <string name="frequency_three_days">Каждые 3 дня</string>
@@ -412,6 +388,12 @@
      <string name="generic_no_account_prompt_title">Добавить аккаунт</string>
      <string name="ghostData_company">Компания</string>
      <string name="ghostData_title">Должность</string>
+     <string name="good_friday">耶穌受難節</string>
+     <string name="grain_buds">小满</string>
+     <string name="grain_in_ear">芒种</string>
+     <string name="grain_rain">谷雨</string>
+     <string name="great_cold">大寒</string>
+     <string name="great_heat">大暑</string>
      <string name="groupSavedErrorToast">Не удалось сохранить изменения</string>
      <string name="groupSavedToast">Группа сохранена</string>
      <string name="group_add_fail_toast">Ошибка добавления контаков</string>
@@ -420,8 +402,10 @@
      <string name="group_delete_success_toast">Группа удалена</string>
      <string name="group_edit_field_hint_text">Название группы</string>
      <string name="group_member_remove_toast">Контакт удален из группы</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="group_name">My groups</string>
+     <string name="group_name_contacts">Contacts</string>
+     <string name="group_name_coworkers">Colleagues</string>
+     <string name="group_name_family">Family</string>
+     <string name="group_name_friends">Friends</string>
      <string name="group_name_hint">Название группы</string>
      <string name="group_read_only">Здесь доступно только для чтения</string>
      <string name="group_rename_dialog_title">Переименование группы</string>
@@ -430,14 +414,18 @@
      <string name="group_sms_progress_msg">Подготовка к групповой отправке SMS…</string>
      <string name="groupsLabel">Группы</string>
      <string name="groups_list_empty">Нет групп</string>
+     <string name="heavy_snow">大雪</string>
      <string name="hint_distance">держать дистанцию</string>
      <string name="hint_findContacts">Найти контакты</string>
      <string name="hint_more_contact">использовать слияние контакта, при его выходе из контактов дубликатов</string>
+     <string name="hint_search_contacts">Контактов: %d</string>
+     <string name="hint_search_emails">Адресов эл. почты: %d</string>
+     <string name="hint_search_phone_numbers">Контактов: %d</string>
+     <string name="hksar_establishment_day">行政區成立</string>
+     <string name="hoar_frost_falls">霜降</string>
      <string name="ic_menu_back">Назад</string>
      <string name="ic_menu_done">Готово</string>
      <string name="imLabelsGroup">Чат</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="imei_invalid">Invalid IMEI</string>
      <string name="import_all_sim_entries_miui">Импорт всех контактов</string>
      <string name="import_all_vcard_string">Импорт всех файлов VCard</string>
      <string name="import_contact_card_button">Импорт</string>
@@ -445,8 +433,6 @@
      <string name="import_from_other_phone">Импортировать с телефона</string>
      <string name="import_from_sdcard">С SD-карты</string>
      <string name="import_from_sim">Импортировать с SIM-карты</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="import_from_sim2">Import from SIM card 2</string>
      <string name="import_multiple_vcard_string">Импорт нескольких vCard</string>
      <string name="import_name">имя</string>
      <string name="import_one_vcard_string">Импорт файла vCard</string>
@@ -472,8 +458,10 @@
      <string name="importing_vcard_canceled_title">Импорт отменен: \"%s\"</string>
      <string name="importing_vcard_description">Импорт: %s</string>
      <string name="importing_vcard_finished_title">Импорт завершен: \"%s\"</string>
+     <string name="insects_awaken">惊蛰</string>
      <string name="insertContactDescription">Создать контакт</string>
      <string name="insertGroupDescription">Создать группу</string>
+     <string name="international_womens_day">妇女节</string>
      <string name="invalidContactMessage">Контакт удален</string>
      <string name="keep_local">Сохранить локально</string>
      <string name="keep_local_btn">В телефон</string>
@@ -481,7 +469,11 @@
      <string name="label_no_duplicate_contacts">Отлично! На данный момент нет дубликатов контактов!</string>
      <string name="label_notes">Примечания</string>
      <string name="label_sip_address">Интернет вызов</string>
+     <string name="labour_day">劳动节</string>
+     <string name="lantern_festival">元宵节</string>
      <string name="launcherDialer">Телефон</string>
+     <string name="light_snow">小雪</string>
+     <string name="listAllContactsInAccount">Contacts in %s</string>
      <string name="listCustomView">Контакты в пользовательском виде</string>
      <string name="listFoundAllContactsZero">Ничего не найдено</string>
      <string name="listSingleContact">Одиночный контакт</string>
@@ -496,26 +488,44 @@
      <string name="list_filter_customize">Настроить</string>
      <string name="list_filter_phones">Все контакты с номерами телефонов</string>
      <string name="list_filter_single">Контакт</string>
-     <string name="loading">Loading…</string>
      <string name="loading_group_members">Загрузка контактов…</string>
      <string name="loading_groups">Загрузка групп…</string>
      <string name="loading_recent">Загрузка последних контактов…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="loading_resource_detail_fail">Failed to load resource</string>
-     <string name="loading_resource_detail_info">Loading…</string>
      <string name="local_invisible_directory">Другое</string>
      <string name="local_profile_title">Мой профиль</string>
      <string name="local_search_label">Все контакты</string>
      <string name="locale_change_in_progress">Список контактов обновится после смены языка интерфейса</string>
+     <string name="login_before_recharging">Требуется авторизация</string>
      <string name="login_ok">Войти</string>
      <string name="lunarBirthdayLabelsGroup">Лунный день рождения</string>
+     <string name="lunar_ba">八</string>
+     <string name="lunar_calendar">农历</string>
+     <string name="lunar_chu">初</string>
+     <string name="lunar_chu_shi">初十</string>
+     <string name="lunar_er">二</string>
+     <string name="lunar_er_shi">二十</string>
+     <string name="lunar_jiu">九</string>
+     <string name="lunar_leap">闰</string>
+     <string name="lunar_ling">O</string>
+     <string name="lunar_liu">六</string>
+     <string name="lunar_nian">廿</string>
+     <string name="lunar_qi">七</string>
+     <string name="lunar_san">三</string>
+     <string name="lunar_san_shi">三十</string>
+     <string name="lunar_shi">十</string>
+     <string name="lunar_shi_er">腊</string>
+     <string name="lunar_shi_yi">冬</string>
+     <string name="lunar_si">四</string>
+     <string name="lunar_wu">五</string>
+     <string name="lunar_year">年</string>
+     <string name="lunar_yi">一</string>
+     <string name="lunar_yue">月</string>
+     <string name="lunar_zheng">正</string>
      <string name="make_primary">Запомнить выбранное</string>
      <string name="map_custom">Просмотр адреса: %s</string>
      <string name="map_home">Просмотреть домашний адрес</string>
      <string name="map_other">Просмотр адреса</string>
      <string name="map_work">Просмотреть рабочий адрес</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="meid_invalid">Invalid MEID</string>
      <string name="menu_accounts">Аккаунты</string>
      <string name="menu_addStar">В избранные</string>
      <string name="menu_bar_group_add">Добавить</string>
@@ -525,7 +535,6 @@
      <string name="menu_bar_group_ringtone_largeui">Мелодия</string>
      <string name="menu_bar_group_sms">Сообщение</string>
      <string name="menu_call">Позвонить</string>
-     <string name="menu_callNumber">Call %s</string>
      <string name="menu_call_ip_number">Вызов через IP (вызов %s)</string>
      <string name="menu_clear_frequents">Очистить частые</string>
      <string name="menu_contacts_filter">Фильтр контактов</string>
@@ -534,8 +543,6 @@
      <string name="menu_create_contact_shortcut">На рабочий стол</string>
      <string name="menu_deleteContact">Удалить контакт</string>
      <string name="menu_deleteGroup">Удалить группу</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_dial_ip_number">Dial IP call</string>
      <string name="menu_dialpad_text">Клавиатура</string>
      <string name="menu_discard">Отмена</string>
      <string name="menu_display_all">Показать все</string>
@@ -544,6 +551,7 @@
      <string name="menu_done">Готово</string>
      <string name="menu_editContact">Изменить</string>
      <string name="menu_editGroup">Изменить</string>
+     <string name="menu_export_database">Export database files</string>
      <string name="menu_help">Помощь</string>
      <string name="menu_import_export">Импорт/экспорт</string>
      <string name="menu_joinAggregate">Объединить</string>
@@ -585,6 +593,9 @@
      <string name="name_phonetic_middle">Отчество (транскрипция)</string>
      <string name="name_prefix">Форма обращения</string>
      <string name="name_suffix">Звание/титул</string>
+     <string name="national_day">国庆节</string>
+     <string name="national_father_day">國父誕辰</string>
+     <string name="new_years_day">元旦</string>
      <string name="next">далее</string>
      <string name="next_birthday">Следующий День рождения: %s</string>
      <string name="nfc_vcard_file_name">Получено по NFC</string>
@@ -673,10 +684,6 @@
      <string name="none_paired">Нет сопряженных устройств</string>
      <string name="not_applied">Не поддерживается</string>
      <string name="notification_action_voicemail_play">Прослушать</string>
-     <string name="notification_new_voicemail_ticker">New voicemail from %1$s</string>
-     <string name="online_no_network">"Couldn't connect to network"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="online_search_hint">Search for online resources</string>
      <string name="openDialKeyboard">Клавиатура</string>
      <string name="open_contact">Открыть контакт</string>
      <string name="option_delete_contact">Удалить контакт</string>
@@ -693,14 +700,20 @@
      <string name="organization_company_and_title">%2$s, %1$s</string>
      <string name="other_contacts">Другие</string>
      <string name="other_phone">другие телефоны</string>
+     <string name="partys_day">建党节</string>
      <string name="payphone">Телефон-автомат</string>
+     <string name="peace_day">和平紀念</string>
      <string name="people">Контакты</string>
      <string name="phoneLabelsGroup">Телефон</string>
      <string name="phone_primary">Основной</string>
      <string name="photoPickerNotFoundText">Нет изображений</string>
      <string name="photo_package_activity_title">Пакет изображений</string>
+     <string name="pick_favorites_contacts_list_title">Избранных контактов: %1$d</string>
+     <string name="pick_favorites_list_title">Избранных контактов: %1$d</string>
      <string name="pick_new_photo">Новое изображение из галереи</string>
      <string name="pick_photo">Изображение из галереи</string>
+     <string name="pick_recent_contacts_list_title">Всего контактов: %1$d</string>
+     <string name="pick_recent_list_title">Последних контактов: %1$d</string>
      <string name="pickerNewContactHeader">Создать новый контакт</string>
      <string name="pickerNewContactText">Создать новый контакт</string>
      <string name="picker_all_list_empty">Нет контактов</string>
@@ -728,8 +741,6 @@
      <string name="pref_key_rebuild_t9_index_message">Обновить индекс контактов для поиска с помощью T9</string>
      <string name="pref_key_rebuild_t9_index_title">Обновление индекса</string>
      <string name="pref_key_sim_manage">Контакты SIM-карты</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_key_sim_manage2">Configure SIM card 2</string>
      <string name="pref_summary_import_from_account">Импорт контактов из аккаунта Google в аккаунт Xiaomi</string>
      <string name="pref_title_account_import">Импорт из аккаунта</string>
      <string name="pref_title_import_from_account">В аккаунт Xiaomi</string>
@@ -777,6 +788,7 @@
      <string name="profile_display_name">Настроить профиль</string>
      <string name="profile_name">Мой профиль</string>
      <string name="profile_name_photo">Я</string>
+     <string name="progress_notifier_message" formatted="false">Importing %s/%s: %s</string>
      <string name="quickcontact_missing_app">Действие не поддерживается ни в одном приложении</string>
      <string name="quit_dialog_confirm_title">Выйти из объединения контактов?</string>
      <string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из различных аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>
@@ -810,248 +822,8 @@
      <string name="remove_duplicate">"MIUI поможет Вам найти и объединить дублированные контакты. Они не будут объединены автоматически. Пожалуйста, объедините их вручную.
 
 Нажмите на объединение и немного подождите, пока автоматическое объединение не завершится."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_account_abnormal_state">Account error. Try again later.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_account_fail_to_add">Failed to add account</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_account_login">Sign in</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_account_login_before_action">Sign in to your Xiaomi Account now</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_account_login_title">Sign in</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_account_switch">Switch</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_alarm_default">Alarm</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_app_name">Resource Browser</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_apply">Apply</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_apply_trial">Try now</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_buy">Buy</string>
-     <string name="resource_can_not_selected">"%1$s can't be selected"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_category">Category</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_comment_1_star">1 Star</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_comment_2_star">2 Stars</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_comment_3_star">3 Stars</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_comment_4_star">4 Stars</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_comment_5_star">5 Stars</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_comment_all_comments">All</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_comment_average_score">Ratings</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_comment_bad_comments">Negative</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_comment_current_version">Current version</string>
-     <string name="resource_comment_date">%1$02d-%2$02d</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_comment_edit_comment">Add comments</string>
-     <string name="resource_comment_edit_comment_waiting">Checking user history…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_comment_edit_text_default">Write a comment</string>
-     <string name="resource_comment_edit_title">Edit comment: %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_comment_entry_tips">View comments</string>
-     <string name="resource_comment_expand_full_text">Expand all text▼</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_comment_footer">Empty comments are not displayed.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_comment_good_comments">Positive</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_comment_invalid">Touch the stars to rate the theme</string>
-     <string name="resource_comment_loading_list">Loading…</string>
-     <string name="resource_comment_name_default">User %1$s</string>
-     <string name="resource_comment_no_average_score">N/A</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_comment_no_comment">No comments</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_comment_publish">Submit</string>
-     <string name="resource_comment_rate">Rating:</string>
-     <string name="resource_comment_score_count">%1$s users</string>
-     <string name="resource_comment_sending">Sending comment…</string>
-     <string name="resource_comment_title">Comments: %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_comment_upload_data_invalid">The comment you entered is invalid</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_comment_upload_failed">Failed to send comment</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_comment_upload_hint">Your comment will be displayed after a brief review.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_comment_upload_not_bought">You need to apply the theme before you can write comments about it</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_comment_upload_not_logined">You need to sign in first</string>
-     <string name="resource_comment_upload_success">Comment sent! Your comment will be displayed after a brief review.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_default">Default ringtone</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_default_name">Resource</string>
-     <string name="resource_delete_all">Delete %1$d selected resources?</string>
-     <string name="resource_delete_confirm">Delete these resources?</string>
-     <string name="resource_delta_update_failed">Update failed: Downloading theme again…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_delta_update_successful">Update successful</string>
-     <string name="resource_delta_update_total">%1$d delta updates saved %2$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_detail">Details</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_detail_comment_title">Comments</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_detail_jump_to_online_title">Online</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_detail_jump_to_same_author_title">Same author</string>
-     <string name="resource_detail_recommend_desiner_other_themes">Other themes designed by %1$s</string>
-     <string name="resource_detail_recommend_desiner_themes">%1$s themes</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_detail_recommend_other_themes">Users also liked</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_detail_update_log_title">Updates</string>
-     <string name="resource_detail_window_title">%1$s details</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_download">Download</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_download_trial">Free trial</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_downloaded_title">Downloaded resources</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_downloading">Downloading</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_exchange">Redeem</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_exchange_confirm">Confirm</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_exchange_empty_format">Enter gift code</string>
-     <string name="resource_exchange_has_bought">"You've already purchased this theme."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_exchange_has_expired">The code you entered has expired.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_exchange_has_used">The code you entered has already been used.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_exchange_hint">Enter your gift code</string>
-     <string name="resource_exchange_purchase_unkown_error">Yikes! An unknown error occurred. Sign in at http://market.xiaomi.com to view your payment status.</string>
-     <string name="resource_exchange_share_code_content">"You've received a gift code for the theme %1$s on the MIUI Theme Store. The code number is: %2$s. Touch %3$s to use it now."</string>
-     <string name="resource_exchange_share_code_dlg_content">The gift code you purchased for the theme %1$sis: %2$s. When you send it to another MIUI user, he or she can use it to download this theme.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_exchange_share_code_dlg_title">Sending</string>
-     <string name="resource_exchange_success">Enjoy! :)</string>
-     <string name="resource_exchange_unavailable">"The theme associated with the code you entered isn't available."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_exchange_universal_finish">Use this code to download a theme from the MIUI Theme Store.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_exchange_universal_goon">This code can be used to download any theme in the store.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_exchange_window_title">Redeem</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_exchange_wrong_format_by_local">The format of the code you entered is incorrect.</string>
-     <string name="resource_exchange_wrong_format_by_server">"Code was not verified. Make sure you've entered it correctly."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_expand_full_text">Expand</string>
-     <string name="resource_get_auth_checking">Checking authorization…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_get_auth_exceed_max_limit_tips">Ten devices have already been authorized on this account</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_get_auth_exceed_max_limit_title">Number of authorized devices exceeded</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_get_auth_missing">Themes from thirdparty sources are not supported</string>
-     <string name="resource_get_auth_retrieving">Retrieving authorization…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_hint">Alert</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_import_failed">Import failed</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_import_successful">Download complete</string>
-     <string name="resource_importing">Importing…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_list_title">Latest selected</string>
-     <string name="resource_local">Local %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_menu_refresh">Refresh</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_mute">None</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_my">Local</string>
-     <string name="resource_no_result">"Couldn't find anything"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_notification_default">Notifications</string>
-     <string name="resource_on_trial">Trying: %1$s</string>
-     <string name="resource_online">Online %1$s</string>
-     <string name="resource_pack_confirm">"Even though you've already purchased %1$d components in this theme, it's still cheaper if you buy the full bundle."</string>
-     <string name="resource_pack_discount_info">%1$s saved</string>
-     <string name="resource_pack_price_info">%1$s Original</string>
-     <string name="resource_pack_warning">"You've already purchased %1$d components in this theme. It's cheaper if you buy the remaining components individually."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_present">Gift</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_price_free">Free</string>
-     <string name="resource_price_unit"> MiCredits</string>
-     <string name="resource_purchase_getting_order">Retrieving order info…</string>
-     <string name="resource_purchase_verifying_payment">Verifying payment info…</string>
-     <string name="resource_purchase_waiting_payment">Waiting for payment info…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_ranking">Popular</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_ranking_free">Free</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_ranking_purchase">Paid</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_ringtone_default">Ringtones</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_ringtone_playing_error">playing error</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_ringtone_volume_mute">Your ringer is currently silenced</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_save_to_note">Save to Notes</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_see_more">See more</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_select">Select</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_selected">Featured</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_send">Send</string>
-     <string name="resource_server_alert_dialog_title">"We'll be right back…"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_server_out_of_service">Unfortunately, our server is down at the moment. Please try again later.</string>
-     <string name="resource_share_subject">Share theme: %1$s</string>
-     <string name="resource_share_text">"Here's a theme I thought you might like: %1$s! Link: %2$s"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_share_title">Share</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_system_title">System resources</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_tip_select_ringtone">None selected</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_title">Resource detail</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_title_select_ringtone">Select tone</string>
-     <string name="resource_trial_end_message">Trial of %1$s expired. If you like, please purchase it.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_trial_end_purchase">Purchase</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_trial_end_restore">Finish trial</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_trial_end_title">Trial expired</string>
-     <string name="resource_trial_time">（trial for %1$d minutes）</string>
-     <string name="resource_unable_to_access">"Unfortunately,
-the content you're looking for is not currently available in your region."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_unknow_error">An unknown error occurred</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_update">Update</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_user_know">OK</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_waiting_download">Waiting</string>
      <string name="restore_nickname">Восстановить</string>
+     <string name="retrocession_day">光復節</string>
      <string name="returnCall">Обратный вызов</string>
      <string name="ringLabelsGroup">Мелодия</string>
      <string name="save_photo_progress">Сохранение фотографии…</string>
@@ -1063,10 +835,6 @@ the content you're looking for is not currently available in your region."</stri
      <string name="scanning">поиск устройств…</string>
      <string name="scanning_sdcard_failed_message">Не удалось просканировать SD-карту. Причина: %s.</string>
      <string name="scanning_sdcard_failed_title">SD-карта не просканирована</string>
-     <string name="sdcard_not_mounted_dialog_message">"Insert SD card now.
-"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sdcard_not_mounted_dialog_title">No SD card detected</string>
      <string name="searchHint">Поиск контактов</string>
      <string name="search_results_searching">Поиск…</string>
      <string name="search_settings_description">Имена контактов</string>
@@ -1098,16 +866,14 @@ the content you're looking for is not currently available in your region."</stri
      <string name="simContacts_empty">Нет контактов на SIM-карте</string>
      <string name="simContacts_emptyLoading">Загрузка контактов с SIM-карты…</string>
      <string name="simContacts_title">На SIM-карте</string>
+     <string name="sim_account_name">SIM</string>
      <string name="sim_capacity">Размер SIM-карты</string>
-     <string name="sim_capacity_content" formatted="false">Total capacity %d, used %d</string>
      <string name="sim_card_no_free_space_message">Память SIM-карты заполнена. Пожалуйста, очистите SIM карту и попробуйте еще раз.</string>
      <string name="sim_card_no_free_space_title">SIM-карта заполнена!</string>
      <string name="sim_contact_dropdown_menu_deselect_all_miui">Снять все</string>
      <string name="sim_contact_dropdown_menu_select_all_miui">Выбрать все</string>
      <string name="sim_contact_existing">Этот контакт SIM уже существует</string>
      <string name="sim_contact_invalid">Неверный контакт SIM-карты</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sim_contact_number_missing">SIM contact number is missing.</string>
      <string name="sim_contact_search_error">Произошла ошибка при поиске контактов с SIM-карты</string>
      <string name="sim_contacts">Контакт на SIM-карте</string>
      <string name="sim_error_anr_full">Хранилище номеров заполнено</string>
@@ -1123,6 +889,8 @@ the content you're looking for is not currently available in your region."</stri
      <string name="sim_indexed_contact_not_exist">Позиция %1$d не является допустимой на SIM-карте, должна быть между %2$d и %3$d</string>
      <string name="sim_no_contact">Нет контактов</string>
      <string name="single_group_list_empty">Нет контактов в группе</string>
+     <string name="slight_cold">小寒</string>
+     <string name="slight_heat">小暑</string>
      <string name="smart_group_company_label">По компаниям</string>
      <string name="smart_group_company_unavailable">Без компании</string>
      <string name="smart_group_frequency_1">В течение месяца</string>
@@ -1146,7 +914,6 @@ the content you're looking for is not currently available in your region."</stri
      <string name="sms_home">SMS: домашний тел.</string>
      <string name="sms_isdn">SMS: номер ISDN</string>
      <string name="sms_main">SMS: основ. тел.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sms_mms">MMS</string>
      <string name="sms_mobile">SMS: мобильный</string>
      <string name="sms_other">Отправить SMS</string>
@@ -1160,44 +927,58 @@ the content you're looking for is not currently available in your region."</stri
      <string name="sms_work_pager">SMS: рабоч. пейдж.</string>
      <string name="social_widget_label">Контакт</string>
      <string name="social_widget_loading">Загрузка…</string>
+     <string name="solar_calendar">公历</string>
      <string name="splitConfirmation">Вы хотите разделить контакт?</string>
      <string name="splitConfirmation_title">Разделение контакта</string>
+     <string name="spring_begins">立春</string>
      <string name="starredList">Избранные</string>
      <string name="starred_contacts">Избранные</string>
      <string name="status_available">На месте</string>
      <string name="status_away">Отсутствует</string>
      <string name="status_busy">Не беспокоить</string>
+     <string name="stopping_the_heat">处暑</string>
      <string name="strequentList">Избранные</string>
      <string name="success_message_import_from_account">Импорт завершен</string>
      <string name="summary_kind_title">Основная информация</string>
+     <string name="summer_begins">立夏</string>
+     <string name="summer_solstice">夏至</string>
      <string name="t9_search_guide_pinyin">Введите номер или найдите контакт с помощью T9</string>
      <string name="t9_search_guide_zhuyin">Введите номер телефона или найдите контакт с помощью T9</string>
      <string name="take_new_photo">Сделать новую фотографию</string>
      <string name="take_photo">Сделать фотографию</string>
+     <string name="teachers_day">教师节</string>
+     <string name="the_armys_day">建军节</string>
+     <string name="the_double_ninth_festival">重阳节</string>
+     <string name="the_dragon_boat_festival">端午节</string>
+     <string name="the_first_weekday_after_christmas">聖誕節後第一個周日</string>
+     <string name="the_laba_rice_porridge_festival">腊八</string>
+     <string name="the_mid_autumn_festival">中秋节</string>
+     <string name="the_rains">雨水</string>
+     <string name="the_spring_festival">春节</string>
      <string name="titleJoinContactDataWith">Объединить контакты</string>
      <string name="title_other_devices">Другие доступные устройства</string>
      <string name="title_paired_devices">Сопряжение устройств</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="to_activate_the_account">Activate your Xiaomi Account now</string>
      <string name="toast_call_detail_error">Не удается получить сведения о вызове</string>
      <string name="toast_copy_done">Копирование завершено</string>
      <string name="toast_copying">Копирование…</string>
      <string name="toast_displaying_all_contacts">Отображение всех контактов</string>
      <string name="toast_finish_delete_call_log">Вызов удален</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="toast_finish_delete_selected_call_log">Call log deleted</string>
      <string name="toast_for_failed_saving_nickname">Не удалось сохранить изменения</string>
      <string name="toast_for_saving_nickname">Изменения сохранены</string>
      <string name="toast_join_with_empty_contact">Укажите имя контакта, который хотите объединить</string>
      <string name="toast_making_personal_copy">Копирование…</string>
      <string name="toast_text_copied">Текст скопирован</string>
      <string name="today">Сегодня</string>
+     <string name="tw_childrens_day">兒童節</string>
+     <string name="tw_youth_day">青年節</string>
      <string name="type_incoming">Входящий вызов</string>
      <string name="type_missed">Пропущенный вызов</string>
      <string name="type_mx_msg">Облачные сообщения</string>
      <string name="type_outgoing">Исходящий вызов</string>
      <string name="type_voicemail">Голосовая почта</string>
+     <string name="united_nations_day">聯合國日</string>
      <string name="unknown">Неизвестно</string>
+     <string name="unknown_caller">Unknown caller</string>
      <string name="unknown_contact_name">Неизвестный номер</string>
      <string name="upgrade_in_progress">Список контактов обновляется…</string>
      <string name="upgrade_out_of_memory">"Контакты находятся в процессе обновления.
@@ -1210,6 +991,13 @@ the content you're looking for is not currently available in your region."</stri
      <string name="use_photo_as_primary">Использовать данное изображение</string>
      <string name="use_photo_as_primary2">Использовать как фото контакта из %s</string>
      <string name="user_profile_contacts_list_header">Я</string>
+     <string name="v5_date_picker_label_day">日</string>
+     <string name="v5_date_picker_label_month">月</string>
+     <string name="v5_date_picker_label_year">年</string>
+     <string name="v5_date_time_picker_dialog_title">设置提醒时间</string>
+     <string name="v5_time_picker_label_hour">时</string>
+     <string name="v5_time_picker_label_minute">分</string>
+     <string name="valentines_day">情人节</string>
      <string name="vcard_export_request_rejected_message">Запрос на экспорт данных vCard отклонен. Повторите попытку позже.</string>
      <string name="vcard_export_will_start_message">Экспорт файла %s…</string>
      <string name="vcard_import_failed">Не удалось импортировать данные vCard</string>
@@ -1217,6 +1005,7 @@ the content you're looking for is not currently available in your region."</stri
      <string name="vcard_import_will_start_message">Импорт %s начнется в ближайшее время</string>
      <string name="vcard_import_will_start_message_with_default_name">Файл будет импортирован в ближайшее время</string>
      <string name="vcard_unknown_filename">контакт</string>
+     <string name="vernal_equinox">春分</string>
      <string name="video_chat">Видеочат</string>
      <string name="viewContactDesription">Просмотреть контакт</string>
      <string name="viewContactTitle">Сведения о контакте</string>
@@ -1238,27 +1027,20 @@ the content you're looking for is not currently available in your region."</stri
      <string name="voicemail_status_messages_waiting">Нет подключения к серверу гол. почты. Имеются новые сообщения.</string>
      <string name="voicemail_status_voicemail_not_available">Нет подключения к серверу гол. почты</string>
      <string name="websiteLabelsGroup">Веб-сайт</string>
+     <string name="white_dews">白露</string>
+     <string name="winter_begins">立冬</string>
+     <string name="winter_solstice">冬至</string>
      <string name="wipe_data">Очистить данные</string>
      <string name="yellowPageNavigationIconLabel">Сервисы</string>
      <string name="yellowPageNavigationLabel">Сервисы</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="yellowpage_navigation_menu_order">My orders</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="yellowpage_navigation_network_location_enable">Enable now</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="yellowpage_navigation_network_location_enable_later">Enable later</string>
-     <string name="yellowpage_navigation_network_location_not_enabled_summary">Directory provides services according to your city and enabling WLAN &amp; mobile network location service can improve the quality of services.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="yellowpage_navigation_network_location_not_enabled_title">Enable network location service</string>
      <string name="yellowpage_navigation_no_content">Ничего не найдено</string>
      <string name="yellowpage_navigation_search_city_name_hint">Город</string>
+     <string name="yellowpage_navigation_search_hint">Поиск</string>
      <string name="yellowpage_navigation_search_offline_hint">Нет доступа в интерент</string>
      <string name="yellowpage_navigation_search_result_network_error">Ошибка подключения к сети</string>
      <string name="yellowpage_navigation_search_result_no_more">Больше ничего нет</string>
      <string name="yellowpage_navigation_search_result_service_error">Сервис недоступен</string>
      <string name="yellowpage_navigation_search_result_unknown_error">Произошла неизвестная ошибка</string>
      <string name="yellowpage_navigation_search_select_city">Выберите город</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="yellowpage_navigation_send_to_desktop_succeeded">Added to Home screen</string>
      <string name="zero_items_selected">Выберите контакты</string>
 </resources>

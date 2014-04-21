@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="advanced">Дополнительная панель</string>
      <string name="app_name">Калькулятор</string>
@@ -13,12 +13,6 @@
      <string name="lnDesc">Натуральный логарифм</string>
      <string name="minusDesc">Минус</string>
      <string name="rightParenDesc">Правая скобка</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="scientific">scientific</string>
      <string name="sqrtDesc">Квадратный корень</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="switch_to_scientific_pad">switch to scientific pad</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="switch_to_standard_pad">switch to standard pad</string>
      <string name="text_copied_toast">Текст скопирован</string>
 </resources>

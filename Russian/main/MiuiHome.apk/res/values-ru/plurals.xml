@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
+     <plurals name="editing_mode_title">
+        <item quantity="one">Выбрано: %1$d</item>
+        <item quantity="other">Выбрано: %1$d</item>
+     </plurals>
      <plurals name="uninstall_dialog_title_format">
         <item quantity="one">Удалить \"%s\"?</item>
         <item quantity="other">Удалить приложение %1$s и %2$d других?</item>

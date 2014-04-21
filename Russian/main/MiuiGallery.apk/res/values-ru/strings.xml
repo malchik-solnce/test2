@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="Import">Импорт</string>
      <string name="accept">Принять</string>
@@ -16,7 +16,6 @@
      <string name="add_to_cloud_folder">В облако</string>
      <string name="add_to_cloud_image_limit_exceeded_message">Превышен лимит изображений</string>
      <string name="add_to_cloud_local_space_full_message">Накопитель полный или не подключен</string>
-     <string name="add_to_cloud_reasons" />
      <string name="add_to_cloud_space_full_message">Облачный альбом заполнен</string>
      <string name="add_to_cloud_successfully_message">Успешно добавлено</string>
      <string name="add_to_cloud_type_not_support_message">Тип файла не поддерживается</string>
@@ -40,7 +39,6 @@
      <string name="alert">Внимание</string>
      <string name="alert_message_open_sync">Необходима синхронизация. Вы хотите включить ее сейчас?</string>
      <string name="already_apply_album">Открыть %1$s?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
      <string name="androidesk_wallpapers">Обои Android</string>
      <string name="aperture">Диафрагма</string>
@@ -52,13 +50,8 @@
      <string name="auto_create_recent_album_confirm">После отключения этой функции, галерея очистит созданные данные последних альбомов. Последние альбомы, установленные пользователем, не будут затронуты. Кроме того, можно установить это вручную, долгим нажатием на альбом.</string>
      <string name="auto_create_recent_album_over_ten_times">Создает избранный альбом после захода в него более 10 раз</string>
      <string name="autofix">Авто</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="autohomemain">Autohomemain</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="baidu_flyflow_downloads">Baidu Browser</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="beautyphone">Beauty phone</string>
      <string name="big_screen_alertdialog_title">Проектор</string>
      <string name="bigscreen_slide_exit">Выход из слайдшоу</string>
@@ -111,18 +104,13 @@
      <string name="cloudfolder_name_cannot_empty">Введите название папки</string>
      <string name="cloudfolder_name_reserved">Имя папки занято</string>
      <string name="comfirm_delete_current_album">Удалить текущий альбом?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: Delete %s? -->
      <string name="confirm_delete">Удалить выбранное?</string>
      <string name="confirm_delete_album" formatted="false">"Удалить выбранные альбомы с фото?
 
 Альбомов:%s
 Фото: %s"</string>
-     <string name="confirm_delete_cloud_all_item_page" formatted="false">Delete %s picture(s) in %s?</string>
+     <string name="confirm_delete_home_merge_item">Удалить %s фото из локальных и облака?</string>
      <string name="confirm_delete_pictures">%s фотографий</string>
      <string name="confirm_delete_system_album">%s системный альбом. Вы уверены, что хотите удалить?</string>
      <string name="confirm_delete_this_picture">Удалить это изображение?</string>
@@ -145,11 +133,8 @@
      <string name="crossprocess">Кросс-обработка</string>
      <string name="cut">Обрезать</string>
      <string name="damaged_file">Файл поврежден</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dcim_100media">Taobao TMall</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dcim_opaipic">Opaipic</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dcim_viva_pics">VIVA</string>
      <string name="defalt_local_mobile">Мобильный</string>
      <string name="delete">Удалить</string>
@@ -161,9 +146,11 @@
      <string name="demo_video_folder_display_name">Демо-видео</string>
      <string name="deny">Отклонить</string>
      <string name="description">Описание</string>
+     <string name="deselect_all">Отменить все</string>
      <string name="details">Сведения</string>
      <string name="details_sharer">Отправитель</string>
      <string name="details_title">%1$d из %2$d</string>
+     <string name="device_model">Устройство</string>
      <string name="directory_info_divider">"  |  "</string>
      <string name="documentary">Документальные</string>
      <string name="done">Готово</string>
@@ -172,8 +159,6 @@
      <string name="download">Скачать</string>
      <string name="download_fail">Ошибка загрузки</string>
      <string name="download_fail_confirm_continue">Не удалось загрузить %s. Продолжить?</string>
-     <string name="dummy_fs">precision mediump float; uniform mat4 mg_TextureMatrix; uniform sampler2D mg_Texture0, mg_Texture1; uniform vec4 mg_Color; uniform float mg_Texture0_Weight, mg_Texture1_Weight, mg_Color_Weight; uniform vec4 mg_Texture0_Modulate, mg_Texture1_Modulate; varying vec2 mg_UV0, mg_UV1; vec2 transform_uv(vec2 uv) { vec4 v = vec4(uv, 0, 1); v = mg_TextureMatrix * v; return v.xy; } void main() { vec4 col = vec4(0, 0, 0, 0); if(mg_Texture0_Weight > 0.05) { col += mg_Texture0_Modulate * texture2D(mg_Texture0, transform_uv(mg_UV0)) * mg_Texture0_Weight; } if(mg_Texture1_Weight > 0.05) { col += mg_Texture1_Modulate * texture2D(mg_Texture1, transform_uv(mg_UV1)) * mg_Texture1_Weight; } if(mg_Color_Weight > 0.05) { col += mg_Color * mg_Color_Weight; } if(col.a &lt; 0.01) { discard; } gl_FragColor = col; }</string>
-     <string name="dummy_vs">uniform mat4 mg_ModelView, mg_Projection; attribute vec2 mg_TexCoord0, mg_TexCoord1; attribute vec3 mg_Vertex; varying vec2 mg_UV0, mg_UV1; void main() { gl_Position = mg_Projection * mg_ModelView * vec4(mg_Vertex, 1); mg_UV0 = mg_TexCoord0; mg_UV1 = mg_TexCoord1; }</string>
      <string name="duotone">Двойной тон</string>
      <string name="duration">Длительность</string>
      <string name="edit">Изменить</string>
@@ -203,6 +188,7 @@
      <string name="facetan">Загар</string>
      <string name="fail_hint">Сбой операции</string>
      <string name="fail_init_gallery_db_helper">Ошибка открытия базы данных галереи. Диск полон.</string>
+     <string name="fail_to_download_n_items">Ошибка загрузки %s</string>
      <string name="fail_to_pick_email">Не выбрано допустимых E-Mail</string>
      <string name="fail_to_sync_album">Не удалось синхронизировать альбом с сервером. Проверьте подключение к сети!</string>
      <string name="file_not_exist_message">Файл не существует</string>
@@ -215,8 +201,6 @@
      <string name="flip">Отразить</string>
      <string name="flip_tooltip">Чтобы отразить фото, перетащите его край</string>
      <string name="focal_length">Фокус. расст.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="folder_holder_file">should delete this file later</string>
      <string name="frame_black">Черная</string>
      <string name="frame_button">Рамка</string>
      <string name="frame_classic">Классическая</string>
@@ -239,12 +223,14 @@
      <string name="height">Высота</string>
      <string name="highlight">Яркость</string>
      <string name="home_my_captured_items">фото</string>
+     <string name="home_page_tab_cloud">Облако</string>
+     <string name="home_page_tab_local">Локально</string>
+     <string name="home_page_tab_photo">Фото</string>
      <string name="how_many_pics">Фотографий: %d</string>
      <string name="how_many_sub_folders">Папок: %d</string>
      <string name="how_many_videos">Видео: %d</string>
      <string name="image_download_item_title">Загрузка изображения (%s)</string>
      <string name="image_quota_fulfiled">Не удается создать изображение, т.к. количество изображений в альбоме достигло предела</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="immomo_camera">Immomo</string>
      <string name="import_complete">Импорт завершен</string>
      <string name="import_fail">Сбой импорта</string>
@@ -286,31 +272,25 @@
      <string name="menu_item_sort_name_desc">По имени (+)</string>
      <string name="menu_item_sort_size_asc">По размеру (-)</string>
      <string name="menu_item_sort_size_desc">По размеру (+)</string>
+     <string name="menu_item_sort_visit_asc">По частоте (-)</string>
+     <string name="menu_item_sort_visit_desc">По частоте (+)</string>
      <string name="menu_view_contact">Просмотр контакта</string>
      <string name="message_no_delete_access">Отказано в доступе. Невозможно удалить файл или папку: %s.</string>
      <string name="message_no_delete_access_with_count">Невозможно удалить файл(ы) или папку(и) (%d). Возможно они не существуют или доступ к ним запрещен.</string>
      <string name="messagelist_sender_self">Я</string>
      <string name="miliao_painting_folder_display_name">Рисунок MiTalk</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="miliao_saved">MiTalk</string>
      <string name="miliao_saved_folder_display_name">Сохраненные MiTalk</string>
      <string name="mimetype">Тип MIME</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mishop_saved_folder_display_name">MiShop</string>
      <string name="miui_capture_screen_folder_display_name">Скриншоты</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="model">Model</string>
+     <string name="modified_time">Modified time</string>
      <string name="more">Еще</string>
      <string name="move">Переместить</string>
      <string name="move_to_cloud_album">Переместить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mtgif">MTGIF</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mtxx">MTXX</string>
      <string name="multiface_crop_help">Нажмите на лицо, чтобы начать</string>
      <string name="must_pick_file">Выберите изображение</string>
      <string name="negative">Негатив</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
      <string name="new_device_tips">Найдено новое устройство. Нажмите, чтобы посмотреть.</string>
      <string name="no">Нет</string>
@@ -349,10 +329,12 @@
      <string name="path">Путь к файлу</string>
      <string name="people">Люди</string>
      <string name="photo_page_always_rotate">Автоповорот изображения</string>
+     <string name="photo_page_detail_show_in_the_map">Show the location in the map</string>
      <string name="photo_page_save_image">Сохранить</string>
      <string name="photo_page_save_uri_image_fail">Не удалось сохранить фотографию</string>
      <string name="photo_page_save_uri_image_ok">Изображение сохранено в директорию фотокамеры</string>
      <string name="photo_saved">Фотография сохранена в альбоме \"%s\"</string>
+     <string name="photo_size">Размер</string>
      <string name="photoeditor_name">Фотостудия</string>
      <string name="photos">фото</string>
      <string name="pick_too_many_recipients">Слишком много получателей</string>
@@ -362,26 +344,18 @@
      <string name="picker_select_album_title_empty">Выберите альбом</string>
      <string name="picker_tab_camera">Камера</string>
      <string name="posterize">Постеризация</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="ppmm_gallery">PPMM</string>
      <string name="preparing_data_to_delete">Подготовка к удалению данных…</string>
      <string name="projection">Проекция</string>
      <string name="public_url_descript">Любой человек может получить доступ к альбому с помощью этой ссылки</string>
      <string name="publish_failed">Ошибка публикации</string>
      <string name="publish_succeeded">Альбом опубликован</string>
      <string name="publishing">Публикация, подождите…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="qqbrowser_img">QQ Browser</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="qsbk_save">QSBK</string>
      <string name="redeye">Красные глаза</string>
      <string name="redeye_tooltip">Нажмите для устранения эффекта красных глаз</string>
      <string name="remove_hidden_album">Отменить скрытие</string>
      <string name="remove_recent_album">Удалить из последних альбомов</string>
      <string name="rename_failed">Не удалось переименовать</string>
      <string name="rename_failed_duplicated_name">Имя уже существует</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="renren_image">RenRen</string>
      <string name="request_qr_code_failed">Ошибка получения QR-кода, нажмите для повторения</string>
      <string name="request_sms_url_failed">Не удалось запросить URL для обмена по SMS</string>
      <string name="request_sms_url_msg">Запрос URL для обмена через SMS</string>
@@ -448,7 +422,6 @@
      <string name="show_images_only">Только изображения</string>
      <string name="show_on_map">Показать на карте</string>
      <string name="show_videos_only">Только видео</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sina_weibo_save">Weibo</string>
      <string name="size_above">%1$s или более</string>
      <string name="size_below">%1$s или менее</string>
@@ -462,6 +435,7 @@
      <string name="slideshow_repeat_mode">Повторять</string>
      <string name="slideshow_time_select_title">Выбор времени слайдшоу</string>
      <string name="slideshow_time_title">Время слайдшоу</string>
+     <string name="start_slide_show">Запуск слайд-шоу</string>
      <string name="storage_all_volumes">Все накопители</string>
      <string name="storage_no_space">Не хватает памяти</string>
      <string name="straighten">Выравнивание</string>
@@ -480,26 +454,16 @@
      <string name="tab_lockscreen_text">На локскрин</string>
      <string name="tab_wallpaper_text">На стол</string>
      <string name="tags">Теги</string>
+     <string name="taken_time">Затраченное время</string>
      <string name="temperature">Тепло</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="tencent_mobile_qq_img_save">QQ 2012</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="tencent_qq_hd_pic">QQ HD</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="tencent_qzonepic">Qzone</string>
      <string name="there_is_no_image">Нет изображений</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="tieba">Tie Ba</string>
      <string name="time">Время</string>
-     <string name="time_line_view">TimeLine_View</string>
      <string name="times">Даты</string>
      <string name="tint">Оттенок</string>
      <string name="title">Название</string>
      <string name="to_count">%d во всех</string>
      <string name="too_many_recipients">Сообщение имеет слишком много получателей (%1$s). Существует предел на %2$s получателей.</string>
      <string name="try_to_send">Отправить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="ucdownloads_screenshot">UC Browser</string>
      <string name="unit_mm">мм</string>
      <string name="unpublish_failed">Не удалось отменить публикацию!</string>
      <string name="unpublish_succeeded">Альбом снят с публикации!</string>
@@ -512,7 +476,6 @@
      <string name="vignette">Виньетка</string>
      <string name="wallpaper">Рабочий стол</string>
      <string name="warn">Внимание</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="weikan_weikan">Weikan TV</string>
      <string name="where_is_barcode">Где QR код?</string>
      <string name="white_balance">Баланс белого</string>
@@ -521,7 +484,5 @@
      <string name="widget_type_photo">Выберите изображение</string>
      <string name="widget_type_shuffle">Перемешать все изображения</string>
      <string name="width">Ширина</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="yellow_page">Directory</string>
      <string name="yes">Да</string>
 </resources>
