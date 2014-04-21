@@ -1,12 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
-     <string name="input_method_category">Выберите метод ввода по умолчанию</string>
-     <string name="input_method_setting">Выберите метод ввода</string>
-     <string name="other_settings">Другие настройки</string>
-     <string name="other_settings_location">Доступ к местоположению</string>
-     <string name="other_settings_location_summary">Разрешить картам и другим приложениям определять местоположение с помощью GPS</string>
-     <string name="other_settings_user_experience">Повышение качества</string>
-     <string name="other_settings_user_experience_summary">Помогите Xiaomi улучшать свои продукты и услуги путем отправки анонимных отчетов</string>
-     <string name="welcome">Добро пожаловать</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="continues">Continue</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="next">Next</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="other_service_google_location">Google location service</string>
+     <string name="other_service_google_location_use">Location &amp; Google search</string>
+     <string name="other_service_google_location_use_help">"Allow Google's location service to collect anonymous location data. Collection will occur even when no applications are running."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="other_service_google_location_use_summary">Let Google use your location to improve search results and other services</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="other_service_label">Other services</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="other_service_location">Location access</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="other_service_location_summary">Let map and other apps pinpoint your location via GPS</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="other_service_permission_manager">Manage app permissions</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="other_service_permission_manager_summary">Monitoring apps for security and privacy</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="other_service_user_experience">User experience program</string>
+     <string name="other_service_user_experience_summary0">"Help Xiaomi improve its products and services by sending anonymous diagnostic and usage data. "</string>
+     <string name="other_service_user_experience_summary1">(View privacy policy)</string>
+     <string name="setup_complete_info" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="setup_complete_label">Thank you</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="setup_complete_start">Start using MIUI</string>
+     <string name="setup_complete_summary">Setup complete! Enjoy :)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="shutdown">Power off</string>
+     <string name="sim_card_detection_dialog_message">Checking for SIM card…</string>
+     <string name="sim_card_detection_info" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sim_card_detection_label">SIM card</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sim_card_detection_status_absent">No SIM card detected</string>
 </resources>

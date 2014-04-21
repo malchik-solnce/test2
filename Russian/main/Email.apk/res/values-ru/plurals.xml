@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <plurals name="actionbar_unread_messages">
         <item quantity="other">%1$d unread</item>
@@ -11,6 +11,10 @@
      <plurals name="confirm_delete_conversation">
         <item quantity="one">Delete this conversation?</item>
         <item quantity="other">Delete these %1$d conversations?</item>
+     </plurals>
+     <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">These conversations has Merged items,are you sure to delete them all?</item>
+        <item quantity="one">This conversations has Merged items,are you sure to delete them all?</item>
      </plurals>
      <plurals name="confirm_discard_drafts_conversation">
         <item quantity="one">Discard drafts from this conversation?</item>
@@ -87,10 +91,9 @@
      <plurals name="new_incoming_messages_many">
         <item quantity="other">%1$d new messages. Show.</item>
      </plurals>
-     <plurals name="numSelectedFile">
-        <item quantity="one">%1$d item selected</item>
-        <item quantity="other">" %1$d items selected"</item>
-        <item quantity="zero">%1$d items selected</item>
+     <plurals name="num_selected">
+        <item quantity="other">%d selected</item>
+        <item quantity="one">1 selected</item>
      </plurals>
      <plurals name="show_messages_read">
         <item quantity="other">%1$d older messages</item>

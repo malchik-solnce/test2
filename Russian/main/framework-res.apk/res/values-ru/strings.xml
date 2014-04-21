@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="BaMmi">Запрет вызовов</string>
      <string name="CLIRDefaultOffNextCallOff">Идентификация абонента по умолчанию не запрещена. След. вызов: разрешена</string>
@@ -60,6 +60,7 @@
      <string name="aerr_process">В приложении \"%1$s\" произошла ошибка</string>
      <string name="aerr_title" />
      <string name="allow">Разрешить</string>
+     <string name="alternate_eri_file">/data/eri.xml</string>
      <string name="alwaysUse">По умолчанию для этого действия</string>
      <string name="android_system_label">Система Android</string>
      <string name="android_upgrading_apk">Оптимизация приложения %1$d из %2$d.</string>
@@ -81,19 +82,70 @@
      <string name="app_not_found">Невозможно обработать это действие</string>
      <string name="app_running_notification_text">Нажмите, чтобы получить дополнительные сведения или завершить приложение</string>
      <string name="app_running_notification_title">Приложение «%1$s» выполняется</string>
+     <string name="autofill_address_line_1_label_re">address|adresse|indirizzo|住所|地址</string>
+     <string name="autofill_address_line_1_re">address.?line|address1|addr1|street|strasse|straße|hausnummer|housenumber|house.?name|direccion|dirección|adresse|indirizzo|住所1|morada|endereço|Адрес|地址</string>
+     <string name="autofill_address_line_2_re">address.?line2|address2|addr2|street|suite|unit|adresszusatz|ergänzende.?angaben|direccion2|colonia|adicional|addresssuppl|complementnom|appartement|indirizzo2|住所2</string>
+     <string name="autofill_address_line_3_re">address.?line3|address3|addr3|street|line3|municipio|batiment|residence|indirizzo3</string>
+     <string name="autofill_address_name_separator">" "</string>
+     <string name="autofill_address_summary_format">$1$2$3</string>
+     <string name="autofill_address_summary_name_format">$1$2$3</string>
+     <string name="autofill_address_summary_separator">", "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="autofill_address_type_same_as_re">same as</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="autofill_address_type_use_my_re">use my</string>
      <string name="autofill_area">Область</string>
+     <string name="autofill_area_code_notext_re">^\\($</string>
+     <string name="autofill_area_code_re">area.*code|acode|area</string>
+     <string name="autofill_attention_ignored_re">attention|attn</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="autofill_billing_designator_re">bill</string>
+     <string name="autofill_card_cvc_re">verification|card identification|cvn|security code|cvv code|cvc</string>
+     <string name="autofill_card_ignored_re">^card</string>
+     <string name="autofill_card_number_re">number|card.?#|card.?no|ccnum|nummer|credito|numero|número|numéro|カード番号|Номер.*карты|信用卡号|信用卡号码|信用卡卡號</string>
+     <string name="autofill_city_re">city|town|ort|stadt|suburb|ciudad|provincia|localidad|poblacion|ville|commune|localita|市区町村|cidade|Город|市|分區</string>
+     <string name="autofill_company_re">company|business|organization|organisation|department|firma|firmenname|empresa|societe|société|ragione.?sociale|会社|название.?компании|单位|公司</string>
+     <string name="autofill_country_code_re">country.*code|ccode|_cc</string>
+     <string name="autofill_country_re">country|location|国|国家</string>
      <string name="autofill_county">Округ</string>
      <string name="autofill_department">Департамент</string>
      <string name="autofill_district">Район</string>
+     <string name="autofill_email_re">e.?mail|メールアドレス|Электронной.?Почты|邮件|邮箱|電郵地址</string>
      <string name="autofill_emirate">Эмират</string>
+     <string name="autofill_expiration_date_re">exp|^/|year|ablaufdatum|gueltig|gültig|yahr|fecha|scadenza|有効期限|validade|Срок действия карты|年|有效期</string>
+     <string name="autofill_expiration_month_re">expir|exp.*month|exp.*date|ccmonth|gueltig|gültig|monat|fecha|date.*exp|scadenza|有効期限|validade|Срок действия карты|月</string>
+     <string name="autofill_fax_re">fax|télécopie|telecopie|ファックス|факс|传真|傳真</string>
+     <string name="autofill_first_name_re">irst.*name|initials|fname|first$|vorname|nombre|forename|prénom|prenom|名|nome|Имя</string>
      <string name="autofill_island">Остров</string>
+     <string name="autofill_last_name_re">last.*name|lname|surname|last$|nachname|apellidos|famille|^nom|cognome|姓|morada|apelidos|surename|sobrenome|Фамилия</string>
+     <string name="autofill_middle_initial_re">middle.*initial|m\\.i\\.|mi$</string>
+     <string name="autofill_middle_name_re">middle.*name|mname|middle$|apellido.?materno|lastlastname</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="autofill_name_on_card_contextual_re">name</string>
+     <string name="autofill_name_on_card_re">card.?holder|name.?on.?card|ccname|owner|karteninhaber|nombre.*tarjeta|nom.*carte|nome.*cart|名前|Имя.*карты|信用卡开户名|开户名|持卡人姓名|持卡人姓名</string>
+     <string name="autofill_name_re">^name|full.?name|your.?name|customer.?name|firstandlastname|nombre.*y.*apellidos|^nom|お名前|氏名|^nome|姓名</string>
+     <string name="autofill_name_specific_re">^name|^nom|^nome</string>
      <string name="autofill_parish">Округ</string>
+     <string name="autofill_phone_extension_re">ext|ramal</string>
+     <string name="autofill_phone_prefix_re">prefix|preselection|ddd</string>
+     <string name="autofill_phone_prefix_separator_re">^-$|^\\)$</string>
+     <string name="autofill_phone_re">phone|telefonnummer|telefono|teléfono|telfixe|電話|telefone|telemovel|телефон|电话</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="autofill_phone_suffix_re">suffix</string>
+     <string name="autofill_phone_suffix_separator_re">^-$</string>
      <string name="autofill_postal_code">Почтовый индекс</string>
      <string name="autofill_prefecture">Префектура</string>
      <string name="autofill_province">Провинция</string>
+     <string name="autofill_region_ignored_re">province|region|other|provincia|bairro|suburb</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="autofill_shipping_designator_re">ship</string>
      <string name="autofill_state">Штат</string>
+     <string name="autofill_state_re">state|county|region|province|land|county|principality|都道府県|estado|provincia|область|省|地區</string>
      <string name="autofill_this_form">Автозаполнение</string>
+     <string name="autofill_username_re">user.?name|user.?id|vollständiger.?name|用户名</string>
+     <string name="autofill_zip_4_re">zip|^-$|post2|codpos2</string>
      <string name="autofill_zip_code">Почтовый индекс</string>
+     <string name="autofill_zip_code_re">zip|postal|post code|pcode|^1z$|postleitzahl|cp|cdp|cap|郵便番号|codigo|codpos|cep|Почтовый.?Индекс|邮政编码|邮编|郵遞區號</string>
      <string name="back_button_label">Назад</string>
      <string name="badPin">Прежний PIN-код введен неверно</string>
      <string name="badPuk">Введен неверный PUK-код</string>
@@ -131,9 +183,39 @@
      <string name="common_name_conjunctions" />
      <string name="common_name_prefixes" />
      <string name="common_name_suffixes" />
+     <string name="config_appsAuthorizedForSharedAccounts">;com.android.settings;</string>
+     <string name="config_chooseAccountActivity">android/android.accounts.ChooseAccountActivity</string>
+     <string name="config_chooseTypeAndAccountActivity">android/android.accounts.ChooseTypeAndAccountActivity</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="config_comboNetworkLocationProvider">com.qualcomm.location</string>
      <string name="config_customResolverActivity" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="config_datause_iface">rmnet0</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="config_default_dns_server">8.8.8.8</string>
+     <string name="config_dreamsDefaultComponent">com.google.android.deskclock/com.android.deskclock.Screensaver</string>
+     <string name="config_ethernet_iface_regex">eth\\d</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="config_fusedLocationProviderPackageName">com.qualcomm.location</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="config_geofenceServicesProvider">com.qualcomm.location</string>
+     <string name="config_isoImagePath" />
      <string name="config_mms_user_agent" />
      <string name="config_mms_user_agent_profile_url" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="config_networkLocationProviderPackageName">com.qualcomm.location</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="config_ntpServer">2.android.pool.ntp.org</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="config_partial_segment_expire_age">2592000000</string>
+     <string name="config_tether_apndata" />
+     <string name="config_useragentprofile_url" />
+     <string name="config_wifi_p2p_device_type">10-0050F204-5</string>
+     <string name="config_wimaxManagerClassname" />
+     <string name="config_wimaxNativeLibLocation" />
+     <string name="config_wimaxServiceClassname" />
+     <string name="config_wimaxServiceJarLocation" />
+     <string name="config_wimaxStateTrackerClassname" />
      <string name="configure_input_methods">Настройка способов ввода</string>
      <string name="contentServiceSync">Синхр.</string>
      <string name="contentServiceSyncNotificationTitle">Синхр.</string>
@@ -159,6 +241,10 @@
      <string name="data_usage_warning_title">Осталось мало трафика</string>
      <string name="data_usage_wifi_limit_snoozed_title">Превышен лимит трафика Wi-Fi</string>
      <string name="data_usage_wifi_limit_title">Передача данных через Wi-Fi отключена</string>
+     <!-- The count of MNPS does not match! Now: 6 must: 7
+	%s: 0 must: 0
+	%d: 1 must: 0 -->
+     <!-- Original string: %b %-e, %Y, %-l:%M:%S %p -->
      <string name="date_and_time" formatted="false">%-k:%M:%S, %d.%m.%Y</string>
      <string name="date_picker_decrement_day_button">На день назад</string>
      <string name="date_picker_decrement_month_button">На месяц назад</string>
@@ -172,13 +258,23 @@
      <string name="date_time_set">Установить</string>
      <string name="day">дн.</string>
      <string name="days">дн.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="db_default_journal_mode">PERSIST</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="db_default_sync_mode">FULL</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="db_wal_sync_mode">FULL</string>
      <string name="decline">Отклонить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="defaultMsisdnAlphaTag">MSISDN1</string>
      <string name="defaultVoiceMailAlphaTag">Голосовая почта</string>
      <string name="default_audio_route_category_name">Система</string>
      <string name="default_audio_route_name">Телефон</string>
      <string name="default_audio_route_name_dock_speakers">Динамики док-станции</string>
      <string name="default_audio_route_name_headphones">Наушники</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_media_route_name_hdmi">HDMI</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_sms_application">com.android.mms</string>
      <string name="default_text_encoding">Автоопределение</string>
      <string name="delete">Удалить</string>
@@ -200,6 +296,7 @@
      <string name="display_manager_built_in_display_name">Встроенный экран</string>
      <string name="display_manager_hdmi_display_name">HDMI-экран</string>
      <string name="display_manager_overlay_display_name">Оверлей #%1$d</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="display_manager_overlay_display_secure_suffix">, secure</string>
      <string name="display_manager_overlay_display_title">%1$s: %2$dx%3$d, %4$d dpi</string>
      <string name="dlg_confirm_kill_storage_users_text">При подключении USB-накопителя некоторые приложения могут прекратить работу и оставаться недоступными до его отключения</string>
@@ -313,15 +410,26 @@
      <string name="httpErrorTooManyRequests">Обрабатывается слишком много запросов. Повторите попытку позднее.</string>
      <string name="httpErrorUnsupportedAuthScheme">Схема аутентификации сайта не поддерживается</string>
      <string name="httpErrorUnsupportedScheme">Протокол не поддерживается</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="icu_abbrev_wday_month_day_no_year">eeeMMMMd</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="imProtocolAim">AIM</string>
      <string name="imProtocolCustom">Создать свой ярлык</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="imProtocolGoogleTalk">Hangouts</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="imProtocolIcq">ICQ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="imProtocolJabber">Jabber</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="imProtocolMsn">Windows Live</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="imProtocolNetMeeting">NetMeeting</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="imProtocolQq">QQ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="imProtocolSkype">Skype</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="imProtocolYahoo">Yahoo</string>
      <string name="imTypeCustom">Создать свой ярлык</string>
      <string name="imTypeHome">Домашний</string>
@@ -334,6 +442,7 @@
      <string name="ime_action_previous">Пред.</string>
      <string name="ime_action_search">Поиск</string>
      <string name="ime_action_send">Отправить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="imei">IMEI</string>
      <string name="immersive_mode_confirmation">Проведите сверху вниз, чтобы выйти из полноэкранного режима</string>
      <string name="inputMethod">Способ ввода</string>
@@ -352,6 +461,7 @@
      <string name="js_dialog_before_unload_positive_button">Покинуть</string>
      <string name="js_dialog_before_unload_title">Подтверждение перехода</string>
      <string name="js_dialog_title">Подтвердите действие на %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="js_dialog_title_default">JavaScript</string>
      <string name="keyboard_headset_required_to_hear_password">Подключите гарнитуру, чтобы услышать пароль</string>
      <string name="keyboard_password_character_no_headset">Точка</string>
@@ -436,11 +546,14 @@
      <string name="list_delimeter">", "</string>
      <string name="loading">Загрузка…</string>
      <string name="locale_replacement" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lock_pattern_view_aspect">square</string>
      <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
      <string name="lockscreen_access_pattern_cleared">Графический ключ сброшен</string>
      <string name="lockscreen_access_pattern_detected">Графический ключ введен</string>
      <string name="lockscreen_access_pattern_start">Ввод графического ключа</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lockscreen_airplane_mode_on">Airplane Mode</string>
      <string name="lockscreen_battery_short">%d%%</string>
      <string name="lockscreen_carrier_default">Сеть не найдена</string>
      <string name="lockscreen_charged">Заряжено</string>
@@ -479,6 +592,8 @@
      <string name="lockscreen_plugged_in">Зарядка батареи (%d%%)</string>
      <string name="lockscreen_return_to_call">Вернуться к вызову</string>
      <string name="lockscreen_screen_locked">Экран заблокирован</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lockscreen_sim_error_message_short">Invalid Card.</string>
      <string name="lockscreen_sim_locked_message">SIM-карта заблокирована</string>
      <string name="lockscreen_sim_puk_locked_instructions">Ознакомьтесь с руководством пользователя или свяжитесь со службой поддержки</string>
      <string name="lockscreen_sim_puk_locked_message">SIM-карта заблокирована с помощью кода PUK</string>
@@ -521,90 +636,172 @@
      <string name="media_route_status_scanning">Сканирование…</string>
      <string name="media_shared">Сейчас USB-накопитель используется компьютером</string>
      <string name="media_unknown_state">Неизвестно состояние внешнего носителя</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_chinese_om_dai_pa_kai">Dai Pa Kai</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_chinese_om_jurro_ku_kai">Jurro Ku Kai</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_chinese_om_pa_kai">Pa Kai</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_chinese_prc_1">PRC 1</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_chinese_prc_10">PRC 10</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_chinese_prc_16k">PRC 16K</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_chinese_prc_2">PRC 2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_chinese_prc_3">PRC 3</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_chinese_prc_4">PRC 4</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_chinese_prc_5">PRC 5</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_chinese_prc_6">PRC 6</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_chinese_prc_7">PRC 7</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_chinese_prc_8">PRC 8</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_chinese_prc_9">PRC 9</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_chinese_roc_16k">ROC 16K</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_chinese_roc_8k">ROC 8K</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_a0">ISO A0</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_a1">ISO A1</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_a10">ISO A10</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_a2">ISO A2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_a3">ISO A3</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_a4">ISO A4</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_a5">ISO A5</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_a6">ISO A6</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_a7">ISO A7</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_a8">ISO A8</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_a9">ISO A9</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_b0">ISO B0</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_b1">ISO B1</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_b10">ISO B10</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_b2">ISO B2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_b3">ISO B3</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_b4">ISO B4</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_b5">ISO B5</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_b6">ISO B6</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_b7">ISO B7</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_b8">ISO B8</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_b9">ISO B9</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_c0">ISO C0</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_c1">ISO C1</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_c10">ISO C10</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_c2">ISO C2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_c3">ISO C3</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_c4">ISO C4</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_c5">ISO C5</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_c6">ISO C6</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_c7">ISO C7</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_c8">ISO C8</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_iso_c9">ISO C9</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_japanese_chou2">Chou2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_japanese_chou3">Chou3</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_japanese_chou4">Chou4</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_japanese_hagaki">Hagaki</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_japanese_jis_b0">JIS B0</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_japanese_jis_b1">JIS B1</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_japanese_jis_b10">JIS B10</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_japanese_jis_b2">JIS B2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_japanese_jis_b3">JIS B3</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_japanese_jis_b4">JIS B4</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_japanese_jis_b5">JIS B5</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_japanese_jis_b6">JIS B6</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_japanese_jis_b7">JIS B7</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_japanese_jis_b8">JIS B8</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_japanese_jis_b9">JIS B9</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_japanese_jis_exec">JIS Exec</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_japanese_kahu">Kahu</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_japanese_kaku2">Kaku2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_japanese_oufuku">Oufuku</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_japanese_you4">You4</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_na_foolscap">Foolscap</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_na_gvrnmt_letter">Government Letter</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_na_index_3x5">Index Card 3x5</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_na_index_4x6">Index Card 4x6</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_na_index_5x8">Index Card 5x8</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_na_junior_legal">Junior Legal</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_na_ledger">Ledger</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_na_legal">Legal</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_na_letter">Letter</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_na_monarch">Monarch</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_na_quarto">Quarto</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_na_tabloid">Tabloid</string>
      <string name="mediasize_unknown_landscape">Неизвестный горизонтальный формат</string>
      <string name="mediasize_unknown_portrait">Неизвестный вертикальный формат</string>
      <string name="megabyteShort">МБ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="meid">MEID</string>
      <string name="menu_delete_shortcut_label">удалить</string>
      <string name="menu_enter_shortcut_label">ввод</string>
@@ -618,6 +815,7 @@
      <string name="mmiFdnError">Операция возможна только для разрешенных номеров</string>
      <string name="mobile_provisioning_apn" />
      <string name="mobile_provisioning_url" />
+     <string name="mobile_redirected_provisioning_url">http://google.com</string>
      <string name="month_day_year" formatted="false">%-e %B %Y г.</string>
      <string name="more_item_label">Ещё</string>
      <string name="needPuk">SIM-карта заблокирована с помощью кода PUK. Для разблокировки введите код PUK.</string>
@@ -654,6 +852,11 @@
      <string name="org_unit">Подразделение организации:</string>
      <string name="owner_name">Владелец</string>
      <string name="passwordIncorrect">Неверный пароль</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="password_keyboard_label_alpha_key">ABC</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="password_keyboard_label_alt_key">ALT</string>
+     <string name="password_keyboard_label_symbol_key">\?123</string>
      <string name="paste">Вставить</string>
      <string name="perm_costs_money">Может взиматься плата</string>
      <string name="permdesc_accessCoarseLocation">Разрешает приложению получать данные о вашем примерном местоположении с помощью служб определения местоположения, вышек сотовой связи и точек доступа Wi-Fi. Эти службы должны быть включены на устройстве, а приложению должно быть разрешено их использовать.</string>
@@ -684,6 +887,7 @@
      <string name="permdesc_bindDeviceAdmin">Приложение сможет отправлять объекты intent администратору устройства. Это разрешение не используется обычными приложениями.</string>
      <string name="permdesc_bindGadget">Приложение сможет настраивать в системе возможность использования виджетов различными программами. Приложение с таким разрешением может предоставлять другим программам доступ к личным данным. Это разрешение не используется обычными приложениями.</string>
      <string name="permdesc_bindInputMethod">Приложение сможет подключаться к базовому интерфейсу системы ввода. Это разрешение не используется обычными приложениями.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permdesc_bindNfcService">Allows the holder to bind to applications that are emulating NFC cards. Should never be needed for normal apps.</string>
      <string name="permdesc_bindNotificationListenerService">Allows the holder to bind to the top-level interface of a notification listener service. Should never be needed for normal apps.</string>
      <string name="permdesc_bindPackageVerifier">Приложение сможет запрашивать проверку пакетов. Это разрешение не используется обычными приложениями.</string>
@@ -697,6 +901,7 @@
      <string name="permdesc_bind_call_service">Allows the app to control when and how the user sees the in-call screen.</string>
      <string name="permdesc_bluetooth">Приложение сможет просматривать конфигурацию Bluetooth на телефоне, а также запрашивать и подтверждать соединение с другими устройствами.</string>
      <string name="permdesc_bluetoothAdmin">Приложение сможет настраивать параметры локального телефона с поддержкой Bluetooth, а также обнаруживать удаленные устройства и выполнять сопряжение с ними.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permdesc_bluetoothPriv">Allows the app to pair with remote devices without user interaction.</string>
      <string name="permdesc_brick">Приложение сможет отключить все функции телефона. Это очень опасно.</string>
      <string name="permdesc_broadcastPackageRemoved">Приложение сможет рассылать уведомления об удалении пакета программы. Вредоносные программы смогут таким образом прекращать работу других программ.</string>
@@ -709,8 +914,11 @@
      <string name="permdesc_camera">Приложение сможет снимать фотографии и видеоролики с помощью камеры в любое время без вашего разрешения.</string>
      <string name="permdesc_cameraDisableTransmitLed">Allows a pre-installed system application to disable the camera use indicator LED.</string>
      <string name="permdesc_captureAudioHotword">Allows the app to capture audio for Hotword detection. The capture can happen in the background but does not prevent other audio capture (e.g. Camcorder).</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permdesc_captureAudioOutput">Allows the app to capture and redirect audio output.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permdesc_captureSecureVideoOutput">Allows the app to capture and redirect secure video output.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permdesc_captureVideoOutput">Allows the app to capture and redirect video output.</string>
      <string name="permdesc_changeBackgroundDataSetting">Приложение сможет изменять настройки использования трафика в фоновом режиме.</string>
      <string name="permdesc_changeComponentState">Приложение сможет включать и отключать компоненты других программ. Вредоносные программы смогут таким образом отключать важные функции телефона. Используйте это разрешение с особой осторожностью, чтобы случайно не нарушить работу компонентов приложения.</string>
@@ -726,6 +934,7 @@
      <string name="permdesc_configureWifiDisplay">Позволяет приложению изменять некоторые настройки Wi-Fi дисплея и подключаться.</string>
      <string name="permdesc_confirm_full_backup">Приложение сможет отображать окно подтверждения полного резервного копирования. Это разрешение не предназначено для всех приложений.</string>
      <string name="permdesc_controlWifiDisplay">Позволяет приложению изменять все настройки Wi-Fi дисплея.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permdesc_control_keyguard">Allows an application to control keguard.</string>
      <string name="permdesc_copyProtectedData">Приложение сможет вызывать службу контейнеров по умолчанию для копирования данных. Это разрешение не используется обычными приложениями.</string>
      <string name="permdesc_createNetworkSockets">Приложение сможет создавать сетевые сокеты и использовать различные сетевые протоколы. Так как браузер и другие приложения обеспечивают средства для отправки данных в Интернет, это разрешение предоставлять не обязательно.</string>
@@ -744,16 +953,19 @@
      <string name="permdesc_forceStopPackages">Приложение сможет принудительно останавливать работу других программ.</string>
      <string name="permdesc_freezeScreen">Позволяет приложению временно заморозить экран для перехода полноэкранный режим.</string>
      <string name="permdesc_getAccounts">Приложение сможет получить список всех используемых на устройстве аккаунтов, в том числе созданных установленными приложениями.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permdesc_getAppOpsStats">Allows the app to retrieve collected application operation statistics. Not for use by normal apps.</string>
      <string name="permdesc_getDetailedTasks">Приложение сможет получать подробные сведения о недавно запущенных и выполняемых задачах. При этом конфиденциальная информация о других приложениях не будет защищена от вредоносных программ.</string>
      <string name="permdesc_getPackageSize">Приложение сможет получать сведения о размере кода, данных и кэша.</string>
      <string name="permdesc_getTasks">Приложение сможет получать информацию о недавно запущенных и выполняемых задачах, а следовательно, и о приложениях, используемых на устройстве.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permdesc_getTopActivityInfo">Allows the holder to retrieve private information about the current application in the foreground of the screen.</string>
      <string name="permdesc_grantRevokePermissions">Позволяет приложению предоставлять и отзывать разрешения самому себе и другим программам. Вредоносные приложения могут использовать эту функцию для получения прав, которых вы им не предоставляли.</string>
      <string name="permdesc_hardware_test">Приложение сможет управлять различными периферийными устройствами для проверки аппаратного обеспечения.</string>
      <string name="permdesc_injectEvents">Приложение сможет передавать собственные входные события (нажатия клавиш и пр.) другим программам. Вредоносные программы смогут таким образом перехватить управление телефоном.</string>
      <string name="permdesc_installLocationProvider">Приложение сможет создавать фиктивные местоположения для тестирования или установки нового источника геоданных и переопределять местоположение и/или статус, возвращаемые другими источниками, такими как система GPS или службы геопозиционирования.</string>
      <string name="permdesc_installPackages">Приложение сможет устанавливать новые или обновленные пакеты Android. Вредоносные программы смогут таким образом добавлять новые программы с любыми разрешениями.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permdesc_install_shortcut">Allows an application to add Homescreen shortcuts without user intervention.</string>
      <string name="permdesc_interactAcrossUsers">Позволяет приложению выполнять некоторые действия для различных пользователей на устройстве. Вредоносные приложения могут использовать это для нарушения защиты.</string>
      <string name="permdesc_interactAcrossUsersFull">Позволяет приложению выполнять все действия для различных пользователей на устройстве.</string>
@@ -763,14 +975,19 @@
      <string name="permdesc_locationUpdates">Приложение сможет включать и отключать уведомления об обновлении местоположения на основе данных приемопередачика. Это разрешение не используется обычными приложениями.</string>
      <string name="permdesc_magnify_display">Позволяет приложению увеличивать отображение деталей.</string>
      <string name="permdesc_manageAccounts">Приложение сможет добавлять и удалять аккаунты, а также стирать их пароли.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permdesc_manageActivityStacks">Allows the app to add, remove, and modify the activity stacks in which other apps run. Malicious apps may disrupt the behavior of other apps.</string>
      <string name="permdesc_manageAppTokens">Приложение сможет создавать собственные токены и управлять ими в обход обычной Z-последовательности. Это разрешение не используется обычными приложениями.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permdesc_manageCaCertificates">Allows the app to install and uninstall CA certificates as trusted credentials.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permdesc_manageDeviceAdmins">Allows the holder to add or remove active device administrators. Should never be needed for normal apps.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permdesc_manageDocs">Allows the app to manage document storage.</string>
      <string name="permdesc_manageNetworkPolicy">Приложение сможет управлять сетевыми политиками и определять правила для отдельных приложений.</string>
      <string name="permdesc_manageUsb">Приложение сможет управлять настройками и разрешениями для USB-устройств.</string>
      <string name="permdesc_manageUsers">Позволяет приложению управлять пользователями на устройстве.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permdesc_markNetworkSocket">Allows the app to modify socket marks for routing</string>
      <string name="permdesc_masterClear">Приложение сможет выполнить полный сброс системы до заводских настроек, удалив все данные, параметры и установленные программы.</string>
      <string name="permdesc_mediaContentControl">Allows the app to control media playback and access the media information (title, author...).</string>
@@ -931,6 +1148,8 @@
      <string name="permgrouplab_voicemail">Доступ к голосовой почте</string>
      <string name="permgrouplab_wallpaper">Доступ к обоям</string>
      <string name="permgrouplab_writeDictionary">Редактирование словаря</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="permission">Permission</string>
      <string name="permission_request_notification_title">Разрешение запрошено</string>
      <string name="permission_request_notification_with_subtitle">"Требуется разрешение
 для аккаунта %s."</string>
@@ -1158,8 +1377,10 @@
      <string name="phoneTypeFaxHome">Домашний факс</string>
      <string name="phoneTypeFaxWork">Рабочий факс</string>
      <string name="phoneTypeHome">Домашний</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="phoneTypeIsdn">ISDN</string>
      <string name="phoneTypeMain">Основной</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="phoneTypeMms">MMS</string>
      <string name="phoneTypeMobile">Мобильный</string>
      <string name="phoneTypeOther">Другой</string>
@@ -1171,6 +1392,8 @@
      <string name="phoneTypeWork">Рабочий</string>
      <string name="phoneTypeWorkMobile">Рабочий моб.</string>
      <string name="phoneTypeWorkPager">Раб. пейджер</string>
+     <string name="pinpuk_attempts">"
+Attempts Remaining :"</string>
      <string name="policydesc_disableCamera">Запретить использование камер на устройстве</string>
      <string name="policydesc_disableKeyguardFeatures">Позволяет приложению предотвратить использование некоторых функций клавиатуры.</string>
      <string name="policydesc_encryptedStorage">Шифровать данные приложений в хранилище</string>
@@ -1204,6 +1427,7 @@
      <string name="print_service_installed_message">Нажмите для включения</string>
      <string name="print_service_installed_title">%s сервис установлен</string>
      <string name="progress_erasing">Очистка USB-накопителя…</string>
+     <string name="progress_nomediapresent">No removable media present…</string>
      <string name="progress_unmounting">Отключение USB-накопителя…</string>
      <string name="reason_service_unavailable">Служба печати недоступна</string>
      <string name="reason_unknown">неизвестно</string>
@@ -1292,8 +1516,10 @@
      <string name="serviceClassDataAsync">Асинхр.</string>
      <string name="serviceClassDataSync">Синхр.</string>
      <string name="serviceClassFAX">ФАКС</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="serviceClassPAD">PAD</string>
      <string name="serviceClassPacket">Пакет</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="serviceClassSMS">SMS</string>
      <string name="serviceClassVoice">Голосовая связь</string>
      <string name="serviceDisabled">Служба отключена</string>
@@ -1335,6 +1561,11 @@
      <string name="sms_short_code_confirm_allow">Отправить</string>
      <string name="sms_short_code_confirm_always_allow">Разрешить всегда</string>
      <string name="sms_short_code_confirm_deny">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <!-- The count of MNPS does not match! Now: 0 must: 2
+	%s: 0 must: 2
+	%d: 0 must: 0 -->
+     <!-- Original string: &lt;b>%1$s&lt;/b> would like to send a message to &lt;b>%2$s&lt;/b>. -->
      <string name="sms_short_code_confirm_message"></string>
      <string name="sms_short_code_confirm_never_allow">Запретить всегда</string>
      <string name="sms_short_code_details">Это <font fgcolor="#ffffb060">может привести к расходам</font> на вашем счету</string>
@@ -1347,7 +1578,20 @@
      <string name="ssl_ca_cert_warning">Сеть может контролироваться</string>
      <string name="ssl_certificate">Сертификат безопасности</string>
      <string name="ssl_certificate_is_valid">Этот сертификат действителен</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_notification_info_overflow">>999</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="stk_cc_ss_to_dial">SS request is modified to DIAL request.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="stk_cc_ss_to_ss">SS request is modified to new SS request.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="stk_cc_ss_to_ussd">SS request is modified to USSD request.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="stk_cc_ussd_to_dial">USSD request is modified to DIAL request.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="stk_cc_ussd_to_ss">USSD request is modified to SS request.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="stk_cc_ussd_to_ussd">USSD request is modified to new USSD request.</string>
      <string name="storage_internal">Внутренняя память</string>
      <string name="storage_sd_card">SD-карта</string>
      <string name="storage_usb">USB-накопитель</string>
@@ -1375,6 +1619,8 @@
      <string name="time_picker_increment_hour_button">На час вперед</string>
      <string name="time_picker_increment_minute_button">На минуту вперед</string>
      <string name="time_picker_increment_set_pm_button">Установить время после полудня</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="transient_navigation_confirmation_long">Swipe from edge of screen to reveal system bar</string>
      <string name="turn_off_radio">Отключить беспроводное соединение</string>
      <string name="turn_on_radio">Включить беспроводную связь</string>
      <string name="tutorial_double_tap_to_zoom_message_short">Нажмите дважды для изменения масштаба</string>
@@ -1426,6 +1672,8 @@
      <string name="vpn_title_long">Сеть VPN активирована приложением %s</string>
      <string name="wait">Подождать</string>
      <string name="wallpaper_binding_label">Фоновый рисунок</string>
+     <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
+     <string name="web_user_agent_target_content">"Mobile "</string>
      <string name="webpage_unresponsive">"Страница не отвечает.
 
 Закрыть ее?"</string>
@@ -1450,6 +1698,7 @@
      <string name="webviewchromium_date_picker_dialog_title">Установить дату</string>
      <string name="webviewchromium_date_time_picker_dialog_title">Установить дату и время</string>
      <string name="webviewchromium_low_memory_error">Не удалось завершить предыдущую операцию в связи с малым объемом памяти</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="webviewchromium_media_player_error_button">OK</string>
      <string name="webviewchromium_media_player_error_text_invalid_progressive_playback">К сожалению, это видео не подходит для потокового воспроизведения на этом устройстве</string>
      <string name="webviewchromium_media_player_error_text_unknown">Извините, это видео не может быть проиграно</string>
@@ -1463,6 +1712,8 @@
      <string name="weeks">нед.</string>
      <string name="whichApplication">Что использовать?</string>
      <string name="whichHomeApplication">Выбрать приложение</string>
+     <string name="widget_default_class_name" />
+     <string name="widget_default_package_name" />
      <string name="wifi_available_sign_in">Подключение к Wi-Fi</string>
      <string name="wifi_display_notification_connected_message">Подключено к %1$s</string>
      <string name="wifi_display_notification_connected_title">Удаленный дисплей подключен</string>
@@ -1481,6 +1732,7 @@
      <string name="wifi_p2p_show_pin_message">PIN-код:</string>
      <string name="wifi_p2p_to_message">Кому:</string>
      <string name="wifi_p2p_turnon_message">Начать соединение через Wi-Fi Direct. Модуль Wi-Fi будет отключен.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wifi_tether_configure_ssid_default">KDevPhone</string>
      <string name="wifi_watchdog_network_disabled">Не удалось подключиться к сети Wi-Fi</string>
      <string name="wifi_watchdog_network_disabled_detailed">" – плохое интернет-соединение"</string>
