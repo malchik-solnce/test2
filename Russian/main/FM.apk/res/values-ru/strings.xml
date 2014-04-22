@@ -81,7 +81,7 @@
      <string name="menu_stats">Статистика FM RF</string>
      <string name="msg_callactive">Невозможно прослушивать радио во время вызова</string>
      <string name="msg_do_not_support_fm">FM радио не поддерживается на этом устройстве</string>
-     <string name="msg_fm_starting">Запуск…</string>
+	 <string name="msg_fm_starting">Запуск…</string>
      <string name="msg_headsetpluggedin">Отключите наушники</string>
      <string name="msg_noantenna_message">Подключите наушники</string>
      <string name="msg_scanning">Сканирование станций…</string>
@@ -101,12 +101,13 @@
      <string name="preset_tune">Мелодия</string>
      <string name="presetlist_autoselect_title">Автоматический выбор</string>
      <string name="radio_text_string">Это длинное текстовое сообщение, которое нужно прокрутить</string>
-     <string name="record_completed">Запись завершена</string>
+	 <string name="record_completed">Запись завершена</string>
      <string name="record_error_file_removed">Запись удалена. Произошла неизвестная ошибка.</string>
      <string name="record_error_unknown">Запись остановлена. Произошла неизвестная ошибка.</string>
      <string name="record_fail">Ошибка записи</string>
      <string name="record_file_format">%1$s_%2$s</string>
      <string name="record_file_location_format">Сохранено в %s</string>
+     <string name="record_sucess">Запись сохранена</string>
      <string name="reduce_af">Уменьшить частоту</string>
      <string name="regional_band">Региональные группы</string>
      <string name="search_dialog_title">Сканировать станции</string>
@@ -138,9 +139,9 @@
      <string name="toast_channel_searched">Найдено станций: %1$d</string>
      <string name="toast_delete_station">%sМГц удалена</string>
      <string name="toast_edit_station">Изменения сохранены</string>
-     <string name="toast_fm_error_startfailed">Ошибка записи. Возможно другое приложение использует функцию записи. Проверьте и попробуйте снова.</string>
+	 <string name="toast_fm_error_startfailed">Ошибка записи. Возможно другое приложение использует функцию записи. Проверьте и попробуйте снова.</string>
      <string name="toast_fm_not_stated">Не указана станция</string>
-     <string name="toast_fm_recorder_access_error">Запись недоступна в гостевом режиме</string>
+	 <string name="toast_fm_recorder_access_error">Запись недоступна в гостевом режиме</string>
      <string name="toast_fm_recorder_internal_error">Ошибка записи радио</string>
      <string name="toast_fm_recorder_storage_full">Память заполнена. Запись невозможна.</string>
      <string name="toast_fm_seeking">Поиск станций…</string>

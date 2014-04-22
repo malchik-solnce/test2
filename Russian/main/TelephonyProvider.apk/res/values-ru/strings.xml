@@ -2,16 +2,11 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="app_label">Хранилище сообщений и журналов</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="default_cateogry_courier">Courier</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="default_cateogry_fraudulent">Fraudulent</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="default_cateogry_intermediary">Intermediary</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="default_cateogry_meal_delivery">Meal delivery</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="default_cateogry_sales">Sales</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mms_sms_provider_label">Messaging</string>
+     <string name="default_cateogry_courier">Курьер</string>
+     <string name="default_cateogry_fraudulent">Мошенник</string>
+     <string name="default_cateogry_intermediary">Посредник</string>
+     <string name="default_cateogry_meal_delivery">Доставка еды</string>
+     <string name="default_cateogry_sales">Продажи</string>
+     <string name="mms_sms_provider_label">Сообщения</string>
+	 <string name="sms_provider_label">Сообщения</string>
 </resources>

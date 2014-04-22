@@ -2,15 +2,13 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="all_downloads">Все загрузки</string>
-     <string name="app_downloads">Загрузки от приложения: %s</string>
+     <string name="app_downloads">Загрузки %s</string>
      <string name="app_label">Загрузки</string>
      <string name="button_sort_by_date">Сортировать по дате</string>
      <string name="button_sort_by_size">Сортировать по размеру</string>
      <string name="cancel_running_download">Отмена</string>
-     <string name="confirm_delete_downloads_message">"Очистить выбранные загрузки?
-
-Загрузок: %d"</string>
-     <string name="confirm_delete_the_download_item_message">Скачанное содержимое будет удалено!</string>
+     <string name="confirm_delete_downloads_message">Загрузок будет удалено: %d. Продолжить?</string>
+     <string name="confirm_delete_the_download_item_message">Скачанное содержимое будет удалено</string>
      <string name="delete_download">Удалить</string>
      <string name="delete_downloads_records">Удалить все загрузки</string>
      <string name="delete_the_downloaded_file">Удалить загруженные файлы</string>
@@ -30,7 +28,7 @@
      <string name="download_error">Ошибка</string>
      <string name="download_error_insufficient_space">Недостаточно места</string>
      <string name="download_in_process">В процессе</string>
-     <string name="download_info_count_deleted_tasks">Загрузок удалено: %s</string>
+     <string name="download_info_count_deleted_tasks">Удалено загрузок: %s</string>
      <string name="download_info_start_deleted_tasks">Подготовка к удалению</string>
      <string name="download_no_application_title">Не могу открыть файл</string>
      <string name="download_paused">Загрузка приостановлена</string>
@@ -38,11 +36,11 @@
      <string name="download_queued">В очереди</string>
      <string name="download_running">В процессе</string>
      <string name="download_share_dialog">Отправить по</string>
-     <string name="download_success">Завершено</string>
+     <string name="download_success">Завершен</string>
      <string name="download_title">Загрузки</string>
-     <string name="download_title_sorted_by_date">По дате</string>
-     <string name="download_title_sorted_by_size">По размеру</string>
-     <string name="download_when_network_connected">Будет использоваться также мобильная сеть</string>
+     <string name="download_title_sorted_by_date">Загрузки – по дате</string>
+     <string name="download_title_sorted_by_size">Загрузки – по размеру</string>
+     <string name="download_when_network_connected">Использовать мобильную сеть</string>
      <string name="downloads_operating">Загрузка…</string>
      <string name="editmode_menu_delete">Удалить</string>
      <string name="editmode_menu_share">Отправить</string>
@@ -63,23 +61,18 @@
      <string name="pref_summary_enable_max_bytes_popup">При использовании мобильных данных, предупредить перед истечением лимита</string>
      <string name="pref_summary_max_bytes_limit_format">Загружать файлы по Wi-Fi выше чем: %s</string>
      <string name="pref_summary_no_limit_popup">Лимит размера отключен</string>
-     <string name="pref_title_enable_max_bytes_popup">Предупреждать о лимите</string>
+     <string name="pref_title_enable_max_bytes_popup">Предупредить о лимите</string>
      <string name="preferences_title">Настройки</string>
      <string name="remove_download">Удалить</string>
      <string name="restart_download">Заново</string>
      <string name="resume_download">Далее</string>
-     <string name="retry_after_network_available">Повторите, когда сеть будет доступна</string>
+     <string name="retry_after_network_available">Повтори, когда сеть будет доступна</string>
      <string name="retry_download">Повтор</string>
      <string name="select_all">Выбрать все</string>
-     <string name="select_operation_items">Пожалуйста выберите</string>
+     <string name="select_operation_items">Пожалуйста выбери</string>
      <string name="selected_count">Выбрано %1$d из %2$d</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="turn_off_xunlei_message">You may experience slower download speeds.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="turn_off_xunlei_title">Disable Xunlei download engine</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="xunlei_brand">Powered by Xunlei</string>
-     <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="xunlei_switch">Xunlei download engine</string>
+     <string name="turn_off_xunlei_message">После отключения возможна более медленная скорость загрузки</string>
+     <string name="turn_off_xunlei_title">Отключение движка Xunlei</string>
+	 <string name="xunlei_brand">При поддержке Xunlei</string>
+	 <string name="xunlei_switch">Движок загрузок Xunlei</string>
 </resources>

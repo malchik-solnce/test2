@@ -13,12 +13,9 @@
      <string name="lnDesc">Натуральный логарифм</string>
      <string name="minusDesc">Минус</string>
      <string name="rightParenDesc">Правая скобка</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="scientific">scientific</string>
+     <string name="scientific">Научный</string>
      <string name="sqrtDesc">Квадратный корень</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="switch_to_scientific_pad">switch to scientific pad</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="switch_to_standard_pad">switch to standard pad</string>
+     <string name="switch_to_scientific_pad">переключиться в научный режим</string>
+     <string name="switch_to_standard_pad">переключиться в стандартный режим</string>
      <string name="text_copied_toast">Текст скопирован</string>
 </resources>

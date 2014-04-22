@@ -12,17 +12,17 @@
         <item>Будильник зазвонит через %1$s, %2$s и %3$s</item>
      </string-array>
      <string-array name="alarm_repeat_type">
-        <item>Once</item>
-        <item>Daily</item>
-        <item>Work days</item>
-        <item>Mon to Fri</item>
-        <item>Custom</item>
+        <item>Один раз</item>
+        <item>Ежедневно</item>
+        <item>Рабочие дни</item>
+        <item>Понедельник-пятница</item>
+        <item>Выбрать дни</item>
      </string-array>
      <string-array name="alarm_repeat_type_no_workdays">
-        <item>Once</item>
-        <item>Daily</item>
-        <item>Mon to Fri</item>
-        <item>Custom</item>
+        <item>Один раз</item>
+        <item>Ежедневно</item>
+        <item>Понедельник-пятница</item>
+        <item>Выбрать дни</item>
      </string-array>
      <string-array name="alarm_set">
         <item>Будильник зазвонит менее чем через минуту</item>
@@ -34,15 +34,15 @@
         <item>Будильник зазвонит через %2$s и %3$s</item>
         <item>Будильник зазвонит через %1$s, %2$s и %3$s</item>
      </string-array>
-     <!-- The size of the array does not match! Now: 8 must: 9 -->
      <string-array name="auto_silence_entries">
-        <item>5 минут</item>
-        <item>10 минут</item>
-        <item>15 минут</item>
-        <item>20 минут</item>
-        <item>25 минут</item>
-        <item>30 минут</item>
-        <item>Никогда</item>
+        <item>Отключено</item>
+        <item>1 минута</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
      </string-array>
      <string-array name="days">
         <item>Вчера</item>
@@ -50,17 +50,17 @@
         <item>Завтра</item>
      </string-array>
      <string-array name="snooze_duration_entries">
-        <item>1 minute</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>20 minutes</item>
-        <item>25 minutes</item>
-        <item>30 minutes</item>
+        <item>1 минута</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
      </string-array>
      <string-array name="volume_button_setting_entries">
+        <item>Нет</item>
         <item>Отложить</item>
         <item>Отключить</item>
-        <item>Ничего</item>
      </string-array>
 </resources>
