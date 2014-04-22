@@ -394,7 +394,7 @@
      <string name="minutes">%d минут</string>
      <string name="miui_copyright_title">Авторские права</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="miui_device_name">MIUI v5 MS</string>
+     <string name="miui_device_name">MIUI KK</string>
      <string name="miui_mibi_license_title">Лицензионное соглашение MiCredit</string>
      <string name="miui_privacy_policy_title">Политика конфиденциальности</string>
      <string name="miui_user_agreement_title">Пользовательское соглашение</string>

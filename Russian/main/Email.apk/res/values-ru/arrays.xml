@@ -1,38 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string-array name="account_providers">
-        <item>content://com.android.email.provider/uiaccts</item>
-     </string-array>
-     <string-array name="account_settings_mail_window_entries_exchange">
-        <item>@string/account_setup_options_mail_window_auto</item>
-        <item>@string/account_setup_options_mail_window_1day</item>
-        <item>@string/account_setup_options_mail_window_3days</item>
-        <item>@string/account_setup_options_mail_window_1week</item>
-        <item>@string/account_setup_options_mail_window_2weeks</item>
-        <item>@string/account_setup_options_mail_window_1month</item>
-        <item>@string/account_setup_options_mail_window_all</item>
-     </string-array>
-     <string-array name="account_settings_types">
-        <item>@string/account_type_exchange</item>
-        <item>@string/account_type_pop3</item>
-        <item>@string/account_type_imap</item>
-     </string-array>
-     <string-array name="account_settings_types_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-     </string-array>
      <string-array name="compose_modes">
         <item>Ответить</item>
         <item>Ответить всем</item>
         <item>Переслать</item>
-     </string-array>
-     <string-array name="default_quick_responses">
-        <item>@string/quick_1</item>
-        <item>@string/quick_2</item>
-        <item>@string/quick_3</item>
-        <item>@string/quick_4</item>
      </string-array>
      <string-array name="general_preference_text_zoom_summary_array">
         <item>Мелкий</item>
@@ -41,16 +13,6 @@
         <item>Большой</item>
         <item>Огромный</item>
      </string-array>
-     <array name="letter_tile_colors">
-        <item>#fff16364</item>
-        <item>#fff58559</item>
-        <item>#fff9a43e</item>
-        <item>#ffe4c62e</item>
-        <item>#ff67bf74</item>
-        <item>#ff59a2be</item>
-        <item>#ff2093cd</item>
-        <item>#ffad62a7</item>
-     </array>
      <string-array name="menu_att_mgr_sort_string_array">
         <item>По умолчанию</item>
         <item>Формат</item>
@@ -82,29 +44,6 @@
         <item>Только архивировать</item>
         <item>Только удалять</item>
         <item>Архивировать или удалять</item>
-     </string-array>
-     <string-array name="prefValues_autoAdvance">
-        <item>newer</item>
-        <item>older</item>
-        <item>list</item>
-     </string-array>
-     <string-array name="prefValues_removal_action">
-        <item>archive</item>
-        <item>delete</item>
-        <item>archive-and-delete</item>
-     </string-array>
-     <integer-array name="senders_lengths">
-        <item>27</item>
-        <item>27</item>
-     </integer-array>
-     <integer-array name="senders_with_attachment_lengths">
-        <item>25</item>
-        <item>25</item>
-     </integer-array>
-     <string-array name="smtp_host_prefixes">
-        <item>pop3</item>
-        <item>pop</item>
-        <item>imap</item>
      </string-array>
      <string-array name="sync_status">
         <item>Сихронизовано</item>
