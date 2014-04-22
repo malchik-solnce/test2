@@ -8,9 +8,7 @@
      <string name="accessibility_bluetooth_disconnected">Bluetooth-соединение разорвано</string>
      <string name="accessibility_bluetooth_tether">Bluetooth-модем</string>
      <string name="accessibility_clear_all">Удалить все уведомления</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="accessibility_compatibility_zoom_button">Кнопка масштабирования (режим совместимости)</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="accessibility_compatibility_zoom_example">Уменьшение изображения для увеличения свободного места на экране</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="accessibility_data_connection_3.5g">3.5G</string>
@@ -21,14 +19,12 @@
      <string name="accessibility_data_three_bars">Сигнал передачи данных: три деления</string>
      <string name="accessibility_data_two_bars">Сигнал передачи данных: два деления</string>
      <string name="accessibility_home">Главная страница</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="accessibility_ime_switch_button">Кнопка переключения способа ввода</string>
      <string name="accessibility_menu">Меню</string>
      <string name="accessibility_no_data">Сигнал передачи данных отсутствует</string>
      <string name="accessibility_no_phone">Сигнал телефонной сети отсутствует</string>
      <string name="accessibility_no_wifi">Отсутствует подключение к Wi-Fi</string>
      <string name="accessibility_no_wimax">Нет сигнала WiMAX</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="accessibility_notifications_button">Уведомления</string>
      <string name="accessibility_phone_one_bar">Сигнал телефонной сети: одно деление</string>
      <string name="accessibility_phone_signal_full">Надежный телефонный сигнал</string>
@@ -39,9 +35,7 @@
      <string name="accessibility_remove_notification">Удалить уведомление</string>
      <string name="accessibility_ringer_silent">Режим \"Без звука\"</string>
      <string name="accessibility_ringer_vibrate">Вибровызов</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="accessibility_rotation_lock_off">Экран будет поворачиваться автоматически</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="accessibility_settings_button">Настройки</string>
      <string name="accessibility_tty_enabled">Телетайп включен</string>
      <string name="accessibility_wifi_one_bar">Wi-Fi: одно деление</string>
@@ -76,13 +70,9 @@
      <string name="camera_key_action_shortcut_wake">Блокировка</string>
      <string name="camera_key_action_toggle_title">Переключатель</string>
      <string name="chooseUsbActivity">Выберите приложение для устройств USB</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="compat_mode_help_body">Если приложение рассчитано на экран меньших размеров, рядом с часами появятся средства масштабирования</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="compat_mode_help_header">Масштаб и совместимость</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="compat_mode_off">Растянуть на весь экран</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="compat_mode_on">Подогнать по размерам экрана</string>
      <string name="data_usage_disabled_dialog">"Достигнут лимит трафика.
 
@@ -115,9 +105,7 @@
      <string name="ext_media_safe_unmount_notification_title">Можете извлечь</string>
      <string name="ext_media_unmountable_notification_message">Поврежденное USB-хранилище. Пожалуйста отформатируйте его.</string>
      <string name="ext_media_unmountable_notification_title">Поврежденное USB-хранилище</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="filter_item_description">Чтобы настроить уведомления, перейдите в настройки > уведомления > настроить уведомления</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="filter_item_preview_image">Просмотр</string>
      <string name="gps_notification_found_text">Местополож. определено по GPS</string>
      <string name="gps_notification_searching_text">Поиск GPS</string>
@@ -126,7 +114,6 @@
      <string name="headset_settings">Подключена гарнитура</string>
      <string name="invalid_charger">"Зарядка по USB порту не поддерживается.
 Используйте зарядное устройство из комплекта поставки."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="key_position_custom">Положение кнопки</string>
      <string name="label_view">Вид</string>
      <string name="lockscreen_carrier_default">(нет сети)</string>
@@ -155,25 +142,19 @@
      <string name="notification_otg_trackball_out">Трекбол отключен</string>
      <string name="notification_otg_unknow_in">Устройство OTG подключено</string>
      <string name="notification_otg_unknow_out">Устройство OTG отключено</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="notifications_off_text">Нажмите здесь, чтобы снова включить уведомления</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="notifications_off_title">Уведомления отключены</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="oldman_airplane_mode_text">Режим полета</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="oldman_incall_text">incall</string>
      <string name="oldman_status_bar_time_format">HH:mm</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="recent_apps_key">Недавние приложения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="recent_apps_key_show">Показывать кнопку недавних приложений</string>
      <string name="return_to_incall_screen">Нажмите для возврата к разговору</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="screen_button_custom">Настройка кнопок</string>
      <string name="screen_button_disabled_message">Нижние клавиши отключены. Вы можете включить их снова, нажав клавиши \"Домой\" + \"Питание\".</string>
      <string name="screen_button_enabled_message">Нижние клавиши включены</string>
-	 <string name="screen_key_back">Назад</string>
+     <string name="screen_key_back">Назад</string>
      <string name="screen_key_home">Домой</string>
      <string name="screen_key_menu">Меню</string>
      <string name="screen_key_recent_apps">Последние приложения</string>
@@ -186,18 +167,18 @@
      <string name="screenshot_saving_title">"Скриншот сохраняется "</string>
      <string name="settings_advanced">Дополнительные настройки</string>
      <string name="settings_all_app_display_loading">Загрузка, подождите…</string>
-	 <string name="settings_basic_settings">Основные настройки</string>
+     <string name="settings_basic_settings">Основные настройки</string>
      <string name="settings_custom_carrier">Имя оператора</string>
      <string name="settings_custom_notification">Настроить уведомления</string>
      <string name="settings_expandable_under_keyguard">На экране блокировки</string>
-	 <string name="settings_no_carrier">Ничего</string>
+     <string name="settings_no_carrier">Ничего</string>
      <string name="settings_notification_bar">Панель уведомлений</string>
-	 <string name="settings_show_carrier">Имя оператора</string>
+     <string name="settings_show_carrier">Имя оператора</string>
      <string name="settings_show_carrier_summary">Отображать только на экране блокировки</string>
      <string name="settings_show_flow_info">Показывать трафик</string>
      <string name="settings_show_network_speed">Скорость сети</string>
      <string name="settings_show_notificationBar_notification">Уведомления в панели</string>
-	 <string name="settings_show_screenshot_notification">Показывать скриншоты</string>
+     <string name="settings_show_screenshot_notification">Показывать скриншоты</string>
      <string name="settings_show_statusBar_notification">Уведомления в строке</string>
      <string name="settings_status_bar">Строка состояния</string>
      <string name="settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
@@ -210,7 +191,7 @@
      <string name="settings_toggle_position_divider_page">%1$d переключателей выше - показываются</string>
      <string name="settings_toggle_position_reset">Сбросить переключатели</string>
      <string name="share">Поделиться</string>
-	 <string name="status_bar_and_notification_bar">Панель уведомлений и статус-бар</string>
+     <string name="status_bar_and_notification_bar">Панель уведомлений и статус-бар</string>
      <string name="status_bar_date_format">"EEEE
 d MMMM yyyy"</string>
      <string name="status_bar_input_method_settings_configure_input_methods">Настроить способы ввода</string>
@@ -238,6 +219,7 @@ d MMMM yyyy"</string>
      <string name="status_bar_style_settings">Настройки панели</string>
      <string name="status_bar_toggle_ac">Доступ</string>
      <string name="status_bar_toggle_auto_brightness">Автоподсв.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_toggle_bluetooth">Bluetooth</string>
      <string name="status_bar_toggle_brightness">Подсветка</string>
      <string name="status_bar_toggle_data">Интернет</string>

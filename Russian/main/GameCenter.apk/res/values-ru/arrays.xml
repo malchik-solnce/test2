@@ -10,12 +10,29 @@
         <item>Местонахождение:</item>
         <item>Хобби:</item>
      </string-array>
-	 <string-array name="average_score_star">
+     <string-array name="alipay_choices">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>50</item>
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+        <item>500</item>
+        <item>1000</item>
+     </string-array>
+     <string-array name="average_score_star">
         <item>1 звезда</item>
         <item>2 звезды</item>
         <item>3 звезды</item>
         <item>4 звезды</item>
         <item>5 звезд</item>
+     </string-array>
+     <string-array name="category_game_sort_type">
+        <item>@string/category_game_sort_default</item>
+        <item>@string/category_game_sort_rank</item>
+        <item>@string/category_game_sort_favourate</item>
+        <item>@string/category_game_sort_download</item>
      </string-array>
      <string-array name="cities">
         <item>Beijing</item>
@@ -388,6 +405,11 @@
         <item>Log in with Xiaomi</item>
         <item>Log in with Gmail</item>
      </string-array>
+     <string-array name="game_detail_feetype">
+        <item>@string/game_detail_fee_type_1</item>
+        <item>@string/game_detail_fee_type_2</item>
+        <item>@string/game_detail_fee_type_3</item>
+     </string-array>
      <string-array name="game_fee">
         <item>Pay</item>
         <item>In-app purchases</item>
@@ -401,7 +423,7 @@
         <item>access contacts</item>
         <item>access device number</item>
      </string-array>
-     <!-- The size of the array does not match! Now: 24 must: 26 -->
+     <!-- The size of the array does not match! Now: 24 must: 31 -->
      <string-array name="game_tag">
         <item>Экшен</item>
         <item>新服</item>
@@ -427,6 +449,39 @@
         <item>碉堡</item>
         <item>收费</item>
      </string-array>
+     <array name="game_tag_color">
+        <item>@color/gametag_color_01</item>
+        <item>@color/gametag_color_02</item>
+        <item>@color/gametag_color_03</item>
+        <item>@color/gametag_color_04</item>
+        <item>@color/gametag_color_05</item>
+        <item>@color/gametag_color_06</item>
+        <item>@color/gametag_color_07</item>
+        <item>@color/gametag_color_08</item>
+        <item>@color/gametag_color_09</item>
+        <item>@color/gametag_color_10</item>
+        <item>@color/gametag_color_11</item>
+        <item>@color/gametag_color_12</item>
+        <item>@color/gametag_color_13</item>
+        <item>@color/gametag_color_14</item>
+        <item>@color/gametag_color_15</item>
+        <item>@color/gametag_color_16</item>
+        <item>@color/gametag_color_17</item>
+        <item>@color/gametag_color_18</item>
+        <item>@color/gametag_color_19</item>
+        <item>@color/gametag_color_20</item>
+        <item>@color/gametag_color_21</item>
+        <item>@color/gametag_color_22</item>
+        <item>@color/gametag_color_23</item>
+        <item>@color/gametag_color_23</item>
+        <item>@color/gametag_color_23</item>
+        <item>@color/gametag_color_23</item>
+        <item>@color/gametag_color_23</item>
+     </array>
+     <string-array name="genders">
+        <item>@string/gender_male</item>
+        <item>@string/gender_female</item>
+     </string-array>
      <string-array name="hot_cities">
         <item>Beijing</item>
         <item>Shanghai</item>
@@ -435,6 +490,43 @@
      </string-array>
      <string-array name="intergral_rule">
         <item>How to get points?</item>
+     </string-array>
+     <string-array name="locations">
+        <item>@string/locations_beijing</item>
+        <item>@string/locations_guangdong</item>
+        <item>@string/locations_shanghai</item>
+        <item>@string/locations_tianjin</item>
+        <item>@string/locations_chongqin</item>
+        <item>@string/locations_liaoning</item>
+        <item>@string/locations_jiangsu</item>
+        <item>@string/locations_sichuan</item>
+        <item>@string/locations_shanxi3</item>
+        <item>@string/locations_hebei</item>
+        <item>@string/locations_shanxi</item>
+        <item>@string/locations_henan</item>
+        <item>@string/locations_jilin</item>
+        <item>@string/locations_heilongjiang</item>
+        <item>@string/locations_neimenggu</item>
+        <item>@string/locations_shandong</item>
+        <item>@string/locations_anhui</item>
+        <item>@string/locations_zhejiang</item>
+        <item>@string/locations_fujian</item>
+        <item>@string/locations_hunan</item>
+        <item>@string/locations_guangxi</item>
+        <item>@string/locations_jiangxi</item>
+        <item>@string/locations_guizhou</item>
+        <item>@string/locations_yunnan</item>
+        <item>@string/locations_tibet</item>
+        <item>@string/locations_hainan</item>
+        <item>@string/locations_gansu</item>
+        <item>@string/locations_ningxia</item>
+        <item>@string/locations_qinghai</item>
+        <item>@string/locations_xinjiang</item>
+        <item>@string/locations_hongkong</item>
+        <item>@string/locations_macao</item>
+        <item>@string/locations_taiwan</item>
+        <item>@string/locations_overseas</item>
+        <item>@string/locations_hubei</item>
      </string-array>
      <string-array name="my_page_dialog_hint">
         <item>4-18 characters: (letters, characters, and numbers)</item>
@@ -659,6 +751,165 @@
         <item>System tools</item>
         <item>Other</item>
      </string-array>
+     <string-array name="permission_id">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+        <item>86</item>
+        <item>87</item>
+        <item>88</item>
+        <item>89</item>
+        <item>90</item>
+        <item>91</item>
+        <item>92</item>
+        <item>93</item>
+        <item>94</item>
+        <item>95</item>
+        <item>96</item>
+        <item>97</item>
+        <item>98</item>
+        <item>99</item>
+        <item>100</item>
+        <item>101</item>
+        <item>102</item>
+        <item>103</item>
+        <item>104</item>
+        <item>105</item>
+        <item>106</item>
+        <item>107</item>
+        <item>108</item>
+        <item>109</item>
+        <item>110</item>
+        <item>111</item>
+        <item>112</item>
+        <item>113</item>
+        <item>114</item>
+        <item>115</item>
+        <item>116</item>
+        <item>117</item>
+        <item>118</item>
+        <item>119</item>
+        <item>120</item>
+        <item>121</item>
+        <item>122</item>
+        <item>123</item>
+        <item>124</item>
+        <item>125</item>
+        <item>126</item>
+        <item>127</item>
+        <item>128</item>
+        <item>129</item>
+        <item>130</item>
+        <item>131</item>
+        <item>132</item>
+        <item>133</item>
+        <item>134</item>
+        <item>135</item>
+        <item>136</item>
+        <item>137</item>
+        <item>138</item>
+        <item>139</item>
+        <item>140</item>
+        <item>141</item>
+        <item>142</item>
+        <item>143</item>
+        <item>144</item>
+        <item>145</item>
+        <item>146</item>
+        <item>147</item>
+        <item>148</item>
+        <item>149</item>
+        <item>150</item>
+        <item>151</item>
+        <item>152</item>
+        <item>153</item>
+        <item>154</item>
+        <item>155</item>
+        <item>156</item>
+        <item>157</item>
+     </string-array>
      <string-array name="permission_label">
         <item>coarse (network-based) location</item>
         <item>fine (GPS) location</item>
@@ -818,6 +1069,11 @@
         <item>write to your social stream</item>
         <item>write sync settings</item>
      </string-array>
+     <string-array name="purchase_record_types">
+        <item>@string/purchase_record_type_all</item>
+        <item>@string/purchase_record_type_today</item>
+        <item>@string/purchase_record_type_thismonth</item>
+     </string-array>
      <string-array name="select_photos">
         <item>Сделать фото</item>
         <item>Выбрать</item>
@@ -843,6 +1099,12 @@
      <string-array name="user_level_rule_value">
         <item>+5 опыта (1x в день)</item>
         <item>+5 опыта (5x в день)</item>
+     </string-array>
+     <string-array name="vip_info_values">
+        <item>pts</item>
+        <item>credits</item>
+        <item>level</item>
+        <item>games</item>
      </string-array>
      <string-array name="vip_level_rule">
         <item>How to upgrade</item>
@@ -880,7 +1142,7 @@
         <item>VIP GamePack</item>
         <item>Please complete user info</item>
      </string-array>
-	 <string-array name="weeks">
+     <string-array name="weeks">
         <item></item>
         <item>Sunday</item>
         <item>Monday</item>

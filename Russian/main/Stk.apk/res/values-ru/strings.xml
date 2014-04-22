@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="airplanemode">Не удалось запустить приложение. Включен режим полета.</string>
      <string name="alphabet">Алфавит</string>
      <string name="app_name">Инструменты SIM-карты</string>
      <string name="app_name2">Инструменты SIM-карты 2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_name3">SIM Toolkit3</string>
      <string name="button_cancel">Отмена</string>
      <string name="button_no">Нет</string>
      <string name="button_ok">ОК</string>
@@ -15,6 +16,8 @@
      <string name="default_receive_data_msg">Прием данных...</string>
      <string name="default_send_data_msg">Отправка данных...</string>
      <string name="default_setup_call_msg">Настройка вызова...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="default_tone_dialog_msg">Playing Tone</string>
      <string name="digits">Цифры (0-9, *, #, +)</string>
      <string name="disable_app">Отключено</string>
      <string name="enable_app">Включено</string>

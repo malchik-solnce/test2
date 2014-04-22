@@ -53,7 +53,7 @@
      <string name="online_no_network">Не удается подключиться к сети</string>
      <string name="online_search_hint">Поиск ресурсов</string>
      <string name="payment_info">Мой Mi</string>
-	 <string name="purchased_list">Список покупок</string>
+     <string name="purchased_list">Список покупок</string>
      <string name="resource_account_abnormal_state">Ошибка аккаунта. Попробуй позже.</string>
      <string name="resource_account_fail_to_add">Ошибка добавления аккаунта!</string>
      <string name="resource_account_login">Войти</string>
@@ -63,7 +63,7 @@
      <string name="resource_alarm_default">Будильник</string>
      <string name="resource_app_name">Компоненты</string>
      <string name="resource_apply">Применить</string>
-	 <string name="resource_apply_trial">Попробовать</string>
+     <string name="resource_apply_trial">Попробовать</string>
      <string name="resource_buy">"Купить "</string>
      <string name="resource_can_not_selected">%1$s не может быть выбран!</string>
      <string name="resource_category">Категории</string>
@@ -119,10 +119,11 @@
      <string name="resource_detail_update_log_title">Что нового</string>
      <string name="resource_detail_window_title">Информация %1$s</string>
      <string name="resource_download">Скачать</string>
-	 <string name="resource_download_trial">Попробовать</string>
+     <string name="resource_download_trial">Попробовать</string>
      <string name="resource_downloaded_title">Загруженные ресурсы</string>
      <string name="resource_downloading">Загрузка</string>
      <string name="resource_exchange">Принять</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_exchange_confirm">OK</string>
      <string name="resource_exchange_empty_format">Введите код!</string>
      <string name="resource_exchange_has_bought">Вы уже купили эту тему</string>
@@ -147,7 +148,7 @@
      <string name="resource_get_auth_missing">Тема не скачана с официального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
      <string name="resource_get_auth_retrieving">Получение авторизации…</string>
      <string name="resource_hint">Внимание</string>
-	 <string name="resource_import_failed">Ошибка импорта</string>
+     <string name="resource_import_failed">Ошибка импорта</string>
      <string name="resource_import_successful">Загрузка завершена</string>
      <string name="resource_importing">Импортирование</string>
      <string name="resource_list_title">Последние поступления</string>
@@ -157,7 +158,7 @@
      <string name="resource_my">Телефон</string>
      <string name="resource_no_result">Нет результатов</string>
      <string name="resource_notification_default">Уведомл.</string>
-	 <string name="resource_on_trial">Триал: %1$s</string>
+     <string name="resource_on_trial">Триал: %1$s</string>
      <string name="resource_online">Онлайн %1$s</string>
      <string name="resource_pack_confirm">Вы уже приобрели %1$d элементов. Но текущая цена имеет скидку, чем покупка по отдельности. Продолжить?</string>
      <string name="resource_pack_discount_info">Скидка: %1$s</string>
@@ -174,7 +175,7 @@
      <string name="resource_ranking_free">Бесплатные</string>
      <string name="resource_ranking_purchase">Платные</string>
      <string name="resource_ringtone_default">Мелодии</string>
-	 <string name="resource_ringtone_playing_error">ошибка проигрывания</string>
+     <string name="resource_ringtone_playing_error">ошибка проигрывания</string>
      <string name="resource_ringtone_volume_mute">Громкость мелодии отключена</string>
      <string name="resource_save_to_note">Сохранить в заметки</string>
      <string name="resource_see_more">Еще</string>
@@ -190,7 +191,7 @@
      <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
      <string name="resource_title">Сведения</string>
      <string name="resource_title_select_ringtone">Выберите мелодию</string>
-	 <string name="resource_trial_end_message">Пробное время использования %1$s закончилось. Купите, если понравилось :)</string>
+     <string name="resource_trial_end_message">Пробное время использования %1$s закончилось. Купите, если понравилось :)</string>
      <string name="resource_trial_end_purchase">Купить</string>
      <string name="resource_trial_end_restore">Отмена</string>
      <string name="resource_trial_end_title">Пробное время вышло</string>
@@ -199,6 +200,7 @@
 контент который Вы сейчас смотрите, в настоящее время недоступен в Вашем регионе"</string>
      <string name="resource_unknow_error">Неизвестная ошибка</string>
      <string name="resource_update">Обновить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_user_know">OK</string>
      <string name="resource_waiting_download">Ожидание</string>
      <string name="restore_default_theme_alert">Вы можете стать жертвой подделки темы. Перейдите в магазин тем, чтобы купить или повторно загрузить тему.</string>

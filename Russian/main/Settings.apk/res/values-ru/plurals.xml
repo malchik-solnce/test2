@@ -25,7 +25,7 @@
         <item quantity="other">Пароль должен содержать заглавные буквы (не менее %d)</item>
         <item quantity="one">Пароль должен содержать хотя бы 1 заглавную букву</item>
      </plurals>
-	 <plurals name="manage_notification_access_summary_nonzero">
+     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">Приложений читающих уведомления: %d</item>
         <item quantity="one">Приложений читающих уведомления: %d</item>
      </plurals>
@@ -41,8 +41,16 @@
         <item quantity="other">"%d мин. "</item>
         <item quantity="one">"%d мин. "</item>
      </plurals>
-	 <plurals name="show_dev_countdown">
+     <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s printers found</item>
+        <item quantity="one">%1$s printer found</item>
+     </plurals>
+     <plurals name="show_dev_countdown">
         <item quantity="other">Теперь вы находитесь в %1$d шагах от становления разработчиком</item>
         <item quantity="one">Теперь вы находитесь в %1$d шаге от становления разработчиком</item>
+     </plurals>
+     <plurals name="wrong_pin_code">
+        <item quantity="other">Incorrect SIM PIN code, you have %d remaining attempts.</item>
+        <item quantity="one">Incorrect SIM PIN code, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
      </plurals>
 </resources>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <plurals name="actionbar_unread_messages">
         <item quantity="other">Новых сообщений: %1$d</item>
@@ -19,6 +19,10 @@
      <plurals name="confirm_discard_drafts_conversation">
         <item quantity="one">Удалить черновики из этой цепочки?</item>
         <item quantity="other">Удалить черновики из этих цепочек (%1$d)?</item>
+     </plurals>
+     <plurals name="contact_num_selected">
+        <item quantity="other">%d selected</item>
+        <item quantity="one">1 selected</item>
      </plurals>
      <plurals name="conversation_archived">
         <item quantity="one">Заархивировано: (<b>%1$d</b>)</item>

@@ -26,7 +26,6 @@
      <string name="christmas_day">Рождество</string>
      <string name="clear_and_bright">Чинг Минг</string>
      <string name="cold_dews">Холодные росы</string>
-     <string name="contact_carrier_message">Пожалуйста, свяжись с оператором по любому вопросу</string>
      <string name="country_name_ac">Вознесение</string>
      <string name="country_name_ad">Андорра</string>
      <string name="country_name_ae">Объединенные Арабские Эмираты</string>
@@ -300,8 +299,6 @@
      <string name="deprecated_81" />
      <string name="deprecated_82" />
      <string name="deprecated_83" />
-     <string name="deprecated_84" />
-     <string name="deprecated_85" />
      <string name="deprecated_alarm_message_12_hour_formate" />
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="device_hongmi">Xiaomi Red</string>
@@ -309,7 +306,6 @@
      <string name="device_xiaomi">Xiaomi</string>
      <string name="double_seventh_day">Танабата</string>
      <string name="easter">復活節</string>
-     <string name="emergency_call_string">Экстренные</string>
      <string name="err_resource_leak">К сожалению, \"%1$s\" остановлен для избежания утечки ресурсов</string>
      <string name="error_forbidden">Ошибки в аккаунте. Синхронизация отключена.</string>
      <string name="error_not_acceptable">Ошибки на сервере. Синхронизация отключена.</string>
@@ -337,7 +333,6 @@
 Настройки -> Система -> Кнопки"</string>
      <string name="fools_day">День дураков</string>
      <string name="force_exit_message">Приложение \"%1$s\" закрыто</string>
-     <string name="forget_password_string">Забыл пароль?</string>
      <string name="format_time_in_12_hours">hh:mma</string>
      <string name="global_action_privacy_mode_dialog_message">В режиме гостя сообщения, журналы вызовов и заметки будут скрыты, а также ты не сможешь редактировать рабочий стол</string>
      <string name="global_action_toggle_privacy_mode">Гость</string>
@@ -357,41 +352,17 @@
      <string name="hksar_establishment_day">行政區成立</string>
      <string name="hoar_frost_falls">Заморозки</string>
      <string name="hours">%d часов</string>
-     <string name="incorrect_pincode">Неверный PIN-код</string>
-     <string name="incorrect_pincode_remaining_attempts">Неверный PIN-код. Осталось попыток: %d.</string>
-     <string name="incorrect_pukcode">Неверный PUK-код</string>
-     <string name="incorrect_pukcode_remaining_attempts">Неверный PUK-код. Осталось попыток: %d.</string>
-     <string name="input_pin_code">PIN-код</string>
-     <string name="input_pin_code_to_unlock">Введи PIN-код для разблокировки</string>
-     <string name="input_puk_code">PUK-код</string>
-     <string name="input_puk_code_to_unlock">Введи PUK-код для разблокировки устройства</string>
      <string name="insects_awaken">Пробуждение насекомых</string>
      <string name="international_womens_day">Международный женский день</string>
      <string name="labour_day">Первомайские</string>
      <string name="lantern_festival">Фестиваль фонарей</string>
      <string name="light_snow">Легкий снег</string>
-     <string name="lock_screen_date">"d MMMM yyyy 
- EEEE"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lockscreen_access_pattern_cell_added">Cell added</string>
      <string name="lockscreen_access_pattern_cleared">Шаблон очищен</string>
      <string name="lockscreen_access_pattern_detected">Шаблон распознан</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lockscreen_access_pattern_start">Pattern started</string>
-     <string name="lockscreen_emergency_call">Экстренный вызов</string>
-     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d раз был неправильно введен пароль. После %d неудачных попыток, тебе будет предложено разблокировать телефон с помощью аккаунта.
-
- Попробуй снова через %d секунд."</string>
-     <string name="lockscreen_forgot_pattern_button_text">Забыл пароль?</string>
-     <string name="lockscreen_pattern_instructions">Нарисуй шаблон, чтобы разблокировать</string>
-     <string name="lockscreen_pattern_wrong">Попробуй еще раз</string>
-     <string name="lockscreen_too_many_failed_attempts_countdown">Повтори через %d секунд</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="lockscreen_transport_next_description">Next track button</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="lockscreen_transport_play_description">Play button</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="lockscreen_transport_prev_description">Previous track button</string>
      <string name="lockscreen_unlock_sim_via_puk">Введи PUK-код, чтобы разблокировать SIM-карту</string>
      <string name="login_website_in_case_forget_password">Посети http://i.xiaomi.com для сброса пароля</string>
      <string name="lunar_ba" />
@@ -426,7 +397,6 @@
      <string name="miui_device_name">MIUI v5 MS</string>
      <string name="miui_mibi_license_title">Лицензионное соглашение MiCredit</string>
      <string name="miui_privacy_policy_title">Политика конфиденциальности</string>
-     <string name="miui_unlockscreen_password_wrong">Попробуй еще раз</string>
      <string name="miui_user_agreement_title">Пользовательское соглашение</string>
      <string name="miui_user_manual_title">Руководство</string>
      <string name="month_of_april">Апр</string>
@@ -463,17 +433,13 @@
      <string name="perm_use_find_device">Обнаружение устройства</string>
      <string name="permdesc_accessNote">Приложение сможет считывать и изменять заметки, которые хранятся на вашем телефоне. Вредоносные программы могут использовать эту возможность для передачи заметок другим людям или удаления всех заметок.</string>
      <string name="permlab_accessNote">Доступ к заметкам</string>
-     <string name="pin_operation_failed">Ошибка PIN кода</string>
-     <string name="pincode_set_to_default_msg">PIN-код установлен как 1234. Сбрось его здесь.</string>
      <string name="private_num">Скрытый номер</string>
      <string name="provider_114">Предоставлено 114号码百事通</string>
      <string name="provider_sougou">Предоставлено Sogou</string>
-     <string name="puk_operation_failed">Ошибка PUK кода</string>
      <string name="reboot_confirm">Перезагрузить устройство?</string>
      <string name="reboot_confirm_title">Перезагрузить устройство?</string>
      <string name="reboot_progress">Перезагрузка…</string>
      <string name="retrocession_day">光復節</string>
-     <string name="return_to_me_message">Пожалуйста, верните, если я потерял</string>
      <string name="reverse_all">Очистить выделение</string>
      <string name="safetylegal_activity_unreachable">Ваш телефон не подключен к сети. Для просмотра этой информации в настоящее время, перейдите к %s с любого компьютера.</string>
      <string name="screen_button_notification_text">"Нажми 'Home'+'Power' для включения"</string>
@@ -491,8 +457,6 @@
      <string name="send_sms_for_sync_notice">Будет отправлено SMS сообщение для активации. Продолжить?</string>
      <string name="send_sms_for_sync_title">Отправка SMS для активации синхронизации</string>
      <string name="share">Поделиться</string>
-     <string name="short_pincode_error_msg">Введи 4-8 цифр</string>
-     <string name="short_pukcode_error_msg">Введи не меньше 8 цифр</string>
      <string name="shutdown_confirm_title">Выключить устройство?</string>
      <string name="sim_account_name">SIM-карта</string>
      <string name="sim_changed_reactivate_int_notice">Текущая SIM-карта не активирована. Необходима отправка международного SMS для активации услуги Xiaomi синхронизации. Продолжить?</string>
@@ -511,7 +475,7 @@
      <string name="summer_solstice">Летнее солнцестояние</string>
      <string name="sync_one_time_sync">Нажмите для синхронизации (%1$s)</string>
      <string name="teachers_day">День учителя</string>
-	 <string name="text_copied">Текст скопирован</string>
+     <string name="text_copied">Текст скопирован</string>
      <string name="text_cut">Текст вырезан</string>
      <string name="text_pastelist">Буфер обмена</string>
      <string name="the_armys_day">День Армии</string>
@@ -530,12 +494,6 @@
      <string name="united_nations_day">聯合國日</string>
      <string name="unknown">Неизвестный номер</string>
      <string name="unknown_caller">Неизвестный абонент</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="unlock_string">OK</string>
-     <string name="unlocking_sim_card">Разблокировка SIM-карты</string>
-     <string name="unlockscreen_low_battery">Подключи зарядное устройство</string>
-     <string name="unlockscreen_recharge_completed">Зарядка завершена</string>
-     <string name="unlockscreen_recharging_message">Идет зарядка - %d%%</string>
      <string name="user_agreement1">Ты будешь использовать системы и интернет-услуги, предоставляемые Xiaomi. Пожалуйста, прочитай</string>
      <string name="user_agreement2">" Пользовательское соглашение "</string>
      <string name="user_agreement3">" и "</string>

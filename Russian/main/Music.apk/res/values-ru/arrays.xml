@@ -41,6 +41,11 @@
         <item>Поп</item>
         <item>Рок</item>
      </string-array>
+     <string-array name="music_quality">
+        <item>@string/ultra_high_quality</item>
+        <item>@string/high_quality</item>
+        <item>@string/normal_quality</item>
+     </string-array>
      <string-array name="weeklist">
         <item>1 неделя</item>
         <item>2 недели</item>

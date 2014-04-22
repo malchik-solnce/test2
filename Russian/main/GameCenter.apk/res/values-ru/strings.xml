@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="VipS_DefaultTitle">VIP GamePack</string>
      <string name="VipS_Receive">Получить</string>
      <string name="VipS_showStr1">VIP уровень</string>
@@ -22,15 +23,16 @@
      <string name="app_comments">Комментарии</string>
      <string name="app_comments_title">Комментариев: %1$s</string>
      <string name="app_detail_install">Установ.</string>
-	 <string name="app_detail_tab_rating">Топ</string>
+     <string name="app_detail_tab_rating">Топ</string>
      <string name="app_name">Игры</string>
      <string name="apply_check_info_empty">Заполните информация</string>
      <string name="ask_customer">Задать вопрос</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="auto_location">Locate automatically</string>
-	 <string name="average_score">Оценок</string>
+     <string name="average_score">Оценок</string>
      <string name="average_score_no_comment">Нет оценок</string>
      <string name="average_score_person">Игроков: %d</string>
-	 <string name="background_install_failed">Установка в фоне не удалась</string>
+     <string name="background_install_failed">Установка в фоне не удалась</string>
      <string name="bad_comments">Негативные</string>
      <string name="button_refresh">Обновить</string>
      <string name="button_search">Поиск</string>
@@ -80,7 +82,8 @@
      <string name="comment_upload_not_logined">Сначала войдите</string>
      <string name="comment_upload_success">Комментарий отправлен! Он будет показан после проверки.</string>
      <string name="comment_version_name">(версия %1$s)</string>
-	 <string name="confirm">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="confirm">OK</string>
      <string name="confirm_apply_gift">Подарить %s очков?</string>
      <string name="connect_fail">%1$s - установка не удалась: ошибка соединения, пожалуйста, проверьте сетевое соединение</string>
      <string name="connect_network_fail">Ошибка соединения</string>
@@ -88,12 +91,13 @@
      <string name="connect_network_settings">Настройки</string>
      <string name="connect_no_fit_fail">%1$s - установка не удалась: нет подходящих пакетов установки для вашего телефона</string>
      <string name="connecting">подключение</string>
-	 <string name="copy">Копировать</string>
-	 <string name="copy_success">Скопировано!</string>
+     <string name="copy">Копировать</string>
+     <string name="copy_success">Скопировано!</string>
      <string name="credit_center">Кредит-центр</string>
      <string name="data_package">_DataPackage</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_nick_name">KDev Group</string>
-	 <string name="delete">Удалить</string>
+     <string name="delete">Удалить</string>
      <string name="description_info">Описание</string>
      <string name="dialog_birthday_title">Мой день рождения</string>
      <string name="dialog_constellation_title">Мой знак зодиака</string>
@@ -163,7 +167,7 @@
      <string name="female">Женский</string>
      <string name="from_camre">Сделать фото</string>
      <string name="from_file">Выбрать из галереи</string>
-	 <string name="game_comments_tab">Комментарии</string>
+     <string name="game_comments_tab">Комментарии</string>
      <string name="game_date_version_name">%1$d-%2$d- релиз v%3$s</string>
      <string name="game_detail_developer">Разработчик:</string>
      <string name="game_detail_fee_type_1">Покупки в приложении</string>
@@ -171,6 +175,7 @@
      <string name="game_detail_fee_type_3">Беспл.</string>
      <string name="game_detail_tab">Сведения</string>
      <string name="game_detail_title">Подробнее об игре</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="game_editor_choice">Editor Choice</string>
      <string name="game_honor_wall">Стена почета</string>
      <string name="gamecenter_update_version_new_feature">Обновление клиента(v%1$s)</string>
@@ -185,12 +190,14 @@
      <string name="gfit_apply_send">Отправить</string>
      <string name="gfit_cdkey">Ключ GamePack</string>
      <string name="gift_apply_commit_text">Отправить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gift_apply_desc">Please make sure the information you provide is accurate. Users with inaccurate or incorrect information will no be able to participate.</string>
      <string name="gift_apply_information">Информация о пользователе</string>
      <string name="gift_apply_msg">Информация о пользователе</string>
      <string name="gift_apply_progress">Прогресс приложения</string>
      <string name="gift_apply_title">Заполни в информации о пользователе</string>
      <string name="gift_apply_voice_one">"1. If the info you provided is inaccurate or incomplete we may not be able to send you a GamePack. If you realize the info you've submitted contains are error please contact us via Online support."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gift_apply_voice_two">2. We will send GamePacks out soon. Once GamePacks have been sent, you can view GamePack info here.</string>
      <string name="gift_bag_activity_over">Истек</string>
      <string name="gift_bag_need_integral_to_gain">%s очков</string>
@@ -200,6 +207,7 @@
      <string name="gift_cdkey_voice">Инструкции:</string>
      <string name="gift_cdkey_voice_one">1. Пожалуйста, используйте игру ключ сразу, чтобы избежать потерь</string>
      <string name="gift_cdkey_voice_two">2. Вы можете просмотреть все старые GamePacks ключи в Мои GamePacks</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gift_copy_text">Copy GamePack key</string>
      <string name="gift_desc_text">GamePack details:</string>
      <string name="gift_expired">Истело</string>
@@ -216,9 +224,14 @@
      <string name="gift_list_title">Содержание GamePack</string>
      <string name="gift_need">%d pts</string>
      <string name="gift_reGet_text">Все закончилось! Следи за новыми пакетами завтра!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gift_received_progress">Gift package progress</string>
      <string name="gift_time_day"> дней</string>
      <string name="gift_time_future">Осталось:</string>
+     <!-- The count of MNPS does not match! Now: 2 must: 2
+	%s: 0 must: 0
+	%d: 1 must: 2 -->
+     <!-- Original string: Time remaining: %1$ddays%2$dhrs -->
      <string name="gift_time_future_day_format" formatted="false">Оставшееся время: %1$d дн.,% 2$d ч.</string>
      <string name="gift_time_future_hour_format">Оставшееся время: %d ч.</string>
      <string name="gift_time_future_minute_format">Оставшееся время: %d мин.</string>
@@ -226,7 +239,7 @@
      <string name="gift_time_minute">мин.</string>
      <string name="gift_time_normal_format">Оставшееся время: %s</string>
      <string name="gift_will_coming">Ожидается скоро</string>
-	 <string name="giveup_download_dialog_content">Удалить эту загрузку?</string>
+     <string name="giveup_download_dialog_content">Удалить эту загрузку?</string>
      <string name="giveup_download_dialog_title">Удаление загрузки</string>
      <string name="good_comments">Позитивные</string>
      <string name="head_text_login">Войти в аккаунт XiaoMi</string>
@@ -242,6 +255,7 @@
      <string name="install_btn_cancel">отмн.</string>
      <string name="install_btn_continue">прдл.</string>
      <string name="install_btn_download_manager">Менеджер загрузок</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="install_btn_ok">OK</string>
      <string name="install_fail">%1$s - сбой установки</string>
      <string name="install_games_title">Мои игры</string>
@@ -263,24 +277,34 @@
      <string name="integral_add_txt_login">Привет! +%d очков!</string>
      <string name="integral_add_txt_open_app">С возвращением! +%d очков!</string>
      <string name="integral_add_txt_update_app">Выгрузка! +%d очков!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="issu_chuli_wanchen">Solved</string>
      <string name="issu_comm_evaluated">Обратная связь</string>
      <string name="issu_evaluated">Обратная связь</string>
      <string name="issu_goto_feedback">␣␣Report issue␣␣</string>
      <string name="issu_grade">Обратная связь:</string>
      <string name="issu_grade_content">Feedback content:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="issu_grade_msg">Additonal comments</string>
      <string name="issu_grade_no_content">Пусто</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="issu_grade_tijiao">Submit</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="issu_manyi">Satisfied</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="issu_no_content">No issues.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="issu_no_manyi">Unsatisified</string>
      <string name="issu_no_satisfied">Thank you for your feedback!</string>
      <string name="issu_number">Issue number: %d</string>
      <string name="issu_process_person">Service staff: %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="issu_processed">Processed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="issu_processing">Received</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="issu_progress_info">Issue progress</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="issu_progress_msg">Issue progress update</string>
      <string name="issu_satisfied">Удовлетворен</string>
      <string name="issu_very_manyi">Очень доволен</string>
@@ -299,7 +323,7 @@
      <string name="loading_subject_list">Загрузка, подождите…</string>
      <string name="loading_web_content">Загрузка…</string>
      <string name="local_game_head">Игр: %d</string>
-	 <string name="local_games_empty_txt">Здесь будут установленные игры</string>
+     <string name="local_games_empty_txt">Здесь будут установленные игры</string>
      <string name="locating">Поиск…</string>
      <string name="locations_overseas">Другой</string>
      <string name="login_fail">Не удалось войти</string>
@@ -323,7 +347,7 @@
      <string name="messagecenter_custom_action_bar_title1">Выберите</string>
      <string name="messagecenter_custom_action_bar_title2">Выбрано: %1$s</string>
      <string name="messagecenter_delete_empty">Выберите сообщения для удаления</string>
-	 <string name="messagecenter_item_ago">%d дн. назад</string>
+     <string name="messagecenter_item_ago">%d дн. назад</string>
      <string name="messagecenter_message_empty">Пусто</string>
      <string name="messagecenter_message_list_delete_confirm">Удалить выбранные сообщения? %1$s</string>
      <string name="messagecenter_message_list_delete_title">Удаление</string>
@@ -367,7 +391,7 @@
      <string name="no_search">Приложения не найдены</string>
      <string name="no_subject_info">К сожалению, эта категория больше не существует</string>
      <string name="no_update">Нет обновлений</string>
-	 <string name="no_updateable_game">Нет обновляемых игр</string>
+     <string name="no_updateable_game">Нет обновляемых игр</string>
      <string name="no_url">Не удалось найти адрес загрузки</string>
      <string name="no_yiguoqi">Истек</string>
      <string name="none" />
@@ -384,7 +408,7 @@
      <string name="online_game_new">Новые</string>
      <string name="password_hint">Пароль</string>
      <string name="password_invalid">Пароль недействительный. Пожалуйста, введите 8-16 комбинацию из цифр и/или букв.</string>
-	 <string name="pause">Пауза</string>
+     <string name="pause">Пауза</string>
      <string name="paused">приостановленно</string>
      <string name="paused_with_reason">&lt;font color=#909090>Приостановлено: %1$s%%&lt;/font> &lt;font color=#f76811>%2$s&lt;/font></string>
      <string name="pending">ожидание</string>
@@ -439,6 +463,7 @@
      <string name="recharge_fail">Ошибка пополения</string>
      <string name="recharge_fee_detail">Платежные карты China Mobile, Unicom, Telcom</string>
      <string name="recharge_fee_title">Платежная карта</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="recharge_proxy">Proxy charge</string>
      <string name="recharge_success">Успешно пополнено!</string>
      <string name="recharging">Ожидание обработки…</string>
@@ -448,17 +473,24 @@
      <string name="save_photo_fail">Ошибка сохранения фото</string>
      <string name="save_photo_success">Фото успешно сохранено</string>
      <string name="select_recharge_value">Пожалуйста, выберите сумму пополнения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="service_of_birthday_gift">Birthday GamePacks</string>
      <string name="service_of_charge_rebate">Additional gifts:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="service_of_customer_info">Service info</string>
      <string name="service_of_day_integral">每日积分</string>
-     <string name="service_of_exclusive_customer">VIP Assitant</string>
-     <string name="service_of_feedbakc_online">Online support</string>
-     <string name="service_of_issue_track">Progress</string>
-     <string name="service_of_jf_shop">GPs</string>
-     <string name="service_of_my_customer">Service</string>
-     <string name="service_of_my_gifts">My GPs</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="service_of_exclusive_customer">VIP Assitant</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="service_of_feedbakc_online">Online support</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="service_of_issue_track">Progress</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="service_of_jf_shop">GPs</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="service_of_my_customer">Service</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="service_of_my_gifts">My GPs</string>
      <string name="service_of_my_level">Уровень</string>
      <string name="service_of_my_page">Редактировать</string>
      <string name="service_of_my_vip">Мой профиль</string>
@@ -469,7 +501,8 @@
      <string name="share_subject">Отправить приложение： %1$s</string>
      <string name="share_text">Посмотри какая прикольная игра с XiaoMi Game Center: %1$s, что то потрясающие! Отправить в: %2$s</string>
      <string name="show_all_local_app">Просмотр всех приложений</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="simple_date_format_MMdd">MM-dd</string>
+     <string name="simple_date_format_yyyyM">yyyy-MM</string>
      <string name="special_comm">Поддержка VIP</string>
      <string name="start_game">Играть</string>
      <string name="status_downloading">Загрузка: %1$s%%</string>
@@ -485,12 +518,13 @@
      <string name="this_month_no_purchase_record">нет записей о Ваших покупках в этом месяце</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_gift">GamePacks</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_intergral">Очки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_level">Уровень</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_message_center">Сообщения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="toast_name_used">the name was already used</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="today">Today</string>
      <string name="today_no_purchase_record">Нет записей о Ваших сегодняшних покупках</string>
      <string name="total_points">%d pts</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -515,13 +549,12 @@
      <string name="txt_updated_subtitle">Обновлений</string>
      <string name="txt_xiaomi_id">XiaoMi ID: %s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="unknown_user_name">MiGamer888</string>
+     <string name="unknown">None</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="unknown_user_name">MiGamer888</string>
      <string name="unzipping">Распаковка</string>
      <string name="update">обн.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="update_Discard_Read_Feature">Отменить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="update_Read_Feature">Новые возможности</string>
      <string name="update_account_fail">Не удалось сохранить профиль</string>
      <string name="update_account_success">Профиль успешно сохранен</string>
@@ -529,16 +562,20 @@
      <string name="update_bonus_rule">Upgrade and get free points!</string>
      <string name="update_date">%3$02d-%2$02d-%1$d</string>
      <string name="update_date_label">Обновлено:</string>
+     <string name="update_game_item_current_version">Current:%s</string>
+     <string name="update_game_item_new_version">New:%s</string>
      <string name="update_get_points_bonus">Почему обновиться?</string>
      <string name="update_get_points_task">Как обновить?</string>
      <string name="update_info">Что нового</string>
      <string name="update_info_fail">Обновление %s не удалось</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="update_manage">Управление обновлениями</string>
      <string name="update_new_version_available">(доступна новая версия)</string>
      <string name="update_result_new">Новых версий не найдено</string>
      <string name="update_success">Загрузка завершена!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="updating_starts">Game center updating starts.</string>
      <string name="upgrade_game_head">Обновить все (%d)</string>
+     <string name="user_info_birthday_format">MM-dd</string>
      <string name="user_info_page_field_mask_birthday">Birthday: %s</string>
      <string name="user_info_page_field_mask_city">Город: %s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -551,13 +588,10 @@
      <string name="usr_name_hint">Аккаунт XiaoMi/email/телефон</string>
      <string name="verifying">проверка</string>
      <string name="version_label">Версия：</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="view_all_gift">Еще</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="view_more_gift">Еще</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vip_club">VIP клуб</string>
-	 <string name="vip_description_info">Описание</string>
+     <string name="vip_description_info">Описание</string>
      <string name="vip_gift_empty_button_receive">␣␣Get GamePack␣␣</string>
      <string name="vip_gift_empty_receive">"You don't have any GamePacks"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -565,7 +599,6 @@
      <string name="vip_home_birthday">Birthday: %s</string>
      <string name="vip_home_birthday_none">Birthday:</string>
      <string name="vip_home_grade">VIP%d</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vip_home_level">Уровень</string>
      <string name="vip_home_level_distant_pre">&lt;font color=\"#2a2a2a\">Очков необходимо до VIP%d&lt;/font></string>
      <string name="vip_home_level_distant_suf">&lt;font color=#fd8000>RMB%d&lt;/font></string>
@@ -588,7 +621,6 @@
      <string name="vip_home_valid_end_suf">&lt;font color=#767676>(%d days remaining)&lt;/font></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vip_home_vip_top_level">You are our Top VIP.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vip_info_unknown">нет</string>
      <string name="vip_jifen_text">%d очков</string>
      <string name="vip_level_expried_text">Expires：%s</string>
@@ -599,13 +631,10 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vip_title_gift">GamePacks</string>
      <string name="vip_valid_forever">Non-Expired.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vip_welcome_complex_info">Изменить информацию</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vip_welcome_go_gamecenter">Перейти в игры</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="visiting_appointments">Appointments</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="webkit_errpage_btn_text">Обновить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="webkit_errpage_tip">Please check your connection settings.</string>
@@ -613,4 +642,6 @@
      <string name="welcome_skip_button">Далее</string>
      <string name="welcome_subtitle">Попробуй эти игры! :)</string>
      <string name="welcome_title">Привет!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="yestoday">Yestoday</string>
 </resources>

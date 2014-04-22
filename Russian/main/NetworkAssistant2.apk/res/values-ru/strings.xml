@@ -9,6 +9,7 @@
      <string name="adjust_traffic_carrier_summary_yesterday">Обновлено вчера в %s</string>
      <string name="adjust_traffic_data">Настроить трафик</string>
      <string name="app_detail">Сведения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_mobile">3G</string>
      <string name="app_name">Монитор</string>
      <string name="app_version">Версия</string>
@@ -39,7 +40,9 @@
      <string name="declaration_dialog_msg">Эта функция может помочь вам отслеживать использование трафика мобильного интернета, чтобы предотвратить дополнительные денежные расходы. Для достижения наилучших результатов, установите предел трафика.</string>
      <string name="deleted_apps">Удаленные приложения</string>
      <string name="detail_app_button">О приложении</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dual_setting_simcard1">SIM 1</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dual_setting_simcard2">SIM 2</string>
      <string name="firewall_activity_lable">Управление подключениями</string>
      <string name="firewall_applist">Приложения</string>
@@ -47,6 +50,7 @@
      <string name="firewall_fragment_sys_listempty">Пусто</string>
      <string name="firewall_fragment_tab_title_nonsys">Пользов.</string>
      <string name="firewall_fragment_tab_title_sys">Системные</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="firewall_rule_group_title_mobile">3G</string>
      <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
      <string name="firewall_service_network_blocked">%1$s запрещено к подключению %2$s сети</string>
@@ -66,7 +70,7 @@
      <string name="lock_screen_traffic_warn_title">Предупреждение трафика</string>
      <string name="main_alert_message_no_imsi">SIM-карта не обнаружена</string>
      <string name="main_alert_message_no_mobile_package">Лимит мобильного трафика не установлен</string>
-	 <string name="main_alert_message_slot_no_data_connection">"Слот SIM-карты не поддерживает 
+     <string name="main_alert_message_slot_no_data_connection">"Слот SIM-карты не поддерживает 
 подключение к мобильному интернету"</string>
      <string name="main_button_idel_traffic">Предел</string>
      <string name="main_button_normal_traffic">Пакет</string>
@@ -85,12 +89,25 @@
 использовано"</string>
      <string name="manual_input_free_traffic">Set off-peak data usage</string>
      <string name="manual_input_traffic">Введите предел трафика</string>
-	 <string name="network_assistant_upgraded_body">Нажмите, чтобы ограничить использование данных</string>
+     <string name="network_assistant_upgraded_body">Нажмите, чтобы ограничить использование данных</string>
      <string name="network_assistant_upgraded_title">Обновление завершено</string>
      <string name="network_control">Управление трафиком</string>
      <string name="notification_content_title">Использовано %1$s во время блокировки</string>
      <string name="notification_title">%1$s-%2$s: исполь. около %3$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok_button">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="operator_name_cmcc">China Mobile</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="operator_name_telcom">China Telecom</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="operator_name_unicom">China Unicom</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="operator_number_cmcc">10086</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="operator_number_telcom">10000</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="operator_number_unicom">10010</string>
      <string name="per_month_pkg_traffic_settings">Настройка лимита данных</string>
      <string name="permit_running_network">Разрешить фоновые данные</string>
      <string name="person_hotpot">Мобильные точки доступа</string>
@@ -121,13 +138,15 @@
      <string name="pref_free_traffic_exceed_limit">Сообщать о достижении лимита трафика</string>
      <string name="pref_free_traffic_limit_warn">Предупреждение о пределе трафика</string>
      <string name="pref_free_traffic_settings">Настройка предела трафика</string>
+     <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
+     <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
      <string name="pref_leisure_no_overlay">Включено</string>
      <string name="pref_leisure_not_opened">Выключено</string>
      <string name="pref_manual_adjust">Настроить вручную</string>
      <string name="pref_month_begin_date">Дата начала учета</string>
      <string name="pref_month_first_day">Начало месяца</string>
      <string name="pref_more_traffic_settings">Дополнительные настройки</string>
-	 <string name="pref_new_installed_preconfig_title">Настройки новых приложений</string>
+     <string name="pref_new_installed_preconfig_title">Настройки новых приложений</string>
      <string name="pref_open_adjust_traffic">Синхронизируйте статистику использования данных с вашего оператором</string>
      <string name="pref_package_traffic_leisure">%1$s | Осталось: %2$s</string>
      <string name="pref_package_traffic_normal">Пакет: %s</string>
