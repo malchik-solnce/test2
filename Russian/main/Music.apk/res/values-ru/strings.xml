@@ -39,7 +39,15 @@
      <string name="channel_postfix">МГЦ</string>
      <string name="choose_download_quality">Выберите качество скачавания</string>
      <string name="choose_stream_quality">Выберите качество потока</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="click_to_play_all">Click to play all</string>
      <string name="click_to_shuffle">Коснитесь для перемешивания</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="collect_bill_success">Bill added to favorites</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="collect_fm_success">Added to favorites</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="collect_topic_success">Album added to favorites</string>
      <string name="complete">Готово</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
@@ -155,18 +163,15 @@
      <string name="ktv_unbind_message">Ошибка подключения к KTV консоли. Убедитесь, что вы сканируете правильный QR-код.</string>
      <string name="listen_to_music_online_settings">Онлайн музыка</string>
      <string name="listen_to_online_summary">Может отразится на стоимости услуг за мобильную связь. Рекомендуется отключить.</string>
-     <string name="load_album_artist_failed">Не удалось загрузить</string>
-     <string name="load_album_artist_in_process">Загрузка…</string>
-     <string name="load_album_failed">Не удалось загрузить</string>
-     <string name="load_album_in_process">Загрузка…</string>
-     <string name="load_artist_failed">Не удалось загрузить</string>
-     <string name="load_artist_in_process">Загрузка…</string>
      <string name="load_audio_failed">Не удалось загрузить</string>
      <string name="load_audio_in_process">Загрузка…</string>
      <string name="load_bill_failed">Не удалось загрузит</string>
      <string name="load_bill_in_process">Загрузка списка Billboard…</string>
      <string name="load_channel_failed">Не удалось загрузить</string>
      <string name="load_channel_in_process">Загрузка…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="load_recommend_failed">List failed to load</string>
+     <string name="load_recommend_in_process">Loading…</string>
      <string name="loading">Загрузка…</string>
      <string name="login">Войти</string>
      <string name="login_first">Сначала войдите в аккаунт Xiaomi</string>
@@ -212,6 +217,7 @@
      <string name="normal_quality">Хорошее качество</string>
      <string name="not_login">Войти</string>
      <string name="not_selected">Пожалуйста, выберите песню</string>
+     <string name="number_format" formatted="false">%s.%s</string>
      <string name="online_search_hint">Поиск музыки онлайн</string>
      <string name="online_title">Онлайн</string>
      <string name="other_settings">ДРУГИЕ НАСТРОЙКИ</string>
@@ -303,16 +309,16 @@
      <string name="start_to_download_album">Загрузка обложки альбома…</string>
      <string name="start_to_download_avatar">Загрузка аватара исполнителя…</string>
      <string name="streamloadingtext">Подключение к %s</string>
-     <string name="synchronize_guide_toast">Включение синхронизации, в настройках > Сихронизация плейлистов</string>
      <string name="synchronize_playlist_setting">Синхронизация плейлистов</string>
      <string name="synchronize_playlist_summary">Синхронизировать плейлисты в MiCloud</string>
-     <string name="synchronize_to_baidu_cloud">Резервное копирование онлайн песен в плейлисты с Baidu Cloud</string>
      <string name="track_bit_rate_hd">Высокое</string>
      <string name="track_bit_rate_standard">Обычное</string>
      <string name="track_bit_rate_uhd">Наилучшее</string>
      <string name="track_edit">Песня</string>
      <string name="tracks_title">Все песни</string>
      <string name="ultra_high_quality">Наилучшее качество</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="uncollect_success">Removed from favorites</string>
      <string name="unknown_album_name">Неизвестный альбом</string>
      <string name="unknown_artist_name">Неизвестный исполнитель</string>
      <string name="use_local_album">Установить обложку альбома</string>

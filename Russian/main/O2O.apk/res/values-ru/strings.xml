@@ -9,6 +9,7 @@
      <string name="available_day_left">Осталось дней:%1$s</string>
      <string name="available_deadline">Действует до:%1$s</string>
      <string name="available_deadline_all">有效期至:%1$s</string>
+     <string name="business_hour">营业时间: %1$s</string>
      <string name="button_cancel">Отмена</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_ok">OK</string>
@@ -41,6 +42,7 @@
      <string name="history_cities">Последние посещенные города</string>
      <string name="hot_cities">Популярные города</string>
      <string name="hotrank_tag">Топ</string>
+     <string name="item_announcement">特别通知</string>
      <string name="item_loading">Загрузка…</string>
      <string name="item_nores">免预约</string>
      <string name="itemdetail">Информация</string>
@@ -72,6 +74,7 @@
      <string name="merchant_phone">电话：%1$s</string>
      <string name="money">юань</string>
      <string name="money_prefix">总计</string>
+     <string name="moreinfo">查看图文优惠详情</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->

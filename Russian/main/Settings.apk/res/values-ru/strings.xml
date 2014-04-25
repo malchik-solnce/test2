@@ -2372,6 +2372,12 @@ Menu cannot be accessed"</string>
      <string name="preferred_application_warning_use_system">Отмена</string>
      <string name="preferred_launcher_title">Рабочий стол</string>
      <string name="preferred_media_app_summary">Выберите аудиоплеер</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="preferred_sms_settings">This app will be set as your default app for reading and composing text messages.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="preferred_sms_title">Default messaging app</string>
+     <string name="preferred_sms_warning_message">Using \"%1$s\" as your default messaging app may increase data usage or compromise the security of your data.</string>
+     <string name="preferred_sms_warning_use_system">"Don't use"</string>
      <string name="print_blocked_state_title_template">Printer blocked %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="print_cancel">Cancel</string>
