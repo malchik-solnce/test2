@@ -43,8 +43,7 @@
      <string name="cancel">Отмена</string>
      <string name="cannot_connect_camera_once">Не возможно подключится к камере. Перезайдите в приложение.</string>
      <string name="cannot_connect_camera_twice">Не возможно подключится к камере. Перезагрузите устройство.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="chroma_flash_exit_button_text">Exit Chroma Flash mode</string>
+     <string name="chroma_flash_exit_button_text">Выйти</string>
      <string name="clear_effects">Убрать эффекты</string>
      <string name="close">Закрыть</string>
      <string name="cloud_album_details">Облачный альбом:</string>
@@ -75,7 +74,6 @@
      <string name="description">Описание</string>
      <string name="details">Свойства</string>
      <string name="details_title">%1$d из %2$d:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dialog_ok">OK</string>
      <string name="disable_video_snapshot_hint">Невозможно сделать снимок при включенных эффектах</string>
      <string name="download_by_browser">Скачано через браузер</string>
@@ -96,8 +94,7 @@
      <string name="effect_goofy_face_squeeze">Сжатие</string>
      <string name="effect_none">Без эффектов</string>
      <string name="effect_silly_faces">СМЕШНЫЕ РОЖИЦЫ</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="enable_feature">Yes</string>
+     <string name="enable_feature">Да</string>
      <string name="error_app_unsupported">Данный вид кодировки не поддерживает это разрешение</string>
      <string name="error_app_unsupported_hfr_720p">720р поддерживает до 90 FPS</string>
      <string name="error_app_unsupported_hfr_codec">При включенной ВЧК поддерживается только H264 кодировка</string>
@@ -155,7 +152,6 @@
      <string name="import_complete">Импорт завершен</string>
      <string name="import_contact">Импорт контакта</string>
      <string name="import_fail">Импорт не удался</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="iso">ISO</string>
      <string name="launch_market">Запустить MiStore</string>
      <string name="launch_qq">Запустить QQ через браузер</string>
@@ -173,14 +169,11 @@
      <string name="no_save">Не сохранять</string>
      <string name="no_storage">Вставьте SD-карту перед использованием камеры</string>
      <string name="no_thumbnail">Нет миниатюр</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="not_enable_feature">Remind next time</string>
+     <string name="not_enable_feature">Позже</string>
      <string name="not_enough_space">SD-карта заполнена</string>
      <string name="not_selectable_in_scene_mode">Недоступно в режиме съемки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="opti_zoom_exit_button_text">Exit OptiZoom mode</string>
+     <string name="opti_zoom_exit_button_text">Выйти</string>
      <string name="orientation">Ориентация</string>
      <string name="pano_dialog_panorama_failed">Не удалось сохранить панораму</string>
      <string name="pano_dialog_prepare_preview">Обработка…</string>
@@ -197,9 +190,7 @@
      <string name="pref_advanced_settings">Дополнительные настройки</string>
      <string name="pref_camcorder_settings_category">Настройки видеокамеры</string>
      <string name="pref_camera_ae_bracket_hdr_default">Выкл.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_antibanding_60">60hz</string>
      <string name="pref_camera_antibanding_entry_0">Выкл.</string>
      <string name="pref_camera_antibanding_entry_1">50 Гц.</string>
@@ -207,20 +198,14 @@
      <string name="pref_camera_antibanding_entry_3">Авто</string>
      <string name="pref_camera_antibanding_title">Устранение полос</string>
      <string name="pref_camera_audio_capture_title">Голос</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_audioencoder_default">aac</string>
      <string name="pref_camera_auto_focus_title_entry_off">Выкл.</string>
      <string name="pref_camera_auto_focus_title_entry_on">Вкл.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_auto_opti_zoom_title">Auto Opti Zoom when ratio is greater than 2</string>
+     <string name="pref_camera_auto_opti_zoom_title">Автом. увеличение, если соотношение больше чем 2</string>
      <string name="pref_camera_autoexposure_entry_centerweighted">Взвешенный по центру</string>
      <string name="pref_camera_autoexposure_entry_frameaverage">Средний по кадру</string>
      <string name="pref_camera_autoexposure_entry_spotmetering">Точечный</string>
      <string name="pref_camera_autoexposure_title">Режим автоэкспозамера</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_chroma_flash_title">Chroma Flash</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_coloreffect_default">none</string>
+     <string name="pref_camera_chroma_flash_title">Chroma вспышка</string>
      <string name="pref_camera_coloreffect_entry_aqua" />
      <string name="pref_camera_coloreffect_entry_brannan">Рассвет</string>
      <string name="pref_camera_coloreffect_entry_earlybird">Осень</string>
@@ -236,22 +221,16 @@
      <string name="pref_camera_coloreffect_entry_planet">Маленький мир</string>
      <string name="pref_camera_coloreffect_entry_posterize" />
      <string name="pref_camera_coloreffect_entry_sepia" />
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_coloreffect_entry_seventy">1970</string>
      <string name="pref_camera_coloreffect_entry_sketch">Эскиз</string>
      <string name="pref_camera_coloreffect_entry_vivid">Живой</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_coloreffect_entry_xproii">XProII</string>
      <string name="pref_camera_coloreffect_entry_yesteryear">Прошлый год</string>
      <string name="pref_camera_coloreffect_title">Эффекты</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_contrast_default">5</string>
      <string name="pref_camera_contrast_title">Контрастность</string>
      <string name="pref_camera_current_k_value">Текущее значение</string>
      <string name="pref_camera_default_suffix">(по умолчанию)</string>
      <string name="pref_camera_denoise_title">Устранение шумов</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_exposuretime_default">0</string>
      <string name="pref_camera_exposuretime_entry_0.5">2 сек.</string>
      <string name="pref_camera_exposuretime_entry_1">1 сек.</string>
      <string name="pref_camera_exposuretime_entry_1000">1/1000 сек.</string>
@@ -282,16 +261,9 @@
      <string name="pref_camera_focusmode_entry_normal">Обычный</string>
      <string name="pref_camera_focusmode_title">Режим фокусировки</string>
      <string name="pref_camera_hand_night_title">Сумерки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_hdr_title">HDR</string>
      <string name="pref_camera_hdr_type_entry_live">Живой</string>
      <string name="pref_camera_hdr_type_entry_normal">Обычный</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_hdr_type_entryvalue_default">live</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_hdr_type_entryvalue_live">live</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_hdr_type_entryvalue_normal">normal</string>
      <string name="pref_camera_hdr_type_title">Тип HDR</string>
      <string name="pref_camera_hfr_entry_off">Выкл.</string>
      <string name="pref_camera_hfr_title">Высокая частота кадров (медленное движение)</string>
@@ -299,7 +271,6 @@
      <string name="pref_camera_histogram_entry_enable">Вкл.</string>
      <string name="pref_camera_histogram_title">Гистограмма</string>
      <string name="pref_camera_iso_entry_auto">Авто</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_iso_prefix">ISO</string>
      <string name="pref_camera_iso_title">Светочувствительность</string>
      <string name="pref_camera_jpegquality_entry_high">Высокое</string>
@@ -312,10 +283,6 @@
      <string name="pref_camera_movie_solid_entry_off">Выкл.</string>
      <string name="pref_camera_movie_solid_entry_on">Вкл.</string>
      <string name="pref_camera_movie_solid_title">Стабилизация изображения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_movie_solid_value_off">off</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_movie_solid_value_on">on</string>
      <string name="pref_camera_multilevel_entry_high">Высокая</string>
      <string name="pref_camera_multilevel_entry_higher">Отличная</string>
      <string name="pref_camera_multilevel_entry_highest">Наилучшая</string>
@@ -324,17 +291,10 @@
      <string name="pref_camera_multilevel_entry_lowest">Наихудшая</string>
      <string name="pref_camera_multilevel_entry_middle">Средний (по умолчанию)</string>
      <string name="pref_camera_multilevel_entry_normal">Обычная</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_multiple_face_beauty_default">off</string>
      <string name="pref_camera_multiple_face_beauty_entry_off">Одно лицо</string>
      <string name="pref_camera_multiple_face_beauty_entry_on">Два лица</string>
      <string name="pref_camera_multiple_face_beauty_title">Режим красивое лицо</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_multiple_face_beauty_values_off">off</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_multiple_face_beauty_values_on">on</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_opti_zoom_title">Opti Zoom</string>
+     <string name="pref_camera_opti_zoom_title">Оптический зум</string>
      <string name="pref_camera_panoramamode_title">Панорама</string>
      <string name="pref_camera_picture_format_title">Формат изображения</string>
      <string name="pref_camera_picturesize_entry_1024x768">0.8 Мпикс.</string>
@@ -363,7 +323,6 @@
      <string name="pref_camera_picturesize_entry_standard">Стандартый 4:3</string>
      <string name="pref_camera_picturesize_title">Размер фото</string>
      <string name="pref_camera_picturesize_title_simple_mode">Размер изображения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_raw_data_title">RAW</string>
      <string name="pref_camera_recordlocation_entry_off">Выкл.</string>
      <string name="pref_camera_recordlocation_entry_on">Вкл.</string>
@@ -394,10 +353,7 @@
      <string name="pref_camera_scenemode_title">Режим съемки</string>
      <string name="pref_camera_settings_category">Настройки камеры</string>
      <string name="pref_camera_settings_title">Настройки</string>
-     <string name="pref_camera_shader_coloreffect_default">-1</string>
      <string name="pref_camera_sharpness_title">Четкость</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_show_gender_age_default">on</string>
      <string name="pref_camera_show_gender_age_entry_alias">Возраст</string>
      <string name="pref_camera_show_gender_age_entry_off">Выкл.</string>
      <string name="pref_camera_show_gender_age_entry_on">Пол и возраст</string>
@@ -406,52 +362,27 @@
      <string name="pref_camera_skinToneEnhancement_entry_disable">Выкл.</string>
      <string name="pref_camera_skinToneEnhancement_entry_enable">Вкл.</string>
      <string name="pref_camera_skinToneEnhancement_title">Улучшение цвета кожи</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_sound_default">on</string>
      <string name="pref_camera_sound_entry_off">Выкл.</string>
      <string name="pref_camera_sound_entry_on">Вкл.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_sound_entryvalue_off">off</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_sound_entryvalue_on">on</string>
      <string name="pref_camera_sound_title">Звуки камеры</string>
      <string name="pref_camera_sound_title_entry_off">Выкл.</string>
      <string name="pref_camera_sound_title_entry_on">Вкл.</string>
      <string name="pref_camera_touchafaec_entry_off">Выкл.</string>
      <string name="pref_camera_touchafaec_entry_on">Вкл.</string>
      <string name="pref_camera_touchafaec_title">АФ/АС по нажатию</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_ubi_focus_title">Ubi Focus</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_video_duration_default">10</string>
+     <string name="pref_camera_ubi_focus_title">Ubi фокус</string>
      <string name="pref_camera_video_duration_entry_10">10 минут</string>
      <string name="pref_camera_video_duration_entry_120">2 часа</string>
      <string name="pref_camera_video_duration_entry_30">30 минут</string>
      <string name="pref_camera_video_duration_entry_mms">30 секунд(MMS)</string>
      <string name="pref_camera_video_duration_title">Длительность видео</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_volumekey_function_default">shutter</string>
      <string name="pref_camera_volumekey_function_entry_exposure">Выдержка</string>
      <string name="pref_camera_volumekey_function_entry_shutter">Затвор</string>
      <string name="pref_camera_volumekey_function_entry_volume">Громкость</string>
      <string name="pref_camera_volumekey_function_entry_zoom">Зум</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_volumekey_function_entryvalue_exposure">exposure</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_volumekey_function_entryvalue_shutter">shutter</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_volumekey_function_entryvalue_volume">volume</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_volumekey_function_entryvalue_zoom">zoom</string>
      <string name="pref_camera_volumekey_function_title">Функция клавиши громкости</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_watermark_default">off</string>
      <string name="pref_camera_watermark_entry_off">Выкл.</string>
      <string name="pref_camera_watermark_entry_on">Вкл.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_watermark_entryvalue_off">off</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_watermark_entryvalue_on">on</string>
      <string name="pref_camera_watermark_title">Дата на фотографии</string>
      <string name="pref_camera_whitebalance_entry_auto">Авто</string>
      <string name="pref_camera_whitebalance_entry_cloudy">Пасмурно</string>
@@ -460,18 +391,6 @@
      <string name="pref_camera_whitebalance_entry_incandescent">Лампа накаливания</string>
      <string name="pref_camera_whitebalance_entry_manual">Ручной</string>
      <string name="pref_camera_whitebalance_entry_measure">Авто</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_whitebalance_entryvalue_auto">auto</string>
-     <string name="pref_camera_whitebalance_entryvalue_cloudy">cloudy-daylight</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_whitebalance_entryvalue_daylight">daylight</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_whitebalance_entryvalue_fluorescent">fluorescent</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_whitebalance_entryvalue_incandescent">incandescent</string>
-     <string name="pref_camera_whitebalance_entryvalue_manual">manual-cct</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_whitebalance_entryvalue_measure">measure</string>
      <string name="pref_camera_whitebalance_k_value_title">Цветовая температура</string>
      <string name="pref_camera_whitebalance_title">Баланс белого</string>
      <string name="pref_camera_zsl_entry_off">Выкл.</string>
@@ -485,30 +404,14 @@
      <string name="pref_grp_picture_settings">Настройки фотографий</string>
      <string name="pref_grp_restore_settings">Сброс настроек</string>
      <string name="pref_manual_exposure_title">Ручная выдержка</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_mtk_camera_contrast_default">middle</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_mtk_camera_saturation_default">middle</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_mtk_camera_sharpness_default">middle</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_mtk_video_quality_default">10</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_scan_qrcode_default">on</string>
      <string name="pref_scan_qrcode_entry_off">Выкл.</string>
      <string name="pref_scan_qrcode_entry_on">Вкл.</string>
      <string name="pref_scan_qrcode_title">Сканирование QR кода</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_scan_qrcode_value_off">off</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_scan_qrcode_value_on">on</string>
      <string name="pref_setting_title">Настройки</string>
      <string name="pref_settings_mode">Режим камеры</string>
      <string name="pref_video_captrue_ability_title">Фото при съемке</string>
      <string name="pref_video_focusmode_entry_auto">Нажатие</string>
      <string name="pref_video_focusmode_entry_continuous">Непрерывный</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_video_focusmode_entryvalue_default">auto</string>
      <string name="pref_video_focusmode_title">Режим фокусировки</string>
      <string name="pref_video_quality_title">Качество видео</string>
      <string name="pref_video_slow_speed_title_simple_mode">Замедление</string>
@@ -563,18 +466,15 @@
      <string name="show_on_map">Показать на карте</string>
      <string name="show_videos_only">Только видео</string>
      <string name="simple_mode_button_text_audio_capture">Выйти</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="simple_mode_button_text_chroma_flash">Close Chroma Flash mode</string>
+     <string name="simple_mode_button_text_chroma_flash">Выйти</string>
      <string name="simple_mode_button_text_color_effect">Выйти</string>
      <string name="simple_mode_button_text_face_beauty">Выйти</string>
      <string name="simple_mode_button_text_hand_night">Выйти</string>
      <string name="simple_mode_button_text_hdr">Выйти</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="simple_mode_button_text_opti_zoom">Close OptiZoom mode</string>
+     <string name="simple_mode_button_text_opti_zoom">Выйти</string>
      <string name="simple_mode_button_text_panorama">Выйти</string>
      <string name="simple_mode_button_text_slow_video">Выйти</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="simple_mode_button_text_ubi_focus">Close Ubi Focus mode</string>
+     <string name="simple_mode_button_text_ubi_focus">Выйти</string>
      <string name="simple_mode_title">Простой режим</string>
      <string name="slideshow">Слайдшоу</string>
      <string name="snapshot_lower_than_video">Размер снимка меньше, чем размер видео. Пожалуйста, выберите разрешение выше или равное текущему размеру видео.</string>
@@ -596,8 +496,7 @@
      <string name="toast_burst_snap_forbidden_when_hdr_open">Серийная съемка невозможна в режиме HDR или сумерки</string>
      <string name="toast_burst_snap_forbidden_when_iso_not_auto">Серийная съемка не поддерживается при не автом. ISO</string>
      <string name="toast_start_audio_capture">Похлопайте, чтобы сработал затвор</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="ubi_focus_exit_button_text">Exit Ubi Focus mode</string>
+     <string name="ubi_focus_exit_button_text">Выйти</string>
      <string name="undo">Назад</string>
      <string name="unit_mm">мм</string>
      <string name="video_camera_label">Видеокамера</string>
