@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Пароль должен содержать буквы (не менее %d)</item>
@@ -29,28 +29,16 @@
         <item quantity="other">Приложений читающих уведомления: %d</item>
         <item quantity="one">Приложений читающих уведомления: %d</item>
      </plurals>
-     <plurals name="power_center_battery_day">
-        <item quantity="other">"%d дн. "</item>
-        <item quantity="one">"%d дн. "</item>
-     </plurals>
-     <plurals name="power_center_battery_hour">
-        <item quantity="other">"%d ч. "</item>
-        <item quantity="one">"%d ч. "</item>
-     </plurals>
-     <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d мин. "</item>
-        <item quantity="one">"%d мин. "</item>
-     </plurals>
      <plurals name="print_search_result_count_utterance">
-        <item quantity="other">Найдено принтеров: %1$s</item>
-        <item quantity="one">Найдено принтеров: %1$s</item>
+        <item quantity="other">%1$s printers found</item>
+        <item quantity="one">%1$s printer found</item>
      </plurals>
      <plurals name="show_dev_countdown">
-        <item quantity="other">Теперь вы находитесь в %1$d шагах от становления разработчиком</item>
-        <item quantity="one">Теперь вы находитесь в %1$d шаге от становления разработчиком</item>
+        <item quantity="other">Теперь вы находитесь в %1$d шагах от становления разработчиком.</item>
+        <item quantity="one">Теперь вы находитесь в %1$d шаге от становления разработчиком.</item>
      </plurals>
      <plurals name="wrong_pin_code">
-        <item quantity="other">Неверный PIN-код. Осталось попыток: %d.</item>
-        <item quantity="one">Неверный PIN-код. Осталось попыток: %d. После этого SIM-карта будет заблокирована и Вам придется обратиться к оператору связи.</item>
+        <item quantity="other">Incorrect SIM PIN code, you have %d remaining attempts.</item>
+        <item quantity="one">Incorrect SIM PIN code, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
      </plurals>
 </resources>

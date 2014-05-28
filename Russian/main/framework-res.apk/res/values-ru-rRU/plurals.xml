@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <plurals name="abbrev_in_num_days">
         <item quantity="other">через %d дн.</item>
@@ -34,16 +34,16 @@
         <item quantity="one">1 сек. назад</item>
      </plurals>
      <plurals name="duration_hours">
-        <item quantity="other">%d ч.</item>
-        <item quantity="one">1 ч.</item>
+        <item quantity="other">%d hours</item>
+        <item quantity="one">1 hour</item>
      </plurals>
      <plurals name="duration_minutes">
-        <item quantity="other">%d мин.</item>
-        <item quantity="one">1 мин.</item>
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">1 minute</item>
      </plurals>
      <plurals name="duration_seconds">
-        <item quantity="other">%d сек.</item>
-        <item quantity="one">1 сек.</item>
+        <item quantity="other">%d seconds</item>
+        <item quantity="one">1 second</item>
      </plurals>
      <plurals name="in_num_days">
         <item quantity="other">через %d дн.</item>
@@ -93,11 +93,11 @@
         <item quantity="one">Try again in 1 second</item>
      </plurals>
      <plurals name="wifi_available">
-        <item quantity="other">Доступны Wi-Fi сеть</item>
-        <item quantity="one">Доступна Wi-Fi сеть</item>
+        <item quantity="other">Доступна сеть Wi-Fi</item>
+        <item quantity="one">Доступна сеть Wi-Fi</item>
      </plurals>
      <plurals name="wifi_available_detailed">
-        <item quantity="other">Найдены доступные Wi-Fi сети</item>
-        <item quantity="one">Найдена доступная Wi-Fi сеть</item>
+        <item quantity="other">Найдены доступные сети Wi-Fi</item>
+        <item quantity="one">Найдена доступная сеть Wi-Fi</item>
      </plurals>
 </resources>

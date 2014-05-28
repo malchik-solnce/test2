@@ -1,94 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
-     <string-array name="alarm_in_future">
-        <item>Будильник менее чем через минуту</item>
-        <item>Будильник через %1$s</item>
-        <item>Будильник через %2$s</item>
-        <item>Будильник через %1$s %2$s</item>
-        <item>Будильник через %3$s</item>
-        <item>Будильник через %1$s %3$s</item>
-        <item>Будильник через %2$s %3$s</item>
-        <item>Будильник через %1$s %2$s %3$s</item>
-     </string-array>
-     <!-- The size of the array does not match! Now: 30 must: 28 -->
-     <string-array name="alphabet_table">
-        <item>\#</item>
-        <item>А</item>
-        <item>Б</item>
-        <item>В</item>
-        <item>Г</item>
-        <item>Д</item>
-        <item>Е</item>
-        <item>Ж</item>
-        <item>З</item>
-        <item>И</item>
-        <item>К</item>
-        <item>Л</item>
-        <item>М</item>
-        <item>Н</item>
-        <item>О</item>
-        <item>П</item>
-        <item>Р</item>
-        <item>С</item>
-        <item>Т</item>
-        <item>У</item>
-        <item>Ф</item>
-        <item>Х</item>
-        <item>Ц</item>
-        <item>Ч</item>
-        <item>Ш</item>
-        <item>Щ</item>
-        <item>Э</item>
-        <item>Ю</item>
-        <item>Я</item>
-     </string-array>
-     <!-- The size of the array does not match! Now: 31 must: 29 -->
-     <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>\#</item>
-        <item>А</item>
-        <item>Б</item>
-        <item>В</item>
-        <item>Г</item>
-        <item>Д</item>
-        <item>Е</item>
-        <item>Ж</item>
-        <item>З</item>
-        <item>И</item>
-        <item>К</item>
-        <item>Л</item>
-        <item>М</item>
-        <item>Н</item>
-        <item>О</item>
-        <item>П</item>
-        <item>Р</item>
-        <item>С</item>
-        <item>Т</item>
-        <item>У</item>
-        <item>Ф</item>
-        <item>Х</item>
-        <item>Ц</item>
-        <item>Ч</item>
-        <item>Ш</item>
-        <item>Щ</item>
-        <item>Э</item>
-        <item>Ю</item>
-        <item>Я</item>
-     </string-array>
-     <string-array name="contact_entries">
-        <item>Имя</item>
-        <item>Ник</item>
-        <item>Телефон</item>
-        <item>Почта</item>
-        <item>Организация</item>
-        <item>IM</item>
-        <item>Номер SIP</item>
-        <item>День рождения</item>
-        <item>Сайт</item>
-        <item>Адрес</item>
-        <item>Заметка</item>
-     </string-array>
      <string-array name="di_zhi">
         <item>子</item>
         <item>丑</item>
@@ -102,6 +14,12 @@
         <item>酉</item>
         <item>戌</item>
         <item>亥</item>
+     </string-array>
+     <string-array name="font_size_scale">
+        <item>0.86</item>
+        <item>1.0</item>
+        <item>1.2</item>
+        <item>1.21</item>
      </string-array>
      <string-array name="jia_zi">
         <item>甲子</item>
@@ -165,6 +83,17 @@
         <item>壬戌</item>
         <item>癸亥</item>
      </string-array>
+     <string-array name="miui_font_scale">
+        <item>1.0</item>
+        <item>1.0</item>
+        <item>1.0</item>
+        <item>1.17</item>
+     </string-array>
+     <string-array name="screen_key_long_press_default_action">
+        <item>voice_assistant</item>
+        <item>recent_panel</item>
+        <item>none</item>
+     </string-array>
      <string-array name="tian_gan">
         <item>甲</item>
         <item>乙</item>
@@ -177,172 +106,4 @@
         <item>壬</item>
         <item>癸</item>
      </string-array>
-     <integer-array name="vibration_recorder_major_action">
-        <item>0</item>
-        <item>0</item>
-        <item>5</item>
-        <item>5</item>
-        <item>10</item>
-        <item>-3</item>
-        <item>10</item>
-        <item>15</item>
-        <item>10</item>
-        <item>-3</item>
-        <item>10</item>
-        <item>25</item>
-        <item>10</item>
-        <item>-3</item>
-        <item>10</item>
-        <item>35</item>
-        <item>10</item>
-        <item>-3</item>
-        <item>10</item>
-        <item>40</item>
-        <item>10</item>
-        <item>-3</item>
-        <item>30</item>
-        <item>120</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>150</item>
-        <item>50</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-     </integer-array>
-     <integer-array name="vibration_recorder_minor_action">
-        <item>0</item>
-        <item>0</item>
-        <item>5</item>
-        <item>120</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-     </integer-array>
-     <integer-array name="vibration_recorder_rewind">
-        <item>0</item>
-        <item>0</item>
-        <item>5</item>
-        <item>5</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>10</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>5</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>10</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>5</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>10</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>5</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>10</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>5</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>10</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>5</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>10</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>5</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>10</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>120</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>150</item>
-        <item>60</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-        <item>0</item>
-        <item>10</item>
-     </integer-array>
-     <integer-array name="vibration_recorder_slider">
-        <item>0</item>
-        <item>0</item>
-        <item>5</item>
-        <item>120</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>150</item>
-        <item>60</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-     </integer-array>
-     <integer-array name="vibration_torch_off">
-        <item>0</item>
-        <item>0</item>
-        <item>5</item>
-        <item>120</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-     </integer-array>
-     <integer-array name="vibration_torch_on">
-        <item>0</item>
-        <item>0</item>
-        <item>5</item>
-        <item>90</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>150</item>
-        <item>50</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-     </integer-array>
 </resources>

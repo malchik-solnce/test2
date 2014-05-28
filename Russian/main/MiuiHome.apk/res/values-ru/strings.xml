@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="activity_not_found">Приложение не найдено</string>
      <string name="application_name">Рабочий стол</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="apply_as_lock_wallpaper">OK</string>
      <string name="apply_as_lock_wallpaper_message">Применить также на экран блокировки?</string>
      <string name="aqi_quality_index_dangerous">Опасно</string>
@@ -26,10 +25,12 @@
      <string name="default_folder_title_security">Безопасность</string>
      <string name="default_folder_title_tools">Инструменты</string>
      <string name="default_name">По умол.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="default_shortcut_title_10086">10086.cn</string>
+     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+     <string name="durationformatshort">%2$2d:%5$02d</string>
+     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
      <string name="edit_folder_title">Редактирование папки</string>
      <string name="editing_add_widget_tips">Добавление виджетов</string>
+     <string name="editing_mode_title_empty">Выберите что нибудь</string>
      <string name="editing_set_transition_effect_tips">Смена эффекта перехода</string>
      <string name="editing_set_wallpaper_tips">Смена обоев</string>
      <string name="editing_tips">Добавление и редактирование виджетов</string>
@@ -77,7 +78,6 @@
      <string name="gadget_weather_loading">Нет данных о погоде</string>
      <string name="gadget_weather_low_temp">Мин.</string>
      <string name="gadget_weather_theme_type">Тип виджета</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gadget_weather_time_format">EEE, d MMMM</string>
      <string name="gadget_weather_title">Погода</string>
      <string name="gadget_weather_title_14">Погода 1х4</string>
@@ -89,6 +89,7 @@
      <string name="guide_install_app_msg">Это приложение не установлено на устройстве. Найти это приложение в маркете?</string>
      <string name="guide_install_app_title">Установить</string>
      <string name="guide_tips_editing_mode">Удерживая виджет, перетащи его на экран</string>
+     <string name="home_indicator">bottom_point</string>
      <string name="install">Установить</string>
      <string name="invalid_contact_shortcut">Недопустимый ярлык</string>
      <string name="loading_desktop">Загрузка, подождите…</string>
@@ -140,6 +141,7 @@
      <string name="pref_wallpaper_scroll_type_title">Прокрутка обоев</string>
      <string name="preferences_general_title">Основные настройки</string>
      <string name="preferences_title">Настройки рабочего стола</string>
+     <string name="process" />
      <string name="reset_scene_prompt">Расположение иконок на свободном рабочем столе будет сброшено в стандартное расположение</string>
      <string name="resource_select">Выбрать</string>
      <string name="screen_button_disabled_message">Кнопки внизу экрана отключены. Вы можете включить их снова, нажав клавиши \"Домой\" и \"Питание\".</string>
@@ -149,44 +151,62 @@
      <string name="select_frame">Рамка</string>
      <string name="select_photo">Фото</string>
      <string name="settings_shortcut">Ярлык настроек</string>
+     <string name="sharedUserId" />
      <string name="sort_by_abc">По имени</string>
      <string name="sort_by_frequency">По популярности</string>
      <string name="sort_by_not_defined">По порядку</string>
      <string name="start_activity_failed">Не удалось запустить. Попробуйте снова.</string>
      <string name="starting_preset_app">Запуск…</string>
      <string name="status_bar_toggle_ac">Доступ</string>
+     <string name="status_bar_toggle_advanced_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
      <string name="status_bar_toggle_auto_brightness">Автоподсв.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_toggle_bluetooth">Bluetooth</string>
+     <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
      <string name="status_bar_toggle_brightness">Яркость</string>
+     <string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.display.BrightnessActivity</string>
      <string name="status_bar_toggle_data">Интернет</string>
+     <string name="status_bar_toggle_data_action">com.android.phone/.Settings</string>
      <string name="status_bar_toggle_divider">Еще</string>
+     <string name="status_bar_toggle_divider_action">com.android.settings/com.android.settings.Settings$StatusBarSettingsActivity</string>
      <string name="status_bar_toggle_drive_mode">В машине</string>
+     <string name="status_bar_toggle_drive_mode_action">com.android.settings/com.android.settings.MiuiDriveModeSettings</string>
      <string name="status_bar_toggle_flight_mode">В самолете</string>
+     <string name="status_bar_toggle_flight_mode_action">com.android.settings/com.android.settings.MiuiSettings</string>
+     <string name="status_bar_toggle_gps">GPS</string>
+     <string name="status_bar_toggle_gps_action">com.android.settings/com.android.settings.Settings$LocationSettingsActivity</string>
      <string name="status_bar_toggle_lock">Блокировка</string>
      <string name="status_bar_toggle_mute">Без звука</string>
+     <string name="status_bar_toggle_mute_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
      <string name="status_bar_toggle_network_type">Тип сети</string>
+     <string name="status_bar_toggle_network_type_action">com.android.phone/.MiuiPreferredNetworkTypeListPreference</string>
      <string name="status_bar_toggle_power_high">Производительность</string>
      <string name="status_bar_toggle_power_low">Энергосбережение</string>
      <string name="status_bar_toggle_power_mid">Обычный</string>
      <string name="status_bar_toggle_power_mode">Режим питания</string>
+     <string name="status_bar_toggle_power_mode_action">com.android.settings/com.android.settings.Settings$BatterySettingsActivity</string>
      <string name="status_bar_toggle_privacy_mode">Гость</string>
      <string name="status_bar_toggle_quiet_mode">Не беспокоить</string>
+     <string name="status_bar_toggle_quiet_mode_action">com.android.settings/.dndmode.DoNotDisturbModeActivity</string>
      <string name="status_bar_toggle_reboot">Перезагрузка</string>
      <string name="status_bar_toggle_ring">Звонок</string>
      <string name="status_bar_toggle_ringtone">Мелодия</string>
      <string name="status_bar_toggle_rotate">Поворот</string>
+     <string name="status_bar_toggle_rotate_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
      <string name="status_bar_toggle_screen_button">Кнопки</string>
      <string name="status_bar_toggle_screenshot">Скриншот</string>
      <string name="status_bar_toggle_shutdown">Выключение</string>
      <string name="status_bar_toggle_sync">Синхрониз.</string>
+     <string name="status_bar_toggle_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
      <string name="status_bar_toggle_sync_auto">Автосинхрон.</string>
      <string name="status_bar_toggle_sync_manual">Ручная синхронизация</string>
      <string name="status_bar_toggle_syncing">Синхронизация</string>
      <string name="status_bar_toggle_torch">Фонарик</string>
      <string name="status_bar_toggle_vibrate">Вибрация</string>
+     <string name="status_bar_toggle_vibrate_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
      <string name="status_bar_toggle_wifi">Wi-Fi</string>
+     <string name="status_bar_toggle_wifi_action">com.android.settings/com.android.settings.Settings$WifiSettingsActivity</string>
      <string name="status_bar_toggle_wifi_ap">Wi-Fi модем</string>
+     <string name="status_bar_toggle_wifi_ap_action">com.android.settings/com.android.settings.Settings$TetherSettingsActivity</string>
      <string name="title_select_live_folder">Выбери папку</string>
      <string name="title_select_shortcut">Выбери ярлык</string>
      <string name="toggle_select_title">Выберите переключатели</string>
@@ -199,7 +219,6 @@
      <string name="transformation_type_leftpage">Перелистывание</string>
      <string name="transformation_type_rotate">Вращение</string>
      <string name="transformation_type_stack">Каскад</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="uninstall">OK</string>
      <string name="uninstall_dialog_message">Удалить это приложение?</string>
      <string name="uninstall_dialog_title_format">\"%s\"</string>

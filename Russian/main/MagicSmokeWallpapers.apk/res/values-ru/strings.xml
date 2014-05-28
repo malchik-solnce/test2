@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
+     <string name="author">Google</string>
      <string name="ok">OK</string>
-     <string name="taptochange">Нажмите, чтобы изменить</string>
-     <string name="wallpaper_magicsmoke">Волшебный Дым</string>
-     <string name="wallpapers">Обои Волшебный Дым</string>
+     <string name="taptochange">Tap to change</string>
+     <string name="wallpaper_magicsmoke">Magic Smoke</string>
+     <string name="wallpapers">Magic Smoke Wallpapers</string>
 </resources>
