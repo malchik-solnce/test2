@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
-     <string name="author">Google</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="taptochange">Tap to change</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wallpaper_magicsmoke">Magic Smoke</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wallpapers">Magic Smoke Wallpapers</string>
 </resources>

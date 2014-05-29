@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string-array name="polar_clock_palette_ids">
         <item>palette_gray</item>
@@ -11,6 +11,7 @@
         <item>palette_oceanic</item>
         <item>palette_zenburn</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 1 must: 9 -->
      <string-array name="polar_clock_palette_names">
      </string-array>
 </resources>

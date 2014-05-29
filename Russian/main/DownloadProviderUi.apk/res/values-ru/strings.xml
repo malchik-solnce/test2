@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="all_downloads">Все загрузки</string>
      <string name="all_fileter">Все</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="apk_filter">APK</string>
      <string name="app_downloads">Загрузки от приложения: %s</string>
      <string name="app_label">Загрузки</string>

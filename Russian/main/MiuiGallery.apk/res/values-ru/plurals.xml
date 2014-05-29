@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <plurals name="number_of_images">
         <item quantity="other">Изображений: %1$d</item>
@@ -15,10 +15,5 @@
         <item quantity="other">Выбрано: %1$d</item>
         <item quantity="one">Выбрано: %1$d</item>
         <item quantity="zero">Выбрано: %1$d</item>
-     </plurals>
-     <plurals name="number_of_pictures">
-        <item quantity="other">%1$d</item>
-        <item quantity="one">%1$d</item>
-        <item quantity="zero">%1$d</item>
      </plurals>
 </resources>

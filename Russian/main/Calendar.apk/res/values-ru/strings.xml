@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="accessibility_add_attendee">Добавить участника</string>
      <string name="accessibility_add_reminder">Добавить напоминание</string>
      <string name="accessibility_all_day">На весь день</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="accessibility_email_notification">Email guests</string>
      <string name="accessibility_pick_end_date">Дата окончания</string>
      <string name="accessibility_pick_end_time">Время окончания</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="accessibility_pick_recurrence">Repeat event</string>
      <string name="accessibility_pick_start_date">Дата начала</string>
      <string name="accessibility_pick_start_time">Время начала</string>
@@ -23,6 +25,7 @@
      <string name="acct_not_synced">"Этот аккаунт не синхронизируется, 
  поэтому Ваши календари не обновляются"</string>
      <string name="acessibility_cal_notification">Уведомление календаря</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="acessibility_recurrence_choose_end_date_description">change end date</string>
      <string name="acessibility_selected_marker_description">Выбранное событие</string>
      <string name="acessibility_snooze_notification">Отложить событие</string>
@@ -38,6 +41,7 @@
      <string name="calendar_color_picker_dialog_title">Цвет календаря</string>
      <string name="calendar_refresh">Обновить</string>
      <string name="calendar_square_color_picker_description">Цвет</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="call_label">Call</string>
      <string name="change_response_title">Изменить ответ</string>
      <string name="choose_event_color_label">Выберите цвет события</string>
@@ -51,13 +55,14 @@
 
 • Всегда иметь под рукой обновленные данные – на любом устройстве
 • Синхронизировать все мероприятия – Вы никогда не потеряете их"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="create_event_dialog_save">Save</string>
      <string name="creating_event">Мероприятие создано</string>
      <string name="creating_event_with_guest">Приглашение отправлено</string>
      <string name="custom">Особое… (настраивается только на сайте)</string>
      <string name="daily">Ежедневно</string>
-     <string name="date_time_fmt" formatted="false">%s, %s</string>
      <string name="day_of_week_label_typeface">sans-serif</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="day_picker_description">Month grid of days</string>
      <string name="day_view">День</string>
      <string name="day_view_new_event_hint">Создать</string>
@@ -80,10 +85,13 @@
      <string name="edit_event_show_all">Показать все</string>
      <string name="edit_event_to_label">До</string>
      <string name="edit_label">Изменить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="email_guests_label">Email</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="email_guests_label_title">Email</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="email_organizer_label">Email organizer</string>
      <string name="email_picker_label">Email с</string>
-     <string name="email_subject_prefix">"Re: "</string>
      <string name="empty_event">Пустое мероприятие</string>
      <string name="endByDate">; until %s</string>
      <string name="event_color_picker_dialog_title">Цвет события</string>
@@ -107,6 +115,7 @@
      <string name="hint_time_zone_search">Введите страну</string>
      <string name="hint_what">Название мероприятия</string>
      <string name="hint_where">Место мероприятия</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hour_picker_description">Hours circular slider</string>
      <string name="item_is_selected">Выбрано: %1$s</string>
      <string name="loading">Загрузка…</string>
@@ -114,11 +123,13 @@
      <string name="local_owner_account_name">Локальный аккаунт</string>
      <string name="lunar_calendar">农历</string>
      <string name="lunar_yue">月</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="map_label">Map</string>
      <string name="menu_about_preferences">О календаре</string>
      <string name="menu_general_preferences">Общие настройки</string>
      <string name="menu_preferences">Настройки</string>
      <string name="menu_select_visible_calendars">Отображение календарей</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="minute_picker_description">Minutes circular slider</string>
      <string name="modify_all">Изменить все мероприятия в серии</string>
      <string name="modify_all_following">Изменить это и будущие мероприятия</string>
@@ -137,6 +148,10 @@
      <string name="month_medium_september">Сен</string>
      <string name="month_view">Месяц</string>
      <string name="monthly">Ежемесячно</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Monthly (on day %s) -->
      <string name="monthly_on_day">Ежемесячно</string>
      <string name="more_string">еще %1$s…</string>
      <string name="new_event_dialog_label">Новое мероприятие</string>
@@ -147,6 +162,7 @@
      <string name="no_title_label">(нет заголовка)</string>
      <string name="not_synced">не синхронизирован</string>
      <string name="notification_sender_id" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="palestine_display_name">Palestine</string>
      <string name="preferences_about_title">О программе</string>
      <string name="preferences_alerts_popup_title">Всплывающее уведомление</string>
@@ -156,21 +172,29 @@
      <string name="preferences_build_version">Версия сборки</string>
      <string name="preferences_clear_search_history_summary">Удалить информацию обо всех выполненных поисковых запросах</string>
      <string name="preferences_clear_search_history_title">Очистить историю поиска</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preferences_debug_category">Debugging</string>
-     <string name="preferences_default_reminder_default">10</string>
      <string name="preferences_default_reminder_dialog">Время напоминания</string>
      <string name="preferences_default_reminder_title">Время напоминания</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preferences_experimental_category">Experimental</string>
      <string name="preferences_general_title">Мероприятия</string>
      <string name="preferences_hide_declined_title">Скрыть отклоненные</string>
      <string name="preferences_home_tz_title">Часовой пояс</string>
      <string name="preferences_reminder_title">Настройки напоминаний</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preferences_reminders_category">Reminders</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preferences_reminders_quiet_hours_description">Silence event reminders during specified time.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preferences_reminders_quiet_hours_end">Quiet hours end time</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preferences_reminders_quiet_hours_label">Quiet hours</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preferences_reminders_quiet_hours_start">Quiet hours start time</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preferences_reminders_responded_dialog">Skip Reminders</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preferences_reminders_responded_label">Skip Reminders</string>
      <string name="preferences_show_week_num_title">Показать номер недели</string>
      <string name="preferences_title">Настройки</string>
@@ -189,12 +213,18 @@
      <string name="quick_response_settings_summary">Редактирование сообщений быстрого ответа</string>
      <string name="quick_response_settings_title">Изменить быстрый ответ</string>
      <string name="radial_numbers_typeface">sans-serif</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="recurrence_dialog_title">Repeat</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="recurrence_dialog_title_never">Never repeats</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="recurrence_end_continously">Forever</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="recurrence_end_count_label">For a number of events</string>
      <string name="recurrence_end_date">Until %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="recurrence_end_date_label">Until a date</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="recurrence_month_pattern_by_day">on the same day each month</string>
      <string name="reminders_label">Добавить напоминание</string>
      <string name="repeats_label">Повтор</string>
@@ -208,6 +238,7 @@
      <string name="search">Поиск</string>
      <string name="search_history_cleared">История поиска удалена</string>
      <string name="search_title">Поиск календарей</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="searchview_description_clear">Clear query</string>
      <string name="select_day">Выберите месяц и день</string>
      <string name="select_hours">Выберите часы</string>
@@ -223,7 +254,6 @@
      <string name="snooze_all_label">Отложить все</string>
      <string name="snooze_label">Отложить</string>
      <string name="synced">Синхронизированы</string>
-     <string name="tardis">TARDIS</string>
      <string name="template_announce_item_index">Мероприятие %1$s из %2$s</string>
      <string name="time_placeholder">--</string>
      <string name="time_separator">:</string>

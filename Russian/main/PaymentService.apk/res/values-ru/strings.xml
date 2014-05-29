@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="account_detail">"Аккаунт Xiaomi:
 %1$s"</string>
@@ -7,6 +7,7 @@
      <string name="balance_giftcard_payment">%1$s MiCredits（%2$s-MiCredit подарочная карта）</string>
      <string name="balance_no_giftcard_payment">%1$s MiCredits (нельзя использовать подарочную карту для этого заказа)</string>
      <string name="balance_payment">%1$s MiCredits</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="balance_title">Balance</string>
      <string name="bankcall_bank_account">Банковская карта</string>
      <string name="bankcall_call_hint">Вы получите звонок от UnionPay (020-96585) в ближайшее время</string>
@@ -38,6 +39,8 @@
      <string name="btn_call">Позвонить</string>
      <string name="btn_count_down_auto">Запрос через %1$s секунд</string>
      <string name="btn_delete_record">Удалить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="btn_finish">finish</string>
      <string name="btn_mili_center_recharge">Пополнить MiCredit</string>
      <string name="btn_net_connection_retry">Повторить</string>
      <string name="btn_next">Далее</string>
@@ -55,6 +58,7 @@
      <string name="btn_wait_confirm_count">Ожидание "%1$s"</string>
      <string name="button_call">Звонок</string>
      <string name="button_cancel">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_confirm">OK</string>
      <string name="button_next">Далее</string>
      <string name="button_pay">Оплатить</string>
@@ -100,12 +104,13 @@
      <string name="error_network_summary">Ошибка сети. Пожалуйста, попробуйте еще раз.</string>
      <string name="error_server_summary">Ошибка сервера. Пожалуйста, попробуйте позже.</string>
      <string name="error_user_id_mismatch_summary">Пожалуйста, проверьте настройки аккаунта и попробуйте снова</string>
-     <string name="fee">%1$s MiCredit</string>
      <string name="forget_password"><u>Забыли пароль?</u></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="format_date">d MMMM yyyy</string>
      <string name="format_time">d MMMM yyyy hh:mmaa</string>
      <string name="frozen">(заморожен)</string>
      <string name="giftcard_acitivity_and_denomination">Подарочная карта на %2$s MiCredit от %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="giftcard_denom">MiCredit</string>
      <string name="giftcard_denom_available">MiCredit доступно</string>
      <string name="giftcard_denom_frozen">MiCredit заморжено</string>
@@ -143,17 +148,22 @@
      <string name="lockscreen_forgot_pattern_button_text"><u>Забыли пароль?</u></string>
      <string name="login">Войти</string>
      <string name="memu_refresh">Обновить</string>
-     <string name="mibi_license_message">Прежде чем воспользоваться этой услугой, вы должны согласиться с условиями предоставления услуг, указанными в %1$s.
-Нажмите OK, если согласны с правилами и условиями, описанными в %1$s.</string>
+     <string name="mibi_license_message">"Прежде чем воспользоваться этой услугой, вы должны согласиться с условиями предоставления услуг, указанными в %1$s.
+Нажмите OK, если согласны с правилами и условиями, описанными в %1$s."</string>
      <string name="mibi_license_message_span">MiCredit пользовательское соглашение</string>
      <string name="mibi_license_title">Пользовательское соглашение</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mili_center">MiCredit</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_denomination_type">MiCredit</string>
      <string name="msg_error">Ошибка пополнения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_1_1">1.</string>
      <string name="msg_picker_hint_1_2">Пополнение через СМС, может быть дороже: &lt;font color=red>%1$d юань = %2$d MiCredit&lt;/font></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_2_1">2.</string>
      <string name="msg_picker_hint_2_2">Взимается плата за обслуживание в размере %1$s юань</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_3_1">3.</string>
      <string name="msg_picker_hint_3_2">Maximum monthly top-up: ￥%1$s</string>
      <string name="msg_send_no_net_error">Ошибка отправки сообщения: поставщик услуг недоступен</string>
@@ -174,13 +184,16 @@
      <string name="password_hint">Введите пароль от аккаунта</string>
      <string name="pay_record_empty">Нет записей</string>
      <string name="pay_record_typeall">Все</string>
-     <string name="paytool_alipay">Alipay</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="payment_actionbar_title">Confirm</string>
      <string name="paytool_error_install">Установка мобильного плагина безопасности %1$s не удалась</string>
      <string name="paytool_error_msp">Ошибка %1$s</string>
      <string name="paytool_msp_not_installed">Вы не установили плагин мобильной безопасности %1$s. Установить его сейчас?</string>
-     <string name="paytool_tenpay">Tenpay</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pc_pay_login">Please login</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pc_pay_website">mibi.xiaomi.com</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="prepaid_carriers_picker_hint">Select carrier</string>
      <string name="prepaid_edit_limit">знаков</string>
      <string name="prepaid_error_card_length">Неверный номер или пароль карты</string>
@@ -190,12 +203,12 @@
      <string name="prepaid_error_password">Неверный пароль карты</string>
      <string name="prepaid_number_edit_hint">Номер карты </string>
      <string name="prepaid_password_edit_hint">Пароль карты</string>
-     <string name="prepaid_picker_hint_1_1">1.</string>
      <string name="prepaid_picker_hint_1_2">Поддерживается только разовая плата;</string>
-     <string name="prepaid_picker_hint_2_1">2.</string>
      <string name="prepaid_picker_hint_2_2_a">Выбранная номинальная стоимость, должна быть равна стоимости предоплаченной карты, в противном случае это приведет к потере денег</string>
      <string name="prepaid_picker_hint_2_2_b">Если номинальная стоимость карты не составляет &lt;font color=red>%1$s ￥&lt;/font>, карта будет считаться недействительной. Xiaomi не несет ответственности за любые финансовые потери, которые происходят в результате ошибки пользователя.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="prepaid_picker_title_default">Select amount</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="prepaid_picker_title_selected">amount</string>
      <string name="progress_bankcall_card_creating">Создание заказа…</string>
      <string name="progress_bankcall_card_querying">Определение типа банковского счета…</string>
@@ -214,6 +227,10 @@
      <string name="progress_submit_hint">Пополнение будет зачислено в течение 3х минут</string>
      <string name="progress_submit_recharge_summary">Пополнение: %1$s MiCredits</string>
      <string name="progress_submit_title">Запрос подтвержден</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 2
+	%s: 0 must: 2
+	%d: 0 must: 0 -->
+     <!-- Original string: %1$s MiCredits recharged，%2$s MiCredits paied -->
      <string name="progress_success_pay_summary">Ваш заказ был успешно оплачен!</string>
      <string name="progress_success_pay_title">Оплата %1$s MiCredit завершена</string>
      <string name="progress_success_recharge_summary">Баланс: %1$s MiCredits</string>
@@ -225,12 +242,16 @@
 1. Пожалуйста, свяжитесь со службой поддержки в Шеньчжоу: %1$s 
 2. Сообщите свой серийный номер: %2$s"</string>
      <string name="progress_warning_waiting">Еще не подтвержден. Пожалуйста, повторите попытку позже.</string>
-     <string name="recharge_alipay_title">Alipay</string>
      <string name="recharge_bankcall_title">Банковская карта</string>
      <string name="recharge_grid_edit_limit">%1$s~%2$s юань</string>
      <string name="recharge_grid_edit_upper_limit">Не может превышать %1$s юань</string>
+     <!-- The count of MNPS does not match! Now: 2 must: 2
+	%s: 0 must: 2
+	%d: 2 must: 0 -->
+     <!-- Original string: Please enter the correct amount between ￥%1$s~%2$s -->
      <string name="recharge_grid_error_denomination">Введите корректный размер пополнения (%1$d~%2$dRMB)</string>
      <string name="recharge_grid_picker_hint">Выберите размер пополнения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="recharge_group_familiar">Common methods</string>
      <string name="recharge_group_favorite">Используемые методы пополнения</string>
      <string name="recharge_group_others">Другие методы пополнения</string>
@@ -243,9 +264,16 @@
      <string name="recharge_push_notification_prime_title">%1$d добавил %2$s MiCredits на Ваш счет</string>
      <string name="recharge_push_notification_sub_title">Пополнение завершено</string>
      <string name="recharge_record_empty">Нет записей</string>
-     <string name="recharge_tenpay_title">Tenpay</string>
      <string name="recharge_voucher_title">Карта MiCredit</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Scan prepaid card number -->
      <string name="scan_prompt_number">Сканировать номер карты предоплаты %1$s</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Scan prepaid card password -->
      <string name="scan_prompt_password">Сканировать пароль карты предоплаты %1$s</string>
      <string name="scan_prompt_voucher">Сканировать пароль MiCredit</string>
      <string name="security_setting">Настройки безопасности</string>
@@ -266,6 +294,8 @@
      <string name="title_recharge_record">Пополнения</string>
      <string name="title_transaction">Мои операции</string>
      <string name="title_visible_pattern">Сделать шаблон видимым</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="voucher_card_text">Please scratch off the coat</string>
      <string name="voucher_edit_limit">знаков</string>
      <string name="voucher_error_password">Неверный код!</string>
      <string name="voucher_input_password_prompt">Введите код</string>

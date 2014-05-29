@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="accessibility_button_addbookmark">Добавить страницу в закладки</string>
      <string name="accessibility_button_back">Назад</string>
@@ -53,6 +53,10 @@
      <string name="advertise_suspend_window">Блокировать плавающие окна</string>
      <string name="allow">Разрешить</string>
      <string name="already_in_top_level">Закладка уже в самом верху</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_new_version">Download complete and latest version of application installed already</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_update_install">Download complete and ready to install upgraded version</string>
      <string name="application_name">Браузер</string>
      <string name="autofill_profile_editor_address_line_1">Адресная строка 1:</string>
      <string name="autofill_profile_editor_address_line_1_hint">Адрес, почтовый ящик, адрес до востребования</string>
@@ -105,7 +109,6 @@
      <string name="bookmarks_root_folder">Корневая папка</string>
      <string name="bookmarks_search">Браузер</string>
      <string name="browserFrameFileErrorLabel">Проблема с файлом</string>
-     <string name="browserFrameFormResubmitLabel" />
      <string name="browserFrameFormResubmitMessage">Страница, которую Вы пытаетесь открыть, содержит уже отправленные данные (POSTDATA). В случае их повторной отправки повторятся все действия, выполненные на странице после заполнения формы (например, поиск или покупка)</string>
      <string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
      <string name="browser_bookmarks_page_bookmarks_text">Закладки</string>
@@ -121,6 +124,16 @@
      <string name="clear_history_group">Очистить всю историю (%s)</string>
      <string name="clear_search_history">Очистить историю</string>
      <string name="close_other_tabs">Закрыть остальные вкладки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_loading_tips">Pull down to sync</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_no_new_data_toast">No new data, please retry later</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_tab">Cloud Tab</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_time_tips">Last sync time</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_up_to_loading_tips">Release to sync</string>
      <string name="color_picker_button_black">Черный</string>
      <string name="color_picker_button_blue">Синий</string>
      <string name="color_picker_button_cancel">Отмена</string>
@@ -155,9 +168,13 @@
      <string name="contextmenu_view_image">Просмотр изображения</string>
      <string name="copy_link">ссылка</string>
      <string name="copy_page_url">Скопировать URL страницы</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="copy_to_clipboard_failure_message">Failed to copy to the clipboard</string>
      <string name="create_shortcut_bookmark">Ярлык на рабочий стол</string>
      <string name="current_page">"на "</string>
      <string name="date_picker_dialog_clear">Очистить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="date_picker_dialog_other_button_label">Other</string>
      <string name="date_picker_dialog_set">ОК</string>
      <string name="date_picker_dialog_title">Выберите дату</string>
      <string name="date_time_picker_dialog_title">Выбор даты и время</string>
@@ -167,9 +184,14 @@
      <string name="delete_bookmark_warning">Удалить закладку \"%s\"?</string>
      <string name="delete_folder">Удалить папку</string>
      <string name="delete_multi_bookmarks_alert_title">Вы уверены, что хотите удалить эти закладки (%1$s)?</string>
+     <string name="delete_quicklink_warning">Delete \"%s\" from quicklink ?</string>
      <string name="disable_autofill">Отключить автозаполнение</string>
      <string name="do_not_save">Отмена</string>
      <string name="done">Готово</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="download_complete">File download complete</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="download_failed">Download failed</string>
      <string name="download_no_sdcard_dlg_msg">Для загрузки файла %s требуется USB-накопитель</string>
      <string name="download_no_sdcard_dlg_title">USB-накопитель недоступен</string>
      <string name="download_pending">Начинается загрузка…</string>
@@ -187,6 +209,11 @@
      <string name="error_console_eval_text_hint">Оценить JavaScript</string>
      <string name="error_console_header_text_maximized">Консоль JavaScript</string>
      <string name="error_console_header_text_minimized">Показать консоль JavaScript</string>
+     <string name="error_forbidden">There are some problems with your account: Sync disabled.</string>
+     <string name="error_not_acceptable">Server error: Sync disabled.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_title">Sync error</string>
+     <string name="error_unauthorized">Too many sign-in attempts: Sync disabled.</string>
      <string name="find_in_page_close_accessibility_text">закрыть поиск на странице</string>
      <string name="find_in_page_down_accessibility_text">найти текст</string>
      <string name="find_in_page_edit_text_hint">Введите текст для поиска</string>
@@ -195,6 +222,10 @@
      <string name="folder_name">Имя папки</string>
      <string name="forward">Вперед</string>
      <string name="geolocation_permissions_prompt_dont_share">Отклонить</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: wants to know your location -->
      <string name="geolocation_permissions_prompt_message">%s запрашивает данные о вашем местоположении</string>
      <string name="geolocation_permissions_prompt_remember">Запомнить настройки</string>
      <string name="geolocation_permissions_prompt_share">Разрешить</string>
@@ -211,7 +242,6 @@
      <string name="gesture_slide_edge">Назад и вперед при слайде влево или вправо</string>
      <string name="gesture_two_fingers_slide_up_down">Два пальца вверх и вниз для открытия и закрытия вкладок</string>
      <string name="go_home">Домашняя страница</string>
-     <string name="google_bookmarks">Заметки Google</string>
      <string name="goto_dot">Поиск</string>
      <string name="have_sent_bookmark_to_home_screen">Отправлено на рабочий стол</string>
      <string name="history">История</string>
@@ -229,15 +259,19 @@
      <string name="import_bookmarks_wizard_done">Готово</string>
      <string name="import_bookmarks_wizard_next">Далее</string>
      <string name="import_bookmarks_wizard_previous">Назад</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="input_valid_url">Please enter a valid URL</string>
      <string name="instant_search_label">Google с живым поиском (лаборатория Google)</string>
      <string name="js_engine_flags">Установить флаги JS</string>
      <string name="loadSuspended">Не удалось загрузить страницу: нет интернет-подключения</string>
      <string name="loadSuspendedTitle">Нет подключения</string>
-     <string name="loading_video">Загрузка видео…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="loading_tips">Pull down to refresh</string>
      <string name="local_bookmarks">Локальные</string>
      <string name="location">Адрес</string>
      <string name="low_memory_error">Не хватает памяти для завершения данной операции</string>
      <string name="max_tabs_warning">Достигнут предел количества вкладок</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="media_player_error_button">OK</string>
      <string name="media_player_error_text_invalid_progressive_playback">К сожалению, данное видео нельзя проиграть на этом устройстве</string>
      <string name="media_player_error_text_unknown">Это видео не может быть проиграно</string>
@@ -272,7 +306,13 @@
      <string name="miui_function_menu_add_to_bookmark">Заметка</string>
      <string name="miui_function_menu_add_to_quicklinks">Ссылка</string>
      <string name="miui_function_menu_delete_to_bookmark">Удалить заметку</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui_function_menu_delete_to_quicklinks">Delete quicklink</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui_function_menu_desktop_ua">Desktop</string>
      <string name="miui_function_menu_find_in_page">Найти на странице</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui_function_menu_mobile_ua">Mobile</string>
      <string name="miui_function_menu_share_system">Отправить</string>
      <string name="miui_startpage">Стартовая страница</string>
      <string name="miuichromium_save_password_message">Вы хотите, чтобы браузер запомнил этот пароль?</string>
@@ -294,6 +334,10 @@
      <string name="open_all_bookmarks">Открыть все</string>
      <string name="open_all_in_new_window">Открыть все в новых вкладках</string>
      <string name="open_bookmark">Открыть</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Open %s browsing history -->
      <string name="open_history_group_in_new_window">Открыть всю историю</string>
      <string name="open_history_most_visited_group_in_new_window">Открыть все часто посещаемые сайты</string>
      <string name="opening_file_error">Ошибка открытия файла</string>
@@ -301,10 +345,8 @@
      <string name="page_info">Информация</string>
      <string name="page_info_address">Адрес:</string>
      <string name="page_info_view">Информация</string>
-     <string name="page_not_support_fuction">Это страница не поддерживает эту функцию</string>
      <string name="password">Пароль</string>
      <string name="permission_preload_label">Загрузить результаты</string>
-     <string name="picasa">Picasa</string>
      <string name="popup_window_attempt">Открыть всплывающее окно с этого сайта?</string>
      <string name="pref_accessibility_title">Специальные  возможности</string>
      <string name="pref_allow_apptabs">Разрешить несколько вкладок в приложении</string>
@@ -350,7 +392,6 @@
      <string name="pref_development_single_column_rendering">Рендерить в один столбец</string>
      <string name="pref_development_title">Выполнить отладку</string>
      <string name="pref_development_trace">Включить трассировку</string>
-     <string name="pref_development_uastring">UAString</string>
      <string name="pref_development_viewport">Широкий экран</string>
      <string name="pref_development_visual_indicator">Включить визуальный индикатор</string>
      <string name="pref_extras_reset_default">Сбросить настройки</string>
@@ -429,10 +470,13 @@
      <string name="profiler_started_toast">Профайлер запущен</string>
      <string name="profiler_stopped_toast">Профайлер завершен. Результаты: %1$s.</string>
      <string name="progress_dialog_setting_wallpaper">Установка обоев…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="quicklink_have_deleted">This site has been deleted</string>
      <string name="quicklink_have_modified">Этот сайт был изменен</string>
      <string name="quicklink_management_title">Добавить на стартовую страницу</string>
      <string name="quicklink_saved_before">Сайт уже добавлен</string>
      <string name="quicklink_user_define_webpage_title">Имя</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="quicklink_user_define_webpage_url">URL</string>
      <string name="quicklinks_management">Полезные сайты</string>
      <string name="quicklinks_most_visited">Добавить сайт на главную</string>
@@ -469,24 +513,14 @@
      <string name="save_to_bookmarks">Добавить закладку</string>
      <string name="saving_snapshot">Сохраняется…</string>
      <string name="search">Поиск</string>
-     <string name="search_baidu">Baidu</string>
-     <string name="search_bing">Bing</string>
      <string name="search_button_text">Поиск</string>
      <string name="search_cancel">Отмена</string>
-     <string name="search_dianping">Cate</string>
-     <string name="search_easou">Easou</string>
-     <string name="search_google">Google</string>
      <string name="search_hint">Поиск</string>
      <string name="search_label">Браузер</string>
-     <string name="search_s139">139</string>
      <string name="search_settings_description">Закладки и история поиска</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_shipin">Video</string>
-     <string name="search_sogou">Segou</string>
-     <string name="search_taobao">Taobao</string>
      <string name="search_the_web">Поиск в интернете</string>
-     <string name="search_tupian">Image</string>
-     <string name="search_yahoo">Yahoo</string>
-     <string name="search_yicha">Yicha</string>
      <string name="security_warning">Угроза безопасности</string>
      <string name="select_dot">Выбрать текст</string>
      <string name="send_bookmark_to_home_screen">Создать ярлык на рабочем столе</string>
@@ -516,11 +550,31 @@
      <string name="ssl_warnings_header">У этого сайта проблемы с сертификатом безопасности</string>
      <string name="stop">Стоп</string>
      <string name="stopping">Остановка…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sub_sync_item_browser_title_bookmark">Sync bookmark</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sub_sync_item_browser_title_bookmark_summary">Sync bookmark of browser</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sub_sync_item_browser_title_cloud_tab">Sync tabs</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sub_sync_item_browser_title_cloud_tab_summary">Sync open tabs of browser on different devices</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sub_sync_item_browser_title_history">Sync history</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sub_sync_item_browser_title_history_summary">Sync history of browser</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_item_browser_summary">Sync data to your cloud, and make using browser on different devices easy</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_item_browser_title">Sync browser</string>
      <string name="tab_bookmarks">Закладки</string>
      <string name="tab_history">История</string>
      <string name="tab_most_visited">Часто посещаемые</string>
      <string name="tab_snapshots">Сохраненные страницы</string>
      <string name="tab_video">Видео</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="time_picker_dialog_am">AM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="time_picker_dialog_pm">PM</string>
      <string name="time_picker_dialog_title">Выбор времени</string>
      <string name="title_bar_loading">Загрузка…</string>
      <string name="too_many_subwindows_dialog_message">Можно открыть только одно всплывающее окно</string>
@@ -528,6 +582,8 @@
      <string name="too_many_windows_dialog_message">Невозможно открыть новую вкладку: закройте хотя бы одну</string>
      <string name="too_many_windows_dialog_title">Открыто макс. число вкладок</string>
      <string name="ua_switcher_desktop">Полная версия</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="up_to_loading_tips">Release to refresh</string>
      <string name="uploads_disabled">Добавление файлов отключено</string>
      <string name="url_copy_done">Адрес скопирован</string>
      <string name="url_hint">Введите адрес</string>
@@ -557,6 +613,7 @@
      <string name="webview_js_dialog_title">Страница \"%s\" сообщает:</string>
      <string name="webview_last_month">В прошлом месяце</string>
      <string name="webview_no_matches">Нет совпадений</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="webview_ok">OK</string>
      <string name="webview_older">Ранее</string>
      <string name="webview_today">Сегодня</string>

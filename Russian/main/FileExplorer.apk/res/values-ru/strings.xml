@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="account_bind_prompt">"Перенос данных пользователя
 перенос данных может жанять некоторое время,
@@ -16,11 +16,11 @@
      <string name="application_size_label">Приложение</string>
      <string name="background">В фоне</string>
      <string name="big5_summary">Кодировка по умолчанию в традиционной китайской версии системы Windows</string>
-     <string name="big5_title">BIG5</string>
      <string name="bind_account">Привязка к аккаунту KuaiPan</string>
      <string name="bind_account_summary">Если у Вас уже есть учетная запись kuaipan, то ее можно привязать к учетной записи Xiaomi, чтобы синхронизировать данные</string>
      <string name="binded_accout_description">Эти два аккаунта были объединены. Теперь Вы можете войти используя либо аккаунт Xiaomi, либо аккаунт Kuaipan. В них обоих будут одни и теже файлы.</string>
      <string name="binded_accout_title">В настоящее время Вы уже связаны с учетной записью KuaiPan</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="byteShort">B</string>
      <string name="cache_size_label">Кэш</string>
      <string name="cancel">Отмена</string>
@@ -28,8 +28,6 @@
      <string name="cancel_with_count_down">Отмена (%d)</string>
      <string name="category_all">Все</string>
      <string name="category_apk">Программы</string>
-     <string name="category_bluetooth">Bluetooth</string>
-     <string name="category_default_number_text">(0)</string>
      <string name="category_document">Документы</string>
      <string name="category_favorite">Избранное</string>
      <string name="category_log">Журналы</string>
@@ -54,7 +52,6 @@
      <string name="compress_message">Имя архива:</string>
      <string name="compress_title">Создание архива</string>
      <string name="confirm">OК</string>
-     <string name="confirm_know">OK</string>
      <string name="copy_failed">Ошибка копирования</string>
      <string name="count_down_time">Начало через %d секунд</string>
      <string name="create_kuaipan_shortcut_pref">Создать ярлык на рабочем столе</string>
@@ -83,10 +80,8 @@
      <string name="dialog_type_image">Изображения</string>
      <string name="dialog_type_text">Текст</string>
      <string name="dialog_type_video">Видео</string>
-     <string name="directory_info_divider">"     |     "</string>
      <string name="directory_no_item">пустая папка</string>
      <string name="dlg_error_unmount_text">"Невозможно отключить USB-хранилище. Попробуйте позже."</string>
-     <string name="download_current_progress">%1$d/100</string>
      <string name="download_failed">Ошибка загрузки</string>
      <string name="download_link_completed">Я поделился %1$s через KuaiPan. Нажмите ссылку внизу для просмотра:</string>
      <string name="downloading">Загрузка</string>
@@ -124,12 +119,10 @@
      <string name="ftp_transfer_secure">Защищенная FTP-передача</string>
      <string name="ftp_username_and_passworld">Имя пользователя и пароль</string>
      <string name="ftp_username_hint">Имя пользователя</string>
-     <string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
-     <string name="garbage_item_path_format" formatted="false">%s %s</string>
      <string name="garbage_size_metric">"%s
 мусора"</string>
      <string name="gbk_summary">Если вы используете кодировку GBK, например, в Windows Explorer, выберите этот тип кодирования, чтобы избежать искажения текста на китайском языке</string>
-     <string name="gbk_title">GBK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gigabyteShort">GB</string>
      <string name="give_up_cleaning">Отмена</string>
      <string name="header_text_cleaned">мусора очищено</string>
@@ -139,9 +132,10 @@
      <string name="instruction">Адрес синхронизации:</string>
      <string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
      <string name="item_name">Без имени</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="kilobyteShort">KB</string>
-     <string name="kuaipan_label">Kuaipan</string>
      <string name="kuaipan_over_space">В вашем KuaiPan нет больше свободного места</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="kuaipan_prompt">KuaiPan</string>
      <string name="kuaipan_prompt_message">"
  Идет обслуживание сервиса, пожалуйста, попробуйте позже…
@@ -149,19 +143,22 @@
      <string name="kuaipan_tech_support">При поддержке Kingsoft Kuaipan</string>
      <string name="load_err">Ошибка загрузки</string>
      <string name="loading">Загрузка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="local">local</string>
      <string name="local_cache_size">Размер локального кэш: %s</string>
      <string name="login_reg_content">KuaiPan позволяет хранить файлы и синхронизировать их между несколькими устройствами</string>
      <string name="login_reg_content0">KuaiPan - Ваш интернет диск</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="megabyteShort">MB</string>
      <string name="menu_item_cleanup">Очистка</string>
-     <string name="menu_item_ftp">FTP</string>
      <string name="menu_item_search">Поиск</string>
      <string name="menu_item_sort">Сортировка</string>
      <string name="menu_item_sort_date">По дате</string>
      <string name="menu_item_sort_name">По названию</string>
      <string name="menu_item_sort_size">По размеру</string>
      <string name="menu_item_sort_type">По типу</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_list_name">Menu</string>
      <string name="migrate_announcement_msg">Если у Вас есть аккаунт KuaiPan, его можно привязать в настройках и получить доступ к данным</string>
      <string name="migrate_announcement_title">MiDrive был перенесен в KuaiPan</string>
      <string name="move_failed">Ошибка перемещения</string>
@@ -227,6 +224,7 @@
      <string name="operation_unfavorite">Удалить из избранного</string>
      <string name="pan_settting">Настройки KuaiPan</string>
      <string name="paused">Пауза</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="petabyteShort">PB</string>
      <string name="pull_to_signin">Потяните вниз, чтобы войти в систему и получить дополнительное место в облаке</string>
      <string name="query_bind_state">Запрос состояния, пожалуйста, подождите…</string>
@@ -243,7 +241,6 @@
      <string name="sd_size_label">Хранилище пользователя</string>
      <string name="search_hint">Введите часть или все имя файла</string>
      <string name="search_title">Поиск документов</string>
-     <string name="send_to_midrive">KuaiPan</string>
      <string name="send_to_midrive_failed_message">Не удалось отправить в KuaiPan. Неверный формат файла.</string>
      <string name="server_control_advanced_settings">Расширенные настройки</string>
      <string name="server_control_charset">Кодирование передачи</string>
@@ -270,11 +267,11 @@
      <string name="sys_size_enable">включить</string>
      <string name="sys_size_title">Полный объем</string>
      <string name="tab_category">Категории</string>
-     <string name="tab_networkdisk">KuaiPan</string>
      <string name="tab_phone">Файлы</string>
      <string name="tab_sys_size">Всего памяти</string>
      <string name="temp_file_cleanup_indication">%s временнх файлов</string>
      <string name="temp_file_title">Временные файлы</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="terabyteShort">TB</string>
      <string name="thumbnail_cleanup_indication">%s эскизов</string>
      <string name="thumbnail_title">Файлы эскизов</string>
@@ -313,7 +310,6 @@
      <string name="user_guide_upload_to_kuaipan">"С телефона,
 просто скопировать и вставить в Kuaipan"</string>
      <string name="utf8_summary">Тип кодировки по умолчанию</string>
-     <string name="utf8_title">UTF-8</string>
      <string name="version_text">версия %1$s</string>
      <string name="wait_net">Ожидание сети</string>
      <string name="wait_sdcard">Ожидание подключения SD-карты</string>
@@ -324,5 +320,6 @@
      <string name="wangpan_root_path">Мой диск</string>
      <string name="wifi_state">Статус Wi-Fi</string>
      <string name="xiaomi_account">Аккаунт Xiaomi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="yes">OK</string>
 </resources>

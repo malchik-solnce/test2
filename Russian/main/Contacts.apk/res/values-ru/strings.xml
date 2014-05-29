@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="accessibility_calllog_detail">Журнал</string>
      <string name="account_container_title">Из аккаунта</string>
@@ -31,12 +31,9 @@
      <string name="aggregation_suggestion_edit_dialog_title">Редактировать выбранные контакты</string>
      <string name="aggregation_suggestion_join_dialog_message">Объединить текущий контакт с выбранным контактом?</string>
      <string name="all_list_empty">Нет контактов</string>
-     <string name="anniversary_of_lifting_martial_law">解嚴紀念</string>
-     <string name="anti_aggression_day">反侵略日</string>
      <string name="antispam_mark_my_contribution">Мой вклад в спам-фильтр</string>
      <string name="antispam_provider_format">Поддержка спам-фильтра: %s</string>
      <string name="arbor_day">植树节</string>
-     <string name="armed_forces_day">軍人節</string>
      <string name="attach_photo_dialog_title">Фото контакта</string>
      <string name="audio_chat">Голосовой чат</string>
      <string name="auto_nickname">Авто</string>
@@ -73,8 +70,6 @@
      <string name="call_fax_work">Рабочий факс</string>
      <string name="call_home">Домашний тел.</string>
      <string name="call_isdn">Номер ISDN</string>
-     <string name="call_log_empty_gecode">-</string>
-     <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
      <string name="call_log_new_header">Новые</string>
      <string name="call_log_old_header">Раньше</string>
      <string name="call_main">Основной телефон</string>
@@ -88,7 +83,6 @@
      <string name="call_settings">Настройки</string>
      <string name="call_telex">Телекс</string>
      <string name="call_tty_tdd">Телетайп</string>
-     <string name="call_type_and_date">%1$s %2$s</string>
      <string name="call_work">Рабочий тел.</string>
      <string name="call_work_mobile">Рабочий мобильный</string>
      <string name="call_work_pager">Рабочий пейджер</string>
@@ -108,6 +102,10 @@
      <string name="callrecordview_menu_delete_accepted">Удалить входящие вызовы</string>
      <string name="callrecordview_menu_delete_all">Очистить журнал</string>
      <string name="callrecordview_menu_delete_called">Удалить исходящие вызовы</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Confirm %s? -->
      <string name="callrecordview_menu_delete_confirm">Очистить журнал вызовов?</string>
      <string name="callrecordview_menu_delete_missed">Удалить пропущенные вызовы</string>
      <string name="callrecordview_menu_delete_new">Удалить новые контакты</string>
@@ -161,12 +159,6 @@
      <string name="composer_failed_to_get_database_infomation">База данных недоступна</string>
      <string name="composer_has_no_exportable_contact">Не найдены контакты для экспорта. Возможно, экспорт контактов с телефона не поддерживается поставщиком услуг передачи данных.</string>
      <string name="composer_not_initialized">Редактор vCard запущен некорректно</string>
-     <string name="config_export_extensions_to_consider" />
-     <string name="config_export_file_extension">vcf</string>
-     <string name="config_export_file_prefix" />
-     <string name="config_export_file_suffix" />
-     <string name="config_export_vcard_type">default</string>
-     <string name="config_import_vcard_type">default</string>
      <string name="confirm_delete_contact_all_call_logs">Удалить из журнала вызовов?</string>
      <string name="confirm_delete_selected_all_call_logs">Удалить из журнала вызовов?</string>
      <string name="confirm_delete_sim_entry_miui">Удалить выбранные контакты с SIM-карты? (%d шт.)</string>
@@ -183,6 +175,7 @@
      <string name="contact_delete_toast">Контакт успешно удален</string>
      <string name="contact_detail_calllog_call_note_tips">Заметка вызова</string>
      <string name="contact_detail_calllog_call_record_tips">Запись вызова</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="contact_detail_picture_description">Picture. Select to change</string>
      <string name="contact_directory_description">Каталог %1$s</string>
      <string name="contact_edit_title_edit">Редактирование</string>
@@ -216,7 +209,6 @@
      <string name="date_picker_label">Напомнить за 3 дня и в день рождения</string>
      <string name="date_time_set">Настроить</string>
      <string name="date_year_toggle">Указать год</string>
-     <string name="day_following_good_friday">耶穌受難節翌日</string>
      <string name="default_ringtone">По умолчанию</string>
      <string name="deleteConfirmation">Удалить этот контакт?</string>
      <string name="deleteConfirmationDetail">Удалить контакт \"%s\"?</string>
@@ -347,6 +339,7 @@
      <string name="enter_contact_name">Имя контакта</string>
      <string name="eventLabelsGroup">День рождения</string>
      <string name="event_edit_field_hint_text">Дата</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="expand_collapse_name_fields_description">Expand or collapse name fields</string>
      <string name="export_sim_contact_finish">Экспорт завершен</string>
      <string name="export_sim_contact_finish_failure">"Недостаточно места
@@ -392,13 +385,11 @@
      <string name="frequency_three_days">Каждые 3 дня</string>
      <string name="frequency_weekly">Каждую неделю</string>
      <string name="frequentList">Часто вызываемые</string>
-     <string name="from_account_format">%1$s</string>
      <string name="full_name">Имя</string>
      <string name="generic_no_account_prompt">Держите свои контакты в безопасности, даже если Вы потеряете свой телефон: синхронизация с онлайн-сервисом</string>
      <string name="generic_no_account_prompt_title">Добавить аккаунт</string>
      <string name="ghostData_company">Компания</string>
      <string name="ghostData_title">Должность</string>
-     <string name="good_friday">耶穌受難節</string>
      <string name="grain_buds">小满</string>
      <string name="grain_in_ear">芒种</string>
      <string name="grain_rain">谷雨</string>
@@ -412,9 +403,13 @@
      <string name="group_delete_success_toast">Группа удалена</string>
      <string name="group_edit_field_hint_text">Название группы</string>
      <string name="group_member_remove_toast">Контакт удален из группы</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="group_name_contacts">Contacts</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="group_name_coworkers">Colleagues</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="group_name_family">Family</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="group_name_friends">Friends</string>
      <string name="group_name_hint">Название группы</string>
      <string name="group_read_only">Здесь доступно только для чтения</string>
@@ -425,21 +420,16 @@
      <string name="groupsLabel">Группы</string>
      <string name="groups_list_empty">Нет групп</string>
      <string name="heavy_snow">大雪</string>
-     <string name="help_url_people_add" />
-     <string name="help_url_people_edit" />
-     <string name="help_url_people_main" />
      <string name="hint_distance">держать дистанцию</string>
      <string name="hint_findContacts">Найти контакты</string>
      <string name="hint_more_contact">использовать слияние контакта, при его выходе из контактов дубликатов</string>
      <string name="hint_search_contacts">Контактов: %d</string>
      <string name="hint_search_emails">Адресов эл. почты: %d</string>
      <string name="hint_search_phone_numbers">Контактов: %d</string>
-     <string name="hksar_establishment_day">行政區成立</string>
      <string name="hoar_frost_falls">霜降</string>
      <string name="ic_menu_back">Назад</string>
      <string name="ic_menu_done">Готово</string>
      <string name="imLabelsGroup">Чат</string>
-     <string name="imei">IMEI</string>
      <string name="import_all_sim_entries_miui">Импорт всех контактов</string>
      <string name="import_all_vcard_string">Импорт всех файлов VCard</string>
      <string name="import_contact_card_button">Импорт</string>
@@ -450,7 +440,6 @@
      <string name="import_multiple_vcard_string">Импорт нескольких vCard</string>
      <string name="import_name">имя</string>
      <string name="import_one_vcard_string">Импорт файла vCard</string>
-     <string name="import_percent">0%</string>
      <string name="import_selected_sim_entries_miui">Импорт выбранных контактов</string>
      <string name="import_sim_entries_finish">Импорт контактов с SIM-карты завершен</string>
      <string name="import_sim_entry_miui">Импорт</string>
@@ -469,7 +458,6 @@
      <string name="import_weibo_fetch_followers">Получение пользователей weibo…</string>
      <string name="import_weibo_notification_title_done">Обновлено контактов sina weibo: %s</string>
      <string name="import_weibo_progress_name">Совпадение \"%1$s\"…</string>
-     <string name="import_weibo_progress_percent">%1$d%%</string>
      <string name="importing_sim_contacts_miui">Импорт контактов с SIM-карты…</string>
      <string name="importing_vcard_canceled_title">Импорт отменен: \"%s\"</string>
      <string name="importing_vcard_description">Импорт: %s</string>
@@ -482,7 +470,6 @@
      <string name="keep_local">Сохранить локально</string>
      <string name="keep_local_btn">В телефон</string>
      <string name="label_custom_type">Пользовательский</string>
-     <string name="label_duplicate_count">(%1$d)</string>
      <string name="label_no_duplicate_contacts">Отлично! На данный момент нет дубликатов контактов!</string>
      <string name="label_notes">Примечания</string>
      <string name="label_sip_address">Интернет вызов</string>
@@ -523,6 +510,7 @@
      <string name="lunar_er_shi">二十</string>
      <string name="lunar_jiu">九</string>
      <string name="lunar_leap">闰</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lunar_ling">O</string>
      <string name="lunar_liu">六</string>
      <string name="lunar_nian">廿</string>
@@ -543,7 +531,6 @@
      <string name="map_home">Просмотреть домашний адрес</string>
      <string name="map_other">Просмотр адреса</string>
      <string name="map_work">Просмотреть рабочий адрес</string>
-     <string name="meid">MEID</string>
      <string name="menu_accounts">Аккаунты</string>
      <string name="menu_addStar">В избранные</string>
      <string name="menu_bar_group_add">Добавить</string>
@@ -569,6 +556,7 @@
      <string name="menu_done">Готово</string>
      <string name="menu_editContact">Изменить</string>
      <string name="menu_editGroup">Изменить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_export_database">Export database files</string>
      <string name="menu_help">Помощь</string>
      <string name="menu_import_export">Импорт/экспорт</string>
@@ -612,7 +600,6 @@
      <string name="name_prefix">Форма обращения</string>
      <string name="name_suffix">Звание/титул</string>
      <string name="national_day">国庆节</string>
-     <string name="national_father_day">國父誕辰</string>
      <string name="new_years_day">元旦</string>
      <string name="next">далее</string>
      <string name="next_birthday">Следующий День рождения: %s</string>
@@ -720,12 +707,8 @@
      <string name="other_phone">другие телефоны</string>
      <string name="partys_day">建党节</string>
      <string name="payphone">Телефон-автомат</string>
-     <string name="peace_day">和平紀念</string>
      <string name="people">Контакты</string>
-     <string name="percent_sign">%</string>
-     <string name="percentage">%s%%</string>
      <string name="phoneLabelsGroup">Телефон</string>
-     <string name="phone_info_divider">" ｜ "</string>
      <string name="phone_primary">Основной</string>
      <string name="photoPickerNotFoundText">Нет изображений</string>
      <string name="photo_package_activity_title">Пакет изображений</string>
@@ -844,9 +827,6 @@
 
 Нажмите на объединение и немного подождите, пока автоматическое объединение не завершится."</string>
      <string name="restore_nickname">Восстановить</string>
-     <string name="ret_sign">"
-"</string>
-     <string name="retrocession_day">光復節</string>
      <string name="returnCall">Обратный вызов</string>
      <string name="ringLabelsGroup">Мелодия</string>
      <string name="save_photo_progress">Сохранение фотографии…</string>
@@ -889,6 +869,7 @@
      <string name="simContacts_empty">Нет контактов на SIM-карте</string>
      <string name="simContacts_emptyLoading">Загрузка контактов с SIM-карты…</string>
      <string name="simContacts_title">На SIM-карте</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_account_name">SIM</string>
      <string name="sim_capacity">Размер SIM-карты</string>
      <string name="sim_card_no_free_space_message">Память SIM-карты заполнена. Пожалуйста, очистите SIM карту и попробуйте еще раз.</string>
@@ -911,11 +892,9 @@
      <string name="sim_export_loading">SIM-карта считывается. Операция может занять несколько минут…</string>
      <string name="sim_indexed_contact_not_exist">Позиция %1$d не является допустимой на SIM-карте, должна быть между %2$d и %3$d</string>
      <string name="sim_no_contact">Нет контактов</string>
-     <string name="sina_weibo">Sina Weibo</string>
      <string name="single_group_list_empty">Нет контактов в группе</string>
      <string name="slight_cold">小寒</string>
      <string name="slight_heat">小暑</string>
-     <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
      <string name="smart_group_company_label">По компаниям</string>
      <string name="smart_group_company_unavailable">Без компании</string>
      <string name="smart_group_frequency_1">В течение месяца</string>
@@ -939,6 +918,7 @@
      <string name="sms_home">SMS: домашний тел.</string>
      <string name="sms_isdn">SMS: номер ISDN</string>
      <string name="sms_main">SMS: основ. тел.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sms_mms">MMS</string>
      <string name="sms_mobile">SMS: мобильный</string>
      <string name="sms_other">Отправить SMS</string>
@@ -975,7 +955,6 @@
      <string name="the_armys_day">建军节</string>
      <string name="the_double_ninth_festival">重阳节</string>
      <string name="the_dragon_boat_festival">端午节</string>
-     <string name="the_first_weekday_after_christmas">聖誕節後第一個周日</string>
      <string name="the_laba_rice_porridge_festival">腊八</string>
      <string name="the_mid_autumn_festival">中秋节</string>
      <string name="the_rains">雨水</string>
@@ -994,15 +973,13 @@
      <string name="toast_making_personal_copy">Копирование…</string>
      <string name="toast_text_copied">Текст скопирован</string>
      <string name="today">Сегодня</string>
-     <string name="tw_childrens_day">兒童節</string>
-     <string name="tw_youth_day">青年節</string>
      <string name="type_incoming">Входящий вызов</string>
      <string name="type_missed">Пропущенный вызов</string>
      <string name="type_mx_msg">Облачные сообщения</string>
      <string name="type_outgoing">Исходящий вызов</string>
      <string name="type_voicemail">Голосовая почта</string>
-     <string name="united_nations_day">聯合國日</string>
      <string name="unknown">Неизвестно</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="unknown_caller">Unknown caller</string>
      <string name="unknown_contact_name">Неизвестный номер</string>
      <string name="upgrade_in_progress">Список контактов обновляется…</string>
@@ -1053,7 +1030,6 @@
      <string name="voicemail_status_voicemail_not_available">Нет подключения к серверу гол. почты</string>
      <string name="websiteLabelsGroup">Веб-сайт</string>
      <string name="white_dews">白露</string>
-     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
      <string name="winter_begins">立冬</string>
      <string name="winter_solstice">冬至</string>
      <string name="wipe_data">Очистить данные</string>

@@ -1,60 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="abbrev_wday_month_day_no_year">EEEMMMMd</string>
      <string name="add_alarm">Добавить будильник</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="add_time_zone">add timezone</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="alarm_alert_dismiss_now_text">Dismiss Now</string>
      <string name="alarm_alert_dismiss_text">Выключить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="alarm_alert_predismiss_title">Upcoming alarm</string>
      <string name="alarm_alert_snooze_set">Повтор сигнала через %d мин.</string>
      <string name="alarm_alert_snooze_text">Отложить</string>
      <string name="alarm_alert_snooze_until">Snoozing until %s</string>
      <string name="alarm_button_description">Будильник</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="alarm_deleted">Alarm deleted.</string>
      <string name="alarm_klaxon_service_desc">Служба воспроизведения сигналов в Часах</string>
      <string name="alarm_list_title">Будильник</string>
      <string name="alarm_missed_text" formatted="false">%s - %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="alarm_missed_title">Missed alarm</string>
      <string name="alarm_notify_snooze_label">Будильник отложен до %s</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Alarm set for %s. Touch to cancel. -->
      <string name="alarm_notify_snooze_text">Будильник отложен. Нажмите, чтобы выключить.</string>
      <string name="alarm_notify_text">Отложить/выключить будильник</string>
      <string name="alarm_repeat">Дни недели</string>
      <string name="alarm_settings">Настройки темы</string>
      <string name="alarm_time_12_hours_format">h:mm &lt;font size="14" face="sans-serif-condensed"&gt;&lt;b&gt;a&lt;/b&gt;&lt;/font&gt;</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="alarm_timeline_title_text">NEXT ALARMS</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="alarm_undo">undo</string>
      <string name="alarm_vibrate">Вибрация</string>
      <string name="alarm_volume_title">Громкость</string>
      <string name="alarms_selected">%d selected</string>
      <string name="alert">Мелодия</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="all_timers_stopped_notif">Touch to see your timers</string>
      <string name="analog_gadget">Часы</string>
      <string name="app_label">Часы</string>
      <string name="auto_silence_never">Выключено</string>
      <string name="auto_silence_summary">Автоматическое выключение будильника через %d мин.</string>
      <string name="auto_silence_title">Авто-отключение</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="automatic_home_clock">Automatic home clock</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="automatic_home_clock_summary">While traveling in an area where the time is different, add a clock for home</string>
-     <string name="battery_charging_level">%d%%</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_alarms">Alarms</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_cities">Cities</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_menu">More options</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cities_activity_title">Cities</string>
      <string name="city_delete_confirmation">Remove this city?</string>
      <string name="clock_24_hours_format">kk:mm</string>
      <string name="clock_instructions">Выберите часы</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="clock_settings">CLOCK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="clock_style">Style</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="collapse_alarm">Collapse alarm</string>
      <string name="control_set_alarm">Установить будильник</string>
      <string name="control_set_alarm_with_existing">Будильник установлен на %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="current_zone">Current time zone</string>
      <string name="day">1 день</string>
      <string name="day_concat">", "</string>
      <string name="day_of_week_label_typeface">sans-serif</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="day_picker_description">Month grid of days</string>
      <string name="days">%s дн.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_clock_style">digital</string>
      <string name="default_label">Будильник</string>
      <string name="default_ringtone_setting_title">Мелодия и тема</string>
@@ -64,80 +88,124 @@
      <string name="delete_alarm_confirm">Удалить будильник?</string>
      <string name="delete_timezone_title">Удалить часовой пояс</string>
      <string name="deleted_key">%1$s deleted</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="deleted_message">Deleted</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="description_direction_down">Slide down to snooze</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="description_direction_left">Slide left to snooze</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="description_direction_right">Slide right to dismiss</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="description_direction_up">Slide up to dismiss</string>
      <string name="desk_clock_button_description">Вид часов</string>
      <string name="desk_clock_help_url" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="digital_gadget">Digital clock</string>
      <string name="disable_alarm">Выключить будильник</string>
      <string name="done">Готово</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="done_label">Done</string>
      <string name="enable_alarm">Включить будильник</string>
      <string name="every_day">каждый день</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="expand_alarm">Expand alarm</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
      <string name="gallery_button_description">Галерея</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="help">help</string>
      <string name="hide_clock">Спрятать часы</string>
      <string name="home_button_description">Рабочий стол</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="home_label">Home</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="home_time_zone">Home time zone</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="home_time_zone_title">Home time zone</string>
      <string name="hour">1 час</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hour_picker_description">Hours circular slider</string>
      <string name="hours">%s ч.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hours_label">h</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hours_label_description">hours</string>
      <string name="item_is_selected">%1$s selected</string>
      <string name="label">Описание</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="label_description">Label</string>
      <string name="label_unlabeled" />
      <string name="loading_ringtone">Загрузка мелодии звонка…</string>
      <string name="main_clock_12_hours_format">h:mm &lt;font size="16" face="sans-serif-condensed"&gt;&lt;b&gt;a&lt;/b&gt;&lt;/font&gt;</string>
      <string name="main_widget_12_hours_format">h:mm</string>
      <string name="menu_add_worldclock">Добавить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_alarm">Alarm</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_clock">Clock</string>
      <string name="menu_desk_clock">Настольные часы</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_edit_alarm">Edit alarm</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_item_help">Help</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_item_night_mode">Night mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_item_settings">Settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_item_sort_by_gmt_offset">Sort by time</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_item_sort_by_name">Sort by name</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_stopwatch">Stopwatch</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_timer">Timer</string>
      <string name="minute">1 минуту</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="minute_picker_description">Minutes circular slider</string>
      <string name="minutes">%s мин.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="minutes_label">m</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="minutes_label_description">minutes</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="missed_alarm_has_been_deleted">Your missed alarm has been deleted</string>
      <string name="music_button_description">Музыка</string>
      <string name="never">Не выбрано</string>
      <string name="next_alarm_description">Next alarm: %s</string>
      <string name="next_timer_notif">Next timer: %s</string>
      <string name="night_mode_summary">Very dim display (for dark rooms)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="night_mode_title">Night mode</string>
      <string name="nightmode_button_description">Затемнить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_alarms">No Alarms</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_upcoming_alarms">NO UPCOMING ALARMS</string>
      <string name="radial_numbers_typeface">sans-serif</string>
      <string name="revert">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ringtone">Ringtone</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ringtone_description">Ringtone</string>
      <string name="sans_serif">sans-serif</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="screensaver_settings">Dream settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="seconds_label">s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="seconds_label_description">seconds</string>
      <string name="see_all">See all…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="select_day">Select month and day</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="select_hours">Select hours</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="select_minutes">Select minutes</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="select_year">Select year</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="selected_cities_label">Selected Cities</string>
      <string name="set_alarm">Установить будильник</string>
      <string name="settings">Настройки</string>
@@ -145,39 +213,61 @@
      <string name="silent_alarm_summary">Без звука</string>
      <string name="slash">/</string>
      <string name="snooze_duration_title">Отложить на</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="stopwatch_service_desc">Stopwatch service to run the notification.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sw_lap_button">Lap</string>
      <string name="sw_notification_lap_number">Lap %d</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sw_reset_button">Reset</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sw_resume_button">Resume</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sw_share_button">Share</string>
      <string name="sw_share_laps">Lap times:</string>
      <string name="sw_share_main">My time is %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sw_start_button">Start</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sw_stop_button">Stop</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="swn_stopped">Stopped</string>
      <string name="system_time_setting">Настройки</string>
      <string name="time">Время</string>
      <string name="time_picker_00_label">:00</string>
      <string name="time_picker_30_label">:30</string>
      <string name="time_picker_ampm_label">--</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="time_picker_cancel">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="time_picker_set">OK</string>
      <string name="time_picker_time_seperator">:</string>
      <string name="time_placeholder">--</string>
      <string name="time_separator">:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="timer_add_timer">Add Timer</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="timer_cancel">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="timer_delete">Delete</string>
      <string name="timer_delete_confirmation">Delete this timer?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="timer_done">Done</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="timer_notification_label">Timer</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="timer_plus_1_min">Add 1 min</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="timer_plus_one">Add 1 Minute</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="timer_reset">Reset</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="timer_ring_service_desc">Sound playback service for timers set in Clock.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="timer_start">Start</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="timer_stop">Stop</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="timer_stopped">Timer stopped</string>
      <string name="timer_times_up">"Time's up"</string>
      <string name="timers_in_use">%d timers</string>
@@ -191,7 +281,9 @@
      <string name="world_clock_12_hours_format">h:mm &lt;font size="14" face="sans-serif-condensed"&gt;&lt;b&gt;a&lt;/b&gt;&lt;/font&gt;</string>
      <string name="world_day_of_week_label">/ %s</string>
      <string name="worldclock_empty_text">Нет часовых поясов</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="year_picker_description">Year list</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="zero">0</string>
      <string name="zone_time_offset_ahead">%1$d hours %2$d min ahead</string>
      <string name="zone_time_offset_ahead_only_hour">%d hours ahead</string>

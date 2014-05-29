@@ -1,24 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="app_label">Хранилище контактов</string>
      <string name="debug_dump_database_message">You are about to 1) make a copy of your database which includes all contacts related information and all call log to the internal storage, and 2) email it. Remember to delete the copy as soon as you have successfully copied it off the device or the email is received.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="debug_dump_delete_button">Delete now</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="debug_dump_email_body">Attached is my contacts database with all my contacts information. Handle with care.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="debug_dump_email_sender_picker">Choose a program to send your file</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="debug_dump_email_subject">Contacts Db attached</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="debug_dump_start_button">Start</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="debug_dump_title">Copy contacts database</string>
      <string name="default_directory">Контакты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="group_name_contacts">Contacts</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="group_name_coworkers">Colleagues</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="group_name_family">Family</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="group_name_friends">Friends</string>
      <string name="local_invisible_directory">Прочее</string>
      <string name="provider_label">Контакты</string>
      <string name="read_write_all_voicemail_description">Разрешить приложению сохранять и извлекать все голосовые сообщения, к которым есть доступ на этом устройстве</string>
      <string name="read_write_all_voicemail_label">Доступ ко всей голосовой почте</string>
      <string name="sharedUserLabel">Приложения ядра Android</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="unknown">Unknown number</string>
      <string name="upgrade_msg">Обновление базы данных контактов…</string>
      <string name="upgrade_out_of_memory_notification_text">Нажмите, чтобы завершить обновление</string>

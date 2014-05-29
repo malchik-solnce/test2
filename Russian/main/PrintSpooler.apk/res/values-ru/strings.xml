@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="add_print_service_label">Добавить службу печати</string>
      <string name="advanced_settings_button">Настроить</string>
@@ -19,17 +19,16 @@
      <string name="label_orientation">Ориентация</string>
      <string name="label_pages">Страницы (%1$s)</string>
      <string name="label_paper_size">Размер бумаги</string>
-     <string name="mediasize_default">ISO_A4</string>
-     <string name="mediasize_standard_china">3</string>
-     <string name="mediasize_standard_iso">0</string>
-     <string name="mediasize_standard_japan">2</string>
-     <string name="mediasize_standard_north_america">1</string>
      <string name="no_connection_to_printer">Нет связи с принтером</string>
      <string name="page_count_unknown">Количество страниц</string>
      <string name="pages_range_example">напр., 1–5, 8, 11–13</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permdesc_accessAllPrintJobs">Allows the holder to access print jobs created by another app. Should never be needed for normal apps.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permdesc_startPrintServiceConfigActivity">Allows the holder to start the configuration activities of a print service. Should never be needed for normal apps.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permlab_accessAllPrintJobs">access all print jobs</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permlab_startPrintServiceConfigActivity">start print service configuration activities</string>
      <string name="print_add_printer">Добавить принтер</string>
      <string name="print_button">Печать</string>
