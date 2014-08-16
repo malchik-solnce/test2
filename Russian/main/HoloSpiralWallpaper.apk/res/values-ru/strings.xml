@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
-<resources>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="wallpaper_description">Holo themed spiral wallpaper</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="wallpaper_label">Holo Spiral</string>
-</resources>
