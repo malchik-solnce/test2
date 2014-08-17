@@ -31,6 +31,7 @@
      <string name="RuacMmi">Отклонение нежелательных звонков</string>
      <string name="SetupCallDefault">Ответить?</string>
      <string name="ThreeWCMmi">Вызов с участием трех абонентов</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="VideoView_error_button">OK</string>
      <string name="VideoView_error_text_invalid_progressive_playback">Это видео не предназначено для потокового воспроизведения на данном устройстве</string>
      <string name="VideoView_error_text_unknown">Не удалось воспроизвести видео</string>
@@ -90,10 +91,16 @@
      <string name="autofill_address_summary_format">$1$2$3</string>
      <string name="autofill_address_summary_name_format">$1$2$3</string>
      <string name="autofill_address_summary_separator">", "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="autofill_address_type_same_as_re">same as</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="autofill_address_type_use_my_re">use my</string>
      <string name="autofill_area">Область</string>
      <string name="autofill_area_code_notext_re">^\\($</string>
      <string name="autofill_area_code_re">area.*code|acode|area</string>
      <string name="autofill_attention_ignored_re">attention|attn</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="autofill_billing_designator_re">bill</string>
      <string name="autofill_card_cvc_re">verification|card identification|cvn|security code|cvv code|cvc</string>
      <string name="autofill_card_ignored_re">^card</string>
      <string name="autofill_card_number_re">number|card.?#|card.?no|ccnum|nummer|credito|numero|número|numéro|カード番号|Номер.*карты|信用卡号|信用卡号码|信用卡卡號</string>
@@ -114,6 +121,8 @@
      <string name="autofill_last_name_re">last.*name|lname|surname|last$|nachname|apellidos|famille|^nom|cognome|姓|morada|apelidos|surename|sobrenome|Фамилия</string>
      <string name="autofill_middle_initial_re">middle.*initial|m\\.i\\.|mi$</string>
      <string name="autofill_middle_name_re">middle.*name|mname|middle$|apellido.?materno|lastlastname</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="autofill_name_on_card_contextual_re">name</string>
      <string name="autofill_name_on_card_re">card.?holder|name.?on.?card|ccname|owner|karteninhaber|nombre.*tarjeta|nom.*carte|nome.*cart|名前|Имя.*карты|信用卡开户名|开户名|持卡人姓名|持卡人姓名</string>
      <string name="autofill_name_re">^name|full.?name|your.?name|customer.?name|firstandlastname|nombre.*y.*apellidos|^nom|お名前|氏名|^nome|姓名</string>
      <string name="autofill_name_specific_re">^name|^nom|^nome</string>
@@ -122,11 +131,15 @@
      <string name="autofill_phone_prefix_re">prefix|preselection|ddd</string>
      <string name="autofill_phone_prefix_separator_re">^-$|^\\)$</string>
      <string name="autofill_phone_re">phone|telefonnummer|telefono|teléfono|telfixe|電話|telefone|telemovel|телефон|电话</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="autofill_phone_suffix_re">suffix</string>
      <string name="autofill_phone_suffix_separator_re">^-$</string>
      <string name="autofill_postal_code">Почтовый индекс</string>
      <string name="autofill_prefecture">Префектура</string>
      <string name="autofill_province">Провинция</string>
      <string name="autofill_region_ignored_re">province|region|other|provincia|bairro|suburb</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="autofill_shipping_designator_re">ship</string>
      <string name="autofill_state">Штат</string>
      <string name="autofill_state_re">state|county|region|province|land|county|principality|都道府県|estado|provincia|область|省|地區</string>
      <string name="autofill_this_form">Автозаполнение</string>
@@ -521,6 +534,7 @@
      <string name="list_delimeter">", "</string>
      <string name="loading">Загрузка…</string>
      <string name="locale_replacement" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lock_pattern_view_aspect">square</string>
      <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
      <string name="lockscreen_access_pattern_cleared">Графический ключ сброшен</string>
@@ -608,9 +622,166 @@
      <string name="media_route_status_scanning">Сканирование…</string>
      <string name="media_shared">Сейчас USB-накопитель используется компьютером</string>
      <string name="media_unknown_state">Неизвестно состояние внешнего носителя</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_chinese_prc_1">PRC 1</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_chinese_prc_10">PRC 10</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_chinese_prc_16k">PRC 16K</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_chinese_prc_2">PRC 2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_chinese_prc_3">PRC 3</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_chinese_prc_4">PRC 4</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_chinese_prc_5">PRC 5</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_chinese_prc_6">PRC 6</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_chinese_prc_7">PRC 7</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_chinese_prc_8">PRC 8</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_chinese_prc_9">PRC 9</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_chinese_roc_16k">ROC 16K</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_chinese_roc_8k">ROC 8K</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_a0">ISO A0</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_a1">ISO A1</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_a10">ISO A10</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_a2">ISO A2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_a3">ISO A3</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_a4">ISO A4</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_a5">ISO A5</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_a6">ISO A6</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_a7">ISO A7</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_a8">ISO A8</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_a9">ISO A9</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_b0">ISO B0</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_b1">ISO B1</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_b10">ISO B10</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_b2">ISO B2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_b3">ISO B3</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_b4">ISO B4</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_b5">ISO B5</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_b6">ISO B6</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_b7">ISO B7</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_b8">ISO B8</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_b9">ISO B9</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_c0">ISO C0</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_c1">ISO C1</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_c10">ISO C10</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_c2">ISO C2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_c3">ISO C3</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_c4">ISO C4</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_c5">ISO C5</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_c6">ISO C6</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_c7">ISO C7</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_c8">ISO C8</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_iso_c9">ISO C9</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_japanese_chou2">Chou2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_japanese_chou3">Chou3</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_japanese_chou4">Chou4</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_japanese_hagaki">Hagaki</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_japanese_jis_b0">JIS B0</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_japanese_jis_b1">JIS B1</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_japanese_jis_b10">JIS B10</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_japanese_jis_b2">JIS B2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_japanese_jis_b3">JIS B3</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_japanese_jis_b4">JIS B4</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_japanese_jis_b5">JIS B5</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_japanese_jis_b6">JIS B6</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_japanese_jis_b7">JIS B7</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_japanese_jis_b8">JIS B8</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_japanese_jis_b9">JIS B9</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_japanese_jis_exec">JIS Exec</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_japanese_kahu">Kahu</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_japanese_kaku2">Kaku2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_japanese_oufuku">Oufuku</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_japanese_you4">You4</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_na_foolscap">Foolscap</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_na_gvrnmt_letter">Government Letter</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_na_index_3x5">Index Card 3x5</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_na_index_4x6">Index Card 4x6</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_na_index_5x8">Index Card 5x8</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_na_junior_legal">Junior Legal</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_na_ledger">Ledger</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_na_legal">Legal</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_na_letter">Letter</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_na_monarch">Monarch</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_na_quarto">Quarto</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mediasize_na_tabloid">Tabloid</string>
      <string name="mediasize_unknown_landscape">Неизвестный горизонтальный формат</string>
      <string name="mediasize_unknown_portrait">Неизвестный вертикальный формат</string>
      <string name="megabyteShort">МБ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="meid">MEID</string>
      <string name="menu_delete_shortcut_label">удалить</string>
      <string name="menu_enter_shortcut_label">ввод</string>
@@ -662,7 +833,6 @@
      <string name="owner_name">Владелец</string>
      <string name="passwordIncorrect">Неверный пароль</string>
      <string name="password_keyboard_label_alpha_key">АБВ</string>
-     <string name="password_keyboard_label_alt_key">ALT</string>
      <string name="password_keyboard_label_symbol_key">\?123</string>
      <string name="paste">Вставить</string>
      <string name="perm_costs_money">это может стоить денег</string>
@@ -1223,9 +1393,12 @@ Attempts Remaining :"</string>
      <string name="progress_erasing">Очистка USB-накопителя…</string>
      <string name="progress_nomediapresent">Отсутствует внешний накопитель…</string>
      <string name="progress_unmounting">Отключение USB-накопителя…</string>
-	 <string name="quick_contacts_not_available">Нет приложения, чтобы посмотреть этот контакт</string>
+     <string name="quick_contacts_not_available">Нет приложения, чтобы посмотреть этот контакт</string>
      <string name="reason_service_unavailable">Служба печати недоступна</string>
      <string name="reason_unknown">неизвестно</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="reboot_confirm">Your phone will reboot.</string>
+     <string name="reboot_progress">Rebooting…</string>
      <string name="reboot_safemode_confirm">Перейти в безопасный режим? Все приложения сторонних поставщиков отключатся. Они будут включены по возвращении в обычный режим.</string>
      <string name="reboot_safemode_title">Переход в безопасный режим</string>
      <string name="recent_tasks_title">Недавние</string>
@@ -1279,8 +1452,8 @@ Attempts Remaining :"</string>
      <string name="roamingText9">Роуминг – полная функциональность службы</string>
      <string name="roamingTextSearching">Поиск службы</string>
      <string name="safeMode">Безопасный режим</string>
-     <string name="safe_media_volume_warning">Повысить громкость выше допустимого уровня?
-Прослушивание на высокой громкости в течение длительного времени может привести к повреждению слуха.</string>
+     <string name="safe_media_volume_warning">"Повысить громкость выше допустимого уровня?
+Прослушивание на высокой громкости в течение длительного времени может привести к повреждению слуха."</string>
      <string name="save_password_label">Подтвердите</string>
      <string name="save_password_message">Вы хотите, чтобы браузер запомнил этот пароль?</string>
      <string name="save_password_never">Никогда</string>
@@ -1368,6 +1541,7 @@ Attempts Remaining :"</string>
      <string name="ssl_ca_cert_warning">Действия в сети могут отслеживаться</string>
      <string name="ssl_certificate">Сертификат безопасности</string>
      <string name="ssl_certificate_is_valid">Этот сертификат действителен</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_notification_info_overflow">>999</string>
      <string name="stk_cc_ss_to_dial">SS-запрос преобразован в DIAL-запрос</string>
      <string name="stk_cc_ss_to_ss">SS-запрос преобразован в новый SS-запрос</string>
@@ -1461,40 +1635,41 @@ Attempts Remaining :"</string>
 Закрыть ее?"</string>
      <string name="websearch">Веб-поиск</string>
      <string name="webviewchromium_accessibility_content_view">Вид в браузере</string>
-	 <string name="webviewchromium_accessibility_time_picker_ampm">AM/PM</string>
-     <string name="webviewchromium_accessibility_time_picker_hour">Час</string>
-     <string name="webviewchromium_accessibility_time_picker_milli">Миллисекунда</string>
-     <string name="webviewchromium_accessibility_time_picker_minute">Минута</string>
-     <string name="webviewchromium_accessibility_time_picker_second">Секунда</string>
      <string name="webviewchromium_accessibility_date_picker_month">Месяц</string>
      <string name="webviewchromium_accessibility_date_picker_week">Неделя</string>
      <string name="webviewchromium_accessibility_date_picker_year">Год</string>
      <string name="webviewchromium_accessibility_datetime_picker_date">Дата</string>
      <string name="webviewchromium_accessibility_datetime_picker_time">Время</string>
+     <string name="webviewchromium_accessibility_time_picker_ampm">AM/PM</string>
+     <string name="webviewchromium_accessibility_time_picker_hour">Час</string>
+     <string name="webviewchromium_accessibility_time_picker_milli">Миллисекунда</string>
+     <string name="webviewchromium_accessibility_time_picker_minute">Минута</string>
+     <string name="webviewchromium_accessibility_time_picker_second">Секунда</string>
      <string name="webviewchromium_actionbar_share">Отправить</string>
      <string name="webviewchromium_actionbar_web_search">Веб-поиск</string>
-	 <string name="webviewchromium_color_picker_button_black">Черный</string>
+     <string name="webviewchromium_color_picker_button_black">Черный</string>
      <string name="webviewchromium_color_picker_button_blue">Синий</string>
      <string name="webviewchromium_color_picker_button_cancel">Отмена</string>
-	 <string name="webviewchromium_color_picker_button_cyan">Голубой</string>
+     <string name="webviewchromium_color_picker_button_cyan">Голубой</string>
      <string name="webviewchromium_color_picker_button_green">Зеленый</string>
      <string name="webviewchromium_color_picker_button_magenta">Пурпурный</string>
      <string name="webviewchromium_color_picker_button_more">Еще</string>
-	 <string name="webviewchromium_color_picker_button_red">Красный</string>
+     <string name="webviewchromium_color_picker_button_red">Красный</string>
      <string name="webviewchromium_color_picker_button_set">Выбрать</string>
-	 <string name="webviewchromium_color_picker_button_white">Белый</string>
+     <string name="webviewchromium_color_picker_button_white">Белый</string>
      <string name="webviewchromium_color_picker_button_yellow">Желтый</string>
      <string name="webviewchromium_color_picker_dialog_title">Выберите цвет</string>
      <string name="webviewchromium_color_picker_hue">Тон</string>
      <string name="webviewchromium_color_picker_saturation">Насыщенность</string>
      <string name="webviewchromium_color_picker_value">Значение</string>
-	 <string name="webviewchromium_copy_to_clipboard_failure_message">Не удалось скопировать в буфер обмена</string>
+     <string name="webviewchromium_copy_to_clipboard_failure_message">Не удалось скопировать в буфер обмена</string>
      <string name="webviewchromium_date_picker_dialog_clear">Очистить</string>
-	 <string name="webviewchromium_date_picker_dialog_other_button_label">Другой</string>
+     <string name="webviewchromium_date_picker_dialog_other_button_label">Другой</string>
      <string name="webviewchromium_date_picker_dialog_set">Установить</string>
      <string name="webviewchromium_date_picker_dialog_title">Выберите дату</string>
      <string name="webviewchromium_date_time_picker_dialog_title">Дата и время</string>
      <string name="webviewchromium_low_memory_error">Не удалось выполнить операцию: недостаточно памяти</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="webviewchromium_media_player_error_button">OK</string>
      <string name="webviewchromium_media_player_error_text_invalid_progressive_playback">Это видео не подходит для потокового воспроизведения на данном устройстве</string>
      <string name="webviewchromium_media_player_error_text_unknown">Невозможно воспроизвести видео</string>
@@ -1503,14 +1678,17 @@ Attempts Remaining :"</string>
      <string name="webviewchromium_month_picker_dialog_title">Выберите месяц</string>
      <string name="webviewchromium_opening_file_error">Не удалось открыть файл</string>
      <string name="webviewchromium_private_browsing_warning">Эта функция не поддерживается в данной версии Android</string>
-	 <string name="webviewchromium_profiler_error_toast">Не удалось запустить профайлер</string>
+     <string name="webviewchromium_profiler_error_toast">Не удалось запустить профайлер</string>
      <string name="webviewchromium_profiler_no_storage_toast">Ошибка запуска. Внешний накопитель не готов.</string>
      <string name="webviewchromium_profiler_started_toast">Профайлер запущен</string>
      <string name="webviewchromium_profiler_stopped_toast">Профайлер завершен. Результаты в %1$s.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="webviewchromium_time_picker_dialog_am">AM</string>
      <string name="webviewchromium_time_picker_dialog_hour_minute_separator">:</string>
      <string name="webviewchromium_time_picker_dialog_minute_second_separator">:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="webviewchromium_time_picker_dialog_pm">PM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="webviewchromium_time_picker_dialog_second_subsecond_separator">.</string>
      <string name="webviewchromium_time_picker_dialog_title">Установить время</string>
      <string name="webviewchromium_week_picker_dialog_title">Выбери неделю</string>
@@ -1546,5 +1724,4 @@ Attempts Remaining :"</string>
      <string name="year">г.</string>
      <string name="years">г.</string>
      <string name="yes">ОК</string>
-	 <string name="icu_abbrev_wday_month_day_no_year">EEEE, d MMMM</string>
 </resources>

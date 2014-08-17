@@ -1,43 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="ACaddnumcontent">Введите начало номера. Система будет автоматически заполнять специальный символ *.</string>
-	 <string name="ACaddnumtitle">Добавить префикс номера телефона в белый список</string>
+     <string name="ACaddnumtitle">Добавить префикс номера телефона в белый список</string>
      <string name="AD_ALLOW">Разрешить рекламу</string>
      <string name="AD_APPInfo">Информация о приложении</string>
      <string name="AD_AntiSpam">Блокировать рекламу</string>
      <string name="AD_BLOCK">Блокировать рекламу</string>
      <string name="AD_BLOCKED">Заблокировано</string>
      <string name="AD_BLOCK_ALL">Блокировать все</string>
+     <string name="AD_COUNT">%d blocked</string>
      <string name="AD_Info">Плагин рекламы</string>
      <string name="AD_Info_Hint">Стороние приложения часто используют рекламное ПО для отображения рекламы на устройстве</string>
      <string name="AD_NOT_BLOCK">Не блокировать</string>
      <string name="AD_SCANNING">Сканирование…</string>
      <string name="AD_SCAN_BUTTON">Сканировать</string>
+     <string name="AD_TITLE_COUNT">%d apps contains adware</string>
      <string name="AD_TITLE_NON_COUNT">Реклама не найдена</string>
      <string name="AD_Unistall">Удалить</string>
      <string name="Call_ADRESS">Регионы</string>
      <string name="Call_BLACKLIST">Вызовы</string>
-	 <string name="Call_DEFAULT">Умная блокировка</string>
+     <string name="Call_DEFAULT">Умная блокировка</string>
      <string name="Call_MODENAME">Черный список</string>
      <string name="Call_PREFIX">Префиксы</string>
      <string name="Call_PRIVATE_CALL">Приватные вызовы</string>
-	 <string name="NACaddnumcontent">Введите номер телефона</string>
+     <string name="NACaddnumcontent">Введите номер телефона</string>
      <string name="NACaddnumtitle">Добавить номер телефона в белый список</string>
      <string name="PAST_BLOCK">Ранее заблокированые</string>
      <string name="Phonepass">Разрешить вызовы</string>
      <string name="SMS_ADRESS">Регионы</string>
      <string name="SMS_BLACKLIST">Сообщения</string>
-	 <string name="SMS_DEFAULT">Умная блокировка</string>
+     <string name="SMS_DEFAULT">Умная блокировка</string>
      <string name="SMS_KEYWORDS">Ключевые слова</string>
      <string name="SMS_MODENAME">Черный список</string>
      <string name="SMS_PREFIX">Префиксы</string>
      <string name="SMSpass">Разрешить сообщения</string>
-	 <string name="ad_block_hint">Заблокировано: %d</string>
+     <string name="ad_block_hint">Заблокировано: %d</string>
      <string name="ad_install_monitor">Мониторинг приложений</string>
      <string name="ad_install_monitor_hint">Проверять приложения на наличие рекламы при установке</string>
+     <string name="ad_permission_hint">"Using Ad Blocker may affect your apps' performance or prevent them from working normally."</string>
      <string name="ad_relative_setting">Общие настройки</string>
-	 <string name="ad_single_block_hint">Заблокировано</string>
+     <string name="ad_single_block_hint">Заблокировано</string>
      <string name="ad_update_setting">Настройки обновления</string>
      <string name="ad_update_time">Обновлено: %s</string>
      <string name="ad_update_time_unKnown">Обновлено: неизвестно</string>
@@ -46,7 +49,7 @@
      <string name="addwhitelist">В белый список</string>
      <string name="all_address_choose_hint">Все регионы</string>
      <string name="app_name">Черный список</string>
-	 <string name="backsound_set_hint">Установить обратную мелодию на %s?</string>
+     <string name="backsound_set_hint">Установить обратную мелодию на %s?</string>
      <string name="baidu_thanks">При поддержке Baidu</string>
      <string name="bl_block_info" formatted="false">Вызовов: %d | Сообщений: %d</string>
      <string name="bl_no_blacklist">Пусто</string>
@@ -55,7 +58,7 @@
      <string name="blacklist_prefix_add_hint">Добавить все номера с префиксом в черный список</string>
      <string name="block_message_number">Заблокировано: %d</string>
      <string name="block_phone_number">Заблокировано: %d</string>
-	 <string name="call_delete_hint">Удалить все заблокированные вызовы с выбранного номера?</string>
+     <string name="call_delete_hint">Удалить все заблокированные вызовы с выбранного номера?</string>
      <string name="cancle">Отмена</string>
      <string name="close_callwait">Выключить</string>
      <string name="customizer_mode_user_define_name">Мой режим</string>
@@ -70,11 +73,14 @@
      <string name="dlg_black_antispam_hint">Черный список</string>
      <string name="dlg_black_antispam_message">Добавить сообщение в черный список?</string>
      <string name="dlg_clear_all_call">Удалить все заблокированные вызовы?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlg_clear_all_ok">OK</string>
      <string name="dlg_clear_all_sms">Удалить все заблокированные сообщения?</string>
      <string name="dlg_clear_blacklist">Очистить черный список?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlg_clear_blacklist_ok">OK</string>
      <string name="dlg_clear_current_call">Удалить все заблокированные вызовы от этого номера?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlg_clear_current_ok">OK</string>
      <string name="dlg_clear_current_sms">Удалить все заблокированные сообщения от этого номера?</string>
      <string name="dlg_delete_keyword">Удалить эти ключевые слова?</string>
@@ -83,15 +89,18 @@
      <string name="dlg_import_whitelist">Добавление в белый список</string>
      <string name="dlg_keyword_ok">Сохранить</string>
      <string name="dlg_no_block">Не блокировать этот номер?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlg_no_block_ok">OK</string>
      <string name="dlg_remove_address_blacklist">Удалить регион из черного списка и восстановить связанные сообщения в список диалогов?</string>
      <string name="dlg_remove_address_whitelist">Удалить регион из белого списка?</string>
      <string name="dlg_remove_blacklist">Удалить этот номер из черного списка?</string>
-	 <string name="dlg_remove_blacklist_ing">Удаление из черного списка…</string>
+     <string name="dlg_remove_blacklist_ing">Удаление из черного списка…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlg_remove_blacklist_ok">OK</string>
      <string name="dlg_remove_whitelist">Удалить выбранные номера из белого списка?</string>
-	 <string name="dlg_remove_whitelist_ing">Удаление из белого списка…</string>
+     <string name="dlg_remove_whitelist_ing">Удаление из белого списка…</string>
      <string name="dlg_retore">Восстановить это сообщение?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlg_retore_ok">OK</string>
      <string name="dlg_white_address_antispam_message">Добавить регион в белый список?</string>
      <string name="dlg_white_antispam_hint">Белый список</string>
@@ -100,6 +109,7 @@
      <string name="fw_blocked_count">Заблокировано</string>
      <string name="fw_blocked_count_call">вызовов:%d и</string>
      <string name="fw_blocked_count_sms">сообщений:%d</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hint_antispam_mode_edit">Custom mode</string>
      <string name="info_antispam_phone">Блокировать вызовы</string>
      <string name="info_antispam_phone_sms">Блокировать вызовы и сообщения</string>
@@ -139,12 +149,7 @@
      <string name="note_sms_none">Нет сообщений</string>
      <string name="one_address_choose_hint">Регион: %s1</string>
      <string name="open_callwait">Включить</string>
-	 <string name="report">Отчет</string>
-     <string name="report_error">Отчет будет отправлен при Wi-Fi соединении</string>
-     <string name="report_only">Выбери хотя бы одно сообщение</string>
-     <string name="report_sms">Сообщение</string>
-     <string name="report_success">Отчет отправлен</string>
-	 <string name="sms_delete_hint">Удалить все заблокированные сообщения, отправленные выбранным номером?</string>
+     <string name="sms_delete_hint">Удалить все заблокированные сообщения, отправленные выбранным номером?</string>
      <string name="st_advanced_setting_group">Дополнительно блокировать</string>
      <string name="st_antispam_black_adress_add">Выбрать регион</string>
      <string name="st_antispam_bw_adress_add">Добавить регион</string>
@@ -160,16 +165,26 @@
      <string name="st_antispam_des_uesless">Не применять</string>
      <string name="st_antispam_mode_add_new">Добавить режим</string>
      <string name="st_antispam_mode_blacklist">Блокировать черный список</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="st_antispam_mode_blacklist_state">1111211</string>
      <string name="st_antispam_mode_blacklist_sum">Блокировать вызовы и сообщения от контактов из черного списка</string>
      <string name="st_antispam_mode_customize_sum">Создайте свой режим блокировки</string>
      <string name="st_antispam_mode_denyownself_sum">Пользовательский режим блокировки</string>
      <string name="st_antispam_mode_only_all_deny">Блокировать все</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="st_antispam_mode_only_all_deny_state">1000000</string>
      <string name="st_antispam_mode_only_all_deny_sum">Блокировать все вызовы и сообщения</string>
      <string name="st_antispam_mode_only_contacts">Разрешить список контактов</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="st_antispam_mode_only_contacts_state">1111000</string>
      <string name="st_antispam_mode_only_contacts_sum">Не блокировать вызовы и сообщения от номеров из списка контактов</string>
      <string name="st_antispam_mode_only_whitelist">Разрешить белый список</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="st_antispam_mode_only_whitelist_state">1100000</string>
      <string name="st_antispam_mode_only_whitelist_sum">Не блокировать вызовы и сообщения из белого списка</string>
      <string name="st_antispam_mode_smart">Умная блокировка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="st_antispam_mode_smart_state">1111111</string>
      <string name="st_antispam_mode_smart_sum">Блокировать черный список, неизвестные и скрытые номера</string>
      <string name="st_antispam_notification_sum">Показывать уведомления о блокировке в строке состояния</string>
      <string name="st_antispam_title_anoy_incoming">Неизвестные вызовы</string>
@@ -243,6 +258,7 @@
      <string name="st_title_settings_other_group">Дополнительно</string>
      <string name="st_title_show_antispamnotification">Уведомление о блокировке</string>
      <string name="st_title_whitelist_numbers">Номера белого списка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sure">OK</string>
      <string name="tab_blacklist">Черный список</string>
      <string name="tab_block_log">Журнал</string>

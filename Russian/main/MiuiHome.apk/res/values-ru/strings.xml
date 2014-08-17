@@ -3,7 +3,8 @@
 <resources>
      <string name="activity_not_found">Приложение не найдено</string>
      <string name="application_name">Рабочий стол</string>
-	 <string name="apply_as_lock_wallpaper">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="apply_as_lock_wallpaper">OK</string>
      <string name="apply_as_lock_wallpaper_message">Применить также на экран блокировки?</string>
      <string name="aqi_quality_index_dangerous">Опасное</string>
      <string name="aqi_quality_index_good">Хорошее</string>
@@ -11,22 +12,35 @@
      <string name="aqi_quality_index_light_pollution">Легкое загрязнение</string>
      <string name="aqi_quality_index_moderate">Умеренное</string>
      <string name="aqi_quality_index_unhealthy">Вредное</string>
-	 <string name="bad_wallpaper_source_prompt">Ошибка загрузки обоев</string>
+     <string name="bad_wallpaper_source_prompt">Ошибка загрузки обоев</string>
+     <string name="buffering">Buffering…</string>
      <string name="cancel_action">Отмена</string>
      <string name="cancel_btn_label">Отменить</string>
+     <string name="cant_remove_folder">"Can't remove folder"</string>
+     <string name="cant_remove_retained_app">"Couldn't remove this app"</string>
+     <string name="cant_remove_system_app">"Can't remove system app"</string>
      <string name="chooser_wallpaper">Выбрать обои из</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm_btn_label">OK</string>
-	 <string name="custom_wallpaper_picker">Пользовательские</string>
-	 <string name="default_folder_title_game">Игры</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="current_wallpaper">Current</string>
+     <string name="custom_wallpaper_picker">Пользовательские</string>
+     <string name="default_folder_title_game">Игры</string>
      <string name="default_folder_title_recommend">Рекомендуемые</string>
      <string name="default_folder_title_security">Безопасность</string>
      <string name="default_folder_title_tools">Инструменты</string>
      <string name="default_name">По умол.</string>
-	 <string name="editing_add_widget_tips">Добавление виджетов</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="edit_folder_title">Edit folder name</string>
+     <string name="editing_add_widget_tips">Добавление виджетов</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="editing_mode_title_empty">Select items</string>
      <string name="editing_set_transition_effect_tips">Смена эффекта перехода экранов</string>
      <string name="editing_set_wallpaper_tips">Смена обоев рабочего стола</string>
      <string name="editing_tips">Добавление и редактирование виджетов</string>
      <string name="emptyplaylist">Плейлист пуст</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="encryption">Encryption</string>
      <string name="failed_to_delete_temporary">Удаление не удалось</string>
      <string name="failed_to_drop">Перемещение не удалось</string>
      <string name="failed_to_drop_widget_invalid">Неверный виджет</string>
@@ -37,6 +51,10 @@
      <string name="free_style_drawer_title">Все приложения</string>
      <string name="free_style_edit_app">Приложение</string>
      <string name="free_style_edit_bar_empty">Пусто</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="free_style_edit_bar_select_app">Choose app</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="free_style_edit_bottom_empty_tip">Tap rectangle to edit</string>
      <string name="free_style_edit_drawer">Меню</string>
      <string name="free_style_edit_move_tip">Длительным нажатием можно переместить</string>
      <string name="free_style_edit_tab_free_component">Компоненты</string>
@@ -44,32 +62,56 @@
      <string name="free_style_edit_tab_widget">Виджеты</string>
      <string name="free_style_enter_tip">Сдвинь двумя пальцами вниз, чтобы перейти к свободному рабочему столу</string>
      <string name="free_style_exit_tip">Сдвинь двумя пальцами вверх, чтобы выйти из свободного рабочего стола</string>
+     <string name="free_style_londing_text">Loading…</string>
      <string name="gadget_clear_button_label">Чистка памяти</string>
      <string name="gadget_clock_12_label">Часы 1х2</string>
      <string name="gadget_clock_22_label">Часы 2х2</string>
      <string name="gadget_clock_24_label">Часы 2х4</string>
-	 <string name="gadget_clock_label">Часы</string>
+     <string name="gadget_clock_label">Часы</string>
      <string name="gadget_error_text">Проблема загрузки виджета</string>
      <string name="gadget_google_search_label">Поиск Google</string>
      <string name="gadget_load_error">Ошибка загрузки виджета…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="gadget_mtz_label">Mi Gadgets</string>
      <string name="gadget_photo_22_label">Фоторамка 2х2</string>
      <string name="gadget_photo_24_label">Фоторамка 2х4</string>
      <string name="gadget_photo_44_label">Фоторамка 4х4</string>
-	 <string name="gadget_photo_label">Фоторамка</string>
+     <string name="gadget_photo_label">Фоторамка</string>
      <string name="gadget_search_label">Поиск</string>
      <string name="gadget_weather_app_not_installed">Нажми для установки погоды MIUI</string>
      <string name="gadget_weather_aqi_title">Качество воздуха</string>
+     <string name="gadget_weather_download_message">You need to download app content: %1$s (%2$s). Restart the app after download completes.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="gadget_weather_download_start">Download</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="gadget_weather_download_title">Download</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="gadget_weather_downloading">App content is downloading. Restart the app after download completes.</string>
      <string name="gadget_weather_loading">Нет данных о погоде</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="gadget_weather_low_temp">Low temp</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="gadget_weather_theme_type">Gadget type</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gadget_weather_time_format">EEE, d MMMM</string>
-	 <string name="gadget_weather_title">Погода</string>
+     <string name="gadget_weather_title">Погода</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="gadget_weather_title_14">Weather</string>
      <string name="gadget_weather_title_24">Погода 2х4</string>
      <string name="global_search_hint">Поиск тут :)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="group_folder">New folder</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="group_live_folders">Folders</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="group_shortcuts">Shortcuts</string>
      <string name="guide_install_app_msg">Это приложение не установлено на устройстве. Найти и скачать его?</string>
      <string name="guide_install_app_title">Установить</string>
+     <string name="guide_tips_editing_mode">Touch &amp; hold to pick up a widget</string>
      <string name="install">Установить</string>
      <string name="invalid_contact_shortcut">Недопустимый ярлык</string>
      <string name="loading_desktop">Загрузка…</string>
-	 <string name="lock_screen_failed_message">Не удалось применить :(</string>
+     <string name="lock_screen_failed_message">Не удалось применить :(</string>
      <string name="lock_screen_success_message">Применено :)</string>
      <string name="maml_component_customization_title">Настройки компонентов</string>
      <string name="menu_add">Добавить</string>
@@ -77,6 +119,8 @@
      <string name="menu_customize">Настройки</string>
      <string name="menu_edit">Редактор экранов</string>
      <string name="menu_exit_scene">Выйти из свободного стола</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_item_add_item">Place on Home screen</string>
      <string name="menu_launcher_setting">Настройки рабочего стола</string>
      <string name="menu_picktheme">Выбрать тему</string>
      <string name="menu_reset_scene">Сбросить на стандарт</string>
@@ -85,7 +129,7 @@
      <string name="menu_sort">Сортировка</string>
      <string name="menu_wallpaper">Настройки обоев</string>
      <string name="menu_workspace_preview">Просмотр столов</string>
-	 <string name="multi_selecting_tips">Нажми на иконку</string>
+     <string name="multi_selecting_tips">Нажми на иконку</string>
      <string name="online_wallpaper">Онлайн</string>
      <string name="out_of_space">На этом экране нет свободного места</string>
      <string name="permdesc_install_shortcut">Позволяет приложению добавлять ярлыки без участия пользователя</string>
@@ -110,6 +154,10 @@
      <string name="pref_keep_in_memory_title">Держать в памяти</string>
      <string name="pref_keep_layout_summary">Держать расположение иконок при смене размера сетки</string>
      <string name="pref_keep_layout_title">Держать раскладку</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_render_in_truecolor_summary">Turning off this feature improves drawing performance</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_render_in_truecolor_title">High quality graphics</string>
      <string name="pref_screen_transformation_type_title">Эффект перехода экранов</string>
      <string name="pref_wallpaper_scroll_type_title">Прокрутка обоев</string>
      <string name="preferences_general_title">Основные настройки</string>
@@ -122,11 +170,18 @@
      <string name="scroll_tip_format_when_announce_accessibility">На странице: %1$d приложений: %2$d</string>
      <string name="select_frame">Рамка</string>
      <string name="select_photo">Фото</string>
-	 <string name="settings_shortcut">Ярлык настроек</string>
+     <string name="settings_shortcut">Ярлык настроек</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sort_by_abc">Sort by name</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sort_by_frequency">Sort by usage</string>
+     <string name="sort_by_not_defined">Auto-sort</string>
      <string name="start_activity_failed">Не удалось запустить. Попробуй снова.</string>
      <string name="starting_preset_app">Запуск…</string>
      <string name="status_bar_toggle_ac">Контроль доступа</string>
+     <string name="status_bar_toggle_ac_action">com.android.settings/.Settings$AccessControlActivity</string>
      <string name="status_bar_toggle_auto_brightness">Автоподсветка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_toggle_bluetooth">Bluetooth</string>
      <string name="status_bar_toggle_brightness">Подсветка</string>
      <string name="status_bar_toggle_data">Интернет</string>
@@ -136,14 +191,11 @@
      <string name="status_bar_toggle_lock">Блокировка</string>
      <string name="status_bar_toggle_mute">Без звука</string>
      <string name="status_bar_toggle_network_type">Тип сети</string>
-     <string name="status_bar_toggle_power_high">Производ.</string>
-     <string name="status_bar_toggle_power_mid">Обычный</string>
      <string name="status_bar_toggle_power_mode">Режим питания</string>
      <string name="status_bar_toggle_privacy_mode">Гость</string>
+     <string name="status_bar_toggle_privacy_mode_action">com.android.settings/.Settings$AccessControlActivity</string>
      <string name="status_bar_toggle_quiet_mode">Не беспокоить</string>
      <string name="status_bar_toggle_reboot">Перезагрузка</string>
-     <string name="status_bar_toggle_ring">Звонок</string>
-     <string name="status_bar_toggle_ringtone">Мелодия</string>
      <string name="status_bar_toggle_rotate">Поворот</string>
      <string name="status_bar_toggle_screen_button">Кнопки</string>
      <string name="status_bar_toggle_screenshot">Скриншот</string>
@@ -156,20 +208,45 @@
      <string name="status_bar_toggle_vibrate">Вибрация</string>
      <string name="status_bar_toggle_wifi">Wi-Fi</string>
      <string name="status_bar_toggle_wifi_ap">Wi-Fi модем</string>
-	 <string name="status_downloaded">загружено</string>
+     <string name="status_downloaded">загружено</string>
      <string name="status_downloading">загрузка</string>
      <string name="status_installing">установка</string>
      <string name="status_paused">приостановлено</string>
      <string name="status_pending">ожидане</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_select_live_folder">Select folder</string>
      <string name="title_select_shortcut">Выбери ярлык</string>
      <string name="toggle_select_title">Выбери переключатели</string>
      <string name="toggle_title">Переключатели</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="transformation_type_classic">Overslide</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="transformation_type_classic_no_overshoot">Slide</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="transformation_type_crossfade">Crossfade</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="transformation_type_cube">Cube</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="transformation_type_falldown">Tumble</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="transformation_type_leftpage">Page</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="transformation_type_rotate">Rotate</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="transformation_type_stack">Cascade</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="uninstall">OK</string>
      <string name="uninstall_dialog_message">Удалить это приложение?</string>
      <string name="uninstall_dialog_title_format">\"%s\"</string>
      <string name="unknown_artist_name">Неизвестный исполнитель</string>
      <string name="unnamed_folder_name">Без имени</string>
      <string name="wallpaper_scrolling">все</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="widget_favorite_contacts_edit">Editor</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="widget_favorite_contacts_label">Favorite contacts</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="widget_favorite_contacts_style">Change size</string>
      <string name="widget_gadget_player">Музыка</string>
      <string name="widget_global_search">Поиск</string>
 </resources>

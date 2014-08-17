@@ -39,6 +39,7 @@
         <item>UTF-8</item>
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 8 must: 7 -->
      <string-array name="menu_theme_setting">
         <item>Белая</item>
         <item>Желтая</item>
@@ -48,7 +49,7 @@
         <item>Синяя</item>
         <item>Темная</item>
      </string-array>
-	 <string-array name="pre_webapp_text_sizes">
+     <string-array name="pre_webapp_text_sizes">
         <item>Огромный</item>
         <item>Большой</item>
         <item>Обычный</item>
@@ -103,6 +104,20 @@
         <item>Средний</item>
         <item>Большой</item>
         <item>Огромный</item>
+     </string-array>
+     <string-array name="pref_text_zoom_choices">
+        <item>Tiny</item>
+        <item>Small</item>
+        <item>Normal</item>
+        <item>Large</item>
+        <item>Huge</item>
+     </string-array>
+     <string-array name="pref_text_zoom_values">
+        <item>50</item>
+        <item>75</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
      </string-array>
      <string-array name="pref_video_preload_choices">
         <item>Никогда</item>

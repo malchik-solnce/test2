@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+     <plurals name="editing_mode_title">
+        <item quantity="other">%1$d selected</item>
+        <item quantity="zero">%1$d selected</item>
+        <item quantity="one">%1$d selected</item>
+        <item quantity="two">%1$d selected</item>
+        <item quantity="few">%1$d selected</item>
+        <item quantity="many">%1$d selected</item>
+     </plurals>
+     <!-- The size of the array does not match! Now: 4 must: 3 -->
      <plurals name="uninstall_dialog_title_format">
         <item quantity="other">Удалить приложение %1$s и %2$d других?</item>
         <item quantity="one">Удалить \"%s\"?</item>
@@ -11,6 +20,7 @@
         <item quantity="one">Не удалось удалить \"%s\"</item>
         <item quantity="two">Не удалось удалить \"%s\" и еще 1 приложение</item>
      </plurals>
+     <!-- The size of the array does not match! Now: 3 must: 6 -->
      <plurals name="uninstall_result_succeeded">
         <item quantity="other">%1$ прил. удалено</item>
         <item quantity="one">Приложение удалено</item>

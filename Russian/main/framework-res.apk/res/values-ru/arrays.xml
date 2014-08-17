@@ -33,7 +33,7 @@
         <item>воспроизведение аудио</item>
         <item>считать содержимое буфера обмена</item>
         <item>изменить содержимое буфера обмена</item>
-		<item>Trying to use media buttons</item>
+        <item>Trying to use media buttons</item>
         <item>Trying to use audio focus</item>
         <item>Trying to use master volume</item>
         <item>Trying to use voice volume</item>
@@ -51,7 +51,54 @@
         <item>отправить MMS-сообщение</item>
         <item>считать MMS-сообщения</item>
         <item>создать MMS-сообщение</item>
-		<item>запуститься в автозагрузке</item>
+        <item>запуститься в автозагрузке</item>
+     </string-array>
+     <string-array name="config_notificationScorers">
+        <item>com.android.internal.notification.DemoContactNotificationScorer</item>
+     </string-array>
+     <integer-array name="config_onlySingleDcAllowed">
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>12</item>
+     </integer-array>
+     <integer-array name="config_protectedNetworks">
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>14</item>
+     </integer-array>
+     <integer-array name="config_safeModeDisabledVibePattern">
+        <item>0</item>
+        <item>1</item>
+        <item>20</item>
+        <item>21</item>
+     </integer-array>
+     <integer-array name="config_safeModeEnabledVibePattern">
+        <item>0</item>
+        <item>1</item>
+        <item>20</item>
+        <item>21</item>
+        <item>500</item>
+        <item>600</item>
+     </integer-array>
+     <string-array name="config_tether_bluetooth_regexs">
+        <item>bt-pan</item>
+     </string-array>
+     <integer-array name="config_tether_upstream_types">
+        <item>0</item>
+        <item>1</item>
+        <item>5</item>
+        <item>7</item>
+        <item>9</item>
+     </integer-array>
+     <string-array name="config_tether_usb_regexs">
+        <item>rndis0</item>
+     </string-array>
+     <string-array name="config_tether_wifi_regexs">
+        <item>wlan0</item>
      </string-array>
      <string-array name="emailAddressTypes">
         <item>Домашний</item>
@@ -75,6 +122,13 @@
         <item>ICQ</item>
         <item>Jabber</item>
      </string-array>
+     <integer-array name="maps_starting_lat_lng">
+        <item>36149777</item>
+        <item>-95993398</item>
+     </integer-array>
+     <integer-array name="maps_starting_zoom">
+        <item>3</item>
+     </integer-array>
      <string-array name="organizationTypes">
         <item>Рабочий</item>
         <item>Другой</item>

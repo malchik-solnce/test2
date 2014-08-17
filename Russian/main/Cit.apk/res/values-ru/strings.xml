@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string name="cit_OTG_plugin_check_summary">Этот тест определит состояние подключения OTG устройства</string>
+     <string name="cit_OTG_plugin_check_summary">Этот тест определит состояние подключения OTG устройства</string>
      <string name="cit_OTG_plugin_check_title">Тест подключения OTG</string>
      <string name="cit_OTG_plugout_check_summary">Этот тест определит состояние отключения OTG устройства</string>
      <string name="cit_OTG_plugout_check_title">Тест отключения OTG</string>
@@ -10,7 +11,9 @@
      <string name="cit_ac_charger_out">Отключите AC кабель</string>
      <string name="cit_accelermeter_sensor_check_summary">Ускорение движения в направлении X, Y, Z показано в трех векторах</string>
      <string name="cit_accelermeter_sensor_check_title">Проверка акселерометра</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_audio_lb_backmic_to_speaker_title">Back mic speaker feedback test</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
      <string name="cit_audio_lb_phonecall_title">Имитация вызова</string>
      <string name="cit_audio_lb_summary_backmic_to_speaker">"Back microphone to speaker feedback test. 
@@ -25,7 +28,9 @@ Hold the phone as if you are making a call, Speak to main microphone, you should
      <string name="cit_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test.
 
  Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_audio_lb_topmic_to_speaker_title">Top mic speaker feedback test</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_audio_loopback_check_one_title">Main microphone receiver feedback test</string>
      <string name="cit_audio_loopback_check_summary_first">"Main microphone receiver feedback test
 
@@ -33,7 +38,9 @@ Hold the phone as if you are making a call, speak into the microphone and should
      <string name="cit_audio_loopback_check_summary_second">"Secondary microphone speaker feedback test.
 
 Turn the phone so that the headphone input is facing downward. Speak into the receiver. You should hear your voice played through the external speaker."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_audio_loopback_check_two_title">Secondary microphone speaker feedback test</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_audio_loopback_dualmic_earpiece_title">Ambient noise reduction test</string>
      <string name="cit_audio_loopback_next">Следующий</string>
      <string name="cit_audio_loopback_previous">Предыдущий</string>
@@ -157,7 +164,7 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_notificationlight_on">Выключить</string>
      <string name="cit_otg_not_supported">Ваш телефон не поддерживает тест OTG</string>
      <string name="cit_pass">ОК</string>
-	 <string name="cit_play_sd_mp3_hifi_summary">Убедитесь, что есть файл с именем \"music.mp3\", хранящейся на SD-карте. Файл \"music.mp3\" нужно проиграть на Hi-Fi устройстве, когда откроете этот тест</string>
+     <string name="cit_play_sd_mp3_hifi_summary">Убедитесь, что есть файл с именем \"music.mp3\", хранящейся на SD-карте. Файл \"music.mp3\" нужно проиграть на Hi-Fi устройстве, когда откроете этот тест</string>
      <string name="cit_play_sd_mp3_hifi_title">Проиграть MP3 (Hi-Fi) с SD-карты</string>
      <string name="cit_play_sd_mp3_summary">Проверка звука. Положите файл с именем music.mp3 в корень SD-карты</string>
      <string name="cit_play_sd_mp3_title">Проверка MP3 с SD-карты</string>
@@ -195,6 +202,7 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_sim_sim_operator">Код поставщика SIM:</string>
      <string name="cit_sim_sim_operator_name">Имя поставщика SIM:</string>
      <string name="cit_sim_state_absent">Нет SIM-карты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_sim_state_network_locked">PIN</string>
      <string name="cit_sim_state_pin_required">Требуется PIN-код</string>
      <string name="cit_sim_state_puk_required">Требуется PUK-код</string>
@@ -203,32 +211,43 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_start_calibration">Начало калибровки</string>
      <string name="cit_stop_calibration">Конец калибровки</string>
      <string name="cit_tool">Инструменты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_tool_bluetooth">Bluetooth</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_tool_bluetooth_dut">Enter bluetooth test mode</string>
      <string name="cit_tool_bluetooth_le_tx_h">Enter bluetooth low-power dissipation (2.480GHz) mode</string>
      <string name="cit_tool_bluetooth_le_tx_l">Enter bluetooth low-power dissipation (2.402GHz) mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_tool_bluetooth_mode">Enter Bluetooth test mode</string>
      <string name="cit_tool_bluetooth_not_on">BlueTooth function is not on !!</string>
      <string name="cit_tool_bluetooth_off">Выключить</string>
      <string name="cit_tool_bluetooth_on">Включить</string>
      <string name="cit_tool_bluetooth_tx_h">Enter bluetooth single sound test（2.480GHz) mode</string>
      <string name="cit_tool_bluetooth_tx_l">Enter bluetooth single sound test（2.402GHz）mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cit_tool_enable_3A_log">Enable 3A log Switch</string>
      <string name="cit_tool_log">Отчеты</string>
      <string name="cit_tool_log_bugreport">Отчет об ошибке</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_tool_log_dmesg">DMESG</string>
      <string name="cit_tool_log_file_not_exist">файл %s не существует</string>
      <string name="cit_tool_log_generate_bugreport">Сообщение об ошибке генерируется…</string>
      <string name="cit_tool_log_kmsg">Последний отчет ядра</string>
      <string name="cit_tool_log_logcat">ADB отчет</string>
      <string name="cit_tool_log_modem">Отчет модема</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_tool_log_no_sdcard">Insert SD card now</string>
      <string name="cit_tool_log_ril">RIL отчет</string>
      <string name="cit_tool_log_toast">Лог был сохранен как %s</string>
      <string name="cit_tool_log_toast_generate_bugreport">Генерируется отчет об ошибке (это займет около 10 секунд)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_tool_modem">MODEM test tools</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_tool_modem_bugreport">Force MODEM Coredump</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_tool_modem_exit_ftm">Exit FTM mode</string>
      <string name="cit_tool_modem_offline_log">Open/Close Offline Log</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_tool_nfc">NFC test tools</string>
      <string name="cit_tool_nfc_st">Nfc ST:</string>
      <string name="cit_tool_nfc_st_confreq">freq:</string>
@@ -276,6 +295,7 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_tool_wifi_rx_ap_type_error">AP ошибка, введите повторно (BSS/AdHoc)</string>
      <string name="cit_tool_wifi_rx_chan">Rx: Channel</string>
      <string name="cit_tool_wifi_rx_count_error">Ошибка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
      <string name="cit_tool_wifi_rx_error">Ошибка</string>
      <string name="cit_tool_wifi_rx_exit">Rx:exit</string>
@@ -320,7 +340,9 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_vibrator_check_title">Проверка виброзвонка</string>
      <string name="cit_vibrator_don_don_chat">Пульсация</string>
      <string name="cit_vibrator_haptic">Нарастающая вибрация</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_vibrator_load_down_pattern">Down Pattern</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_vibrator_load_up_pattern">UP Pattern</string>
      <string name="cit_vibrator_long">Длинные</string>
      <string name="cit_vibrator_play_touch_pattern">Вибрация</string>

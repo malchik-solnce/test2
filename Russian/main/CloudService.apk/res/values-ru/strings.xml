@@ -1,18 +1,178 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="access_denied">Access denied</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account">Account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate">Activate</string>
+     <string name="activating">Activating…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="alert_notif_title_dspt">Not syncing</string>
      <string name="app_name">Сервисы Xiaomi</string>
-	 <string name="find_device_noise_title">Поиск устройства</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bad_authentication">Invalid username or password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="btn_return">Back</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_cancel">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_find_device">Find Device</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cmcc_micloud_dspt">Use Mi Cloud to sync data, locate your device,</string>
+     <string name="disable_find_device_error">"Can't turn off Find device. %1$s"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="enableAll">Sync all</string>
+     <string name="enable_find_device_error">"Can't turn on Find device. %1$s"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="enable_micloud">Sign up or create an account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="enable_sync">Turn on</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="enable_sync_dspt">Sync is off</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_forbidden">Sync has been disabled due to problems with your Mi Account.</string>
+     <string name="error_network">"Can't connect to network"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_not_acceptable">Sync has been disabled.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_server">Server error</string>
+     <string name="error_title">"Couldn't sync"</string>
+     <string name="error_unauthorized">Sync has been disabled due to too many sign-in attempts.</string>
+     <string name="error_unknown">"Can't sign in"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="find_device">Find device enabled</string>
+     <string name="find_device_disabled_notice">You can toggle the Find device feature in Settings > Accounts &amp; sync > Mi Cloud</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="find_device_disabled_title">Disabled</string>
+     <string name="find_device_disabling">Turning off…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="find_device_dspt">Lock or wipe this device remotely.</string>
+     <string name="find_device_enabling">Turning on…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="find_device_error_network">Check your data connection and try again.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="find_device_error_server">Something went wrong with our servers.</string>
+     <string name="find_device_noise_title">Поиск устройства</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="find_device_notice_p1">Go to</string>
+     <string name="find_device_notice_p3">"to find, lock, or restore your phone.
+If you switch SIM cards, a new activation SMS must be sent ."</string>
      <string name="find_device_stop_noise">Нажми "OK", чтобы остановить сигнал</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="find_device_success_title">Find device</string>
+     <string name="header_data_and_synchronization">Data &amp; sync</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="i_know">OK</string>
+     <string name="master_alert_notif_dspt_add">"%s haven't been synced."</string>
+     <string name="master_alert_notif_dspt_no">"Everything's up to date."</string>
+     <string name="master_alert_notif_title">Last synced %s days ago</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_dspt">Use Mi Cloud to sync data, locate your device,</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_dspt_provision">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
+     <string name="micloud_full_influence_dspt">"All your photos, video, notes, and apps will be backed up in the cloud. 
+
+This way, if you lose or damage your device, your data will still be safe. 
+
+When your cloud is full, your old data won't go anywhere. However, any new content you add (e.g. photos, video, notes, and apps) won't be backed up.
+
+To fix this, you can either clean out some old files to make room for new ones, or you can purchase additional storage space."</string>
+     <string name="micloud_full_influence_title">When your Mi Cloud is full…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_intro_01_part_01">Conserve data usage</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_intro_01_part_02">Cloud Messaging lets you send messages back and forth with other MIUI users using WLAN.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_intro_02_part_01">Migrate effortlessly</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_intro_02_part_02">Sync contacts, messages, photos, and more across devices.</string>
+     <string name="micloud_intro_03_part_01">"Secure your phone's contents from anywhere."</string>
+     <string name="micloud_intro_03_part_02">"Remotely locate, lock, or erase your device's contents at i.mi.com"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_more">Learn more</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_proceed">Continue</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_sec_dspt">and share things with friends.</string>
+     <string name="micloud_space_full_influence"><u>What happens when I run out of space?</u></string>
+     <string name="micloud_title_dspt" formatted="false">"Total space %s 
+ used %s | remaining %s"</string>
+     <string name="micloud_title_dspt_remain">%s remaining</string>
+     <string name="micloud_title_full_dspt">"You've reached your storage limit!"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_upgrade_space">Get more storage space</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_user_space_title">Storage space</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_user_space_usage">Space used</string>
+     <string name="micloud_warn_full_sum">"New items won't be synced with Mi Cloud."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_warn_full_title">Out of space</string>
+     <string name="micloud_warn_low_sum">Your Mi Cloud is 90% full.</string>
+     <string name="micloud_warn_low_title">Almost out of space…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_web_discription_01">Sign in at i.mi.com</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_web_discription_02">to store and access your files from anywhere</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="next">Next</string>
+     <string name="noRemind">"Don't remind me"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_sim">No SIM card detected</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="other_settings">Other settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="password">Enter your password</string>
      <string name="pref_summary_sync_display_photo_on_wifi_only">Рекомендуется включить, иначе будет использоваться мобильный интернет</string>
      <string name="pref_title_sync_contacts_title">Синхронизация контактов</string>
      <string name="pref_title_sync_display_photo_on_wifi_only">Только по Wi-Fi</string>
-	 <string name="pref_title_sync_my_profile_title">Синхронизация профиля</string>
+     <string name="pref_title_sync_my_profile_title">Синхронизация профиля</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="restoreSync">Sync now</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="start_micloud">Start</string>
+     <string name="sub_alert_notif_dspt_add">"%s haven't been synced."</string>
+     <string name="sub_alert_notif_dspt_no">"Everything's up to date."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sub_alert_notif_title">Not syncing</string>
      <string name="sub_sync_item_sms_summary">Рекомендуется включить, иначе будет использоваться мобильный интернет</string>
      <string name="sub_sync_item_sms_title_wifi_only">Только по Wi-Fi</string>
-	 <string name="sync_item_calllog_summary">Синхронизация журналов входящих и исходящих вызовов</string>
-     <string name="sync_item_calllog_title">Синхронизация вызовов</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_dspt">Enable sync</string>
      <string name="sync_item_sms_summary">Прочитанные SMS сообщения будут автоматически синхронизированы</string>
      <string name="sync_item_sms_title">Синхронизация сообщений</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_off">Off</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_on">On</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_sub_1_intl_sms">International and domestic SMS will be sent to bind your SIM cards with this account. You will incur the corresponding charges from your carrier.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_sub_1_sms">An SMS will be sent to bind your SIM card with this account. You will incur regular charges from your carrier.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_sub_1_sms_1_intl_sms">International and domestic SMS will be sent to bind your SIM cards with this account. You will incur the corresponding charges from your carrier.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_sub_2_intl_sms">International SMS will be sent to bind your SIM cards with this account. You will incur international charges from your carrier.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_sub_2_sms">SMS will be sent to bind your SIM cards with this account. You will incur regular charges from your carrier.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_sub_dspt">Activation text message is subject to regular data charges.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_sub_dspt_provision">View and manage your data from anywhere</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_sub_int_dspt">Activation text message is subject to international data charges.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_reg">Create an account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="unactivated_user">Deactivated</string>
      <string name="user_nickname">Ник</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vcode">Verification code</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="verify">Verify</string>
+     <string name="wipe_data_dialog_msg_separator">, </string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="xiaomi_cloud_service">Mi Cloud</string>
 </resources>

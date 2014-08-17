@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string name="app_name">Сервис UniPlay</string>
-    <string name="service_name">Сервис UniPlay</string>
+     <string name="app_name">Сервис UniPlay</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_pkg_name">com.milink.service</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_ver_code">1</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_ver_name">1.0</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="notification_rc_desc">You can use Xiaomi remote controller controlling your Xiaomi box and TV</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="notification_rc_title">Xiaomi remote controller</string>
+     <string name="service_name">Сервис UniPlay</string>
 </resources>

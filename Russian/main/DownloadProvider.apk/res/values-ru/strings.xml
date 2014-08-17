@@ -8,10 +8,18 @@
      <string name="button_start_now">Запустить</string>
      <string name="dialog_insufficient_space_on_cache">Не хватает внутренней памяти</string>
      <string name="dialog_insufficient_space_on_external">Не хватает памяти на SD-карте</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="download_error">Unsuccessful</string>
+     <string name="download_no_application_title">"Can't open file"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="download_queued">Queued</string>
+     <string name="download_remaining">%s left</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="download_running">In progress</string>
+     <string name="download_running_percent">In progress, %d%%</string>
      <string name="download_unknown_title">&lt;без названия&gt;</string>
      <string name="notification_download_complete">Загрузка завершена</string>
      <string name="notification_download_failed">Не удалось загрузить файл</string>
-     <string name="notification_filename_extras">" и ещё %d"</string>
      <string name="notification_need_wifi_for_size">Загрузка только по Wi-Fi</string>
      <string name="notification_paused_in_background">Загрузка приостановлена</string>
      <string name="permdesc_accessAllDownloads">Приложение сможет открывать и изменять загрузки независимо от того, через какое ПО они были загружены</string>
@@ -28,7 +36,8 @@
      <string name="permlab_downloadManagerAdvanced">Расширенные функции менеджера загрузки</string>
      <string name="permlab_downloadWithoutNotification">загружать файлы без оповещения</string>
      <string name="permlab_seeAllExternal">Просмотреть все загрузки на SD-карту</string>
-	 <string name="task_already_exist">Загрузка уже существует</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="root_downloads">Downloads</string>
      <string name="wifi_recommended_body" formatted="false">"О загрузке через мобильный интернет：
 
  %s（%s）
