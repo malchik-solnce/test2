@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="action_firewall_setting">Blocklist</string>
      <string name="activity_not_found">Не удается открыть вложение</string>
      <string name="activity_not_found_uri">Не удается найти приложение для этого типа файлов</string>
      <string name="addBlackList">Добавить в черный список</string>
@@ -23,10 +25,11 @@
      <string name="adding_attachments">Добавление. Подождите…</string>
      <string name="adding_attachments_title">Добавление вложений</string>
      <string name="adding_recipients">Добавление получателей…</string>
-	 <string name="alert_dlg_cancel_button">Отмена</string>
+     <string name="alert_dlg_cancel_button">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="alert_dlg_ok_button">OK</string>
      <string name="app_label">Сообщения</string>
-	 <string name="app_name">Управление устройством</string>
+     <string name="app_name">Управление устройством</string>
      <string name="attach_image">Изображение</string>
      <string name="attach_record_sound">Записать аудио</string>
      <string name="attach_record_video">Снять видео</string>
@@ -68,7 +71,7 @@
      <string name="confirm_delete_message">Сообщение будет удалено</string>
      <string name="confirm_dialog_locked_title">Удалить заблокированное сообщение?</string>
      <string name="confirm_dialog_title">Удаление</string>
-	 <string name="confirm_dlg__msg">Уведомление: CMCC бесплатная пост-служба не будет работать, если Вы отмените услугу. Продолжить?</string>
+     <string name="confirm_dlg__msg">Уведомление: CMCC бесплатная пост-служба не будет работать, если Вы отмените услугу. Продолжить?</string>
      <string name="confirm_dlg_title">Управление устройством</string>
      <string name="confirm_export_dialog_description">После удаления приватного контакта Ваша переписка восстановится в обычный режим. Продолжить?</string>
      <string name="confirm_export_dialog_title">Удаление приватного контакта</string>
@@ -78,8 +81,7 @@
      <string name="confirm_restore_all_title">Восстановить все сообщения от этого номера?</string>
      <string name="confirm_restore_positive">Восстановить</string>
      <string name="confirm_restore_title">Восстановить все выбранные сообщения?</string>
-	 <string name="confirm_send_mms">Один из получателей содержит адрес электронной почты. Это сообщение будет отправлено как MMS, что может привести к дополнительным расходам.</string>
-	 <string name="context_menu_add_calendar">Добавить в календарь</string>
+     <string name="confirm_send_mms">Один из получателей содержит адрес электронной почты. Это сообщение будет отправлено как MMS, что может привести к дополнительным расходам.</string>
      <string name="context_menu_add_contact">Добавить в контакты</string>
      <string name="context_menu_add_to_browser_favorite">Добавить в избранное браузера</string>
      <string name="context_menu_browse_web">Перейти</string>
@@ -130,6 +132,8 @@
      <string name="edit_slideshow_activity">Изменить слайд-шоу</string>
      <string name="enable_password_protect">Включить защиту паролем</string>
      <string name="enable_visible_pattern_title">Сделать ключ видимым</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="english_subject_limit">40 character limit</string>
      <string name="enter_edit_mode">Удалить</string>
      <string name="error_code_label">"Код ошибки: "</string>
      <string name="error_state">Данные были изменены</string>
@@ -148,9 +152,9 @@
      <string name="festival">Шутки</string>
      <string name="festival_sms_category_count_format">(%s)</string>
      <string name="festival_sms_loading">Загрузка…</string>
-	 <string name="file_create_time">Создан:</string>
+     <string name="file_create_time">Создан:</string>
      <string name="file_share_message_description">Я хочу поделиться файлом</string>
-	 <string name="file_size">Размер:</string>
+     <string name="file_size">Размер:</string>
      <string name="file_title">Название:</string>
      <string name="file_width_height">Размер:</string>
      <string name="forward_from">От:</string>
@@ -169,7 +173,7 @@
      <string name="has_invalid_recipient">Недопустимые получатели: &lt;%1$s></string>
      <string name="hidden_sender_address">Адрес отправителя скрыт</string>
      <string name="hint_search_sms">Сообщений: %d</string>
-	 <string name="hms_first_use_tips">Для приема служебных сообщений, вы должны быть подключены к Wi-Fi сети</string>
+     <string name="hms_first_use_tips">Для приема служебных сообщений, вы должны быть подключены к Wi-Fi сети</string>
      <string name="importing_progress_private_message">Импорт сообщений в приватный ящик…</string>
      <string name="in_sms">Сообщение</string>
      <string name="insufficient_drm_rights">Обнаруженных прав DRM недостаточно</string>
@@ -182,9 +186,13 @@
      <string name="loading_all_messages">Загрузка всех сообщений…</string>
      <string name="loading_conversations">Загрузка цепочек…</string>
      <string name="loading_mms">Загрузка MMS…</string>
-	 <string name="manage_permission_app_label">Разрешение управления устройством</string>
+     <string name="manage_permission_app_label">Разрешение управления устройством</string>
      <string name="me">Я</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_call">Call</string>
      <string name="menu_compose_new">Новое сообщение</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_contact">Contact</string>
      <string name="menu_delete_messages">Удалить сообщения</string>
      <string name="menu_edit">Изменить</string>
      <string name="menu_forward">Переслать</string>
@@ -217,6 +225,13 @@
      <string name="msg_type_hint_mms">Мультимедийное сообщение</string>
      <string name="msg_type_hint_mx">Облачное сообщение</string>
      <string name="msg_type_hint_sms">Текстовое сообщение</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="msglist_continue_to_pull_for_more">Pull down to view more</string>
+     <string name="msglist_more_refreshing">Refreshing…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="msglist_no_more_to_refresh">Already up to date</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="msglist_release_to_more">Release to view more</string>
      <string name="multimedia_message">Мультимедийное сообщение</string>
      <string name="multimedia_notification">Уведомление о MMS</string>
      <string name="mx_activate_error_malformed_info">Ваши личные данные повреждены. Необходимо повторить активацию облачных сообщений.</string>
@@ -297,8 +312,6 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_summary_mms_retrieval_during_roaming">Автоматически загружать MMS-сообщения в роуминге</string>
      <string name="pref_summary_mx_feedback">"Помоги сделать MIUI лучше!
 Сообщай нам об ошибках и отправляй свои отзывы."</string>
-     <string name="pref_summary_new_message_popup">Показывать всплывающее окно при получении нового сообщения</string>
-     <string name="pref_summary_new_message_popup_when_secure">Всплывающие уведомления скрыты в режиме гостя</string>
      <string name="pref_summary_notification_body_enabled">Предварительный просмотр сообщения на экране блокировки и в строке состояния</string>
      <string name="pref_summary_notification_body_enabled_when_secure">Предварительный просмотр сообщений отключен при гостевом режиме</string>
      <string name="pref_summary_off_system_mms_priority">Другие приложения будут получать сообщения</string>
@@ -319,7 +332,6 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_title_mms_delete">Макс. количество MMS</string>
      <string name="pref_title_mms_read_reports">Отчеты о прочтении</string>
      <string name="pref_title_mms_retrieval_during_roaming">Автозагрузка в роуминге</string>
-     <string name="pref_title_new_message_popup">Всплывающее окно</string>
      <string name="pref_title_notification_body_enabled">Предпросмотр сообщения</string>
      <string name="pref_title_ringtone_repeat">Количество напоминаний</string>
      <string name="pref_title_show_recent_contacts">Показать недавние контакты</string>
@@ -342,7 +354,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="private_settings">Настройки</string>
      <string name="processing">Обработка…</string>
      <string name="prvate_contact">Приватные контакты</string>
-	 <string name="quick_reply">Ответить</string>
+     <string name="quick_reply">Ответить</string>
      <string name="rate_limit_surpassed">Подтвердить</string>
      <string name="received_label">"Полученные: "</string>
      <string name="recipient_label">"Получатель: "</string>
@@ -364,7 +376,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="restore_blocked_message">Восстановить</string>
      <string name="restore_to_phone_memory_failed">Не удалось восстановить</string>
      <string name="restored_to_phone_memory">Восстановлено ​​в память телефона</string>
-	 <string name="retrive_hms_tips">Получение…</string>
+     <string name="retrive_hms_tips">Получение…</string>
      <string name="save">Сохранить</string>
      <string name="save_ringtone">Сохранить как мелодию звонка</string>
      <string name="save_to_sim">Сохранить на SIM-карту</string>
@@ -389,11 +401,13 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="select_recipient">Выбрать получателя</string>
      <string name="select_top_text">Текст вверху</string>
      <string name="send">Отправить</string>
-	 <string name="send_hms_editor_hints">Облачное сообщение</string>
-	 <string name="send_message_dlg_check_hint">Запомнить мой выбор</string>
+     <string name="send_hms_editor_hints">Облачное сообщение</string>
+     <string name="send_message_dlg_check_hint">Запомнить мой выбор</string>
      <string name="send_message_dlg_mgs">CMCC notice: We need to register your device to device management platform to provide the free post-service (Post-service is a platform by CMCC that can manage the terminal devices. It provides you the service of remote settings and app upgrade. A free message of device information will be sent for registration. The message will be sent only once and do not need you personal data (Do not send of Hong Kong, Macao, Taiwan and international roaming). Select “OK” to agree to register and use the service. Select “Cancel” to give up and no service will be provided from CMCC.</string>
      <string name="send_message_dlg_title">Управление устройством</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="send_message_notification_msg">Device Management send message permission request</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="send_message_notification_tickerText">Device Management permission request</string>
      <string name="send_message_notification_title">Управление устройством</string>
      <string name="send_signature_confirm_dialog_message">Вы не ввели содержание сообщения. Отправить его?</string>
@@ -408,7 +422,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="service_not_activated">Услуга не активирована в сети</string>
      <string name="set">Сохранить</string>
      <string name="set_smsc_address_title_miui">Установить номер SMS центра</string>
-	 <string name="share_img">Поделиться</string>
+     <string name="share_img">Поделиться</string>
      <string name="show_all_messages">Показать все сообщения</string>
      <string name="sim_card1">SIM-карта 1</string>
      <string name="sim_card2">SIM-карта 2</string>
@@ -428,8 +442,9 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="sms_full_title">Память для текстовых сообщений переполнена</string>
      <string name="sms_rejected_body">Входящее сообщение отклонено по неизвестной причине</string>
      <string name="sms_rejected_title">Сообщение отклонено</string>
-	 <string name="sp_category_all">Все сообщения</string>
+     <string name="sp_category_all">Все сообщения</string>
      <string name="sp_category_bank">Сообщения от банков</string>
+     <string name="sp_category_title_prefix">%s</string>
      <string name="sp_conversation_title">Уведомительные сообщения</string>
      <string name="sp_mark_as_read">Пометить все сообщения как прочитанные?</string>
      <string name="sp_mark_as_read_progress">Обработка, подождите…</string>
@@ -476,6 +491,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="type_picture">Изображение</string>
      <string name="type_to_compose_text_enter_to_send">Введи сообщение</string>
      <string name="type_to_compose_text_or_leave_blank">Введи сообщение или оставь поле пустым</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="type_vcard">vCard</string>
      <string name="type_video">Видеозапись</string>
      <string name="undelivered_msg_dialog_body">"Не удалось отправить сообщение.
@@ -488,11 +504,20 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="unstick_conversation">Открепить текущую цепочку</string>
      <string name="unsticked_conversation">Текущая цепочка уже не закреплена</string>
      <string name="unsupported_media_format">Неподдерживаемый формат (%1$s)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_agreement1">Read the applicable terms carefully before you install additional software or use this product.</string>
+     <string name="user_agreement2">" User agreement"</string>
+     <string name="user_agreement3">" and "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_agreement4">Privacy policy</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_agreement5">By touching OK, you agree to the terms outlined in these documents.</string>
      <string name="view">Просмотр</string>
      <string name="view_bookmark">Оригинальное сообщение</string>
-	 <string name="view_hms_details">Подробнее</string>
+     <string name="view_hms_details">Подробнее</string>
      <string name="view_message_details">Подробности</string>
      <string name="wap_push_title">"Push-сообщение "</string>
-	 <string name="xiaomi_service_number">Сервисный номер</string>
+     <string name="xiaomi_service_number">Сервисный номер</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="yes">OK</string>
 </resources>

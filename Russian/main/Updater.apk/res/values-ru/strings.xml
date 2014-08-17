@@ -41,6 +41,7 @@
      <string name="current_version_update_monthly_build">Текущая версия</string>
      <string name="daily_build">ежедневная сборка</string>
      <string name="dialog_no">Нет</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dialog_ok">OK</string>
      <string name="dialog_yes">Да</string>
      <string name="download_current_rom">Скачать полный пакет</string>
@@ -84,6 +85,7 @@
      <string name="my_update_feel">Мои ощущения</string>
      <string name="my_worst_update">Я выбрал худшее обновление</string>
      <string name="network_error">Ошибка подключения к сети или сервер занят</string>
+     <string name="new_update_content_notification_shade" />
      <string name="new_update_content_title">Обновление:</string>
      <string name="new_update_download_complete_body">Готово к установке: %s</string>
      <string name="new_update_downloading_body">Скачивание новой версии: %s</string>

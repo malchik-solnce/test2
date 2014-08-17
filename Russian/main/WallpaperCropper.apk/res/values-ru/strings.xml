@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="crop_wallpaper">Кадрировать</string>
      <string name="wallpaper_instructions">Установить</string>

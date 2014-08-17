@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="add_print_service_label">Добавить службу печати</string>
      <string name="advanced_settings_button">Настроить</string>

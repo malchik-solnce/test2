@@ -24,6 +24,7 @@
      <string name="failed_to_enable_bt">Не удалось включить Bluetooth</string>
      <string name="inbound_me_profile_text">Нажмите, чтобы добавить этого человека в контакты</string>
      <string name="inbound_me_profile_title">Контакт получен через NFC</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="nfcUserLabel">Nfc</string>
      <string name="outbound_me_profile_text">Нажмите, чтобы дать этому человеку свою контактную информацию</string>
      <string name="outbound_me_profile_title">NFC интеграция завершена</string>

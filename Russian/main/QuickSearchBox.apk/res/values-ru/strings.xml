@@ -29,6 +29,8 @@
      <string name="search_sources">Элементы поиска</string>
      <string name="search_sources_summary">Выберите что искать в телефоне</string>
      <string name="search_widget">Поиск</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="send_secret_code">Send secret code</string>
      <string name="system_search_category_title">Телефон</string>
      <string name="voice_search_hint_title">Попробуйте сказать:</string>
 </resources>

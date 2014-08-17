@@ -3,11 +3,6 @@
 <resources>
      <string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка</string>
      <string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
-	 <string name="ad_block_button_title">Заблокировать</string>
-     <string name="ad_relative">Реклама</string>
-     <string name="adware_count">Содержит плагины: %d</string>
-     <string name="adware_hint">Эти плагины используются сторонними разработчиками для показа рекламны на устройстве</string>
-     <string name="adware_title">Реклама</string>
      <string name="allow_source_dlg_text">"%1$s хочет установить другие приложения.
 
 Разрешить и запомнить выбор?"</string>
@@ -64,6 +59,24 @@
      <string name="perm_privacy_app_trust_summary">Система не будет следить за этим приложением</string>
      <string name="perm_sysopt_boost_auto_start">Разрешить автозапуск</string>
      <string name="perm_sysopt_boost_auto_start_summary">Разрешать приложению автозапуск вместе с устройством</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="permission_action_accept">Accept</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="permission_action_prompt">Prompt</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="permission_action_reject">Deny</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="permission_group_title_charges_related">Phone</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="permission_group_title_media_related">Multimedia</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="permission_group_title_others">Others</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="permission_group_title_privacy_related">Privacy</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="permission_group_title_settings_related">Settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="permission_send_sms_descx">App can send SMS and MMS</string>
      <string name="privacy_relative">Опасные разрешения</string>
      <string name="safe_guard_support">При поддержке %1$s</string>
      <string name="safe_relative">Безопасные разрешения</string>
@@ -86,7 +99,7 @@
      <string name="unknown_apps_dlg_text">Из-за соображений безопасности на устройстве заблокирована установка приложений, полученных не из Google Play</string>
      <string name="unknown_apps_dlg_title">Установка заблокирована</string>
      <string name="unknown_installer">Неизвестный установщик</string>
-	 <string name="virus_scan_caller_unknown">Неизвестно</string>
+     <string name="virus_scan_caller_unknown">Неизвестно</string>
      <string name="virus_scan_clear">Удалить</string>
      <string name="virus_scan_install">" "<u>Установить</u>" "</string>
      <string name="virus_scan_is_risk">Приложение представляет собой риск!</string>

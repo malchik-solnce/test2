@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="app_label">Оболочка</string>
      <string name="bugreport_confirm">Сообщения об ошибках содержат данные из различных журналов системы, в том числе личные и конфиденциальные сведения. Отправляйие отчеты об ошибках только приложениям и людям, которым Вы доверяете.</string>

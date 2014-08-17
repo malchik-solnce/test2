@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="about_fraud_num_online_identification">About this feature</string>
      <string name="about_smart_antispam_summary">О идентификации</string>
      <string name="about_telephone_fraud">О мошенничестве</string>
-	 <string name="about_yellow_page">О приложении</string>
      <string name="account_address">Основные адреса</string>
      <string name="account_order">Покупки</string>
      <string name="account_title">Профиль</string>
@@ -13,17 +14,24 @@
      <string name="account_verify_password">Ты используешь службу сервисов на другом устройстве. В целях безопасности, требуется подтвердить пароль от аккаунта.</string>
      <string name="account_yellowpage_favorite">Мое избранное</string>
      <string name="account_yellowpage_recent">Посмотреть историю</string>
-	 <string name="add_to_favorite">В избранное</string>
-     <string name="added_to_favorite">Добавлено</string>
      <string name="agree">Принимаю</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="all_services">All</string>
      <string name="app_label">Желтые страницы</string>
-	 <string name="average_price">В среднем %s RMB</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_recommendation_install">Install</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 1
+	%s: 1 must: 0
+	%d: 0 must: 1 -->
+     <!-- Original string: Average %d RMB -->
+     <string name="average_price">В среднем %s RMB</string>
      <string name="back">Назад</string>
-	 <string name="balance_inquiry_send_sms_fail_hint">Ошибка отправки сообщения</string>
+     <string name="balance_inquiry_send_sms_fail_hint">Ошибка отправки сообщения</string>
      <string name="balance_inquiry_send_sms_hint">Будет отправлено бесплатное сообщение для запроса баланса</string>
-	 <string name="balance_inquiry_send_sms_summmary">Проверить состояние баланса</string>
+     <string name="balance_inquiry_send_sms_summmary">Проверить состояние баланса</string>
      <string name="balance_inquiry_title">Состояние баланса</string>
-	 <string name="call">Вызов</string>
+     <string name="call">Вызов</string>
+     <string name="callNoAnswerTimeFormat">Rang %s times</string>
      <string name="callrecordview_item_newcontact">Новый контакт</string>
      <string name="callrecordview_item_op_time_minutes_seconds">%1$d мин. %2$d сек.</string>
      <string name="callrecordview_item_op_time_missed">Не подключено</string>
@@ -33,24 +41,25 @@
      <string name="callrecordview_item_op_time_short_incoming">Входящий: </string>
      <string name="callrecordview_item_op_time_short_outgoing">Исходящий: </string>
      <string name="check_network">Посмотреть настройки сети</string>
+     <string name="colon">:</string>
      <string name="confirm_delete_all_call_log_title">Удалить все журналы вызовов?</string>
      <string name="confirm_delete_call_log_title">Удалить выбранные журналы вызовов?</string>
      <string name="confirm_to_add_blacklist">Блокировать этот номер?</string>
      <string name="confirm_to_remove_blacklist">Разблокировать этот номер?</string>
-	 <string name="confirm_to_send_to_desktop">Отправить %s на рабочий стол?</string>
+     <string name="confirm_to_send_to_desktop">Отправить %s на рабочий стол?</string>
      <string name="contact_detail_calllog_call_note_tips">Заметка о вызове</string>
      <string name="contact_detail_calllog_call_record_tips">Запись вызова</string>
      <string name="content_desc_send_sms">Отправить сообщение</string>
-     <string name="correct_yellow_page">Обратная связь</string>
      <string name="coupon_bought_count">Куплено: %d</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="currency_character">RMB</string>
      <string name="custom_mark_category">Пользовательский</string>
      <string name="data_error">Услуга не доступна. Повтори попытку позже.</string>
      <string name="delete">Удалить</string>
-	 <string name="do_not_remind_me">Не напоминать</string>
-	 <string name="dont_enable">Не включать</string>
-	 <string name="download_completed">Загрузка завершена. Путь SD-карта: %s.</string>
-	 <string name="download_failed">Ошибка загрузки</string>
+     <string name="do_not_remind_me">Не напоминать</string>
+     <string name="dont_enable">Не включать</string>
+     <string name="download_completed">Загрузка завершена. Путь SD-карта: %s.</string>
+     <string name="download_failed">Ошибка загрузки</string>
      <string name="download_failed_blocked">Ошибка. Не удается подключиться к сети.</string>
      <string name="download_failed_cannot_resume">Загрузка не удалась. Повтори попытку позже.</string>
      <string name="download_failed_file_exists">Файл уже существует</string>
@@ -59,9 +68,9 @@
      <string name="download_failed_server">Ошибка загрузки. Повтори попытку позже.</string>
      <string name="download_failed_space">Ошибка загрузки. Недостаточно места.</string>
      <string name="download_failed_storage">Скачать не удалось. Проверь SD-карту.</string>
-	 <string name="downloading">Загрузка…</string>
-	 <string name="enable_now">Включить</string>
-	 <string name="exapress_save_address_to_contact">Сохранить адрес в контакты</string>
+     <string name="downloading">Загрузка…</string>
+     <string name="enable_now">Включить</string>
+     <string name="exapress_save_address_to_contact">Сохранить адрес в контакты</string>
      <string name="express_add_new_address">Добавить адрес</string>
      <string name="express_address_delete_warning">Вы уверены?</string>
      <string name="express_address_deleted">Адрес удален</string>
@@ -72,17 +81,15 @@
      <string name="express_address_warning_no_full_address">Требуется адрес</string>
      <string name="express_address_warning_no_name">Требуется имя</string>
      <string name="express_address_warning_no_phone">Требуется телефон</string>
-     <string name="express_addressee">Адресат</string>
      <string name="express_addressee_info">Инфо о адресате</string>
      <string name="express_addressee_name">Имя адресата</string>
      <string name="express_addressee_region">Регион адресата</string>
-	 <string name="express_cancel_order">Отмена</string>
-     <string name="express_company">Logistics</string>
+     <string name="express_cancel_order">Отмена</string>
      <string name="express_company_empty">Нет компаний</string>
      <string name="express_company_list_empty">Нет компаний</string>
      <string name="express_company_phone_prefix">Контакт:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_company_pricing_details">Pricing detail</string>
-     <string name="express_confirm_dest_city_prefix">Назначение:</string>
      <string name="express_contact_address">Введи адрес</string>
      <string name="express_contact_address_finding">Поиск…</string>
      <string name="express_contact_label">Информация</string>
@@ -92,7 +99,7 @@
      <string name="express_delete_order">Удалить</string>
      <string name="express_dest_city_label">Назначение</string>
      <string name="express_detailed_address">Адрес</string>
-	 <string name="express_field_empty">Пусто</string>
+     <string name="express_field_empty">Пусто</string>
      <string name="express_go_back">Назад</string>
      <string name="express_inqiury_select_logistics">Выбери службу</string>
      <string name="express_inquiry">Отслеживание</string>
@@ -102,65 +109,88 @@
      <string name="express_inquiry_delete_warning_multiple">Удалить %d выбранных записей?</string>
      <string name="express_inquiry_delete_warning_single">Удалить выбранные записи?</string>
      <string name="express_inquiry_delivered">Доставлено</string>
-	 <string name="express_inquiry_go_to_provider">Поставщик</string>
      <string name="express_inquiry_history">История</string>
-     <string name="express_inquiry_internal_failure">Произошла ошибка.
-Проверь номер отслеживания.</string>
+     <string name="express_inquiry_internal_failure">"Произошла ошибка.
+Проверь номер отслеживания."</string>
      <string name="express_inquiry_logistics_indication">Служба доставки</string>
      <string name="express_inquiry_no_history">Пусто</string>
      <string name="express_inquiry_no_result">Нет результатов</string>
-	 <string name="express_inquiry_provider_info">При поддержке</string>
+     <string name="express_inquiry_provider_info">При поддержке</string>
      <string name="express_inquiry_serial_number_indication">Номер отправления</string>
      <string name="express_inquiry_serial_number_prefix">Номер: </string>
-	 <string name="express_no_address">Пусто</string>
-	 <string name="express_no_order">Пусто</string>
+     <string name="express_no_address">Пусто</string>
      <string name="express_no_order_info">Нет информации</string>
-	 <string name="express_order_confirmation">Подтверждение заказа</string>
-	 <string name="express_order_created_time">Created time:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="express_no_tracking_number">No related tracking number</string>
+     <string name="express_order_confirmation">Подтверждение заказа</string>
+     <string name="express_order_created_time">Created time:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_detail">Detail</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_failed">Failed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="express_order_info">Order info</string>
      <string name="express_order_internal_id">Order ID:</string>
      <string name="express_order_ongoing">Ordering…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_result">Result</string>
-     <string name="express_order_state">State:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_state_accepted">Accepted</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_state_allograph">Signed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_state_cancelled">Cancelled</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_state_dispatching">Delivering</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_state_dispatching_failed">Dispatching failed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_state_failed">Failed</string>
-     <string name="express_order_state_note">Статус</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_state_ordered">Ordered</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_state_picked">Picked</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_state_picking_failed">Failed to pick</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_state_processing">Processing</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_state_signed">Signed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_state_transporting">Transporting</string>
      <string name="express_order_state_unknown">Неизвестно</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_state_wait_picking">Await picking</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_succeeded">Succeeded</string>
-     <string name="express_order_success_hint">Your package will be delivered by %s
-Custom service will contact you in a moment</string>
-     <string name="express_orders">Заказы</string>
-	 <string name="express_phone">Телефон</string>
-	 <string name="express_preview_order">Просмотреть</string>
-	 <string name="express_region_pick_title">Выбери регион</string>
-	 <string name="express_select_address">Адрес</string>
+     <string name="express_order_success_hint">"Your package will be delivered by %s
+Custom service will contact you in a moment"</string>
+     <string name="express_phone">Телефон</string>
+     <string name="express_preview_order">Просмотреть</string>
+     <string name="express_region_pick_title">Выбери регион</string>
+     <string name="express_select_address">Адрес</string>
      <string name="express_select_addressee">Кому</string>
-	 <string name="express_select_city">Выбери город</string>
+     <string name="express_select_city">Выбери город</string>
      <string name="express_select_sender">От</string>
-	 <string name="express_send">Ship</string>
-     <string name="express_sender">Отправитель</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="express_send">Ship</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="express_send_notice">About prohibited items</string>
      <string name="express_sender_info">Информация</string>
      <string name="express_sender_name">Имя</string>
      <string name="express_sender_region">Страна</string>
-	 <string name="express_submit_order">Submit</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="express_submit_order">Submit</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="express_tracking_number">Tracking number</string>
      <string name="express_view_order">Просмотр заказов</string>
-	 <string name="express_view_status">Track</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="express_view_status">Track</string>
      <string name="expresss_inquiry_all_logistics">Все</string>
      <string name="expresss_inquiry_frequently_used_logistics">Частые</string>
-	 <string name="gallery">Галерея</string>
-	 <string name="general_cancel_favorite_ok">Убрано</string>
+     <string name="fraud_number_online_identification">Block telemarketers (requires internet connection)</string>
+     <string name="gallery">Галерея</string>
+     <string name="general_cancel_favorite_ok">Убрано</string>
      <string name="general_delete_recent_ok">Удалено</string>
      <string name="general_favorite_title">Избранные</string>
      <string name="general_menu_delete_recent">Удалить недавние</string>
@@ -168,50 +198,70 @@ Custom service will contact you in a moment</string>
      <string name="general_no_yellow_page">Пусто</string>
      <string name="general_recent_title">Недавние</string>
      <string name="general_yellow_page_title">Основные</string>
-	 <string name="group_name_about">О группе</string>
+     <string name="group_name_banner" />
      <string name="group_name_basic" />
      <string name="group_name_data_source">Источник</string>
      <string name="group_name_gallery">Галерея</string>
-     <string name="group_name_group_buying">Гропповые покупки</string>
      <string name="group_name_more">Разное</string>
-     <string name="group_name_review">Просмотров (всего: %s)</string>
      <string name="group_name_service">Служба</string>
-	 <string name="locating_fail">Не удалось обнаружить. Проверь настройки местоположения и повтори.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="group_name_shop_info">Information</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="group_name_shop_recommendation">Nearby</string>
+     <string name="group_name_title" />
+     <string name="locating_fail">Не удалось обнаружить. Проверь настройки местоположения и повтори.</string>
      <string name="login_before_use">Перед использованием войди в аккаунт</string>
      <string name="login_ok">Войти</string>
      <string name="mark_number_custom_dialog_maintitle">Согласиться или исправить метку</string>
      <string name="mark_number_dialog_maintitle">Отметить неизв. номер и загрузить</string>
      <string name="mark_title_null_hint">Ввод не может быть пустым</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_about_yellow_page">About</string>
      <string name="menu_add_black_list">Добавить в черный список</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_add_to_favorite">Add to favorites</string>
      <string name="menu_call_ip_number">IP вызов (набрать %s)</string>
      <string name="menu_copy_text">Копировать в буфер обмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_correct_yellow_page">Correction</string>
      <string name="menu_delete_call_log">Удалить журналы вызовов</string>
      <string name="menu_delete_one">Удалить это из журнала вызовов</string>
-     <string name="menu_refresh">Обновить</string>
      <string name="menu_remove_black_list">Удалить из черного списка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_remove_from_favorite">Remove from favorites</string>
+     <string name="minimum_price">From %d RMB</string>
      <string name="mishop_web_payment_title">Оформить заказ MiStore</string>
-	 <string name="more_coupons">Все купоны</string>
+     <string name="more_coupons">Все купоны</string>
      <string name="navigation_search_all_cities">Все</string>
      <string name="navigation_search_automatically_positioned_city">Текущий</string>
-	 <string name="navigation_search_default_hint">Введи текст поиска (например xiaomi)</string>
+     <string name="navigation_search_default_hint">Введи текст поиска (например xiaomi)</string>
      <string name="navigation_search_hot_cities">Популярные</string>
      <string name="navigation_search_no_city_list">Город не найден</string>
      <string name="navigation_search_positioning">Поиск местоположения…</string>
      <string name="navigation_search_positioning_failed">Выберите город</string>
-	 <string name="nearby_no_yellow_page">Никого нет</string>
+     <string name="nearby_no_yellow_page">Никого нет</string>
      <string name="nearby_yellow_page_title">Рядом</string>
+     <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
      <string name="network_unavaliable">Сеть не доступна. Проверь настройки сети.</string>
-	 <string name="no_more_result">Ничего не найдено</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_brief">No introduction</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_evaluation">No review</string>
+     <string name="no_more_result">Ничего не найдено</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_price">No price info</string>
      <string name="notify_connect_summary">Спрашивать перед подключением к сети</string>
-	 <string name="notify_connect_title">Разрешение сети</string>
+     <string name="notify_connect_title">Разрешение сети</string>
      <string name="order_date_label">Дата покупки: %s</string>
      <string name="order_empty_hint">Нет заказов</string>
      <string name="order_id_label">Id заказа: %s</string>
      <string name="order_merchant_title">Мои заказы</string>
-	 <string name="order_not_found">Нет покупок</string>
+     <string name="order_merchant_title_format">%1$s-%2$s</string>
+     <string name="order_not_found">Нет покупок</string>
      <string name="order_price_label">Стоимость заказа: %s</string>
      <string name="order_product_name_label">Название:</string>
-	 <string name="order_status_label">Статус заказа: %s</string>
+     <string name="order_status">%s</string>
+     <string name="order_status_label">Статус заказа: %s</string>
      <string name="packages_no_package">Нет подходящего пакета трафика</string>
      <string name="packages_pay">Купить</string>
      <string name="packages_pay_confirm">Подтверждаю</string>
@@ -227,8 +277,8 @@ Custom service will contact you in a moment</string>
      <string name="payment_unknown_status_summary">Проверьте подключение к сети и попробуйте снова</string>
      <string name="payment_unknown_status_title">Нет подтверждения оплаты</string>
      <string name="phone_info_divider"> ｜ </string>
-     <string name="provider">Опознано с помощью %s</string>
-	 <string name="quick_yellow_page_tab_call_log">Журнал вызовов</string>
+     <string name="photo_count">%d total</string>
+     <string name="quick_yellow_page_tab_call_log">Журнал вызовов</string>
      <string name="quick_yellow_page_tab_phones">Телефон</string>
      <string name="recharge_actual_price">Цена:</string>
      <string name="recharge_charge_range">Цена: %1$s-%2$s юань</string>
@@ -236,7 +286,7 @@ Custom service will contact you in a moment</string>
      <string name="recharge_history">История пополнений</string>
      <string name="recharge_history_empty">История пуста</string>
      <string name="recharge_input_phone_title">Введите номер телефона (China mobile, China Unicom, или China Telecom)</string>
-	 <string name="recharge_my_phone_number">Мой номер</string>
+     <string name="recharge_my_phone_number">Мой номер</string>
      <string name="recharge_order_actual_price">%s юань</string>
      <string name="recharge_order_id">ID заказа:</string>
      <string name="recharge_order_original_price">%s юань</string>
@@ -249,35 +299,36 @@ Custom service will contact you in a moment</string>
      <string name="recharge_payment_result_ok_summary">Подтверди, что эта сумма есть на счету</string>
      <string name="recharge_payment_result_ok_title">Добавлено %s юань</string>
      <string name="recharge_payment_result_progress_summary">Проверка пополнения…</string>
-	 <string name="recharge_phone">Номер пополенения:</string>
-	 <string name="recharge_phone_number_empty">Номер телефона не должен быть пустым</string>
+     <string name="recharge_phone">Номер пополенения:</string>
+     <string name="recharge_phone_number_empty">Номер телефона не должен быть пустым</string>
      <string name="recharge_phone_number_error">Неверный номер телефона</string>
      <string name="recharge_select_money_title">Выбери размер пополнения</string>
      <string name="recharge_status_description">Статус:</string>
      <string name="recharge_title">Пополнение</string>
-	 <string name="recharge_unknown_number">Другой номер</string>
-     <string name="recharge_user_confirm_summary">Вы пополнили %1$s на %2$s RMB！
-Всего: %3$s RMB.</string>
+     <string name="recharge_unknown_number">Другой номер</string>
+     <string name="recharge_user_confirm_summary">"Вы пополнили %1$s на %2$s RMB！
+Всего: %3$s RMB."</string>
      <string name="recharge_user_confirm_title">Подтвердить</string>
-	 <string name="refresh">Обновить</string>
+     <string name="refresh">Обновить</string>
      <string name="remind_another_time">Не вводите этот номер</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="remind_user_confirm">OK</string>
-     <string name="remind_user_suspect_number_message">Преступники могут украсть номера чужих телефонов. В случае сомнений, пожалуйста, перезвоните, чтобы проверить.
-Органы общественной безопасности, почтового сектора, электронной коммерции компании и курьерские компании не запрашивают информацию о банковыских картах и паролях.</string>
+     <string name="remind_user_suspect_number_message">"Преступники могут украсть номера чужих телефонов. В случае сомнений, пожалуйста, перезвоните, чтобы проверить.
+Органы общественной безопасности, почтового сектора, электронной коммерции компании и курьерские компании не запрашивают информацию о банковыских картах и паролях."</string>
      <string name="remind_user_suspect_number_title">Остерегайся мошенников</string>
-	 <string name="review_nickname_prefix">От:</string>
-	 <string name="remove_from_favorite">Из избранного</string>
-     <string name="removed_from_favorite">Удалено</string>
      <string name="scan">Сканировать</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="select">Select</string>
      <string name="select_package_before_buy">Выбери пакет для покупки</string>
      <string name="selected_category_format">%1$s (%2$d людей отметили, нажми для согласия)</string>
-	 <string name="send_shortcut_failed">Ошибка отправки</string>
+     <string name="send_shortcut_failed">Ошибка отправки</string>
      <string name="send_shortcut_success">Успешно отправлено</string>
      <string name="sending_shortcut">Отправка…</string>
      <string name="service_unavailiable">Текущая сеть имеет плохое подключение. Повтори попытку позже.</string>
-	 <string name="sim1">SIM-карта 1</string>
+     <string name="shop_recommendation_format" formatted="false">%s: %s</string>
+     <string name="sim1">SIM-карта 1</string>
      <string name="sim2">SIM-карта 2</string>
-	 <string name="sina_share_fail">Не удалось отправить</string>
+     <string name="sina_share_fail">Не удалось отправить</string>
      <string name="sina_share_pendding">Отправка…</string>
      <string name="sina_share_success">Отправлено</string>
      <string name="sina_token_expired_warning">Weibo аккаунт истек: свяжи повторно</string>
@@ -290,12 +341,18 @@ Custom service will contact you in a moment</string>
      <string name="turn_on_smart_antispam_summary_off">Запрос только локальных запрограммированных номеров</string>
      <string name="turn_on_smart_antispam_summary_on">Идентифицировать неизвестные номера и загружать из сети</string>
      <string name="turn_on_smart_antispam_title">Идентификация номеров</string>
-	 <string name="turn_on_yellowpage_service_title">Использовать сервисы</string>
+     <string name="turn_on_yellowpage_service_title">Использовать сервисы</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="upload_and_verify_fraud_num_off">This feature has been closed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="upload_and_verify_fraud_num_on">Share blocked telemarketer info</string>
+     <string name="user_agreement2">" User agreement"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_agreement4">Privacy policy</string>
      <string name="user_notice_identify_summary_format">Идентификация неизвестных номеров представляет собой интернет-сервис. Прочитай %1$s и %2$s перед использованием.</string>
-     <string name="user_notice_yp_detail_summary_format">Информация этой желтой страницы должна быть обновлена ​​в интернете. Прочитай %1$s и %2$s. Нажимая принимаю, ты соглашаешься с вышеуказанным содержанием, нажми отмена для просмотра кэшированной информации.</string>
      <string name="user_notice_identify_summary_format_cta">Устройство будет использовать сервисы MIUI для блокировки нежелательных звонков при включенном Wi-Fi. Нажимая OK, ты соглашаешься с %1$s и %2$s Xiaomi.</string>
-	 <string name="user_notice_yp_detail_summary_format_cta">Некоторые данные устарели. Обновить их? Нажимая OK, ты соглашаешься с %1$s и %2$s Xiaomi.</string>
-	 <string name="voicemail">Голосовая почта</string>
-     <string name="yellow_page_detail_title">О программе</string>
+     <string name="user_notice_yp_detail_summary_format">Информация этой желтой страницы должна быть обновлена ​​в интернете. Прочитай %1$s и %2$s. Нажимая принимаю, ты соглашаешься с вышеуказанным содержанием, нажми отмена для просмотра кэшированной информации.</string>
+     <string name="user_notice_yp_detail_summary_format_cta">Некоторые данные устарели. Обновить их? Нажимая OK, ты соглашаешься с %1$s и %2$s Xiaomi.</string>
+     <string name="voicemail">Голосовая почта</string>
      <string name="yellow_page_website">Официальный сайт</string>
 </resources>
