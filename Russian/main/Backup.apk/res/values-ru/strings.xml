@@ -44,7 +44,6 @@
      <string name="button_continue">Далее</string>
      <string name="button_finish">Готово</string>
      <string name="button_next">Вперед</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_ok">OK</string>
      <string name="button_return">Назад</string>
      <string name="call_title">Звонки</string>
@@ -74,30 +73,29 @@
      <string name="delete">Удалить</string>
      <string name="delete_backup_process">Выполняется удаление, подождите…</string>
      <string name="delete_failed_backup_confirm">Резервная копия имеет ошибки, невозможно восстановить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="deselect_all">Deselect all</string>
+     <string name="deselect_all">Отменить все</string>
      <string name="disable_encrypt_title">Отключить шифрование</string>
      <string name="enable_encrypt">Включить</string>
      <string name="enable_encrypt_fail">Включение шифрования не удалось</string>
-     <string name="enable_encrypt_indicator">Резервные копии не зашифрованы. Нажмите здесь, чтобы включить шифрование.</string>
+     <string name="enable_encrypt_indicator">Резервные копии не зашифрованы. Нажми здесь, чтобы включить шифрование.</string>
      <string name="enable_encrypt_summery1">"Система зашифрует локальный бэкап на основе аккаунта Xiaomi.
  Вам нужно будет войти в учетную запись Xiaomi для удаления данных или использования с других устройств для восстановления резервной копии."</string>
      <string name="enable_encrypt_summery2">"Новый бэкап будет автоматически шифроваться. 
  Вы должны войти в аккаунт Xiaomi для удаления данных или использования других устройств для восстановления резервной копии."</string>
      <string name="enable_encrypt_title">Шифрование</string>
-     <string name="enable_encrypt_xiaomi_account">Эта резервная копия была создана %1$s, пожалуйста, удалите текущий аккаунт, и войдите в %2$s для восстановления данных</string>
+     <string name="enable_encrypt_xiaomi_account">Эта резервная копия была создана %1$s. Пожалуйста, удали текущий аккаунт, и войди в %2$s для восстановления данных.</string>
      <string name="exchange_account">Сменить аккаунт</string>
      <string name="fail">Ошибка</string>
      <string name="findlost_contact">Найти удаленые контакты</string>
      <string name="findlost_contact_online">Восстановление контактов из облака</string>
      <string name="guarded_mode_dialog_message">Не могу работать в безопасном режиме</string>
      <string name="guarded_mode_dialog_title">Режим защиты</string>
-     <string name="import_from_xiaomi_account_hint1">"1.\u0009Включите телефон с контактами
+     <string name="import_from_xiaomi_account_hint1">"1.\u0009Включи телефон с контактами
   
-2.\u0009Установите MiTalk и войдите в него
+2.\u0009Установи MiTalk и войдите в него
 \u0009http://www.miliao.com
  
-3.\u0009Зайдите в настройки MiTalk и выберите Создать резервную копию контактов в аккаунт Xiaomi"</string>
+3.\u0009Зайди в настройки MiTalk и выбери создать резервную копию контактов в аккаунт Xiaomi"</string>
      <string name="import_from_xiaomi_account_hint2">Примечание: перейди к следующему шагу, если резервная копия уже существует</string>
      <string name="import_from_xiaomi_account_hint_title">Используй MiTalk для резервного копирования контактов на других устройствах</string>
      <string name="local_app_name">Бэкап</string>
@@ -150,8 +148,7 @@
      <string name="sc_service_unavailable">Возможно сервис недоступен</string>
      <string name="sc_unaccess_password_file">Не хранить пароли сетей Wi-Fi</string>
      <string name="sc_unauthorized">Сертификация не действительна</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sd_not_available">No SD card detected</string>
+     <string name="sd_not_available">SD-карта не найдена</string>
      <string name="sdcard_no_enough_space">Не хватает памяти на SD-карте</string>
      <string name="sdcard_no_enough_space_message">Резервное копирование может не сработать. Освободи немного места и попробуй еще раз.</string>
      <string name="sdcard_unmounted">SD-карта не найдена или отключена</string>

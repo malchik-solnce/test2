@@ -26,12 +26,6 @@
         <item>Журнал вызовов</item>
         <item>Сообщения</item>
      </string-array>
-     <string-array name="font_size_scale">
-        <item>0.86</item>
-        <item>1.0</item>
-        <item>1.2</item>
-        <item>1.21</item>
-     </string-array>
      <string-array name="system_data_label">
         <item>Контакты</item>
         <item>Журнал вызовов</item>
@@ -45,14 +39,12 @@
         <item>Черный список</item>
         <item>Аккаунт</item>
      </string-array>
-     <!-- The size of the array does not match! Now: 8 must: 7 -->
      <string-array name="system_package_label">
         <item>Браузер</item>
-        <item>Галерея</item>
         <item>Суперпользователь</item>
         <item>Камера</item>
-        <item>Монитор</item>
-        <item>Хранилище погоды</item>
+        <item>Трафик</item>
+        <item>Данные погоды</item>
         <item>Погода</item>
      </string-array>
 </resources>

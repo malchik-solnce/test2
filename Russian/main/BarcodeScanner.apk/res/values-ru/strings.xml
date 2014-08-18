@@ -57,8 +57,9 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="secure_access_web_url">Secure access</string>
      <string name="see_app_details">Подробнее</string>
+	 <string name="settings">Настройки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="success_message_import_from_account">Imported</string>
+     <string name="success_message_import_from_account">Ипортировано</string>
      <string name="tips_message">Требуется подключение к интернету, чтобы проверить безопасность сайта</string>
      <string name="tips_title">Интернет подключение</string>
      <string name="title">Название:</string>
@@ -67,20 +68,19 @@
      <string name="url_is_unknown">"Can't confirm if this site is safe. Browse at your own risk."</string>
      <string name="url_is_unsafety">Этот сайт представляет опасность для личных данных пользователя</string>
      <string name="vcard_prompt">Невозможно добавить контакт с пустым именем</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="visit_cloud_album">Visit cloud album</string>
+     <string name="visit_cloud_album">Посетить альбом</string>
      <string name="web">Веб-сайт:</string>
      <string name="web_url_apk_warning">Это приложение из неизвестного источника и может представлять угрозу безопасности. Мы рекомендуем устанавливать приложения только из надежных источников.</string>
      <string name="web_url_warning">Связанный сайт из неизвестного источника и может представлять угрозу безопасности</string>
      <string name="website_details">Информация о сайте:</string>
      <string name="wechat_details">Информация WeChat:</string>
      <string name="wifi_connect_current_connetion">Подключено к Wi-Fi</string>
-     <string name="wifi_connect_fail">"Can't connect to the network"</string>
+     <string name="wifi_connect_fail">Не удается подключиться к сети</string>
      <string name="wifi_connect_not_found">Wi-Fi сети не найдены</string>
      <string name="wifi_connect_success">Подключено</string>
      <string name="wifi_connecting">Подключение…</string>
      <string name="wifi_details">Информация о Wi-Fi:</string>
-     <string name="wifi_open_fail">"Couldn't open WLAN"</string>
+     <string name="wifi_open_fail">Не удалось включить Wi-Fi</string>
      <string name="wifi_pwd">Пароль:</string>
      <string name="wifi_security">Безопасность:</string>
      <string name="wifi_ssid">SSID:</string>
