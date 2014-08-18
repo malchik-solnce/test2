@@ -43,8 +43,7 @@
      <string name="fm_cmd_failed_msg_hdmi">Ошибка радио. Невозможно одновременно использовать радио и HDMI соединение.</string>
      <string name="fm_command_failed_title">Ошибка операции</string>
      <string name="fm_command_timeout_title">Время ожидания вышло</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="fm_has_turned_off">FM has turned off</string>
+     <string name="fm_has_turned_off">Радио выключено</string>
      <string name="fm_tune_timeout_msg">Попробуй перезагрузить телефон</string>
      <string name="fmradio_clear_confirm_msg">Сохраненные радиостанции будут удалены. Продолжить сканирование?</string>
      <string name="fmtx_autoselect_name">Все избранные станции будут удалены</string>
@@ -62,8 +61,7 @@
      <string name="menu_delete">Удалить</string>
      <string name="menu_edit">Редактировать</string>
      <string name="menu_exit">Выход</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_headset">Switch to headset</string>
+     <string name="menu_headset">Наушники</string>
      <string name="menu_new_station">Добавить новую станцию</string>
      <string name="menu_play">Слушать</string>
      <string name="menu_record_list">Записи</string>
@@ -79,8 +77,7 @@
      <string name="menu_settings">Настройки</string>
      <string name="menu_sleep">Спящий режим</string>
      <string name="menu_sleep_cancel">Отключить спящий режим</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_speaker">Switch to speaker</string>
+     <string name="menu_speaker">Динамик</string>
      <string name="menu_stats">Статистика FM RF</string>
      <string name="msg_callactive">Невозможно прослушивать радио во время вызова</string>
      <string name="msg_do_not_support_fm">FM радио не поддерживается на этом устройстве</string>
@@ -114,7 +111,8 @@
      <string name="regional_band">Региональные группы</string>
      <string name="search_dialog_title">Сканировать станции</string>
      <string name="sel_band_menu">Переключение региональные группы (удаляет избранное)</string>
-     <string name="set">ОК</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="set">OK</string>
      <string name="set_rmmsi_delta">Настройка RMSSI Delta</string>
      <string name="set_sigth">Настройка сигнала Th</string>
      <string name="settings_menu">Настройки</string>
@@ -127,7 +125,7 @@
      <string name="station_edit">Изменить</string>
      <string name="station_freq_format">%s МГц</string>
      <string name="station_move">Переместить</string>
-     <string name="station_name_already_used">Такое имя уже используется. Выберите другое название станции.</string>
+     <string name="station_name_already_used">Такое имя уже используется. Выбери другое название станции.</string>
      <string name="stations_list">Список радиостанций</string>
      <string name="stations_list_empty">Список пуст</string>
      <string name="status_recording">Запись: %s</string>
@@ -158,7 +156,6 @@
      <string name="turn_on_fm">Включить радио</string>
      <string name="turn_on_speaker_phone">Включить динамик</string>
      <string name="txt_divider">" | "</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="txt_sleep_mode">Sleep mode</string>
+     <string name="txt_sleep_mode">Спящий режим</string>
      <string name="view_stations_list">Список станций</string>
 </resources>

@@ -17,43 +17,29 @@
      <string name="account">Аккаунт</string>
      <string name="account_prifix">Аккаунт:</string>
      <string name="action">Войти</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="action_menu_text_bookmark">Add bookmark</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="action_menu_text_exit">Exit</string>
-     <string name="action_menu_text_history">Bookmarks/History</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="action_menu_text_nightmode">Night mode</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="action_menu_text_nightmode_off">Night mode</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="action_menu_text_nightmode_on">Night mode</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="action_menu_text_setting">Settings</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="action_menu_text_share">Share</string>
+     <string name="action_menu_text_bookmark">Доб. закладку</string>
+     <string name="action_menu_text_exit">Выйти</string>
+     <string name="action_menu_text_history">Закладки</string>
+     <string name="action_menu_text_nightmode">Ночной режим</string>
+     <string name="action_menu_text_nightmode_off">Ночной режим</string>
+     <string name="action_menu_text_nightmode_on">Ночной режим</string>
+     <string name="action_menu_text_setting">Настройки</string>
+     <string name="action_menu_text_share">Поделиться</string>
      <string name="actionbar_share">Поделиться</string>
      <string name="actionbar_web_search">Поиск в интернете</string>
      <string name="adblock_notification">Заблокировано рекламы: %d</string>
-     <string name="add_bookmark">Добавить закладку</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="add_bookmark_group">Add group</string>
+     <string name="add_bookmark">Закладка</string>
+     <string name="add_bookmark_group">Группа</string>
      <string name="add_folder">Добавить папку</string>
      <string name="add_new_bookmark">Добавить закладку</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="add_new_quicklink">Add quicklink</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="add_ql_bm_title">Save</string>
+     <string name="add_new_quicklink">Добавление ссылки</string>
+     <string name="add_ql_bm_title">Сохранить</string>
      <string name="add_quicklink_to_popular">Добавить на стартовую</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="add_quicklinks">Add</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="add_to_bookmark">Add to bookmarks</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="add_to_quicklink">Add to start page</string>
+     <string name="add_quicklinks">Добавить</string>
+     <string name="add_to_bookmark">В закладки</string>
+     <string name="add_to_quicklink">На стартовую</string>
      <string name="added_to_bookmarks">Добавлено в закладки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="adjust_text_zoom_toast">Changing text zoom may cause some websites to display incorrectly</string>
+     <string name="adjust_text_zoom_toast">Изменение размера текста может повлечь неправильное отображение некоторых сайтов</string>
      <string name="alert_tips">Этот сайт может представлять угрозу безопасности. Будь осторожен!</string>
      <string name="allow">Разрешить</string>
      <string name="already_in_top_level">Закладка уже в самом верху</string>
@@ -86,30 +72,26 @@
      <string name="autologin_bar_text">Войти как</string>
      <string name="back">Назад</string>
      <string name="block">Заблокировать</string>
-     <string name="bookmark_URL_already_exisit">"You've already bookmarked this URL"</string>
+     <string name="bookmark_URL_already_exisit">Эта ссылка уже в закладках</string>
      <string name="bookmark_add_group_text_header">Add selected %1$d to group</string>
      <string name="bookmark_add_to">Добавить в</string>
      <string name="bookmark_cannot_save_url">Невозможно добавить в закладки эту страницу</string>
      <string name="bookmark_folder_needs_title">Введите название папки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bookmark_group_lable">Group</string>
+     <string name="bookmark_group_lable">Группа</string>
      <string name="bookmark_list_view">Список</string>
      <string name="bookmark_needs_title">Необходимо указать имя закладки</string>
      <string name="bookmark_needs_url">Необходимо указать место закладки</string>
      <string name="bookmark_not_saved">Не удалось сохранить закладку</string>
      <string name="bookmark_page">Добавить в закладки последнюю просмотренную страницу</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bookmark_rename_group">Rename group</string>
+     <string name="bookmark_rename_group">Переименовать</string>
      <string name="bookmark_saved">Сохранено в закладках</string>
      <string name="bookmark_this_page_to_readmodelist">Добавить эту страницу в список чтения</string>
      <string name="bookmark_title">Название</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bookmark_title_lable">Title</string>
+     <string name="bookmark_title_lable">Название</string>
      <string name="bookmark_to_readmodelist_not_saved">Не могу сохранить в список чтения</string>
      <string name="bookmark_to_readmodelist_saved">Сохранено в список чтения</string>
      <string name="bookmark_url">Адрес</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bookmark_url_lable">URL</string>
+     <string name="bookmark_url_lable">Адрес</string>
      <string name="bookmark_url_not_valid">Неправильный URL</string>
      <string name="bookmarks">Закладки</string>
      <string name="bookmarks_content_is_null">Пусто</string>
@@ -191,8 +173,7 @@
      <string name="contextmenu_view_image">Просмотр изображения</string>
      <string name="copy_link">Скопировать</string>
      <string name="copy_to_clipboard_failure_message">Не удалось скопировать в буфер обмена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="copy_url">copy url</string>
+     <string name="copy_url">Копировать ссылку</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="create_qr_code">qr code</string>
      <string name="create_shortcut_bookmark">Добавить ярлык на главную</string>
@@ -237,10 +218,8 @@
      <string name="edit">Редактировать</string>
      <string name="edit_bookmark">Изменить закладку</string>
      <string name="edit_folder">Изменить папку</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="edit_quicklink">Edit</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="empty_bookmark">Empty</string>
+     <string name="edit_quicklink">Изменить</string>
+     <string name="empty_bookmark">Пусто</string>
      <string name="empty_bookmarks_folder">Нет закладок</string>
      <string name="empty_history">Пусто</string>
      <string name="empty_snapshots_folder">Нет сохраненных страниц</string>
@@ -317,8 +296,7 @@
      <string name="menu_enable_night_mode">Включить ночной режим</string>
      <string name="menu_enable_save_bandwidth_mode">Включить экономию тарфика</string>
      <string name="menu_exit">Выйти</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_exit_nightmode">exit</string>
+     <string name="menu_exit_nightmode">Выйти</string>
      <string name="menu_hv_swap">Горизонтальный режим</string>
      <string name="menu_nightmode">night mode on/off</string>
      <string name="menu_preferences">Настройки</string>

@@ -2,8 +2,8 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
      </plurals>
      <plurals name="webview_last_num_days">
         <item quantity="other">Последние %d дней</item>

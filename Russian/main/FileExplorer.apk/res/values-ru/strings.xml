@@ -41,6 +41,7 @@
      <string name="compress_fail">Ошибка архивирования. Файл уже существует.</string>
      <string name="compress_message">Архивация в…</string>
      <string name="compress_title">Архивация</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
      <string name="copy_failed">Ошибка копирования</string>
      <string name="create_kuaipan_shortcut_pref">Создать ярлык на рабочем столе</string>
@@ -109,6 +110,7 @@
      <string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
      <string name="kilobyteShort">КБ</string>
      <string name="kuaipan_over_space">В KuaiPan нет больше свободного места</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="kuaipan_prompt">KuaiPan</string>
      <string name="kuaipan_prompt_message">"
  Идет обслуживание сервиса, пожалуйста, попробуйте позже…
@@ -285,6 +287,7 @@
      <string name="uploading">Загрузка</string>
      <string name="used">Занято:</string>
      <string name="user_guide">Руководство пользователя</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="user_guide_continue_use">OK</string>
      <string name="user_guide_download_other_version">"Вы всегда можете скачать Kuaipan
 на Ваш PC или Mac"</string>
@@ -293,6 +296,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="user_guide_kuaipan_lable">kuaipan owns to you</string>
      <string name="user_guide_other_version">Скачай с mi.kuaipan.cn, войдя в аккаунт (%1$s)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="user_guide_save_file">Saving your files and pictures in Kuaipan.</string>
      <string name="user_guide_upload_to_kuaipan">"С телефона,
 просто скопируй и вставь в Kuaipan"</string>

@@ -36,6 +36,7 @@
      <string name="agenda_tomorrow">Завтра, %1$s</string>
      <string name="agenda_view">Повестка дня</string>
      <string name="agenda_yesterday">Вчера, %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="alarm_label">OK</string>
      <string name="alert_title">Уведомления календаря</string>
      <string name="app_label">Календарь</string>
@@ -67,6 +68,7 @@
      <string name="creating_event_with_guest">Приглашение отправлено</string>
      <string name="cta_notice_checkbox">Больше не показывать</string>
      <string name="cta_notice_message">Напоминания в календаре о днях рождениях контактов требует доступ к списку контактов. Разрешить?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cta_notice_ok">OK</string>
      <string name="cta_notice_title">Напоминание</string>
      <string name="cta_notify_settings">Запрашивать доступ к контактам</string>
@@ -100,6 +102,7 @@
      <string name="edit_event_show_all">Показать все</string>
      <string name="edit_event_to_label">До</string>
      <string name="edit_label">Изменить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="email_guests_label">Email</string>
      <string name="email_picker_label">Email с</string>
      <string name="empty_event">Пустое мероприятие</string>

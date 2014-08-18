@@ -147,12 +147,12 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: " over" -->
+     <!-- Original string: over -->
      <string name="main_traffic_overlimit_text">%s превышено</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: " remaining" -->
+     <!-- Original string: remaining -->
      <string name="main_traffic_remian_text">"%s
 осталось"</string>
      <string name="main_traffic_used">%s used</string>
@@ -160,7 +160,7 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: " used" -->
+     <!-- Original string: used -->
      <string name="main_traffic_used_text">"%s
 использовано"</string>
      <string name="manual_input_free_traffic">Введи предел трафика</string>

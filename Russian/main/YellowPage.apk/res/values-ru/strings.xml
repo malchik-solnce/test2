@@ -110,6 +110,10 @@
      <string name="express_inquiry_delete_warning_single">Удалить выбранные записи?</string>
      <string name="express_inquiry_delivered">Доставлено</string>
      <string name="express_inquiry_history">История</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="express_inquiry_history_remark">Remark</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="express_inquiry_history_remark_hint">Remark</string>
      <string name="express_inquiry_internal_failure">"Произошла ошибка.
 Проверь номер отслеживания."</string>
      <string name="express_inquiry_logistics_indication">Служба доставки</string>
