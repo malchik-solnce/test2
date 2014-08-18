@@ -26,12 +26,12 @@
         <item quantity="many">файлов: %d</item>
      </plurals>
      <plurals name="numSelectedFile">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="zero">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
-        <item quantity="two">%1$d selected</item>
-        <item quantity="few">%1$d selected</item>
-        <item quantity="many">%1$d selected</item>
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="zero">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+        <item quantity="two">Выбрано: %1$d</item>
+        <item quantity="few">Выбрано: %1$d</item>
+        <item quantity="many">Выбрано: %1$d</item>
      </plurals>
      <plurals name="ui_bar_txt_download_progress">
         <item quantity="other">Осталось скачать файлов: %1$d</item>
