@@ -44,6 +44,7 @@
      <string name="button_continue">Далее</string>
      <string name="button_finish">Готово</string>
      <string name="button_next">Вперед</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_ok">OK</string>
      <string name="button_return">Назад</string>
      <string name="call_title">Звонки</string>

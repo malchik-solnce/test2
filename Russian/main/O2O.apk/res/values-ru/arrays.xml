@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+     <!-- The size of the array does not match! Now: 29 must: 27 -->
      <string-array name="alphabet_table">
         <item>А</item>
         <item>Б</item>
@@ -39,6 +40,11 @@
         <item>Google</item>
         <item>Baidu</item>
      </string-array>
+     <string-array name="map_app_package">
+        <item>com.autonavi.minimap</item>
+        <item>com.baidu.BaiduMap</item>
+     </string-array>
+     <!-- The size of the array does not match! Now: 7 must: 8 -->
      <string-array name="normal_status">
         <item>Ничего</item>
         <item>Новое</item>

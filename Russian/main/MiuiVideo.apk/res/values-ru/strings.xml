@@ -5,19 +5,18 @@
      <string name="about_developer_label">Разработчик</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="about_developer_name">XiaoMi Inc.</string>
-     <string name="about_title">О программе</string>
+     <string name="about_title">О приложении</string>
      <string name="about_version_label">Версия</string>
-     <string name="actor_colon">Actor:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="add_favorite_success">Starred</string>
+     <string name="actor_colon">Актеры:</string>
+     <string name="add_favorite_success">Добавлено</string>
      <string name="add_more_addons">добавить другие специальные</string>
      <string name="addon" />
      <string name="addon_category">Специальное</string>
-     <string name="addon_install_complete_disc">Нажмите, чтобы установить %s</string>
+     <string name="addon_install_complete_disc">Нажми, чтобы установить %s</string>
      <string name="addon_update_desc">Найдена новая версия. Обновить?</string>
      <string name="adjust_position_next_media_notice">Далее</string>
      <string name="adjust_position_prev_media_notice">Назад</string>
-     <string name="airkan_control_device_des">Вы можете управлять воспроизведением видео с помощью кнопки в нижней части</string>
+     <string name="airkan_control_device_des">Управляй воспроизведением видео с помощью кнопки в нижней части</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="airkan_device_xiaomi_phone">Xiaomi</string>
      <string name="airkan_tips">"Нажми здесь, чтобы смотреть видео 
@@ -25,12 +24,9 @@
      <string name="airkan_video_playing">воспроизводится</string>
      <string name="airkan_video_playing_in">Видео</string>
      <string name="all">Все</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="all_comment">All comments</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="all_ep">All ep</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="all_media">All media</string>
+     <string name="all_comment">Все комментарии</string>
+     <string name="all_ep">Все эп.</string>
+     <string name="all_media">Все медиа</string>
      <string name="app_name">Видео</string>
      <string name="area_colon">Страна: </string>
      <string name="authenticated_failed">Ошибка аутентификации</string>
@@ -38,28 +34,20 @@
      <string name="authenticating_manually">Ошибка аутентификации</string>
      <string name="auto_play">Автовоспроизведение</string>
      <string name="auto_play_summary">Воспроизводить видео после буферизации или завершения загрузки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="average_score">Average score</string>
+     <string name="average_score">Средняя оценка</string>
      <string name="avg_score">%.1f</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="back">back</string>
+     <string name="back">Назад</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="bestv">Bestv</string>
      <string name="buffering">Буферизация…</string>
      <string name="buffering_video_netplay_label_v5">Буферизация…</string>
      <string name="cancel">Отмена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cancel_favorite_success">Unstarred</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="channel_choice_empty_hint">Empty</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="channel_empty_hint">Empty</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="choice">Hot</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="clarity_high">High</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="clarity_standard">Standard</string>
+     <string name="cancel_favorite_success">Удалено</string>
+     <string name="channel_choice_empty_hint">Пусто</string>
+     <string name="channel_empty_hint">Пусто</string>
+     <string name="choice">Топ</string>
+     <string name="clarity_high">Высокое</string>
+     <string name="clarity_standard">Стандартное</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="clarity_supper">Super</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -87,15 +75,15 @@
      <string name="connecting">Подключение…</string>
      <string name="continue_to_play_nextset">Воспр. следующий эпизод</string>
      <string name="continue_to_play_nextset_summary">Автоматически воспроизводить следующий эпизод</string>
-     <string name="count_comment">%d ratings</string>
-     <string name="count_comment_wan">%.2f0 ratings</string>
+     <string name="count_comment">Оценок: %d</string>
+     <string name="count_comment_wan">%.2f0 оценок</string>
      <string name="count_ge">Файлов: %d</string>
-     <string name="count_ge_device">%d devices</string>
+     <string name="count_ge_device">Устройств: %d</string>
      <string name="count_ge_favorite">%d starred</string>
-     <string name="count_ge_feature">%d items</string>
-     <string name="count_ge_feature_media">%d items</string>
-     <string name="count_ge_media">%d videos</string>
-     <string name="count_ge_result">%d results</string>
+     <string name="count_ge_feature">Файлов: %d</string>
+     <string name="count_ge_feature_media">Файлов: %d</string>
+     <string name="count_ge_media">%d видео</string>
+     <string name="count_ge_result">Результатов: %d</string>
      <string name="count_ji_quan">Все %d эп.</string>
      <string name="day" />
      <string name="declaration">Условия использования</string>
@@ -103,10 +91,8 @@
      <string name="delete">Удалить</string>
      <string name="delete_addon">Удалить</string>
      <string name="delete_addon_content">Удалить этот элемент?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="detail_episode_empty_hint">Empty</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="detail_introduce_empty_hint">Empty</string>
+     <string name="detail_episode_empty_hint">Пусто</string>
+     <string name="detail_introduce_empty_hint">Пусто</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="detail_recommend_empty_hint">Empty</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -130,40 +116,33 @@
      <string name="download_geturl_fail">Не удалось получить URL. Проверь сеть.</string>
      <string name="download_is_in_tasklist">В списке загрузок</string>
      <string name="download_is_success">Загружено</string>
-     <string name="download_percent_hint">Downloading %d%%</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="download_select_more">Download more</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="edit">Edit</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="edit_comment">Add comment</string>
+     <string name="download_percent_hint">Загрузка %d%%</string>
+     <string name="download_select_more">Скачать еще</string>
+     <string name="edit">Изменить</string>
+     <string name="edit_comment">Добавить комментарий</string>
      <string name="elipsis">…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="episode">Episode</string>
      <string name="favorite">" избранное"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="feature">Featured</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="feature_list_empty_hint">Empty</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="feature_media_empty_hint">Empty</string>
+     <string name="feature_list_empty_hint">Пусто</string>
+     <string name="feature_media_empty_hint">Пусто</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="fenghuang">iFeng</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="file_error">File error</string>
+     <string name="file_error">Ошибка файла</string>
      <string name="filter">Фильтр</string>
      <string name="filter_media">Фильтр видео</string>
      <string name="filter_program">Фильтрация программ</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="forecast">Forecast</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="forecast_empty_hint">No programes</string>
+     <string name="forecast_empty_hint">Нет программ</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="forecasts">Forecast</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="funshion">Funshion</string>
      <string name="gong_count_dlna">DLNA: %d</string>
-     <string name="gong_count_ji">%d Ep. total</string>
+     <string name="gong_count_ji">Всего эп.: %d</string>
      <string name="gong_count_xiang">Файлов: %d</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="good">OK</string>
@@ -173,13 +152,11 @@
      <string name="hot_recommend">Trending</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="icntv">iCNTV</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="imports">Import</string>
+     <string name="imports">Импорт</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="init">Init</string>
      <string name="install_comfirm">Нажми, чтобы установить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="introduce">Summary</string>
+     <string name="introduce">Описание</string>
      <string name="key_back_down_toast">Нажми еще раз, чтобы выйти</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lekan">Lekan</string>
@@ -189,20 +166,15 @@
      <string name="loading_video_netplay_label">Загрузка…</string>
      <string name="loading_video_netplay_label_v5">Загрузка…</string>
      <string name="local_detail_more">%d more videos</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="local_favorite_empty_hint">Empty</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="local_media">Local videos</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="local_media_empty_hint">No local videos</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="local_video">Local</string>
+     <string name="local_favorite_empty_hint">Пусто</string>
+     <string name="local_media">Локальное видео</string>
+     <string name="local_media_empty_hint">Нет видео</string>
+     <string name="local_video">Телефон</string>
      <string name="login_tip_content">Войди в аккаунт для синхронизации и обновления шоу которые смотришь</string>
      <string name="login_tip_title">Авторизация</string>
      <string name="manage">Управление</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="manage_offline_media">Manage downloads</string>
-     <string name="media_name_comment">%s comment</string>
+     <string name="manage_offline_media">Менеджер загрузок</string>
+     <string name="media_name_comment">%s комментарий</string>
      <string name="menu_item_about_label">О программе</string>
      <string name="menu_item_disable_3d_mode">Отключить 3D</string>
      <string name="menu_item_disable_audio_enhance">Отключить усиление звука</string>
@@ -212,19 +184,14 @@
      <string name="menu_item_orientation_fixed_by_videosize_action">Отключить автоповорот</string>
      <string name="menu_item_sub_title">Субтитры</string>
      <string name="month" />
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="more">More</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="my_favorite">Starred</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="my_offline">Offline</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="my_video">Local</string>
+     <string name="more">Еще</string>
+     <string name="my_favorite">Избранное</string>
+     <string name="my_offline">Офлайн</string>
+     <string name="my_video">Телефон</string>
      <string name="mycamera">Мое видео</string>
      <string name="myfavorite"> Избранное</string>
      <string name="myfavorite_onlylocal"> избранное</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="negative_comment">Negative</string>
+     <string name="negative_comment">Отрицательные</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="netease">NetEase</string>
      <string name="no_login_xiaomi_account">Войди в Xiaomi аккаунт прежде чем комментировать</string>
@@ -234,13 +201,11 @@
      <string name="nowifi_alert_dialog_exit">Нет</string>
      <string name="nowifi_alert_dialog_message">Вы собираетесь смотреть видео через мобильную сеть. Возможны денежные затраты. Продолжить?</string>
      <string name="nowifi_alert_dialog_title">Внимание!</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="offline">Offline</string>
+     <string name="offline">Офлайн</string>
      <string name="offline_alert_title">Уведомление загрузки</string>
      <string name="offline_alert_wifi">Вы используете мобильный интернет. Загрузки будут приостановлены и загружены при подключении к сети Wi-Fi.</string>
      <string name="offline_max_promote">Ожидание. Дуступно 2 загрузки одновременно.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="offline_media_empty_hint">Empty</string>
+     <string name="offline_media_empty_hint">Пусто</string>
      <string name="offline_no_source">Нет источника</string>
      <string name="offline_no_wifi">Вы не используете Wi-Fi сеть. Проверь в настройках опцию мобильный интернет, если хочешь продолжить.</string>
      <string name="offline_setting">Оффлайн медиа</string>
@@ -248,20 +213,15 @@
      <string name="ok">OK</string>
      <string name="online_video">Онлайн</string>
      <string name="other_setting">Прочие</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pause">Pause</string>
+     <string name="pause">Пауза</string>
      <string name="percent_status">%.1f%%</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pick_addon_to_delete">choose items</string>
+     <string name="pick_addon_to_delete">Выбери для удаления</string>
      <string name="play">Смотреть</string>
      <string name="play_count_ci">%d played</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="play_his_empty_hint">Empty</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="play_history">Recently played</string>
+     <string name="play_his_empty_hint">Пусто</string>
+     <string name="play_history">Недавнее</string>
      <string name="play_setting">Воспроизведение</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="positive_comment">Positive</string>
+     <string name="positive_comment">Положительные</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pps">PPS</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -277,8 +237,7 @@
      <string name="retry">Повторить</string>
      <string name="sdcard_storage">Внутренняя память</string>
      <string name="search">Поиск</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_online_video">Search online video</string>
+     <string name="search_online_video">Поиск онлайн видео</string>
      <string name="search_recommend_empty">"Didn't find anything"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_recommend_media_hint">Recommended for you</string>
@@ -286,25 +245,21 @@
      <string name="search_recommend_word_hint">Trending</string>
      <string name="search_result_empty_text">"Didn't find anything"</string>
      <string name="search_result_hint">%s  results</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_result_input_hint">Search</string>
+     <string name="search_result_input_hint">Поиск</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="see_all">See all</string>
      <string name="see_all_count_comment">%d more comments</string>
      <string name="select_all">Выбрать все</string>
-     <string name="select_count_xiang">%d selected</string>
+     <string name="select_count_xiang">Выбрано: %d</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="select_none">Deselect all</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="select_offline_media">View downloads</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="select_tv">Select channel</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="select_tv_empty_hint">No channels</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="select_tvs">Select tv</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="send">Submit</string>
+     <string name="select_tv_empty_hint">Нет каналов</string>
+     <string name="select_tvs">Выбери tv</string>
+     <string name="send">Отправить</string>
      <string name="setting">Настройки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="share_device">Shared device</string>
@@ -342,11 +297,9 @@
      <string name="top_status_online_media">Онлайн</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tudou">Tudou</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="tv_channel_empty_hint">No channels</string>
-     <string name="type_colon">Genre:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="unfavorite">Unstar</string>
+     <string name="tv_channel_empty_hint">Нет каналов</string>
+     <string name="type_colon">Жанр:</string>
+     <string name="unfavorite">Из избранного</string>
      <string name="unknown_source">Неизвестный источник</string>
      <string name="update">Обновлено</string>
      <string name="update_to_count_ji">Добавлена %d серия</string>
@@ -374,37 +327,31 @@
      <string name="vp_adapt_width">Fit width</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_auto_select">Auto select</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="vp_back">Back</string>
+     <string name="vp_back">Назад</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_content_description">Content description</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="vp_device_list">Devices</string>
+     <string name="vp_device_list">Устройства</string>
      <string name="vp_error_get_play_url_back_to_continue">"Can't find URL for this video."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="vp_exit">Exit</string>
+     <string name="vp_exit">Выйти</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_full_high_definition">1080P</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_full_screen">Full screen playback</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="vp_function">Setting</string>
+     <string name="vp_function">Настройки</string>
      <string name="vp_get_url_error">"Can't find URL for this video."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_hide_media_info">Hide video info</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_high_definition">HD</string>
-     <string name="vp_loading">Loading…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="vp_media_info">View video info</string>
+     <string name="vp_loading">Загрузка…</string>
+     <string name="vp_media_info">Информация</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_milink">MiLink</string>
      <string name="vp_next_ci">След.</string>
      <string name="vp_offline">Офлайн</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_scale_screen">Switch aspect ratio</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="vp_screen_shot">Capture</string>
+     <string name="vp_screen_shot">Скриншот</string>
      <string name="vp_select_ci">Список</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_select_ep">Select episode</string>
@@ -420,15 +367,13 @@
      <string name="vp_super_definition">UHD</string>
      <string name="vp_using_16_9">Force 16:9</string>
      <string name="vp_using_4_3">Force 4:3</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="waiting_to_download">Waiting</string>
+     <string name="waiting_to_download">Ожидание</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wasu">Wasu</string>
      <string name="write_comment">Добавить</string>
      <string name="xiaomi_account_type_unsupported">Система не поддерживает аккаунт Xiaomi</string>
      <string name="xiaomi_user">Аккаунт Xiaomi</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="yesterday">Yesterday</string>
+     <string name="yesterday">Вчера</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="yinyuetai">YinYueTai</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

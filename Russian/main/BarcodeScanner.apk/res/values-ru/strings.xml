@@ -57,8 +57,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="secure_access_web_url">Secure access</string>
      <string name="see_app_details">Подробнее</string>
-	 <string name="settings">Настройки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="success_message_import_from_account">Ипортировано</string>
      <string name="tips_message">Требуется подключение к интернету, чтобы проверить безопасность сайта</string>
      <string name="tips_title">Интернет подключение</string>

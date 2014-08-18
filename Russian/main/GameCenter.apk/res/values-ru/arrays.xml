@@ -10,361 +10,23 @@
         <item>Местонахождение:</item>
         <item>Хобби:</item>
      </string-array>
-	 <string-array name="average_score_star">
+     <string-array name="alipay_choices">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>50</item>
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+        <item>500</item>
+        <item>1000</item>
+     </string-array>
+     <string-array name="average_score_star">
         <item>1 звезда</item>
         <item>2 звезды</item>
         <item>3 звезды</item>
         <item>4 звезды</item>
         <item>5 звезд</item>
-     </string-array>
-     <string-array name="cities">
-        <item>Beijing</item>
-        <item>Tianjin</item>
-        <item>Shanghai</item>
-        <item>Chongqing</item>
-        <item>Shijiazhuang</item>
-        <item>Tangshan</item>
-        <item>Qinhuangdao</item>
-        <item>Handan</item>
-        <item>Xingtai</item>
-        <item>Baoding</item>
-        <item>Zhangjiakou</item>
-        <item>Chengde</item>
-        <item>Cangzhou</item>
-        <item>Langfang</item>
-        <item>Hengshui</item>
-        <item>Shenyang</item>
-        <item>Dalian</item>
-        <item>Liaoyang</item>
-        <item>Huludao</item>
-        <item>Benxi</item>
-        <item>Jinzhou</item>
-        <item>Anshan</item>
-        <item>Panjin</item>
-        <item>sunrise</item>
-        <item>Dandong</item>
-        <item>Fushun</item>
-        <item>Fuxin</item>
-        <item>Tieling</item>
-        <item>Yingkou</item>
-        <item>Huainan</item>
-        <item>Anqing</item>
-        <item>Chizhou</item>
-        <item>Huangshan</item>
-        <item>"Ma'anshan"</item>
-        <item>Xuancheng</item>
-        <item>Bengbu</item>
-        <item>Hefei</item>
-        <item>Bozhou</item>
-        <item>Chuzhou</item>
-        <item>Chaohu</item>
-        <item>Fuyang</item>
-        <item>Luan</item>
-        <item>Suzhou</item>
-        <item>Tongling</item>
-        <item>Huaibei</item>
-        <item>Wuhu</item>
-        <item>Putian</item>
-        <item>Zhangzhou</item>
-        <item>Xiamen</item>
-        <item>Fuzhou</item>
-        <item>Longyan</item>
-        <item>Sanming</item>
-        <item>Nanping</item>
-        <item>Ningde</item>
-        <item>Quanzhou</item>
-        <item>Tianshui</item>
-        <item>Jiayuguan</item>
-        <item>Dingxi</item>
-        <item>silver</item>
-        <item>Linxia</item>
-        <item>Wuwei</item>
-        <item>Zhangye</item>
-        <item>Qingyang</item>
-        <item>Jinchang</item>
-        <item>Jiuquan</item>
-        <item>Longnan</item>
-        <item>Gannan</item>
-        <item>Lanzhou</item>
-        <item>Pingliang</item>
-        <item>Shanwei</item>
-        <item>Dongguan</item>
-        <item>Guangzhou</item>
-        <item>Zhuhai</item>
-        <item>Jiangmen</item>
-        <item>Jieyang</item>
-        <item>Meizhou</item>
-        <item>Zhanjiang</item>
-        <item>Zhaoqing</item>
-        <item>Heyuan</item>
-        <item>Maoming</item>
-        <item>Shenzhen</item>
-        <item>Foshan</item>
-        <item>Shaoguan</item>
-        <item>Yangjiang</item>
-        <item>Zhongshan</item>
-        <item>Shantou</item>
-        <item>Chaozhou</item>
-        <item>Huizhou</item>
-        <item>Qingyuan</item>
-        <item>Yunfu</item>
-        <item>Guilin</item>
-        <item>Bose</item>
-        <item>guest</item>
-        <item>Liuzhou</item>
-        <item>Fangchenggang</item>
-        <item>Guigang</item>
-        <item>Hezhou</item>
-        <item>Yulin</item>
-        <item>North Sea</item>
-        <item>Wuzhou</item>
-        <item>Nanning</item>
-        <item>Qinzhou</item>
-        <item>Chongzuo</item>
-        <item>Hechi</item>
-        <item>Qiannan</item>
-        <item>Anshun</item>
-        <item>Bijie</item>
-        <item>Guiyang</item>
-        <item>Liupanshui</item>
-        <item>Tongren</item>
-        <item>Zunyi</item>
-        <item>southwest Guizhou</item>
-        <item>Southeast</item>
-        <item>Haikou</item>
-        <item>Sanya</item>
-        <item>three sand</item>
-        <item>Puyang</item>
-        <item>Xinxiang</item>
-        <item>Zhoukou</item>
-        <item>Nanyang</item>
-        <item>Xuchang</item>
-        <item>Zhengzhou</item>
-        <item>Zhumadian</item>
-        <item>Jiaozuo</item>
-        <item>Kaifeng</item>
-        <item>Xinyang</item>
-        <item>Hebi</item>
-        <item>Anyang</item>
-        <item>Pingdingshan</item>
-        <item>Sanmenxia</item>
-        <item>Shangqiu</item>
-        <item>Luoyang</item>
-        <item>Luohe</item>
-        <item>Jiyuan</item>
-        <item>Daxinanling</item>
-        <item>Qiqihar</item>
-        <item>Heihe</item>
-        <item>Mudanjiang</item>
-        <item>Harbin</item>
-        <item>Jixi</item>
-        <item>Hegang</item>
-        <item>Shuangyashan</item>
-        <item>Suihua</item>
-        <item>Daqing</item>
-        <item>Jiamusi</item>
-        <item>Qitaihe</item>
-        <item>Yichun</item>
-        <item>Xiangyang</item>
-        <item>Yichang</item>
-        <item>Enshi</item>
-        <item>Shiyan</item>
-        <item>Wuhan</item>
-        <item>Xiaogan</item>
-        <item>Ezhou</item>
-        <item>Yellowstone</item>
-        <item>Huanggang</item>
-        <item>Jingmen</item>
-        <item>Jingzhou</item>
-        <item>Suizhou</item>
-        <item>Xianning</item>
-        <item>Shennongjia</item>
-        <item>Tianmen</item>
-        <item>Qianjiang</item>
-        <item>Xiantao</item>
-        <item>Shaoyang</item>
-        <item>Hengyang</item>
-        <item>Loudi</item>
-        <item>Xiangtan</item>
-        <item>Yiyang</item>
-        <item>Changde</item>
-        <item>Xiangxi</item>
-        <item>Chenzhou</item>
-        <item>Huaihua</item>
-        <item>Changsha</item>
-        <item>Zhangjiajie</item>
-        <item>Yongzhou</item>
-        <item>Zhuzhou</item>
-        <item>Yueyang</item>
-        <item>Siping</item>
-        <item>Changchun</item>
-        <item>Tonghua</item>
-        <item>Liaoyuan</item>
-        <item>Baicheng</item>
-        <item>Hakusan</item>
-        <item>Matsubara</item>
-        <item>Jilin</item>
-        <item>Yanbian</item>
-        <item>Suzhou</item>
-        <item>Lianyungang</item>
-        <item>Yangzhou</item>
-        <item>Taizhou</item>
-        <item>Wuxi</item>
-        <item>"Huai'an"</item>
-        <item>Nantong</item>
-        <item>Xuzhou</item>
-        <item>Yancheng</item>
-        <item>Zhenjiang</item>
-        <item>Changzhou</item>
-        <item>Nanjing</item>
-        <item>Suqian</item>
-        <item>Fuzhou</item>
-        <item>Nanchang</item>
-        <item>Xinyu</item>
-        <item>Yichun</item>
-        <item>Ganzhou</item>
-        <item>Shangrao</item>
-        <item>Jingdezhen</item>
-        <item>Jiujiang</item>
-        <item>Yingtan</item>
-        <item>Gian</item>
-        <item>Pingxiang</item>
-        <item>Hulunbeier</item>
-        <item>Wuhai</item>
-        <item>header</item>
-        <item>Chifeng</item>
-        <item>Erdos</item>
-        <item>Bayannur</item>
-        <item>Hohhot</item>
-        <item>Wulanchabu</item>
-        <item>Xilin Gol League</item>
-        <item>Tongliao</item>
-        <item>Alashan</item>
-        <item>Xinganmeng</item>
-        <item>Wuzhong</item>
-        <item>Yinchuan</item>
-        <item>Shizuishan</item>
-        <item>defender</item>
-        <item>Guyuan</item>
-        <item>Xining</item>
-        <item>Huangnan</item>
-        <item>Yushu</item>
-        <item>Haidong</item>
-        <item>Hainan Prefecture</item>
-        <item>Golog</item>
-        <item>Hercynian</item>
-        <item>rambling</item>
-        <item>Jinan</item>
-        <item>Texas</item>
-        <item>Qingdao</item>
-        <item>sunshine</item>
-        <item>Heze</item>
-        <item>Binzhou</item>
-        <item>Taian</item>
-        <item>Yantai</item>
-        <item>Weifang</item>
-        <item>Liaocheng</item>
-        <item>Weihai</item>
-        <item>Zibo</item>
-        <item>Zaozhuang</item>
-        <item>Laiwu</item>
-        <item>Jining</item>
-        <item>Dongying</item>
-        <item>Linyi</item>
-        <item>Hanzhong</item>
-        <item>"Xi'an"</item>
-        <item>"Yan'an"</item>
-        <item>Yulin</item>
-        <item>Shangluo</item>
-        <item>Weinan</item>
-        <item>Baoji</item>
-        <item>Tongchuan</item>
-        <item>Xianyang</item>
-        <item>Ankang</item>
-        <item>Nanchong</item>
-        <item>Meishan</item>
-        <item>Suining</item>
-        <item>Zigong</item>
-        <item>Deyang</item>
-        <item>Neijiang</item>
-        <item>Yibin</item>
-        <item>Aba</item>
-        <item>Pakistan</item>
-        <item>"Guang'an"</item>
-        <item>Leshan</item>
-        <item>Guangyuan</item>
-        <item>Panzhihua</item>
-        <item>Chengdu</item>
-        <item>Florida</item>
-        <item>Ganzi</item>
-        <item>Luzhou</item>
-        <item>Mianyang</item>
-        <item>Ziyang</item>
-        <item>Liangshan</item>
-        <item>"Ya'an"</item>
-        <item>Ali</item>
-        <item>Chamdo</item>
-        <item>Nyingchi</item>
-        <item>Shigatse</item>
-        <item>Lhasa</item>
-        <item>Nagqu</item>
-        <item>Shannan</item>
-        <item>Akzo</item>
-        <item>Changji</item>
-        <item>Kashi</item>
-        <item>Tacheng</item>
-        <item>Boertala</item>
-        <item>Karamay</item>
-        <item>Turpan</item>
-        <item>Ili</item>
-        <item>Kezilesu</item>
-        <item>Altay</item>
-        <item>Bayinguoleng</item>
-        <item>Hami</item>
-        <item>Wada</item>
-        <item>Urumqi</item>
-        <item>Lijiang</item>
-        <item>Nu</item>
-        <item>Baoshan</item>
-        <item>Xishuangbanna</item>
-        <item>Qujing</item>
-        <item>Wenshan</item>
-        <item>Chuxiong</item>
-        <item>Dali</item>
-        <item>Lincang</item>
-        <item>"Pu'er"</item>
-        <item>Yuxi</item>
-        <item>Dehong</item>
-        <item>Zhaotong</item>
-        <item>Diqing</item>
-        <item>Red River</item>
-        <item>Kunming</item>
-        <item>Huzhou</item>
-        <item>Lishui</item>
-        <item>Ningbo</item>
-        <item>Taizhou</item>
-        <item>Jiaxing</item>
-        <item>Jinhua</item>
-        <item>Quzhou</item>
-        <item>Shaoxing</item>
-        <item>Zhoushan</item>
-        <item>Wenzhou</item>
-        <item>Hangzhou</item>
-        <item>Linfen</item>
-        <item>Changzhi</item>
-        <item>Taiyuan</item>
-        <item>Xinzhou</item>
-        <item>Yangquan</item>
-        <item>Datong</item>
-        <item>Yuncheng</item>
-        <item>Jinzhong</item>
-        <item>Jincheng</item>
-        <item>Luliang</item>
-        <item>Shuozhou</item>
-        <item>Hong Kong</item>
-        <item>Macau</item>
-        <item>Taiwan</item>
-        <item>International</item>
      </string-array>
      <string-array name="constellations">
         <item>Овен</item>
@@ -388,6 +50,11 @@
         <item>Log in with Xiaomi</item>
         <item>Log in with Gmail</item>
      </string-array>
+     <string-array name="game_detail_feetype">
+        <item>@string/game_detail_fee_type_1</item>
+        <item>@string/game_detail_fee_type_2</item>
+        <item>@string/game_detail_fee_type_3</item>
+     </string-array>
      <string-array name="game_fee">
         <item>Pay</item>
         <item>In-app purchases</item>
@@ -401,76 +68,49 @@
         <item>access contacts</item>
         <item>access device number</item>
      </string-array>
-     <!-- The size of the array does not match! Now: 24 must: 26 -->
-     <string-array name="game_tag">
-        <item>Экшен</item>
-        <item>新服</item>
-        <item>Акции</item>
-        <item>返现</item>
-        <item>抢号</item>
-        <item>内测</item>
-        <item>Логич.</item>
-        <item>首发</item>
-        <item>专服</item>
-        <item>Экскл.</item>
-        <item>礼包</item>
-        <item>抽奖</item>
-        <item>攻略</item>
-        <item>Топ</item>
-        <item>Реком.</item>
-        <item>Новые</item>
-        <item>更新</item>
-        <item>Бета</item>
-        <item>Офиц.</item>
-        <item>HD</item>
-        <item>3D</item>
-        <item>碉堡</item>
-        <item>收费</item>
-     </string-array>
-     <string-array name="hot_cities">
-        <item>Beijing</item>
-        <item>Shanghai</item>
-        <item>Guangzhou</item>
-        <item>Nanjing</item>
+     <string-array name="genders">
+        <item>@string/gender_male</item>
+        <item>@string/gender_female</item>
      </string-array>
      <string-array name="intergral_rule">
         <item>How to get points?</item>
      </string-array>
-     <string-array name="my_page_dialog_hint">
-        <item>4-18 characters: (letters, characters, and numbers)</item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-     </string-array>
-     <string-array name="my_page_dialog_titles">
-        <item>Nickname</item>
-        <item>Gender</item>
-        <item>Birthday</item>
-        <item>Phone</item>
-        <item>QQ</item>
-        <item>City</item>
-     </string-array>
-     <string-array name="my_page_hints">
-        <item>Service when you need it.</item>
-        <item></item>
-        <item>Birthday GamePack based on info provided</item>
-        <item>GamePack notifications</item>
-        <item>Hangouts with our other gamers!</item>
-        <item>Activities</item>
-     </string-array>
-     <string-array name="my_page_sexs">
-        <item>Male</item>
-        <item>Female</item>
-     </string-array>
-     <string-array name="my_page_titles">
-        <item>Nick Name</item>
-        <item>Gender</item>
-        <item>Birthday</item>
-        <item>Mobile</item>
-        <item>QQ</item>
-        <item>Area</item>
+     <string-array name="locations">
+        <item>@string/locations_beijing</item>
+        <item>@string/locations_guangdong</item>
+        <item>@string/locations_shanghai</item>
+        <item>@string/locations_tianjin</item>
+        <item>@string/locations_chongqin</item>
+        <item>@string/locations_liaoning</item>
+        <item>@string/locations_jiangsu</item>
+        <item>@string/locations_sichuan</item>
+        <item>@string/locations_shanxi3</item>
+        <item>@string/locations_hebei</item>
+        <item>@string/locations_shanxi</item>
+        <item>@string/locations_henan</item>
+        <item>@string/locations_jilin</item>
+        <item>@string/locations_heilongjiang</item>
+        <item>@string/locations_neimenggu</item>
+        <item>@string/locations_shandong</item>
+        <item>@string/locations_anhui</item>
+        <item>@string/locations_zhejiang</item>
+        <item>@string/locations_fujian</item>
+        <item>@string/locations_hunan</item>
+        <item>@string/locations_guangxi</item>
+        <item>@string/locations_jiangxi</item>
+        <item>@string/locations_guizhou</item>
+        <item>@string/locations_yunnan</item>
+        <item>@string/locations_tibet</item>
+        <item>@string/locations_hainan</item>
+        <item>@string/locations_gansu</item>
+        <item>@string/locations_ningxia</item>
+        <item>@string/locations_qinghai</item>
+        <item>@string/locations_xinjiang</item>
+        <item>@string/locations_hongkong</item>
+        <item>@string/locations_macao</item>
+        <item>@string/locations_taiwan</item>
+        <item>@string/locations_overseas</item>
+        <item>@string/locations_hubei</item>
      </string-array>
      <string-array name="permission_description">
         <item>Access coarse location sources such as the cellular network database to determine an approximate phone location, where available. Malicious applications can use this to determine approximately where you are.</item>
@@ -659,6 +299,165 @@
         <item>System tools</item>
         <item>Other</item>
      </string-array>
+     <string-array name="permission_id">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+        <item>86</item>
+        <item>87</item>
+        <item>88</item>
+        <item>89</item>
+        <item>90</item>
+        <item>91</item>
+        <item>92</item>
+        <item>93</item>
+        <item>94</item>
+        <item>95</item>
+        <item>96</item>
+        <item>97</item>
+        <item>98</item>
+        <item>99</item>
+        <item>100</item>
+        <item>101</item>
+        <item>102</item>
+        <item>103</item>
+        <item>104</item>
+        <item>105</item>
+        <item>106</item>
+        <item>107</item>
+        <item>108</item>
+        <item>109</item>
+        <item>110</item>
+        <item>111</item>
+        <item>112</item>
+        <item>113</item>
+        <item>114</item>
+        <item>115</item>
+        <item>116</item>
+        <item>117</item>
+        <item>118</item>
+        <item>119</item>
+        <item>120</item>
+        <item>121</item>
+        <item>122</item>
+        <item>123</item>
+        <item>124</item>
+        <item>125</item>
+        <item>126</item>
+        <item>127</item>
+        <item>128</item>
+        <item>129</item>
+        <item>130</item>
+        <item>131</item>
+        <item>132</item>
+        <item>133</item>
+        <item>134</item>
+        <item>135</item>
+        <item>136</item>
+        <item>137</item>
+        <item>138</item>
+        <item>139</item>
+        <item>140</item>
+        <item>141</item>
+        <item>142</item>
+        <item>143</item>
+        <item>144</item>
+        <item>145</item>
+        <item>146</item>
+        <item>147</item>
+        <item>148</item>
+        <item>149</item>
+        <item>150</item>
+        <item>151</item>
+        <item>152</item>
+        <item>153</item>
+        <item>154</item>
+        <item>155</item>
+        <item>156</item>
+        <item>157</item>
+     </string-array>
      <string-array name="permission_label">
         <item>coarse (network-based) location</item>
         <item>fine (GPS) location</item>
@@ -818,23 +617,14 @@
         <item>write to your social stream</item>
         <item>write sync settings</item>
      </string-array>
+     <string-array name="purchase_record_types">
+        <item>@string/purchase_record_type_all</item>
+        <item>@string/purchase_record_type_today</item>
+        <item>@string/purchase_record_type_thismonth</item>
+     </string-array>
      <string-array name="select_photos">
         <item>Сделать фото</item>
         <item>Выбрать</item>
-     </string-array>
-     <string-array name="service_introduction">
-        <item>"VIP member benefits: 
-1. One-on-one service 
-2. Get help instantly 
-3. Audio support center 
-4. Dial direct to support staffs' phones（VIP4 and higher）
-5. Priority customer service"</item>
-        <item>"Get help here! You can send screenshots to our support center. 
-
- Support center hours: 9:30-18:30 (Mon - Fri). You can use our online submission form if you encounter a problem on a weekend or holiday."</item>
-        <item>View your past service issues as well as the status of your current issues.Upgrade to VIP now to get priority customer service.</item>
-        <item>Your GamePacks will appear under My GamePacks</item>
-        <item>Spend points on GamePacks and Xiaomi accessories!</item>
      </string-array>
      <string-array name="user_level_rule">
         <item>Daily Login</item>
@@ -850,22 +640,6 @@
         <item>What kind of guaruntees are offered?</item>
         <item>"What happens if I don't keep up with my membership fees?"</item>
      </string-array>
-     <string-array name="vip_service_names">
-        <item>Online service</item>
-        <item>Issue status</item>
-        <item>In-game topup</item>
-        <item>Credit center</item>
-        <item>Reservation</item>
-        <item>VIP club</item>
-     </string-array>
-     <string-array name="vip_service_summarys">
-        <item>Support (Chinese only): 18610535357</item>
-        <item>Current status of your issue</item>
-        <item>Top up in-game balances</item>
-        <item>Play games with credit</item>
-        <item>Make a reservation</item>
-        <item>VIP club</item>
-     </string-array>
      <string-array name="vip_user_welcome_subtitle">
         <item>VIP services available:</item>
         <item>24 hour one-on-one customer service</item>
@@ -880,7 +654,7 @@
         <item>VIP GamePack</item>
         <item>Please complete user info</item>
      </string-array>
-	 <string-array name="weeks">
+     <string-array name="weeks">
         <item></item>
         <item>Sunday</item>
         <item>Monday</item>

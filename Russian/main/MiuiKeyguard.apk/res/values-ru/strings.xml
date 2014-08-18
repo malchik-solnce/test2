@@ -28,7 +28,8 @@
      <string name="input_pin_code_to_unlock">Введи PIN-код для разблокировки</string>
      <string name="input_puk_code">Введи PUK-код</string>
      <string name="input_puk_code_to_unlock">Введи PUK-код для разблокировки</string>
-     <string name="lock_screen_date">EEEE \nd MMMM yyyy</string>
+     <string name="lock_screen_date">"EEEE 
+d MMMM yyyy"</string>
      <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
      <string name="lockscreen_access_pattern_cleared">Комбинация очищена</string>
      <string name="lockscreen_access_pattern_detected">Комбинация завершена</string>
@@ -72,6 +73,7 @@
      <string name="short_pukcode_error_msg">Введи не менее 8 цифр</string>
      <string name="starting_camera_string">Запуск камеры</string>
      <string name="unlock_sim_string">Разблокировать SIM-карту</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="unlock_string">OK</string>
      <string name="unlocking_sim_card">Разблокировка SIM-карты</string>
      <string name="unlockscreen_low_battery">Подключи зарядное устройство</string>

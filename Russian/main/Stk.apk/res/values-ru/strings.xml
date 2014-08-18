@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="airplanemode">Не удалось запустить приложение. Включен режим полета.</string>
      <string name="alphabet">Алфавит</string>
      <string name="app_name">SIM-сервис</string>
      <string name="app_name2">SIM-сервис</string>

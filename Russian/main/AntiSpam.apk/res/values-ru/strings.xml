@@ -109,7 +109,6 @@
      <string name="fw_blocked_count">Заблокировано</string>
      <string name="fw_blocked_count_call">вызовов:%d и</string>
      <string name="fw_blocked_count_sms">сообщений:%d</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hint_antispam_mode_edit">Пользовательский режим</string>
      <string name="info_antispam_phone">Блокировать вызовы</string>
      <string name="info_antispam_phone_sms">Блокировать вызовы и сообщения</string>

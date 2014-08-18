@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+     <string-array name="app_comment_stars">
+        <item>@string/comment_5_star</item>
+        <item>@string/comment_4_star</item>
+        <item>@string/comment_3_star</item>
+        <item>@string/comment_2_star</item>
+        <item>@string/comment_1_star</item>
+     </string-array>
      <string-array name="permission_description">
         <item>Доступ к грубым расположения источника (таких как базы данных сотовой сети), чтобы определить общее расположение телефона (если возможно). Вредоносное ПО может использовать, чтобы определить, что вы в общем месте.</item>
         <item>Доступ к точному местоположению, по источникам мобильных сетей, системы глобального позиционирования (если таковые имеются). Вредоносное ПО будет определить ваше местоположение, и может потреблять дополнительную энергию аккумулятора.</item>
