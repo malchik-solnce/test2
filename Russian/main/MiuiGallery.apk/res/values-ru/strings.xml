@@ -41,8 +41,6 @@
      <string name="alert_init_merged_title">Все Ваши фото</string>
      <string name="alert_message_open_sync">Необходима синхронизация. Вы хотите включить ее сейчас?</string>
      <string name="already_apply_album">Открыть %1$s?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
      <string name="androidesk_wallpapers">Обои Android</string>
      <string name="aperture">Диафрагма</string>
      <string name="app_name">Галерея</string>
@@ -53,17 +51,11 @@
      <string name="auto_create_recent_album_confirm">После отключения этой функции, галерея очистит созданные данные последних альбомов. Последние альбомы установленные пользователем, не будут затронуты. Кроме того, можно установить это вручную, долгим нажатием на альбом.</string>
      <string name="auto_create_recent_album_over_ten_times">Создает избранный альбом после захода в него более 10 раз</string>
      <string name="autofix">Авто</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="baidu_flyflow_downloads">Baidu Browser</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="beautyphone">Beauty phone</string>
      <string name="big_screen_alertdialog_title">Проектор</string>
      <string name="bigscreen_slide_exit">Выход из слайдшоу</string>
-     <string name="bigscreen_slide_fail_cause_loading">Повтори попытку, чтобы начать слайд-шоу после загрузки изображения</string>
+     <string name="bigscreen_slide_fail_cause_loading">Повторите попытку, чтобы начать слайд-шоу после загрузки изображения</string>
      <string name="bigscreen_slide_playing">Слайд-шоу воспроизводится на устройстве: %s</string>
-     <string name="bigscreen_video_quit">Нажми, чтобы выйти</string>
+     <string name="bigscreen_video_quit">Нажмите, чтобы выйти</string>
      <string name="browse_category">Настройки просмотра</string>
      <string name="by_email">Почта</string>
      <string name="by_others">Другое</string>
@@ -80,14 +72,12 @@
      <string name="cannot_send_message">Не удается отправить сообщение</string>
      <string name="cannot_send_message_reason">Ваше сообщение не имеет получателей</string>
      <string name="cant_delete_cloud_album">Ошибка удаления: %s является системным или альбомом другого пользователя</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cityname_375">YanCheng</string>
      <string name="cleaning_cache">Очистка кэша…</string>
      <string name="clear_thumbnail_cache">Очистить кэш миниатюр</string>
      <string name="clear_thumbnail_cache_confirm">Кэш миниатюр будет очищен. Галерея повторно просканирует медиа-файлы и заново создаст эскизы позже.</string>
      <string name="clear_thumbnail_cache_summary">Очистить эскизы изображений, созданных при просмотре изображений в галерее</string>
-     <string name="click_to_add_picture">Нажми, чтобы добавить</string>
-     <string name="click_top_right">Нажми на иконку здесь</string>
+     <string name="click_to_add_picture">Нажмите, чтобы добавить</string>
+     <string name="click_top_right">Нажмите на иконку здесь</string>
      <string name="close">Закрыть</string>
      <string name="cloud_album_more_settings">Синхронизация с MiCloud</string>
      <string name="cloud_album_set_create">Новый</string>
@@ -96,9 +86,8 @@
      <string name="cloud_be_shared_guide_message">Вы можете просматривать фотографии друзей и добавлять свои фотографии в альбом, чтобы поделиться с другими</string>
      <string name="cloud_be_shared_guide_title">Этот альбом был прислан другом</string>
      <string name="cloud_camera_display_name">Не отсортированные</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cloud_folder_chooser_move">Delete images from original album</string>
-     <string name="cloud_gallery_recyclebin_full">Корзина в облаке полна. Пожалуйста очисти корзину на i.mi.com.</string>
+     <string name="cloud_folder_chooser_move">Удалить изображения из оригнального альбома</string>
+     <string name="cloud_gallery_recyclebin_full">Корзина в облаке полна. Пожалуйста очистите ее на i.mi.com.</string>
      <string name="cloud_gallery_space_full">Ошибка отправки - облачное хранилище заполнено</string>
      <string name="cloud_media_set_set">Облачные альбомы</string>
      <string name="cloud_owner_album_share_guide">Вы можете поделиться этим альбомом с друзьями</string>
@@ -113,13 +102,11 @@
      <string name="cloudfolder_already_exists">Папка уже существует</string>
      <string name="cloudfolder_cannot_start_with">"Имя папки не может начинаться с '%s'"</string>
      <string name="cloudfolder_contain_invalidate_char">"Имя папки не может содержать '%s'"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cloudfolder_fail_to_load_data">Failed to load data for unknown reason, please retry</string>
-     <string name="cloudfolder_loading_data">(Loading data...)</string>
+     <string name="cloudfolder_fail_to_load_data">Ошибка загрузки данных. Повторите.</string>
+     <string name="cloudfolder_loading_data">(Загрузка данных...)</string>
      <string name="cloudfolder_name_cannot_empty">Введите название папки</string>
      <string name="cloudfolder_name_reserved">Имя папки занято</string>
      <string name="comfirm_delete_current_album">Удалить текущий альбом?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
      <string name="confirm_delete">Удалить выбранные файлы? (%s)</string>
      <string name="confirm_delete_album" formatted="false">Удалить альбомы (%s) (включая %s файлов)?</string>
@@ -127,7 +114,7 @@
      <string name="confirm_delete_has_cloud_local_image_video">Удалить изображения и видео с устройства и облака? (%s)</string>
      <string name="confirm_delete_has_local_image_video">Удалить изображения и видео? (%s)</string>
      <string name="confirm_delete_home_merge_item">Удалить изображения с устройства и облака? (%s)</string>
-     <string name="confirm_delete_init_message">Фото будут удалены с устройства и облака. Если хочешь удалить только с телефона, перейди в альбомы устройства.</string>
+     <string name="confirm_delete_init_message">Фото будут удалены с устройства и облака. Если хотите удалить только с телефона, перейдите в альбомы устройства.</string>
      <string name="confirm_delete_init_title">Внимание</string>
      <string name="confirm_delete_pictures">Удалить изображения (%s)</string>
      <string name="confirm_delete_system_album">%s системный альбом. Удалить его?</string>
@@ -153,12 +140,6 @@
      <string name="crossprocess">Кроссобработка</string>
      <string name="cut">Обрезать</string>
      <string name="damaged_file">Файл поврежден</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dcim_100media">Taobao TMall</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dcim_opaipic">Opaipic</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dcim_viva_pics">VIVA</string>
      <string name="defalt_local_mobile">Мобильный</string>
      <string name="delete">Удалить</string>
      <string name="delete_file">Удалить выбранные файлы: %1$d?</string>
@@ -192,8 +173,7 @@
      <string name="enter_email_hint">Введите адрес E-mail</string>
      <string name="error_album_not_exist">Альбом не существует</string>
      <string name="error_cloud_not_active">Облачный альбом не используется</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="error_forbidden">Sync has been disabled due to problems with your Mi Account.</string>
+     <string name="error_forbidden">Проблема с Mi аккаунтом. Синхронизация отключена.</string>
      <string name="error_invalid_link">Ссылка является недействительной. Пусть владелец создаст новую.</string>
      <string name="error_not_acceptable">Ошибка сервера. Синхронизация отключена.</string>
      <string name="error_repeat_apply">Вы уже поделились альбомом</string>
@@ -211,15 +191,15 @@
      <string name="exit_share_successfully">Альбом %1$s закрыт</string>
      <string name="exposure_time">Выдержка</string>
      <string name="external_sd_card">SD-карта</string>
-     <string name="external_usb_device">USB накопитель</string>
-     <string name="external_usb_device_hm">USB накопитель</string>
+     <string name="external_usb_device">USB-накопитель</string>
+     <string name="external_usb_device_hm">USB-накопитель</string>
      <string name="facelift">Сияние</string>
      <string name="facetan">Загар</string>
      <string name="fail_hint">Сбой операции</string>
      <string name="fail_init_gallery_db_helper">Ошибка открытия базы галереи. Диск полон. Приложение будет закрыто.</string>
      <string name="fail_to_download_n_items">Ошибка загрузки %s</string>
      <string name="fail_to_pick_email">Не выбрано допустимых E-Mail</string>
-     <string name="fail_to_sync_album">Не удалось синхронизировать альбом с сервером. Проверь подключение к сети!</string>
+     <string name="fail_to_sync_album">Не удалось синхронизировать альбом с сервером. Проверьте подключение к сети!</string>
      <string name="file_not_exist_message">Файл не существует</string>
      <string name="file_size">Размер файла</string>
      <string name="filllight">Осветление</string>
@@ -237,7 +217,7 @@
      <string name="frame_semicircle">Полукруг</string>
      <string name="frame_white">Белая</string>
      <string name="gallery_cloud_provider_name">Галерея</string>
-     <string name="gallery_setting">Настройки</string>
+     <string name="gallery_setting">Галерея</string>
      <string name="get_album_info_in_process">Запрос свойств облачного альбома…</string>
      <string name="global_setting">Настройки</string>
      <string name="grain">Зернистость</string>
@@ -255,13 +235,11 @@
      <string name="home_page_tab_cloud">Облако</string>
      <string name="home_page_tab_local">Устройство</string>
      <string name="home_page_tab_photo">Фотографии</string>
-     <string name="how_many_pics">Фотографий: %d</string>
+     <string name="how_many_pics">Фото: %d</string>
      <string name="how_many_sub_folders">Папок: %d</string>
      <string name="how_many_videos">Видео: %d</string>
      <string name="image_download_item_title">Загрузка изображения (%s)</string>
      <string name="image_quota_fulfiled">Не удается создать изображение, т.к. количество изображений в альбоме достигло предела</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="immomo_camera">Immomo</string>
      <string name="import_complete">Импорт завершен</string>
      <string name="import_fail">Сбой импорта</string>
      <string name="initial_cloud_button_text">Попробовать</string>
@@ -287,7 +265,7 @@
      <string name="loading_image">Загрузка изображения…</string>
      <string name="loading_members">Загрузка пользователей…</string>
      <string name="loading_suspend">Загрузка приостановлена​​: возобновится при доступном Wi-Fi соединении</string>
-     <string name="loading_thumbnail">Загрузка эскизов…</string>
+     <string name="loading_thumbnail">Загрузка изображения…</string>
      <string name="loading_video">Загрузка видео…</string>
      <string name="local_albums">Альбомы</string>
      <string name="local_time">(устройство)</string>
@@ -300,16 +278,13 @@
      <string name="manual">Вручную</string>
      <string name="me">я</string>
      <string name="menu_item_sort">Сортировка</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_item_sort_date">Date</string>
+     <string name="menu_item_sort_date">По дате</string>
      <string name="menu_item_sort_date_asc">По дате (-)</string>
      <string name="menu_item_sort_date_desc">По дате (+)</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_item_sort_name">Name</string>
+     <string name="menu_item_sort_name">По имени</string>
      <string name="menu_item_sort_name_asc">По имени (-)</string>
      <string name="menu_item_sort_name_desc">По имени (+)</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_item_sort_size">Size</string>
+     <string name="menu_item_sort_size">По размеру</string>
      <string name="menu_item_sort_size_asc">По размеру (-)</string>
      <string name="menu_item_sort_size_desc">По размеру (+)</string>
      <string name="menu_view_contact">Просмотр контакта</string>
@@ -317,12 +292,7 @@
      <string name="message_no_delete_access_with_count">Невозможно удалить файлы или папки (%d). Возможно они не существуют или доступ к ним запрещен.</string>
      <string name="messagelist_sender_self">Я</string>
      <string name="miliao_painting_folder_display_name">Рисунок MiTalk</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="miliao_saved">MiTalk</string>
      <string name="miliao_saved_folder_display_name">Сохраненные MiTalk</string>
-     <string name="mimetype">Тип MIME</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mishop_saved_folder_display_name">MiShop</string>
      <string name="miui_capture_screen_folder_display_name">Скриншоты</string>
      <string name="modified_time">Время изменения</string>
      <string name="more">Дополнительно</string>
@@ -331,7 +301,6 @@
      <string name="multiface_crop_help">Нажмите на лицо, чтобы начать</string>
      <string name="must_pick_file">Выберите изображение</string>
      <string name="negative">Негатив</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
      <string name="new_device_tips">Найдено новое устройство. Нажмите, чтобы посмотреть.</string>
      <string name="no">Нет</string>
@@ -347,29 +316,25 @@
      <string name="none_picture">Нет фотографий в галерее</string>
      <string name="not_auto_create_recent_album">Неавтоматическое создание последних альбомов</string>
      <string name="not_show_hidden_albums">Скрыть скрытые альбомы</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="only_show_camera_in_first_page">Only show the photos of the camera album in the first page</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="only_show_camera_in_first_page_summary">When turned off, the photos of all the cloud albums will be shown in the first page.</string>
+     <string name="only_show_camera_in_first_page">Только фотографии камеры</string>
+     <string name="only_show_camera_in_first_page_summary">Если отключено, то фотографии всех облачных альбомов будут показаны на первой странице</string>
      <string name="open">Открыть</string>
      <string name="open_public_message">Создать ссылку и отправить ее друзьям</string>
      <string name="open_public_title">Публичный альбом</string>
      <string name="open_single_image_failure">Ошибка загрузки изображения!</string>
      <string name="open_sync_title">Необходима синхронизация</string>
      <string name="operation_add_picture">Добавить изображения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="operation_add_secret">Add secret</string>
+     <string name="operation_add_secret">Добавить секрет</string>
      <string name="operation_delete_confirm_message_folder">Папки и файлы в них будут удалены одновременно</string>
      <string name="operation_failed">Операция не удалась!</string>
      <string name="operation_in_process">Обработка…</string>
      <string name="operation_refresh">Обновить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="operation_remove_secret">Remove secret</string>
+     <string name="operation_remove_secret">Удалить секрет</string>
      <string name="operation_rename">Переименовать</string>
      <string name="operation_set_as_screensaver">На заставку</string>
      <string name="operation_share">Поделиться</string>
      <string name="operation_successful">Успешно отправлено!</string>
-     <string name="operation_too_often">Слишком часто. Попробуй через 1 минуту.</string>
+     <string name="operation_too_often">Слишком часто. Попробуйте через 1 минуту.</string>
      <string name="operation_unset_as_screensaver">Отменить заставку</string>
      <string name="orientation">Ориентация</string>
      <string name="other_category">ДРУГИЕ НАСТРОЙКИ</string>
@@ -393,7 +358,7 @@
      <string name="pick_too_much_tips">Слишком много элементов (макс. %d)</string>
      <string name="picker_no_album_selected">Альбом не выбран</string>
      <string name="picker_no_items_selected">Ничего не выбрано</string>
-     <string name="picker_select_album_title_empty">Выбери альбом</string>
+     <string name="picker_select_album_title_empty">Выберите альбом</string>
      <string name="picker_tab_photo">Фото</string>
      <string name="posterize">Постеризация</string>
      <string name="preparing_data_to_delete">Подготовка к удалению данных…</string>
@@ -403,7 +368,7 @@
      <string name="public_url_descript">Любой человек может получить доступ к альбому с помощью этой ссылки</string>
      <string name="publish_failed">Ошибка публикации</string>
      <string name="publish_succeeded">Альбом опубликован</string>
-     <string name="publishing">Публикация, подожди…</string>
+     <string name="publishing">Публикация, подождите…</string>
      <string name="recognizing_image">Определение изображения…</string>
      <string name="redeye">Красные глаза</string>
      <string name="redeye_tooltip">Нажми для устранения эффекта красных глаз</string>
@@ -437,8 +402,7 @@
      <string name="screensaver_path_not_set">Не задан</string>
      <string name="sd_not_available">SD-карта размонтирована или недоступна</string>
      <string name="seconds">секунд</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="secret_album_display_name">Secret album</string>
+     <string name="secret_album_display_name">Секретный альбом</string>
      <string name="select_album">Выбрать альбомы</string>
      <string name="select_all">Выбрать все</string>
      <string name="select_image">Выбрать фото</string>
@@ -463,7 +427,7 @@
      <string name="set_screensaver_path_title">Заставка слайдшоу</string>
      <string name="set_wallpaper">Установка на рабочий стол…</string>
      <string name="settings">Настройки</string>
-     <string name="settings_i_xiaomi_com">Зайди на i.mi.com для просмотра облачных альбомов в любое время</string>
+     <string name="settings_i_xiaomi_com">Зайдите на i.mi.com для просмотра облачных альбомов в любое время</string>
      <string name="shadow">Затенение</string>
      <string name="share_album">Отправить альбом</string>
      <string name="share_album_owner">Владелец</string>
@@ -471,7 +435,7 @@
      <string name="share_by_email_start">Попробуйте поделиться %1$s в фоновом режиме</string>
      <string name="share_by_email_successfully">Вы поделились через E-Mail %1$s</string>
      <string name="share_current_album">Отправить текущий альбом</string>
-     <string name="share_public_url_text">Я поделился альбомом %1$s. Посмотри тут %2$s.</string>
+     <string name="share_public_url_text">Я поделился альбомом %1$s. Посмотрите тут %2$s.</string>
      <string name="sharer_quota_fulfiled">Невозможно добавить пользователя, т.к. количество пользователей в этом альбоме достигло предела</string>
      <string name="sharpen">Резкость</string>
      <string name="show_all">Изображения и видео</string>
@@ -480,8 +444,6 @@
      <string name="show_images_only">Только изображения</string>
      <string name="show_on_map">На карте</string>
      <string name="show_videos_only">Только видео</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sina_weibo_save">Weibo</string>
      <string name="size_above">%1$s или более</string>
      <string name="size_below">%1$s или менее</string>
      <string name="size_between">%1$s – %2$s</string>
@@ -501,9 +463,9 @@
      <string name="straighten">Выравнивание</string>
      <string name="straighten_tooltip">Чтобы выровнять фото, перетащите его</string>
      <string name="sync_album">Синхронизация альбомов</string>
-     <string name="sync_album_error">Не удалось загрузить фотографии. Повтори попытку позже.</string>
-     <string name="sync_album_in_proecess">Синхронизация альбома. Пожалуйста, подожди…</string>
-     <string name="sync_album_set_error">Не удалось загрузить альбомы. Повтори попытку позже.</string>
+     <string name="sync_album_error">Не удалось загрузить фотографии. Повторите попытку позже.</string>
+     <string name="sync_album_in_proecess">Синхронизация альбома. Подождите…</string>
+     <string name="sync_album_set_error">Не удалось загрузить альбомы. Повторите попытку позже.</string>
      <string name="sync_album_summary">Синхронизировать фотографии в MiCloud</string>
      <string name="sync_history_power_on">Во время зарядки</string>
      <string name="sync_in_progress_message">Синхронизация, подождите…</string>
@@ -526,7 +488,7 @@
      <string name="too_many_recipients">Сообщение имеет слишком много получателей (%1$s). Существует предел на %2$s получателей.</string>
      <string name="try_to_send">Отправить</string>
      <string name="ubifocus_data_missing">Некоторые данные потеряны</string>
-     <string name="ubifocus_guide_text">Удерживай 0.5с. для обновления</string>
+     <string name="ubifocus_guide_text">Нажмите и удерживате для обновления</string>
      <string name="ubifocus_map_error">Некоторые данные неверны</string>
      <string name="ubifocus_refocus_data_missing">Не удалось обновить из-за некоторых отсутствующих данных</string>
      <string name="ubifocus_refocus_download_tip">Скачайте обновленные данные перед обновлением</string>
@@ -543,13 +505,11 @@
      <string name="vignette">Виньетка</string>
      <string name="wallpaper">На рабочий стол</string>
      <string name="warn">Внимание</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="weikan_weikan">Weikan TV</string>
      <string name="where_is_barcode">Где QR код?</string>
      <string name="white_balance">Баланс белого</string>
      <string name="widget_type">Выбор изображений</string>
      <string name="widget_type_album">Выбрать альбом</string>
-     <string name="widget_type_photo">Выбери изображение</string>
+     <string name="widget_type_photo">Выберите изображение</string>
      <string name="widget_type_shuffle">Перемешать все изображения</string>
      <string name="width">Ширина</string>
      <string name="yellow_page">Сервисы</string>
