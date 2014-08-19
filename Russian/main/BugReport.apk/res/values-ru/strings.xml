@@ -2,7 +2,9 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="action_cancel">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="action_confirm">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="action_submit">OK</string>
      <string name="app_empty">Нет приложений</string>
      <string name="app_label">Отзывы</string>
@@ -22,6 +24,7 @@
      <string name="discard_draft_dialog_content">В отчете были изменения. Нажмиnt OK, чтобы отказаться от отзыва.</string>
      <string name="discard_draft_dialog_title">Отмена отзыва</string>
      <string name="err_type">Тип ошибки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="err_type_bluetooth">Bluetooth</string>
      <string name="err_type_camera">Камера</string>
      <string name="err_type_nonsystemapp">Другие приложения</string>

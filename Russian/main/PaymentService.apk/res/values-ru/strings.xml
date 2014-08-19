@@ -147,6 +147,8 @@
      <string name="hfb_return">返 回</string>
      <string name="hfb_succ_label">购买成功</string>
      <string name="hfb_succ_result">感谢您使用通信账户支付服务。</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="illegal_intent">Illegal intent request</string>
      <string name="label_balance">Баланс:</string>
      <string name="label_giftcard">Подарочная карта:</string>
      <string name="label_order_name">Продукт:</string>

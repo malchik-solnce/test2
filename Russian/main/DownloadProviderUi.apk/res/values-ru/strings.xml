@@ -5,6 +5,7 @@
      <string name="all_downloads">Все загрузки</string>
      <string name="all_fileter">Все</string>
      <string name="all_the_internet">Все сети</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="apk_filter">APK</string>
      <string name="app_downloads">Загрузки %s</string>
      <string name="app_label">Загрузки</string>
@@ -21,6 +22,7 @@
      <string name="delete_downloads_records">Удалить все загрузки</string>
      <string name="delete_the_downloaded_file">Удалить загруженные файлы</string>
      <string name="deselect_all">Очистить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="determine">OK</string>
      <string name="dialog_cannot_resume">Загрузка прервана. Она не может быть возобновлена.</string>
      <string name="dialog_failed_body">Вы хотите повторить загрузку файла позже или удалить его из очереди?</string>
@@ -50,6 +52,7 @@
      <string name="download_list_intoAuthAlert">Подождите</string>
      <string name="download_list_open_xl_cancel">Отмена</string>
      <string name="download_list_open_xl_message">Включите сервис загрузок Xunlei, чтобы воспользоваться неограниченным высокоскоростным сервисом загрузок</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="download_list_open_xl_ok">OK</string>
      <string name="download_list_open_xl_title">Сервис загрузок Xunlei</string>
      <string name="download_no_application_title">Не могу открыть файл</string>
@@ -84,7 +87,9 @@
      <string name="menu_all_task_start">Запустить все</string>
      <string name="menu_enter_edit_mode">Редактировать</string>
      <string name="menu_preferences">Настройки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mi_money">Mi</string>
+     <string name="mi_money_">mi_money)</string>
      <string name="missing_title">Неизвестно</string>
      <string name="no_downloads">Нет загрузок</string>
      <string name="one_month">Месячная опалата</string>
@@ -120,6 +125,7 @@
      <string name="turn_off_xunlei_tips">Сервис ускорения Xunlei отключен</string>
      <string name="turn_off_xunlei_title">Отключение движка Xunlei</string>
      <string name="valid_in_this_month">доступно в этом месяце</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vip_auto_speedup">Xunlei members to accelerate directly</string>
      <string name="xunlei_brand">При поддержке Xunlei</string>
      <string name="xunlei_brand_url">http://mobile.xunlei.com</string>

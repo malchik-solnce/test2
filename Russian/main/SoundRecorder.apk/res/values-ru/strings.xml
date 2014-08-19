@@ -5,6 +5,7 @@
      <string name="alert_message_delete_record">Удалить выбранную запись?</string>
      <string name="app_name">Диктофон</string>
      <string name="back">Назад</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_ok">OK</string>
      <string name="button_queue_for_wifi">В очередь</string>
      <string name="button_start_now">Скачать</string>
@@ -12,6 +13,7 @@
      <string name="cloud_record">Записи в облаке (%d)</string>
      <string name="data_connection_body">"Примечение:
 загрузка через мобильный интернет может повлечь оплату за трафик."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="data_connection_button_text">OK</string>
      <string name="data_connection_title">Внимание</string>
      <string name="delete">Удалить</string>
@@ -101,8 +103,6 @@
      <string name="toast_max_record_time">Приложение %1$s максимально поддерживает %2$s записей вложения</string>
      <string name="toast_uninstall_fileexplorer">Приложение файлы не установлено</string>
      <string name="view_list_of_recordings">Список записей</string>
-     <string name="wifi_recommended_body">"О загрузке через мобильный интернет:
- Загрузка файла может привести к затратам трафика и денежных стредств"</string>
      <string name="wifi_recommended_body" formatted="false">"Загрузка %s может сократить работу устройства от батареи и/или привести к затратам трафика и денежных стредств.
 
  Нажмите %s, чтобы скачать позже при подключении к Wi-Fi сети."</string>

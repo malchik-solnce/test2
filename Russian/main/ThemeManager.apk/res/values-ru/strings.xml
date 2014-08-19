@@ -45,6 +45,7 @@
      <string name="lockstyle_personal_settings">Настроить</string>
      <string name="long_ringtone_resource">Длинные</string>
      <string name="maml_component_customization_title">Настройки компонентов</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mi_wallpaper">Mi</string>
      <string name="online_no_network">Не удается подключиться к сети</string>
      <string name="online_search_hint">Поиск ресурсов</string>
@@ -122,6 +123,7 @@
      <string name="resource_downloaded_title">Загруженные ресурсы</string>
      <string name="resource_downloading">Загрузка</string>
      <string name="resource_exchange">Подарочная карта</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_exchange_confirm">OK</string>
      <string name="resource_exchange_empty_format">Введите код!</string>
      <string name="resource_exchange_has_bought">Вы уже купили эту тему</string>
@@ -164,6 +166,7 @@
      <string name="resource_pack_warning">Внимание. Вы уже приобрели %1$d элементов. Текущая цена больше не актуальна. Необходимо приобрести их по отдельности.</string>
      <string name="resource_present">Подарок</string>
      <string name="resource_price_free">Беспл.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_price_unit"> Mi</string>
      <string name="resource_purchase_getting_order">Получение даннных заказа…</string>
      <string name="resource_purchase_verifying_payment">Проверка оплаты…</string>
@@ -192,6 +195,7 @@
      <string name="resource_trial_end_purchase">Купить</string>
      <string name="resource_trial_end_restore">Отмена</string>
      <string name="resource_trial_end_title">Пробное время вышло</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_trial_fail_cancel">OK</string>
      <string name="resource_trial_fail_go_settings">Настройки</string>
      <string name="resource_trial_fail_message">Убедитесь, что часы системы установлены на правильно</string>
@@ -201,6 +205,7 @@
 контент который Вы сейчас смотрите, в настоящее время недоступен в Вашем регионе"</string>
      <string name="resource_unknow_error">Неизвестная ошибка</string>
      <string name="resource_update">Обновить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_user_know">OK</string>
      <string name="resource_waiting_download">Ожидание</string>
      <string name="sdcard_not_mounted_dialog_message">Вставьте SD-карту</string>
@@ -248,6 +253,7 @@
      <string name="theme_name">%1$s</string>
      <string name="theme_no">Нет</string>
      <string name="theme_select_others">Другое</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="theme_user_agreement_allow">OK</string>
      <string name="theme_user_agreement_content1">Прочитайте действующие условия, прежде чем использовать этот продукт:</string>
      <string name="theme_user_agreement_content2"> Пользовательское соглашение</string>
