@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="add_alarm">Добавить будильник</string>
+     <string name="add_alarm">Добавить</string>
      <string name="alarm_alert">Мелодия</string>
      <string name="alarm_alert_alert_silenced">Будильник звонил %d мин. назад</string>
      <string name="alarm_alert_snooze_set">Повторить через %d мин.</string>
@@ -10,7 +10,7 @@
      <string name="alarm_disabled">Отключен</string>
      <string name="alarm_in_silent_mode_title">В режиме без звука</string>
      <string name="alarm_klaxon_service_desc">Служба воспроизведения сигналов в Часах</string>
-     <string name="alarm_label_hint">Введи название будильника</string>
+     <string name="alarm_label_hint">Введите название будильника</string>
      <string name="alarm_list_title">Будильник</string>
      <string name="alarm_notify_snooze_label">%s (отложено)</string>
      <string name="alarm_notify_text">Отложить/выключить будильник</string>
@@ -43,21 +43,18 @@
      <string name="delete">Удалить</string>
      <string name="delete_alarm">Удалить</string>
      <string name="delete_alarm_confirm">Удалить будильник?</string>
-     <string name="delete_selected_timer_item">Delete the selected timer task?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="delete_timer_item_title">Delete timer task</string>
+     <string name="delete_selected_timer_item">Удалить выбранные тамеры?</string>
+     <string name="delete_timer_item_title">Удалить таймер</string>
      <string name="delete_timezone_title">Удалить часовой пояс</string>
      <string name="dialog_confirm_abort">Отменить изменения?</string>
      <string name="done">Готово</string>
      <string name="every_day">Каждый день</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
      <string name="hour">1 час</string>
      <string name="hour_unit">ч</string>
      <string name="hours">%s ч.</string>
      <string name="keep_screen_on">Экран включен</string>
      <string name="label">Описание</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="label_pref_summary">Label of this alarm clock</string>
      <string name="lap">Круг</string>
      <string name="lap_num">круг</string>
@@ -69,8 +66,7 @@
      <string name="menu_add_worldclock">Добавить</string>
      <string name="menu_desk_clock">Настольные часы</string>
      <string name="menu_edit_systemtime">Настройки даты и времени</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_edit_timer_item">Edit timer task</string>
+     <string name="menu_edit_timer_item">Редактировать таймер</string>
      <string name="menu_item_dock_settings">Настройки док-станции</string>
      <string name="minute">1 минуту</string>
      <string name="minutes">%s мин.</string>
@@ -80,16 +76,15 @@
      <string name="reset">Сброс</string>
      <string name="revert">Отмена</string>
      <string name="set_alarm">Установить будильник</string>
-     <string name="settings">Настройки будильника</string>
+     <string name="settings">Настройки</string>
      <string name="shutdown_alarm_disable_summary">Отключение будильника выключено</string>
      <string name="shutdown_alarm_enable_summary">Включено отключение будильника</string>
      <string name="shutdown_alarm_title">Выключение будильника</string>
      <string name="silent_alarm_summary">Без звука</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="slider_text">slide up to close</string>
+     <string name="slider_text">Сдвиньте вверх, чтобы отключить</string>
      <string name="snooze_confirm_cancel">Отложить</string>
      <string name="snooze_duration_title">Интервал повтора сигнала</string>
-     <string name="snooze_message">Snooze for %d min</string>
+     <string name="snooze_message">Отложить на %d мин.</string>
      <string name="start">Старт</string>
      <string name="start_up">Пуск</string>
      <string name="stopwatch_lap_empty_text">Нет кругов</string>
@@ -99,25 +94,19 @@
      <string name="timer_alert_alert_silenced">Таймер звонил %d мин. назад</string>
      <string name="timer_continue">Далее</string>
      <string name="timer_got_it">Отключить</string>
-     <string name="timer_item_duration_display">%1$d Min %2$d Sec</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="timer_item_label_hint">Timer Label</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="timer_item_picker_minute">Min</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="timer_item_picker_second">Sec</string>
+     <string name="timer_item_duration_display">%1$d мин. %2$d сек.</string>
+     <string name="timer_item_label_hint">Название таймера</string>
+     <string name="timer_item_picker_minute">мин.</string>
+     <string name="timer_item_picker_second">сек.</string>
      <string name="timer_message">Таймер на %1$d мин.</string>
      <string name="timer_message_with_hour">таймер на %1$d ч. и %2$d мин.</string>
      <string name="timer_message_with_seconds">%1$d секунд</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="timer_new_item">Customize</string>
+     <string name="timer_new_item">Настроить</string>
      <string name="timer_start_alarm">Время таймера вышло</string>
      <string name="timer_title">Таймер</string>
      <string name="timezone_exist_error_message">Часовой пояс уже существует</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="vibrate_pref_summary">Vibrate while alarming</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="vibrate_when_ringing">Vibrate when ringing</string>
+     <string name="vibrate_pref_summary">Виброривать при сигнале</string>
+     <string name="vibrate_when_ringing">Вибрировать при сигнале</string>
      <string name="volume_button_setting_summary">Функция клавиши во время будильника</string>
      <string name="volume_button_setting_title">Клавиша громкости</string>
      <string name="workday_alarm_clock">По рабочим дням</string>

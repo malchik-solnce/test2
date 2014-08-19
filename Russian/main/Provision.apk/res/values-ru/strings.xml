@@ -1,34 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="congratulation_label">Enjoy your new phone :)</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="congratulation_next">Start using MIUI</string>
-     <string name="input_method_category">"Choose the default input method that you'll use when writing emails, notes, and everywhere else. Note that you can install third-party keyboards later."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="input_method_setting">Choose input method</string>
-     <string name="logo_congratulation">"You're all set!"</string>
+     <string name="congratulation_label">Наслаждайтесь новым телефоном :)</string>
+     <string name="congratulation_next">Начать работу</string>
+     <string name="input_method_category">Выберите метод ввода по умолчанию, который будет использоваться при написании электронных писем, заметок, и т.д.. Сторонние клавиатуры можно установить позже.</string>
+     <string name="input_method_setting">Настроить метод ввода</string>
+     <string name="logo_congratulation">Вы все настроили!</string>
      <string name="next">Далее</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="other_settings">Additional settings</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="other_settings_location">Location access</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="other_settings_location_summary">Let apps pinpoint your location</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="other_settings_user_experience">User feedback</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="other_settings_user_experience_summary">Help improve MIUI by sending anonymous usage data</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="shut_down">Shut down</string>
-     <string name="sim_card_detecting">Checking for SIM card…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sim_card_detection">SIM card not detected</string>
-     <string name="sim_card_detection_info">"Вы не сможете настроить аккаунт Xiaomi без SIM-карты, для синхронизации контактов, поиска телефона и т.д."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sim_dectection_next">Continue</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sim_redetection">Check for SIM card again</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="welcome">Welcome to</string>
+     <string name="other_settings">Дополнительные настройки</string>
+     <string name="other_settings_location">Доступ к местоположению</string>
+     <string name="other_settings_location_summary">Разрешать приложениям определять Ваше местоположение</string>
+     <string name="other_settings_user_experience">Обратная связь</string>
+     <string name="other_settings_user_experience_summary">Помогите улучшить MIUI, отправляя анонимные данные об использовании</string>
+     <string name="shut_down">Выключить</string>
+     <string name="sim_card_detecting">Проверка SIM-карты…</string>
+     <string name="sim_card_detection">SIM-карта не найдена</string>
+     <string name="sim_card_detection_info">"Вы не сможете настроить Mi аккаунт без SIM-карты, для синхронизации контактов, поиска телефона и т.д."</string>
+     <string name="sim_dectection_next">Продолжить</string>
+     <string name="sim_redetection">Проверить еще раз</string>
+     <string name="welcome">Добро пожаловать в</string>
 </resources>
