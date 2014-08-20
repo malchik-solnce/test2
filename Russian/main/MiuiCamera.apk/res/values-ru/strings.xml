@@ -94,6 +94,8 @@
      <string name="effect_goofy_face_small_mouth">Маленький рот</string>
      <string name="effect_goofy_face_squeeze">Сжатие</string>
      <string name="effect_none">Без эффектов</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="effect_setting_top_text">Camera Filters</string>
      <string name="effect_silly_faces">СМЕШНЫЕ РОЖИЦЫ</string>
      <string name="empty">" "</string>
      <string name="error_app_unsupported">Данный вид кодировки не поддерживает это разрешение</string>

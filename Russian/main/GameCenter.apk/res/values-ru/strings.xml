@@ -208,8 +208,11 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="game_editor_choice">Editor Choice</string>
      <string name="game_honor_wall">Стена почета</string>
+     <string name="game_install">Install:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="game_tag_promotion">Promotion</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="game_type">Category</string>
      <string name="gamecenter_update_version_new_feature">Обновление клиента(v%1$s)</string>
      <string name="gamecenter_update_version_new_feature_list">нажмите для просмотра подробностей :)</string>
      <string name="gamecenter_upgrade_title">Обновление</string>
@@ -835,6 +838,7 @@
      <string name="usr_name_hint">Аккаунт XiaoMi/email/телефон</string>
      <string name="verifying">проверка</string>
      <string name="version_label">Версия：</string>
+     <string name="vertical_line">｜</string>
      <string name="view_all_gift">Еще</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="view_exchange_code">Check exchange code</string>
