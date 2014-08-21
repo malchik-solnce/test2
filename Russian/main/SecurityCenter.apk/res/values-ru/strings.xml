@@ -13,6 +13,8 @@
      <string name="activity_title_apps_manager">Приложения</string>
      <string name="activity_title_auto_start_manager">Управление автозапуском</string>
      <string name="activity_title_cache">Кэш</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activity_title_cache_data">Cache</string>
      <string name="activity_title_create_shortcut">Управление ярлыками</string>
      <string name="activity_title_deep_clean">Расширенная очистка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -610,6 +612,8 @@
      <string name="toast_shortcut_install">Ярлык создан</string>
      <string name="toast_shortcut_uninstall">Ярлык удален</string>
      <string name="toast_uninstall_success">Удаление завершено</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="toast_virus_in_cloud_scanning">Can not stop virus scan in cloud scanning</string>
      <string name="uninstall_confirm_title">Удалить приложения</string>
      <string name="usage_type_audio">Аудио</string>
      <string name="usage_type_cpu">ЦП – всего</string>

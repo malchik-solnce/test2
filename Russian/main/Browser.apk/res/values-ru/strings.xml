@@ -205,6 +205,9 @@
      <string name="download_no_sdcard_dlg_msg">Для загрузки %s необходима SD-карта</string>
      <string name="download_no_sdcard_dlg_title">SD-карта отсутствует</string>
      <string name="download_pending">Начинается загрузка…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="download_phone_tip">Phone</string>
+     <string name="download_router_tip">Mi router (Download to Mi router)</string>
      <string name="download_sdcard_busy_dlg_msg">SD-карта занята. Чтобы разрешить загрузки, выбери отключить USB-накопитель в уведомлении.</string>
      <string name="download_sdcard_busy_dlg_title">SD-карта недоступна</string>
      <string name="downloaded">Загружено</string>
@@ -579,6 +582,11 @@
      <string name="return_to_homepage">Домашняя страница</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="root_folder_lable">None</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="router_download_exist">This download file already exists</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="router_download_failed">Download failed, please retry</string>
+     <string name="router_download_success">Downloading，please check the progress in Mi router App</string>
      <string name="same_bookmarks_warning">Эта закладка уже существует</string>
      <string name="same_folder_name_warning">Эта папка уже существует</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -608,6 +616,8 @@
      <string name="search_shipin">Видео</string>
      <string name="security_warning">Угроза безопасности</string>
      <string name="select_dot">Выбрать текст</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="select_download_device">Select Device</string>
      <string name="send_bookmark_to_home_screen">Создать ярлык на рабочем столе</string>
      <string name="send_to_popular">На главную</string>
      <string name="set_as_homepage">Сделать главной страницей</string>

@@ -45,6 +45,7 @@
      <string name="cancel_favorite_success">Удалено</string>
      <string name="channel_choice_empty_hint">Пусто</string>
      <string name="channel_empty_hint">Пусто</string>
+     <string name="check_network">"Can't connect to the network. Check your data connection and try again."</string>
      <string name="choice">Топ</string>
      <string name="clarity_high">Высокое</string>
      <string name="clarity_standard">Стандартное</string>
@@ -55,6 +56,8 @@
      <string name="clear_cache">Очистить кэш</string>
      <string name="clear_cache_success">Кэш очищен</string>
      <string name="clear_cache_summary">Очистить кэш приложения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="click_star_rate">Click on the star rating</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="click_to_login">Touch image to sign in</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -307,6 +310,11 @@
      <string name="upgrade">Обновить</string>
      <string name="use_cellular_network">Мобильный интернет</string>
      <string name="use_cellular_network_summary">Использовать мобильный интернет для загрузки видео. Возможны денежные затраты.</string>
+     <string name="userdata_alert_content">You are currently using data network, may produce a lot of traffic fees, sure you want to continue?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="userdata_alert_ok">Continue</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="userdata_alert_title">Data usage</string>
      <string name="video"> видео</string>
      <string name="video_info_audio_bitrate_label">Аудио битрейт:</string>
      <string name="video_info_audio_coding_label">Аудио кодек:</string>

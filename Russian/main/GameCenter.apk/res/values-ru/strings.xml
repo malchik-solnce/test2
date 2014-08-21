@@ -511,6 +511,8 @@
      <string name="no_local_game">Нет установленных игр</string>
      <string name="no_meiyoule">Все закончилось</string>
      <string name="no_network">Нет доступа в интернет. Проверьте сеть и попробуйте обновить :)</string>
+     <string name="no_network_connect">"no internet
+Please check and refresh"</string>
      <string name="no_network_no_comment">нет подключения к сети</string>
      <string name="no_purchase_record">Нет записей о Ваших покупках</string>
      <string name="no_sd_card">SD-карта недоступна</string>

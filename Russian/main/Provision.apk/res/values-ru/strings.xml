@@ -12,6 +12,8 @@
      <string name="other_settings_location_summary">Разрешать приложениям определять Ваше местоположение</string>
      <string name="other_settings_user_experience">Обратная связь</string>
      <string name="other_settings_user_experience_summary">Помогите улучшить MIUI, отправляя анонимные данные об использовании</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="other_settings_user_experience_summary1">privacy policy</string>
      <string name="shut_down">Выключить</string>
      <string name="sim_card_detecting">Проверка SIM-карты…</string>
      <string name="sim_card_detection">SIM-карта не найдена</string>
