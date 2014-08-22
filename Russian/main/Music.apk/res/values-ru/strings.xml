@@ -74,6 +74,14 @@
      <string name="download_processing">Загрузка</string>
      <string name="download_while_playing_summary">Автоматически загружать треки, прослушанные онлайн</string>
      <string name="download_while_playing_title">Загружать прослушанное</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="empty_page_no_album">No albums.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="empty_page_no_artist">No artists.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="empty_page_no_document">No documents.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="empty_page_no_track">No songs.</string>
      <string name="enabled">Включить</string>
      <string name="eq_auto">Пользовательский</string>
      <string name="eq_blues">Блюз</string>

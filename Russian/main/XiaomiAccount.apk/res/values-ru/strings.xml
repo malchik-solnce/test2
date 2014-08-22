@@ -148,6 +148,7 @@
      <string name="error_phone_error">Неверный номер телефона</string>
      <string name="error_server">Серверная ошибка</string>
      <string name="error_sim_not_ready">Не удалось найти SIM-карту</string>
+     <string name="error_ssl_hand_shake">Error with server connection. Try set your system date-time to current time.</string>
      <string name="error_unknown">Ошибка входа</string>
      <string name="error_user_name">Неверный логин</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

@@ -32,8 +32,6 @@
      <string name="authenticated_failed">Ошибка аутентификации</string>
      <string name="authenticating"><CDATA>Идентификация </CDATA></string>
      <string name="authenticating_manually">Ошибка аутентификации</string>
-     <string name="auto_play">Автовоспроизведение</string>
-     <string name="auto_play_summary">Воспроизводить видео после буферизации или завершения загрузки</string>
      <string name="average_score">Средняя оценка</string>
      <string name="avg_score">%.1f</string>
      <string name="back">Назад</string>
@@ -76,8 +74,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="connect_error">Connect error</string>
      <string name="connecting">Подключение…</string>
-     <string name="continue_to_play_nextset">Воспр. следующий эпизод</string>
-     <string name="continue_to_play_nextset_summary">Автоматически воспроизводить следующий эпизод</string>
      <string name="count_comment">Оценок: %d</string>
      <string name="count_comment_wan">%.2f0 оценок</string>
      <string name="count_ge">Файлов: %d</string>
@@ -186,6 +182,8 @@
      <string name="menu_item_orientation_auto_sensor_action">Включить автоповорот</string>
      <string name="menu_item_orientation_fixed_by_videosize_action">Отключить автоповорот</string>
      <string name="menu_item_sub_title">Субтитры</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipush_setting">Xiaomi push</string>
      <string name="month" />
      <string name="more">Еще</string>
      <string name="my_favorite">Избранное</string>
@@ -223,7 +221,6 @@
      <string name="play_count_ci">%d played</string>
      <string name="play_his_empty_hint">Пусто</string>
      <string name="play_history">Недавнее</string>
-     <string name="play_setting">Воспроизведение</string>
      <string name="positive_comment">Положительные</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pps">PPS</string>
@@ -232,6 +229,10 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="qiyi">iQiyi</string>
      <string name="rank">Топ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="receive_mipush">Receive xiaomi push</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="receive_mipush_summary">Receive notifications about new and updated online content</string>
      <string name="recent_play">Recently played: Ep.%d</string>
      <string name="recentplay">Недавние</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

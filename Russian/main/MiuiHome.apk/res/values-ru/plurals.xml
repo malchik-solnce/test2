@@ -2,27 +2,27 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <plurals name="editing_mode_title">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="zero">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
-        <item quantity="two">%1$d selected</item>
-        <item quantity="few">%1$d selected</item>
-        <item quantity="many">%1$d selected</item>
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="zero">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+        <item quantity="two">Выбрано: %1$d</item>
+        <item quantity="few">Выбрано: %1$d</item>
+        <item quantity="many">Выбрано: %1$d</item>
      </plurals>
-     <!-- The size of the array does not match! Now: 4 must: 3 -->
      <plurals name="uninstall_dialog_title_format">
-        <item quantity="other">Удалить приложение %1$s и %2$d других?</item>
+        <item quantity="other">Удалить %1$s и %2$d других приложений?</item>
         <item quantity="one">Удалить \"%s\"?</item>
-        <item quantity="two">Удалить \"%s\" и еще 1 приложение?</item>
      </plurals>
      <plurals name="uninstall_result_failed">
         <item quantity="other">Не удалось удалить %1$s и еще %2$d</item>
         <item quantity="one">Не удалось удалить \"%s\"</item>
         <item quantity="two">Не удалось удалить \"%s\" и еще 1 приложение</item>
      </plurals>
-     <!-- The size of the array does not match! Now: 3 must: 6 -->
      <plurals name="uninstall_result_succeeded">
-        <item quantity="other">%1$ прил. удалено</item>
+        <item quantity="other">Удалено приложений %1$</item>
+        <item quantity="zero">Удалено приложений %1$d</item>
         <item quantity="one">Приложение удалено</item>
+        <item quantity="two">Удалено приложений %1$d</item>
+        <item quantity="many">Удалено приложений %1$d</item>
      </plurals>
 </resources>

@@ -272,6 +272,8 @@
      <string name="hints_virus_name_title">Название:</string>
      <string name="hints_virus_scan_result_descx">"This app is a major risk to your phone's security."</string>
      <string name="item_app_permission">Разрешения приложений</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="item_dev_mode">Developer options</string>
      <string name="item_garbage_size_1000m">1 ГБ</string>
      <string name="item_garbage_size_100m">100 МБ</string>
      <string name="item_garbage_size_300m">300 МБ</string>
@@ -570,6 +572,8 @@
      <string name="st_title_mode_choose_group">Выбери режим</string>
      <string name="suffix_virus_count_bottom">всего</string>
      <string name="suffix_virus_count_top">подозрений</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="summary_dev">Avoid applications stealing user data</string>
      <string name="summary_install_virus">Проверять приложения на вирусы перед установкой</string>
      <string name="summary_mms">Фильтрация нежелательных сообщений (скидки, объявления и т.д.)</string>
      <string name="summary_permission">Защита моей конфиденциальности от сторонних приложений</string>
@@ -582,6 +586,10 @@
      <string name="title_app_update_yes">Все приложения обновлены!</string>
      <string name="title_data_flow_no">Контроль трафика отключен</string>
      <string name="title_data_flow_yes">Контроль трафика включен</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_dev_no">Developer options on</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_dev_yes">Developer options off</string>
      <string name="title_install_virus_no">Защита отключена</string>
      <string name="title_install_virus_yes">Защита включена</string>
      <string name="title_miui_update_no">Найдено обновление MIUI: %s</string>

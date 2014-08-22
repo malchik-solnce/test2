@@ -37,6 +37,7 @@
 настройки -> система -> кнопки"</string>
      <string name="fools_day">День дураков</string>
      <string name="force_exit_message">Приложение %1$s закрыто</string>
+     <string name="force_exit_skip_message">%1$s is system key component, can not be force quited.</string>
      <string name="global_actions_airplane_mode">Режим полета</string>
      <string name="global_actions_reboot">Перезагрузка</string>
      <string name="global_actions_shutdown">Выключение</string>
