@@ -87,6 +87,8 @@
      <string name="day" />
      <string name="declaration">Условия использования</string>
      <string name="declaration_content">Принимаешь условия использования предусмотренные Sohu Video, iQiyi и других провайдеров видео?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="defaults">Default</string>
      <string name="delete">Удалить</string>
      <string name="delete_addon">Удалить</string>
      <string name="delete_addon_content">Удалить этот элемент?</string>
@@ -108,6 +110,8 @@
      <string name="dlna_list_name">DLNA устройство</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlna_name">Shared device</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="done">Done</string>
      <string name="download_add_success">Загрузка добавлена</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="download_error">Offline error</string>
@@ -138,6 +142,8 @@
      <string name="forecast_empty_hint">Нет программ</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="forecasts">Forecast</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="fullscreen">Fullscreen</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="funshion">Funshion</string>
      <string name="gong_count_dlna">DLNA: %d</string>
@@ -196,6 +202,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="netease">NetEase</string>
      <string name="no_login_xiaomi_account">Войди в Xiaomi аккаунт прежде чем комментировать</string>
+     <string name="no_longer_tips">"Don't show again"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="not_login">Not signed in</string>
      <string name="nowifi_alert_dialog_continue">Да</string>

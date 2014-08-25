@@ -81,6 +81,7 @@
      <string name="adb_warning_message">Отладка по USB – это режим, который позволяет использовать Ваше устройство как внешний накопитель: перемещать файлы (с компьютера и на компьютер), напрямую устанавливать приложения, а также просматривать системные журналы</string>
      <string name="adb_warning_title">Разрешить отладку USB?</string>
      <string name="add_account_label">Добавить аккаунт</string>
+     <string name="add_auto_startup_application">Add auto-start apps</string>
      <string name="add_device_admin">Активировать</string>
      <string name="add_device_admin_msg">Активировать администратора устройства?</string>
      <string name="additional_system_update" />
@@ -888,6 +889,7 @@
      <string name="enable_adb_summary">Включить режим отладки при подключении к компьютеру по USB или по сети</string>
      <string name="enable_compatibility">Масштабировать приложения</string>
      <string name="enable_drive_mode">Включить режим вождения</string>
+     <string name="enable_mobile_data_when_opening_hotspot">Enable mobile data connection too?</string>
      <string name="enable_opengl_traces_title">Трассировка OpenGL</string>
      <string name="enable_service_title">Использовать %1$s?</string>
      <string name="enable_snapshot_screenlock">Запуск камеры кнокой назад</string>
@@ -1575,6 +1577,9 @@
      <string name="pointer_location_summary">Экран, показывающий данные о прикосновении</string>
      <string name="pointer_settings_category">МЫШЬ И СЕНСОРНАЯ ПАНЕЛЬ</string>
      <string name="pointer_speed">Скорость указателя</string>
+     <string name="power_autorun_apps_empty">No auto-start apps</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="power_autorun_empty">No apps</string>
      <string name="power_cell">Связь с сетью</string>
      <string name="power_idle">Режим ожидания</string>
      <string name="power_mgr">Питание</string>

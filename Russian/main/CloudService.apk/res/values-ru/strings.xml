@@ -19,6 +19,9 @@
      <string name="enable_micloud">Войти или создать аккаунт</string>
      <string name="enable_sync">Включить</string>
      <string name="enable_sync_dspt">Синхронизация отключена</string>
+     <string name="error_data_in_transfer">Your data is being transferred. Please wait %s hours.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_data_in_transfer_title">Cloud Service not avalable currently.</string>
      <string name="error_forbidden">Проблема с Mi аккаунтом. Синхронизация отключена.</string>
      <string name="error_network">Ошибка подключения к сети</string>
      <string name="error_not_acceptable">Синхронизация отключена</string>
