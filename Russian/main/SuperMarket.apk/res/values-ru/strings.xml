@@ -352,6 +352,7 @@
      <string name="updatable_apps">Обновляемые приложения</string>
      <string name="update">Обновить</string>
      <string name="update_all">Обновить все</string>
+     <string name="update_all_size">省流量全部升级省仅需 %1$s</string>
      <string name="update_date">%3$s, %2$s, %1$s</string>
      <string name="update_date_label">Загружен：</string>
      <string name="update_history_cleared">История очищена</string>

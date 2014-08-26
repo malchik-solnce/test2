@@ -81,7 +81,6 @@
      <string name="adb_warning_message">Отладка по USB – это режим, который позволяет использовать Ваше устройство как внешний накопитель: перемещать файлы (с компьютера и на компьютер), напрямую устанавливать приложения, а также просматривать системные журналы</string>
      <string name="adb_warning_title">Разрешить отладку USB?</string>
      <string name="add_account_label">Добавить аккаунт</string>
-     <string name="add_auto_startup_application">Add auto-start apps</string>
      <string name="add_device_admin">Активировать</string>
      <string name="add_device_admin_msg">Активировать администратора устройства?</string>
      <string name="additional_system_update" />
@@ -480,6 +479,8 @@
      <string name="bt_trace_log_summary">Включить журнал трассировки Bluetooth</string>
      <string name="bugreport_in_power">Отчеты об ошибках</string>
      <string name="bugreport_in_power_summary">Показывать в меню опцию отправки отчета об ошибке</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bugreport_tool_log">Capture Bugreport</string>
      <string name="bugreport_tool_log_toast">Лог сохранен в %s</string>
      <string name="bugreport_tool_log_toast_generate_bugreport">Создание отчета об ошибке</string>
      <string name="build_number">Номер сборки:</string>
@@ -1385,6 +1386,14 @@
      <string name="mobile_no_provisioning_url">%1$s не имеет известных сайт продовольствования</string>
      <string name="mobile_unknown_sim_operator">Неизвестный оператор</string>
      <string name="model_number">Модель:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="modem_tool_log">Capture Modem Logs</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="modem_tool_log_start">Start Capturing</string>
+     <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="modem_tool_log_stop">Stop Capturing</string>
+     <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
      <string name="move_app">Переместить</string>
      <string name="move_app_failed_dlg_text">Не удалось переместить приложение %1$s</string>
      <string name="move_app_to_internal">На телефон</string>
@@ -1577,9 +1586,6 @@
      <string name="pointer_location_summary">Экран, показывающий данные о прикосновении</string>
      <string name="pointer_settings_category">МЫШЬ И СЕНСОРНАЯ ПАНЕЛЬ</string>
      <string name="pointer_speed">Скорость указателя</string>
-     <string name="power_autorun_apps_empty">No auto-start apps</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="power_autorun_empty">No apps</string>
      <string name="power_cell">Связь с сетью</string>
      <string name="power_idle">Режим ожидания</string>
      <string name="power_mgr">Питание</string>

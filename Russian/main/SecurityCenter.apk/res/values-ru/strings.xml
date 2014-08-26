@@ -151,6 +151,7 @@
      <string name="dialog_msg_check_all">Выбрать %1$s, содержащий %2$d элемен.?</string>
      <string name="dialog_msg_load_cleanup_engine_error">Ошибка запуска очистки. Повтори позже.</string>
      <string name="dialog_msg_stop_virus_scan">Are you sure?</string>
+     <string name="dialog_msg_uninstall_apps">Uninstall these apps?</string>
      <string name="dialog_title_auto_start_declare">Информация о автозапуске</string>
      <string name="dialog_title_backup_and_uninstall_apps">Бэкап и удаление</string>
      <string name="dialog_title_check_all">Выбрать все</string>
@@ -187,15 +188,7 @@
      <string name="hints_apk_version">Версия: %s</string>
      <string name="hints_app_uninstall_residual">Удалить остаточные файлы?</string>
      <string name="hints_apps_perm_count">Разрешений: %d</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 1
-	%s: 0 must: 0
-	%d: 1 must: 0 -->
-     <!-- Original string: Disable % d apps auto-start -->
      <string name="hints_auto_start_disable_title">Приложения без автозапуска %d </string>
-     <!-- The count of MNPS does not match! Now: 1 must: 1
-	%s: 0 must: 0
-	%d: 1 must: 0 -->
-     <!-- Original string: Enable % d apps auto-start -->
      <string name="hints_auto_start_enable_title">Приложения в автозапуске %d </string>
      <string name="hints_auto_start_warning_info">Forbid auto-start will not receive any message</string>
      <string name="hints_cache_header_left">Файлы кэша: %d</string>
