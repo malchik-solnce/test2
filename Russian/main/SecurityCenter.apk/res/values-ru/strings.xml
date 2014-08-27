@@ -108,6 +108,10 @@
      <string name="button_text_view_power">Посмотреть</string>
      <string name="cache_check_content">%1$d прил., кэш %2$s</string>
      <string name="cache_header_title">К очистке: %1$d Освободится: %2$s памяти</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cache_sort_type_item_name">Sort by name</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cache_sort_type_item_size">Sort by size</string>
      <string name="cache_title_empty_folder">Пустые папки (%d)</string>
      <string name="cache_title_empty_folder2">Пустые папки</string>
      <string name="cache_title_system_cache">Системный кэш</string>

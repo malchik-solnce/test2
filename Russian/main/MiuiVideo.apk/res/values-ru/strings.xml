@@ -11,8 +11,14 @@
      <string name="add_favorite_success">Добавлено</string>
      <string name="add_more_addons">добавить другие специальные</string>
      <string name="addon" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="addon_all">All</string>
      <string name="addon_category">Специальное</string>
      <string name="addon_install_complete_disc">Нажми, чтобы установить %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="addon_installed_empty_hint">Empty</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="addon_list_empty_hint">Empty</string>
      <string name="addon_update_desc">Найдена новая версия. Обновить?</string>
      <string name="adjust_position_next_media_notice">Далее</string>
      <string name="adjust_position_prev_media_notice">Назад</string>
@@ -147,6 +153,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="funshion">Funshion</string>
      <string name="gong_count_dlna">DLNA: %d</string>
+     <string name="gong_count_ge">%d total</string>
      <string name="gong_count_ji">Всего эп.: %d</string>
      <string name="gong_count_xiang">Файлов: %d</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -161,6 +168,9 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="init">Init</string>
      <string name="install_comfirm">Нажми, чтобы установить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="installed">Installed</string>
+     <string name="installed_count_ge">%d installed</string>
      <string name="introduce">Описание</string>
      <string name="key_back_down_toast">Нажми еще раз, чтобы выйти</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

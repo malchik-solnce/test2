@@ -101,6 +101,7 @@
      <string name="express_detailed_address">Адрес</string>
      <string name="express_field_empty">Пусто</string>
      <string name="express_go_back">Назад</string>
+     <string name="express_info_divider">" / "</string>
      <string name="express_inqiury_select_logistics">Выбери службу</string>
      <string name="express_inquiry">Отслеживание</string>
      <string name="express_inquiry_button_text">Отследить</string>
