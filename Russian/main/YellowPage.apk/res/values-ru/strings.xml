@@ -220,6 +220,8 @@ Custom service will contact you in a moment"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="group_name_shop_recommendation">Nearby</string>
      <string name="group_name_title" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="hms_notification">Messages</string>
      <string name="locating_fail">Не удалось обнаружить. Проверь настройки местоположения и повтори.</string>
      <string name="login_before_use">Перед использованием войди в аккаунт</string>
      <string name="login_ok">Войти</string>

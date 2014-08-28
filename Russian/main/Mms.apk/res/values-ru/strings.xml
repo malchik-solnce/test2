@@ -82,6 +82,8 @@
      <string name="confirm_restore_positive">Восстановить</string>
      <string name="confirm_restore_title">Восстановить все выбранные сообщения?</string>
      <string name="confirm_send_mms">Один из получателей содержит адрес электронной почты. Это сообщение будет отправлено как MMS, что может привести к дополнительным расходам.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="context_menu_add_calendar">Show in Calendar</string>
      <string name="context_menu_add_contact">Добавить в контакты</string>
      <string name="context_menu_add_to_browser_favorite">Добавить в избранное браузера</string>
      <string name="context_menu_browse_web">Перейти</string>
