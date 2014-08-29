@@ -101,7 +101,6 @@
      <string name="express_detailed_address">Адрес</string>
      <string name="express_field_empty">Пусто</string>
      <string name="express_go_back">Назад</string>
-     <string name="express_info_divider">" / "</string>
      <string name="express_inqiury_select_logistics">Выбери службу</string>
      <string name="express_inquiry">Отслеживание</string>
      <string name="express_inquiry_button_text">Отследить</string>
@@ -117,15 +116,9 @@
      <string name="express_inquiry_history_remark_hint">Remark</string>
      <string name="express_inquiry_internal_failure">"Произошла ошибка.
 Проверь номер отслеживания."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="express_inquiry_logistics_empty">Please select logistics.</string>
      <string name="express_inquiry_logistics_indication">Служба доставки</string>
      <string name="express_inquiry_no_history">Пусто</string>
      <string name="express_inquiry_no_result">Нет результатов</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="express_inquiry_number_empty">Please enter your tracking number.</string>
-     <string name="express_inquiry_number_invalid">"Your input is invalid.
-Please check your tracking number."</string>
      <string name="express_inquiry_provider_info">При поддержке</string>
      <string name="express_inquiry_serial_number_indication">Номер отправления</string>
      <string name="express_inquiry_serial_number_prefix">Номер: </string>
@@ -220,8 +213,6 @@ Custom service will contact you in a moment"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="group_name_shop_recommendation">Nearby</string>
      <string name="group_name_title" />
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="hms_notification">Messages</string>
      <string name="locating_fail">Не удалось обнаружить. Проверь настройки местоположения и повтори.</string>
      <string name="login_before_use">Перед использованием войди в аккаунт</string>
      <string name="login_ok">Войти</string>

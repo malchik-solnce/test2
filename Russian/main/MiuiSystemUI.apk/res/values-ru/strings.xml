@@ -10,8 +10,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="accessibility_camera_button">Camera</string>
      <string name="accessibility_clear_all">Удалить все уведомления</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accessibility_data_four_bars">Data four bars.</string>
      <string name="accessibility_data_one_bar">Сигнал передачи данных: одно деление</string>
      <string name="accessibility_data_signal_full">Надежный сигнал передачи данных</string>
      <string name="accessibility_data_three_bars">Сигнал передачи данных: три деления</string>
@@ -22,8 +20,6 @@
      <string name="accessibility_no_phone">Сигнал телефонной сети отсутствует</string>
      <string name="accessibility_no_wifi">Отсутствует подключение к Wi-Fi</string>
      <string name="accessibility_no_wimax">Нет сигнала WiMAX</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accessibility_phone_four_bars">Phone four bars.</string>
      <string name="accessibility_phone_one_bar">Сигнал телефонной сети: одно деление</string>
      <string name="accessibility_phone_signal_full">Надежный телефонный сигнал</string>
      <string name="accessibility_phone_three_bars">Сигнал телефонной сети: три деления</string>
