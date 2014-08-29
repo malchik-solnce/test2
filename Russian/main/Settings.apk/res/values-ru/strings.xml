@@ -490,8 +490,6 @@
      <string name="button_disconnect_network">Отключаться от сети</string>
      <string name="button_light_timeout">Время подсветки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="button_text_login">Login</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_text_reboot_now">Reboot</string>
      <string name="cache_header_label">КЭШ</string>
      <string name="cache_size_label">Кэш</string>
@@ -773,14 +771,11 @@
      <string name="device_status">Общая информация</string>
      <string name="device_status_activity_title">Общая информация</string>
      <string name="device_status_summary">Номер телефона, уровень сигнала и т.д.</string>
-     <string name="dialog_content_login">Update need Xiaomi account ,sure to login ?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dialog_no">No</string>
      <string name="dialog_title_color_calibration">Цветовые предустановки</string>
      <string name="dialog_title_font_size">Размер шрифта</string>
      <string name="dialog_title_hdmi_color_calibration">Цветовые предустановки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dialog_title_login">Login Xiaomi account</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dialog_yes">Yes</string>
      <string name="dirac_control">Улучшение звука</string>
@@ -1252,7 +1247,6 @@
      <string name="lte_ram_dump_on">Очищать ОЗУ</string>
      <string name="macaddr_label">MAC адрес: </string>
      <string name="main_running_process_description">Основной используемый процесс</string>
-     <string name="make_sure_cancel_update">cancel update？</string>
      <string name="man_add_application">Добавить</string>
      <string name="manage_device_admin">Администраторы устройства</string>
      <string name="manage_device_admin_summary">Управление администраторами устройства</string>

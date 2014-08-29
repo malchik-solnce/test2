@@ -82,6 +82,8 @@
      <string name="confirm_restore_positive">Восстановить</string>
      <string name="confirm_restore_title">Восстановить все выбранные сообщения?</string>
      <string name="confirm_send_mms">Один из получателей содержит адрес электронной почты. Это сообщение будет отправлено как MMS, что может привести к дополнительным расходам.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="context_menu_add_calendar">Show in Calendar</string>
      <string name="context_menu_add_contact">Добавить в контакты</string>
      <string name="context_menu_add_to_browser_favorite">Добавить в избранное браузера</string>
      <string name="context_menu_browse_web">Перейти</string>
@@ -150,6 +152,11 @@
      <string name="feedback_description_hint">Оставьте свое мнение (обязательно)</string>
      <string name="feedback_submit">Отправить</string>
      <string name="festival">Шутки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="festival_continue">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="festival_networking_desc">This feature needs to connect to the internet to function normally.</string>
+     <string name="festival_never_remind">"Don't show again."</string>
      <string name="festival_sms_category_count_format">(%s)</string>
      <string name="festival_sms_loading">Загрузка…</string>
      <string name="file_create_time">Создан:</string>
@@ -324,6 +331,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_title_allow_si_sl_push">Разрешить WAP Push</string>
      <string name="pref_title_card_format">Формат карты</string>
      <string name="pref_title_delivery_reports">Отчет о доставке</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_title_festival_networking">Connection notification</string>
      <string name="pref_title_fwd_sender_info">Информацию о отправителе</string>
      <string name="pref_title_hide_festival">Скрыть вкладку шутки</string>
      <string name="pref_title_manage_sim_messages">Сообщения на SIM-карте</string>

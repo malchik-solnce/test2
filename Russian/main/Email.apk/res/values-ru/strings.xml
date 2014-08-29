@@ -395,6 +395,7 @@
      <string name="failed">Не удалось загрузить фото</string>
      <string name="feedback">Отправить отзыв</string>
      <string name="feedback_body">Информация обратной свящи</string>
+     <string name="feedback_sent">"Thanks for your feedback. We'll keep on improving for you"</string>
      <string name="fetching_attachment">Загрузка файла</string>
      <string name="file_deleted_success">Файл удален</string>
      <string name="file_not_found">Файл не найден на сервере</string>

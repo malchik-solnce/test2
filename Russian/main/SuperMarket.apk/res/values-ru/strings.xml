@@ -352,6 +352,7 @@
      <string name="updatable_apps">Обновляемые приложения</string>
      <string name="update">Обновить</string>
      <string name="update_all">Обновить все</string>
+     <string name="update_all_size">省流量全部升级省仅需 %1$s</string>
      <string name="update_date">%3$s, %2$s, %1$s</string>
      <string name="update_date_label">Загружен：</string>
      <string name="update_history_cleared">История очищена</string>
@@ -361,6 +362,25 @@
      <string name="update_time">%1$s-%2$s</string>
      <string name="upgrade_all_description">Обновить %1$s и %2$s?</string>
      <string name="upgrade_all_title">Обновить все</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_agreement_allow">Agree</string>
+     <string name="user_agreement_content1">"By touching agree, you agree to the terms stated in our "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_agreement_content2">User Agreement</string>
+     <string name="user_agreement_content3">" and "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_agreement_content4">Privacy Policy</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_agreement_content5">.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_agreement_quit">Quit</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_agreement_remind_again">Show Terms of Use prompt</string>
+     <string name="user_agreement_remind_never">"Don't show again"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_agreement_remind_summary">Show the Terms of Use prompt every time. This setting will take effect after you reboot your device.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_agreement_title">Terms of Use</string>
      <string name="verifying">Проверка…</string>
      <string name="version_label">Версия:</string>
      <string name="version_name">Версия: %1$s</string>

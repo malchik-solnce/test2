@@ -142,6 +142,8 @@
      <string name="resource_exchange_wrong_format_by_local">Введен неправильный код</string>
      <string name="resource_exchange_wrong_format_by_server">Код не может быть подтвержден. Проверь его и попробуй еще раз.</string>
      <string name="resource_expand_full_text">Раскрыть</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_failed_to_load_list">Failed to load list</string>
      <string name="resource_get_auth_checking">Проверка авторизации…</string>
      <string name="resource_get_auth_exceed_max_limit_tips">Тема не может работать на текущем устройстве с Вашего аккаунта, т.к. ограничение составляет до 10 мобильных устройств каждый год. Пожалуйста, попробуйте другие аккаунты Xiaomi.</string>
      <string name="resource_get_auth_exceed_max_limit_title">Превышен лимит</string>
@@ -178,6 +180,7 @@
      <string name="resource_ringtone_playing_error">Ошибка проигрывания</string>
      <string name="resource_ringtone_volume_mute">Громкость мелодии отключена</string>
      <string name="resource_save_to_note">Сохранить в заметки</string>
+     <string name="resource_search_list_empty">"Coundn't find anything"</string>
      <string name="resource_see_more">Еще</string>
      <string name="resource_select">Выбрать</string>
      <string name="resource_selected">Лучшие</string>
@@ -201,8 +204,6 @@
      <string name="resource_trial_fail_message">Убедитесь, что часы системы установлены на правильно</string>
      <string name="resource_trial_fail_title">Ошибка влючения</string>
      <string name="resource_trial_time">(до окончания %1$d мин.)</string>
-     <string name="resource_unable_to_access">"Unfortunately,
-the content you're looking for is not currently available in your region."</string>
      <string name="resource_unknow_error">Неизвестная ошибка</string>
      <string name="resource_update">Обновить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

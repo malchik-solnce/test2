@@ -40,6 +40,7 @@
      <string name="data_usage_restricted_title">Ограничение фоновых данных</string>
      <string name="data_usage_warning_body">Нажмите для просмотра сведений</string>
      <string name="data_usage_warning_title">Предупреждение трафика</string>
+     <string name="datausage_ignore_app_list_count">"Ignoring %d apps' data usage"</string>
      <string name="datausage_purchase_backto_ns">Назад</string>
      <string name="datausage_purchase_banner_title">%s top-up offer (exclusive)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -191,6 +192,9 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="pref_connect_settings_exceed_limit_hint">Отключить интернет, когда превышен ежемесячный лимит трафика</string>
      <string name="pref_daily_adjust">Установка пакета трафика</string>
      <string name="pref_daily_traffic">Пакет трафика</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_data_usage_ignore_settings">Ignore data usage</string>
+     <string name="pref_data_usage_ignore_settings_summary">"Don't keep track of a select group of apps' data usage"</string>
      <string name="pref_data_usage_not_set">Настроить трафик</string>
      <string name="pref_free_adjust">Установить предел трафика</string>
      <string name="pref_free_traffic_exceed_limit">Сообщать о достижении лимита трафика</string>
