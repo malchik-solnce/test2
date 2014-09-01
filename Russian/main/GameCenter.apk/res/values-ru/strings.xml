@@ -345,6 +345,9 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ignore_manage">Ignored updates</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="initial_activation_notification_content">The fastest millet mobile phone with the high game</string>
+     <string name="initial_activation_notification_title">Happiness is in the game center!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="insert_image">InsertImage</string>
      <string name="install">уст.</string>
      <string name="install_all">Уст. все</string>

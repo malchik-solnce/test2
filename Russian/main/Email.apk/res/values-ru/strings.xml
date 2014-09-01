@@ -637,10 +637,6 @@
      <string name="phone">телефоном</string>
      <string name="photo_load_failed">Не удалось загрузить фото</string>
      <string name="photo_view_count" formatted="false">%d из %d</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 1
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Please fill in your% s mailbox-related information: -->
      <string name="please_fill_in_your_mailbox_information">Пожалуйста, заполни информацию в почтовом ящике %s:</string>
      <string name="please_fill_in_your_mailbox_information2">Пожалуйста, заполни информацию в почтовом ящике:</string>
      <string name="please_wait">Подожди…</string>
