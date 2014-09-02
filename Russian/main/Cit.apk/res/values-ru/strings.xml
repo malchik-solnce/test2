@@ -254,45 +254,14 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_tool_nfc_st_run">Запустить</string>
      <string name="cit_tool_nfc_st_stop">Остановить</string>
      <string name="cit_tool_wifi">Инструменты WLAN</string>
-     <string name="cit_tool_wifi_5g_100a">Tx:100/6M/13dBm</string>
-     <string name="cit_tool_wifi_5g_100b">Tx:100/54M/13dBm</string>
-     <string name="cit_tool_wifi_5g_100c">Tx:100/MCS0/13dBm</string>
-     <string name="cit_tool_wifi_5g_100d">Tx:100/MCS7/13dBm</string>
-     <string name="cit_tool_wifi_5g_165a">Tx:165/6M/13dBm</string>
-     <string name="cit_tool_wifi_5g_165b">Tx:165/54M/13dBm</string>
-     <string name="cit_tool_wifi_5g_165c">Tx:165/MCS0/13dBm</string>
-     <string name="cit_tool_wifi_5g_165d">Tx:165/MCS7/13dBm</string>
-     <string name="cit_tool_wifi_5g_36a">Tx:36/6M/13dBm</string>
-     <string name="cit_tool_wifi_5g_36b">Tx:36/54M/13dBm</string>
-     <string name="cit_tool_wifi_5g_36c">Tx:36/MCS0/13dBm</string>
-     <string name="cit_tool_wifi_5g_36d">Tx:36/MCS7/13dBm</string>
-     <string name="cit_tool_wifi_b_13a">Tx:13/1M/15dBm</string>
-     <string name="cit_tool_wifi_b_13b">Tx:13/11M/15dBm</string>
-     <string name="cit_tool_wifi_b_1a">Tx:1/1M/15dBm</string>
-     <string name="cit_tool_wifi_b_1b">Tx:1/11M/15dBm</string>
-     <string name="cit_tool_wifi_band_24">band: 2.4G</string>
-     <string name="cit_tool_wifi_band_5">band: 5G</string>
-     <string name="cit_tool_wifi_band_change">Дальше</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cit_tool_wifi_chain_1">1</string>
+     <string name="cit_tool_wifi_chain_1_2">1+2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cit_tool_wifi_chain_2">2</string>
      <string name="cit_tool_wifi_exit">Выход</string>
-     <string name="cit_tool_wifi_g_13a">Tx:13/6M/13dBm</string>
-     <string name="cit_tool_wifi_g_13b">Tx:13/54M/13dBm</string>
-     <string name="cit_tool_wifi_g_1a">Tx:1/6M/13dBm</string>
-     <string name="cit_tool_wifi_g_1b">Tx:1/54M/13dBm</string>
-     <string name="cit_tool_wifi_n_13a">Tx:13/MCS0/11dBm</string>
-     <string name="cit_tool_wifi_n_13b">Tx:13/MCS7/11dBm</string>
-     <string name="cit_tool_wifi_n_1a">Tx:1/MCS0/11dBm</string>
-     <string name="cit_tool_wifi_n_1b">Tx:1/MCS7/11dBm</string>
-     <string name="cit_tool_wifi_rx_1">Rx:1</string>
-     <string name="cit_tool_wifi_rx_100">Rx:100</string>
-     <string name="cit_tool_wifi_rx_13">Rx:13</string>
-     <string name="cit_tool_wifi_rx_165">Rx:165</string>
-     <string name="cit_tool_wifi_rx_36">Rx:36</string>
-     <string name="cit_tool_wifi_rx_7">Rx:7</string>
      <string name="cit_tool_wifi_rx_ap">Rx:AP</string>
      <string name="cit_tool_wifi_rx_ap_name">Введите имя AP</string>
-     <string name="cit_tool_wifi_rx_ap_not_null">AP имя или тип не может быть пустым</string>
-     <string name="cit_tool_wifi_rx_ap_type">Введите тип AP</string>
-     <string name="cit_tool_wifi_rx_ap_type_error">AP ошибка, введите повторно (BSS/AdHoc)</string>
      <string name="cit_tool_wifi_rx_chan">Rx: Channel</string>
      <string name="cit_tool_wifi_rx_count_error">Ошибка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -301,13 +270,12 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_tool_wifi_rx_exit">Rx:exit</string>
      <string name="cit_tool_wifi_rx_run">Старт</string>
      <string name="cit_tool_wifi_rx_stop">Стоп</string>
-     <string name="cit_tool_wifi_rx_total_format">Передача: %s</string>
      <string name="cit_tool_wifi_rxbg_test">Rx:B/G</string>
      <string name="cit_tool_wifi_rxbg_test_channel">chan:</string>
-     <string name="cit_tool_wifi_rxbg_test_datarate">rate:</string>
      <string name="cit_tool_wifi_rxn_test">Rx:N</string>
+     <string name="cit_tool_wifi_rxn_test_bw">bandwidth:</string>
      <string name="cit_tool_wifi_rxn_test_channel">chan:</string>
-     <string name="cit_tool_wifi_rxn_test_mcs">MCS:</string>
+     <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
      <string name="cit_tool_wifi_tx_bg">Tx:B/G</string>
      <string name="cit_tool_wifi_tx_bg_chan">channel:</string>
      <string name="cit_tool_wifi_tx_bg_txpr">txpower:</string>
@@ -319,6 +287,8 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_tool_wifi_tx_n_txrt">datarate: MCS</string>
      <string name="cit_tool_wifi_tx_st">Tx: ST</string>
      <string name="cit_tool_wifi_tx_st_chan">channel:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cit_tool_wifi_txrx_chain_selection">Select antenna</string>
      <string name="cit_torch_off">Выключить вспышку</string>
      <string name="cit_torch_on">Включить вспышку</string>
      <string name="cit_touch_calib_fail">Ошибка калибровки экрана</string>

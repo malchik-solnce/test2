@@ -2,12 +2,11 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="about_app_name">Видеоплеер</string>
-     <string name="about_developer_label">Разработчик</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="about_developer_name">XiaoMi Inc.</string>
      <string name="about_title">О приложении</string>
      <string name="about_version_label">Версия</string>
      <string name="actor_colon">Актеры:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ad_moredetail">more detail</string>
      <string name="add_favorite_success">Добавлено</string>
      <string name="add_more_addons">добавить другие специальные</string>
      <string name="addon" />
@@ -27,7 +26,6 @@
      <string name="airkan_device_xiaomi_phone">Xiaomi</string>
      <string name="airkan_tips">"Нажми здесь, чтобы смотреть видео 
 на Xiaomi TV Box"</string>
-     <string name="airkan_video_playing">воспроизводится</string>
      <string name="airkan_video_playing_in">Видео</string>
      <string name="all">Все</string>
      <string name="all_comment">Все комментарии</string>
@@ -190,14 +188,8 @@
      <string name="manage">Управление</string>
      <string name="manage_offline_media">Менеджер загрузок</string>
      <string name="media_name_comment">%s комментарий</string>
-     <string name="menu_item_about_label">О программе</string>
-     <string name="menu_item_disable_3d_mode">Отключить 3D</string>
      <string name="menu_item_disable_audio_enhance">Отключить усиление звука</string>
-     <string name="menu_item_enable_3d_mode">Включить 3D</string>
      <string name="menu_item_enable_audio_enhance">Включить усиление звука</string>
-     <string name="menu_item_orientation_auto_sensor_action">Включить автоповорот</string>
-     <string name="menu_item_orientation_fixed_by_videosize_action">Отключить автоповорот</string>
-     <string name="menu_item_sub_title">Субтитры</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipush_setting">Xiaomi push</string>
      <string name="month" />
@@ -243,6 +235,7 @@
      <string name="pps">PPS</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pptv">PPTV</string>
+     <string name="prefix_countdown">advertisement left:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="qiyi">iQiyi</string>
      <string name="rank">Топ</string>
@@ -302,6 +295,8 @@
      <string name="star5">5 stars</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="start_addon">start addon</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="suffix_countdown">seconds</string>
      <string name="temp_play_history_button_label">История просмотров</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tencent">Tencent</string>
@@ -312,7 +307,6 @@
      <string name="toast_message_continue_play_hour">ч. </string>
      <string name="toast_message_continue_play_minute">м. </string>
      <string name="toast_message_continue_play_second_and_play">с.</string>
-     <string name="toast_message_set_misound">Установи MiSound в настройках</string>
      <string name="today">Сегодня </string>
      <string name="top_status_local_media">Локально</string>
      <string name="top_status_online_media">Онлайн</string>
@@ -357,7 +351,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_content_description">Content description</string>
      <string name="vp_device_list">Устройства</string>
-     <string name="vp_error_get_play_url_back_to_continue">"Can't find URL for this video."</string>
      <string name="vp_exit">Выйти</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_full_high_definition">1080P</string>
@@ -373,6 +366,8 @@
      <string name="vp_media_info">Информация</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_milink">MiLink</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vp_newest_ep">Newest now</string>
      <string name="vp_next_ci">След.</string>
      <string name="vp_offline">Офлайн</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

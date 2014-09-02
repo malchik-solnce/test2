@@ -2154,6 +2154,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_settings_show_statusBar_notification">Show in keyguard</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="status_bar_settings_show_statusBar_notification_summary">Notification will appear top of screen and automatically disappear</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_settings_show_wifi_name">Show WLAN</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_settings_status_bar">Status bar</string>

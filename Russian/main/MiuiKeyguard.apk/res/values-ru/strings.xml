@@ -56,6 +56,7 @@ d MMMM yyyy"</string>
      <string name="lockscreen_transport_play_description">Кнопка проигрывания</string>
      <string name="lockscreen_transport_prev_description">Предыдущее</string>
      <string name="login_website_in_case_forget_password">Для сброса пароля, зайди на i.mi.com</string>
+     <string name="missed_call_text">%d missed calls</string>
      <string name="miui_keyguard_ble_unlock_succeed_msg">Разблокировано браслетом</string>
      <string name="miui_unlockscreen_password_wrong">Попытайся снова:</string>
      <string name="open_wifi_settings">Открыть настройки подключения</string>

@@ -37,6 +37,10 @@
      <string name="add_quicklink_to_popular">Добавить на стартовую</string>
      <string name="add_quicklinks">Добавить</string>
      <string name="add_to_bookmark">В закладки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="add_to_desk">Send to desktop</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="add_to_desk_success">Send to desktop success</string>
      <string name="add_to_quicklink">На стартовую</string>
      <string name="added_to_bookmarks">Добавлено в закладки</string>
      <string name="adjust_text_zoom_toast">Изменение размера текста может повлечь неправильное отображение некоторых сайтов</string>
