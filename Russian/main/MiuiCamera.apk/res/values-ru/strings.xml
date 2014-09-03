@@ -265,6 +265,8 @@
      <string name="pref_camera_exposuretime_entry_8">1/8 сек.</string>
      <string name="pref_camera_exposuretime_entry_auto">Авто</string>
      <string name="pref_camera_exposuretime_title">Время выдержки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_facedetection_title">Face detection</string>
      <string name="pref_camera_flashmode_entry_auto">Авто</string>
      <string name="pref_camera_flashmode_entry_off">Выкл.</string>
      <string name="pref_camera_flashmode_entry_on">Вкл.</string>
@@ -424,10 +426,6 @@
      <string name="pref_grp_restore_settings">Сброс настроек</string>
      <string name="pref_manual_exposure_title">Ручная выдержка</string>
      <string name="pref_priority_storage_title">Сохранять на SD-карту</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_scan_qrcode_entry_off">Off</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_scan_qrcode_entry_on">On</string>
      <string name="pref_scan_qrcode_title">Сканирование QR кода</string>
      <string name="pref_setting_title">Настройки</string>
      <string name="pref_settings_mode">Режим камеры</string>
@@ -438,7 +436,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_video_quality_pad_default">6</string>
      <string name="pref_video_quality_title">Качество видео</string>
-     <string name="pref_video_slow_speed_title_simple_mode">Замедленное движение</string>
      <string name="pref_video_speed_entry_fast">Быстрая</string>
      <string name="pref_video_speed_entry_normal">Обычная</string>
      <string name="pref_video_speed_entry_slow">Медленная</string>
@@ -496,6 +493,7 @@
      <string name="simple_mode_button_text_color_effect">Выйти</string>
      <string name="simple_mode_button_text_countdown">Выйти</string>
      <string name="simple_mode_button_text_face_beauty">Выйти</string>
+     <string name="simple_mode_button_text_fast_video">Close slow-motion camera</string>
      <string name="simple_mode_button_text_hand_night">Выйти</string>
      <string name="simple_mode_button_text_hdr">Выйти</string>
      <string name="simple_mode_button_text_panorama">Выйти</string>

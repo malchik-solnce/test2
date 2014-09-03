@@ -433,7 +433,6 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="service_network_problem">Не удалось отправить сообщение из-за ошибки сети</string>
      <string name="service_not_activated">Услуга не активирована в сети</string>
      <string name="set">Сохранить</string>
-     <string name="set_smsc_address_title_miui">Установить номер SMS центра</string>
      <string name="share_img">Поделиться</string>
      <string name="show_all_messages">Показать все сообщения</string>
      <string name="sim_card1">SIM-карта 1</string>

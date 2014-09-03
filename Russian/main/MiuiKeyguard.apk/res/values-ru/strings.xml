@@ -80,4 +80,6 @@ d MMMM yyyy"</string>
      <string name="unlockscreen_low_battery">Подключи зарядное устройство</string>
      <string name="unlockscreen_recharge_completed">Зарядка завершена</string>
      <string name="unlockscreen_recharging_message">Зарядка батареи %d%%</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wrong_password">Incorrect password</string>
 </resources>
