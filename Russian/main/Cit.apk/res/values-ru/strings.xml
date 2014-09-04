@@ -302,6 +302,8 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_usb_charger_out">USB кабель отключен</string>
      <string name="cit_version_check_summary">Аппаратное и програмные версии ПО</string>
      <string name="cit_version_check_title">Версия ПО</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cit_vga_camera_calibration">Calibration</string>
      <string name="cit_vga_camera_capture">Фотография</string>
      <string name="cit_vga_camera_capture_fail">Ошибка камеры</string>
      <string name="cit_vga_camera_delete">Удалить</string>

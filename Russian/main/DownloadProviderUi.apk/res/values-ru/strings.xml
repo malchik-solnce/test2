@@ -90,6 +90,12 @@
      <string name="menu_enter_edit_mode">Редактировать</string>
      <string name="menu_preferences">Настройки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_title_pause_all">Pause all</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_title_resume_all">Start all</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_title_settings">settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mi_money">Mi</string>
      <string name="mi_money_">mi_money)</string>
      <string name="missing_title">Неизвестно</string>

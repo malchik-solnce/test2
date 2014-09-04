@@ -61,6 +61,13 @@
      <string name="call_delete_hint">Удалить все заблокированные вызовы с выбранного номера?</string>
      <string name="cancle">Отмена</string>
      <string name="close_callwait">Выключить</string>
+     <string name="create_table_keyword">CREATE TABLE keyword( _id INTEGER PRIMARY KEY AUTOINCREMENT, data TEXT NOT NULL DEFAULT NULL );</string>
+     <string name="create_table_mode">CREATE TABLE mode( _id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT NOT NULL DEFAULT NULL, state TEXT NOT NULL DEFAULT NULL );</string>
+     <string name="create_table_phonelist">CREATE TABLE phone_list( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, display_number TEXT DEFAULT NULL, notes TEXT DEFAULT NULL, state INTEGER NOT NULL DEFAULT 0, isdisplay INTEGER NOT NULL DEFAULT 0, type INTEGER );</string>
+     <string name="create_table_report_sms">create table reportSms( id TEXT NOT NULL );</string>
+     <string name="create_table_report_sms_pending">create table reportSmsPending( id TEXT NOT NULL, address TEXT, body TEXT, date TEXT );</string>
+     <string name="create_table_sim">CREATE TABLE sim( _id INTEGER PRIMARY KEY AUTOINCREMENT, sim_id TEXT NOT NULL, call_wait TEXT DEFAULT -1, name TEXT DEFAULT NULL, backsound_mode TEXT DEFAULT -1 );</string>
+     <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT NOT NULL DEFAULT -1, mode TEXT );</string>
      <string name="customizer_mode_user_define_name">Мой режим</string>
      <string name="dlg_add_blacklist">Добавить этот номер в черный список?</string>
      <string name="dlg_add_blacklist_warn_conflict_content">%1$s и %2$s других контактов уже в белом списке</string>
@@ -148,6 +155,8 @@
      <string name="note_sms_none">Нет сообщений</string>
      <string name="one_address_choose_hint">Регион: %s1</string>
      <string name="open_callwait">Включить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sim_not_ready">SIM card not ready</string>
      <string name="sms_delete_hint">Удалить все заблокированные сообщения, отправленные выбранным номером?</string>
      <string name="st_advanced_setting_group">Дополнительно блокировать</string>
      <string name="st_antispam_black_adress_add">Выбрать регион</string>
@@ -253,9 +262,12 @@
      <string name="st_title_man_head_addblacklist">Введи префикс телефона для блокировки</string>
      <string name="st_title_man_head_addwhitelist">Добавить префикс телефона в белый список</string>
      <string name="st_title_mode_choose_group">Режимы блокировки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="st_title_not_sim">Empty</string>
      <string name="st_title_open_antispam">Включить блокировку</string>
      <string name="st_title_settings_other_group">Дополнительные настройки</string>
      <string name="st_title_show_antispamnotification">Уведомление о блокировке</string>
+     <string name="st_title_sim_card">%1$s-SIM %2$s</string>
      <string name="st_title_whitelist_numbers">Номера белого списка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sure">OK</string>

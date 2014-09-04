@@ -118,6 +118,8 @@
      <string name="expansion_confirm_message">This application is with expansion pack, the installation process may take longer. Whether to continue the installation?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="expansion_confirm_title">App with expansion</string>
+     <string name="expansion_fail">"Couldn't download file"</string>
+     <string name="expansion_game_download_name">%1$s pack</string>
      <string name="expansion_info">(expansion files %1$s）</string>
      <string name="expansion_main_download_name">%1$s pack 1</string>
      <string name="favorite_account_need_activitied">Аккаунт не активирован. Активировать сейчас?</string>

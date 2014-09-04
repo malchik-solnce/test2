@@ -1835,8 +1835,12 @@
      <string name="ring_volume_title">Громкость звонка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ringtone_mute">None</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ringtone_slot_setting_title">Single card settings</string>
      <string name="ringtone_summary" />
      <string name="ringtone_title">Мелодия</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ringtone_uniform_setting_title">Dual card settings</string>
      <string name="roaming">Интернет-роуминг</string>
      <string name="roaming_disable">Подключаться к службам передачи данных при роуминге</string>
      <string name="roaming_enable">Подключаться к службам передачи данных при роуминге</string>

@@ -217,6 +217,8 @@
      <string name="pref_camera_antibanding_entry_3">Авто</string>
      <string name="pref_camera_antibanding_title">Устранение полос</string>
      <string name="pref_camera_audio_capture_title">Голос</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
      <string name="pref_camera_auto_focus_title_entry_off">Выкл.</string>
      <string name="pref_camera_auto_focus_title_entry_on">Вкл.</string>
      <string name="pref_camera_autoexposure_entry_centerweighted">Взвешенный по центру</string>
@@ -279,6 +281,8 @@
      <string name="pref_camera_focusmode_entry_manual">Ручной</string>
      <string name="pref_camera_focusmode_entry_normal">Обычный</string>
      <string name="pref_camera_focusmode_title">Режим фокусировки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_front_fb_title">Enhance skin tones</string>
      <string name="pref_camera_hand_night_title">Сумерки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_hdr_title">HDR</string>
