@@ -142,6 +142,10 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sync">sync</string>
      <string name="sync_dspt">Включить синхронизацию</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_item_calllog_summary">Sync records of calls made and received on this phone</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_item_calllog_title">Sync call logs</string>
      <string name="sync_item_sms_summary">Прочитанные SMS сообщения будут автоматически синхронизироваться</string>
      <string name="sync_item_sms_title">Синхронизация сообщений</string>
      <string name="sync_off">Выкл.</string>

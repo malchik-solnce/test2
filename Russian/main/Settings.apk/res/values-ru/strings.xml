@@ -177,6 +177,8 @@
      <string name="applications_settings_summary">Управление приложениями, настройка клавиш быстрого запуска</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="apply_now_button_text">Update</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="apply_update_fail">System update failed.</string>
      <string name="apps_with_restrictions_header">Приложения с ограничениями</string>
      <string name="apps_with_restrictions_settings_button">Расширенные настройки приложения</string>
      <string name="ask_compatibility">Спрашивать при запуске</string>
@@ -874,6 +876,8 @@
      <string name="dolby_roomsize_summary">Доступно только при использовании наушников</string>
      <string name="dolby_roomsize_title">Объемное звучание: </string>
      <string name="done_button">Готово</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="download_current_rom">Get latest version of MIUI</string>
      <string name="downloading_description">Downloading…</string>
      <string name="drive_mode">Режим вождения</string>
      <string name="drive_mode_auto_reply">Настройки автоответа</string>
@@ -1086,6 +1090,7 @@
      <string name="install_applications">Неизвестные источники</string>
      <string name="install_text">Установить</string>
      <string name="install_unknown_applications">Разрешить установку приложений, полученных не из маркета</string>
+     <string name="install_whole_rom">Download ROM (standard)</string>
      <string name="insufficient_storage">Недостаточно места</string>
      <string name="intent_sender_account_label">Аккаунт:</string>
      <string name="intent_sender_action_label">Действие:</string>
@@ -1124,6 +1129,8 @@
      <string name="language_settings_category">Языковые настройки</string>
      <string name="large_font">Большой</string>
      <string name="last_synced">Последняя синхронизация %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="later">Reboot later</string>
      <string name="launch_count_label">Подсчет</string>
      <string name="launcher_settings_title">Рабочий стол</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -1350,6 +1357,8 @@
      <string name="menu_stats_total">Всего</string>
      <string name="menu_stats_unplugged">%1$s с момента отключения от питания</string>
      <string name="menu_use_uss">Использовать USS</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mione_update_success_title">Update complete</string>
      <string name="miracast_PC2THOR_streaming_on">Miracast недоступен. ПК подключен к этому устройству.</string>
      <string name="miracast_cancelconnect_dialog">Отмена подключения</string>
      <string name="miracast_connection_failed_generic">Подключение не удалось</string>
@@ -1541,6 +1550,8 @@
      <string name="notification_sound_dialog_title">Выбрать мелодию уведомлений</string>
      <string name="notification_sound_title">Мелодия уведомления</string>
      <string name="notification_volume_title">Уведомление</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="now">Reboot now</string>
      <string name="nsd_quick_toggle_summary">Позволяет приложениям на других устройствах обнаруживать приложения на этом устройстве</string>
      <string name="nsd_quick_toggle_title">Обнаружение сетевых служб</string>
      <string name="oem_radio_info_label">Информация/настройки OEM</string>
@@ -2499,6 +2510,8 @@
      <string name="vibrate_input_devices">Использовать вибро</string>
      <string name="vibrate_input_devices_summary">Перенаправить вибро на подключенный игровой контроллер</string>
      <string name="vibrate_when_ringing_title">В режиме звонок</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="view_install_log">View error log</string>
      <string name="virus_scan">Антивирус</string>
      <string name="virus_scan_app_continue">Продолжить</string>
      <string name="virus_scan_app_find_risk">Возможных опасностей: %d</string>
