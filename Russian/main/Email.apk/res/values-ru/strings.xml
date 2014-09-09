@@ -373,6 +373,10 @@
      <string name="draft_count_format"> (%1$s)</string>
      <string name="drawer_close">Закрыть панель навигации</string>
      <string name="drawer_open">Открыть панель навигации</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="eas_hotmail_email">hotmail.com</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="eas_outlook_email">outlook.com</string>
      <string name="eas_template">domain\\user</string>
      <string name="edit_quick_response_dialog">Быстрый ответ</string>
      <string name="elided_padding_token"> </string>
@@ -820,6 +824,7 @@
      <string name="trigger_save_char">s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="trigger_y_char">y</string>
+     <string name="tryrefreshing">Try to Refreshing…</string>
      <string name="turn_auto_sync_on_dialog_body">Изменения, которые Вы вносите во все приложения и аккаунты (не только Gmail), будут синхронизироваться между интернетом, другими вашими устройствами и вашим %1$s. Включить автосинхронизацию?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="turn_auto_sync_on_dialog_confirm_btn">OK</string>

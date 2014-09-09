@@ -195,6 +195,8 @@
      <string name="createContactShortcutSuccessful">Виджет контакта добавлен на рабой стол</string>
      <string name="create_group_dialog_title">Создание новой группы</string>
      <string name="create_group_item_label">Создать новую группу</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="create_qrcode_fail_message">Create QR Code failed</string>
      <string name="customLabelPickerTitle">Название ярлыка</string>
      <string name="custom_list_filter">Настройка отображения</string>
      <string name="custom_nickname_hint">Введите: М или Ж</string>
@@ -749,6 +751,10 @@
      <string name="profile_display_name">Настроить профиль</string>
      <string name="profile_name">Мой профиль</string>
      <string name="profile_name_photo">Я</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="qr_card_card">My QR Code</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="qrcode_card_title">QR code card</string>
      <string name="quickcontact_missing_app">Действие не поддерживается ни в одном приложении</string>
      <string name="quit_dialog_confirm_title">Выйти из режима объединения контактов?</string>
      <string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из различных аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>
@@ -950,6 +956,10 @@
      <string name="scan">сканировать устройство</string>
      <string name="scan_duplicate_message">Контакты с полным дублированием данных (%1$d)</string>
      <string name="scan_merge">Поиск возможных дубликатов контактов…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="scan_qrcode_card_hint1">Scan QR Code</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="scan_qrcode_card_hint2">Add my information to your contacts</string>
      <string name="scanning">Поиск устройств…</string>
      <string name="scanning_sdcard_failed_message">Не удалось просканировать SD-карту. Причина: %s.</string>
      <string name="scanning_sdcard_failed_title">SD-карта не просканирована</string>
