@@ -57,6 +57,8 @@
      <string name="find_device_stop_noise">Нажми OK, чтобы остановить сигнал</string>
      <string name="find_device_success_title">Поиск устройства</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="finish">finish</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="flight_mode">flight mode</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="full_space">space full</string>
@@ -76,6 +78,8 @@
      <string name="micloud">micloud</string>
      <string name="micloud_dspt">Используй Mi Cloud для синхронизации данных, поиска устройства</string>
      <string name="micloud_dspt_provision">Используй Mi Cloud для синхронизации данных, поиска устройства и расскажи друзьям</string>
+     <string name="micloud_first_login_summary" />
+     <string name="micloud_first_login_title" />
      <string name="micloud_full_influence_dspt">"Все твои фотографии, видео, заметки и приложения будут сохранены в облаке. 
 
 Таким образом, при потере или повреждении устройства, все данные будут в безопасности.
@@ -90,6 +94,21 @@
      <string name="micloud_intro_02_part_02">Облачные сервисы синхронизируют контакты, сообщения, фотографии и другие данные</string>
      <string name="micloud_intro_03_part_01">Данные в MiCloud</string>
      <string name="micloud_intro_03_part_02">Управление данными, блокировка, очистка и т.д. на i.mi.com</string>
+     <string name="micloud_main_data_unsynced">%d data not synced</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_main_last_sync_time">last sync time</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_main_network_error">Network does not work. Please check network settings.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_main_stop_sync">stop sync</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_main_suggest_sync">Your data in Mi cloud is out of data. Please synchronous data.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_main_sync_now">sync now</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_main_sync_on_wifi">data will sync on wifi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_main_sync_stop">Sync Stop</string>
      <string name="micloud_more">Узнать больше</string>
      <string name="micloud_proceed">Продолжить</string>
      <string name="micloud_sec_dspt">и поделись этим с друзьями</string>
@@ -99,6 +118,9 @@
 занято: %s | свободно: %s"</string>
      <string name="micloud_title_dspt_remain">Осталось %s</string>
      <string name="micloud_title_full_dspt">Достигнут предел места в облаке</string>
+     <string name="micloud_unlogin_for_time_summary" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_unlogin_for_time_title">Enable Mi Cloud</string>
      <string name="micloud_upgrade_space">Добавить место</string>
      <string name="micloud_user_space_title">Место в облаке</string>
      <string name="micloud_user_space_usage">Облако</string>

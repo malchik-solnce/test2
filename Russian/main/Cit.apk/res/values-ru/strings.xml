@@ -68,6 +68,11 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_button_light_on">Включить подсветку кнопок</string>
      <string name="cit_calibration_fail">Калибровка не удалось</string>
      <string name="cit_calibration_pass">Калибровка</string>
+     <string name="cit_camera_calibration_summary">"Test instructions:
+
+1.Tap the calibration button below to enter Camera interface
+2.Press Back button to exit the camera interface
+3.There will be a calibration pass label to indicate the ois has been calibrated"</string>
      <string name="cit_camera_sdcard_error">SD-карта заполнена. Вы не можете делать снимки.</string>
      <string name="cit_charger_plugin_check_summary">Проверка подключения зарядного устройство</string>
      <string name="cit_charger_plugin_check_title">Проверка подключения зарядного устройства</string>
@@ -225,6 +230,8 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_tool_bluetooth_tx_h">Enter bluetooth single sound test（2.480GHz) mode</string>
      <string name="cit_tool_bluetooth_tx_l">Enter bluetooth single sound test（2.402GHz）mode</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cit_tool_cal_camera">Camera Calibration Tool</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_tool_enable_3A_log">Enable 3A log Switch</string>
      <string name="cit_tool_log">Отчеты</string>
      <string name="cit_tool_log_bugreport">Отчет об ошибке</string>
@@ -302,8 +309,6 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_usb_charger_out">USB кабель отключен</string>
      <string name="cit_version_check_summary">Аппаратное и програмные версии ПО</string>
      <string name="cit_version_check_title">Версия ПО</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cit_vga_camera_calibration">Calibration</string>
      <string name="cit_vga_camera_capture">Фотография</string>
      <string name="cit_vga_camera_capture_fail">Ошибка камеры</string>
      <string name="cit_vga_camera_delete">Удалить</string>

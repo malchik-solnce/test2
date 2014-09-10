@@ -157,6 +157,10 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="common_use_phrase_bottom_bar_point_txt">.</string>
      <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="common_use_phrase_bottom_bar_text_next">Next</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="common_use_phrase_bottom_bar_text_previous">Prev</string>
      <string name="common_use_phrase_bottom_bar_up_analytic_txt">Открыть</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="common_use_phrase_bottom_bar_www_txt">www.</string>

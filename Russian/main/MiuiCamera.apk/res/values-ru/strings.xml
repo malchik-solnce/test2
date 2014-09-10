@@ -439,6 +439,8 @@
      <string name="pref_video_focusmode_entry_continuous">Непрерывный</string>
      <string name="pref_video_focusmode_title">Режим фокусировки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_video_quality_entry_4kuhd">4K</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_video_quality_pad_default">6</string>
      <string name="pref_video_quality_title">Качество видео</string>
      <string name="pref_video_speed_entry_fast">Быстрая</string>
