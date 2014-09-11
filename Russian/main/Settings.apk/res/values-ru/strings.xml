@@ -1186,8 +1186,6 @@
      <string name="lock_intro_message">Lock_intro_message</string>
      <string name="lock_screen_unlock_show">Интерфейс ввода пароля</string>
      <string name="lock_screen_unlock_show_summary">Не используйте другие локскрины после включения, достаточно зайти в интерфейс для разблокировки экрана</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="lock_settings">Lock screen</string>
      <string name="lock_settings_common_title">Настройка блокировки</string>
      <string name="lock_settings_picker_settings">Установить блокировку экрана</string>
      <string name="lock_settings_picker_title">Тип блокировки</string>
@@ -1570,8 +1568,6 @@
      <string name="onscreen_keyboard_settings_summary">Настройки экранной клавиатуры</string>
      <string name="open_wifi_connect_summary">Нажмите, чтобы настроить</string>
      <string name="open_wifi_connect_title">Подключение к открытой сети %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="other_personal_settings">Additional settings</string>
      <string name="other_relative">ПРОЧИЕ</string>
      <string name="overlay_display_devices_title">Эмуляция доп. экранов</string>
      <string name="owner_info_settings_edit_text_hint">Введите текст</string>
@@ -2921,10 +2917,6 @@
      <string name="wimax_settings">Настройки 4G</string>
      <string name="window_animation_scale_title">Скорость анимации окон</string>
      <string name="wireless_networks_settings_title">Беспроводные сети</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="wireless_off">Off</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="wireless_on">On</string>
      <string name="wizard_back">Назад</string>
      <string name="wizard_finish">Готово</string>
      <string name="wizard_next">Далее</string>

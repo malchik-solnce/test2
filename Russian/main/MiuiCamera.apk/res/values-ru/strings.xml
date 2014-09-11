@@ -45,6 +45,8 @@
      <string name="cancel">Отмена</string>
      <string name="cannot_connect_camera_once">Невозможно подключится к камере. Перезайдите в приложение.</string>
      <string name="cannot_connect_camera_twice">Невозможно подключится к камере. Перезагрузите устройство.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cannot_move_warning_message">Taking picture, keep the device still</string>
      <string name="clear_effects">Убрать эффекты</string>
      <string name="close">Закрыть</string>
      <string name="cloud_album_details">Облачный альбом:</string>
@@ -175,6 +177,8 @@
      <string name="no_thumbnail">Нет миниатюр</string>
      <string name="not_enough_space">SD-карта заполнена</string>
      <string name="not_selectable_in_scene_mode">Недоступно в режиме съемки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="object_track_enable_toast">Slide on preview screen to enable object tracking.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
      <string name="orientation">Ориентация</string>
@@ -398,6 +402,8 @@
      <string name="pref_camera_touchafaec_entry_off">Выкл.</string>
      <string name="pref_camera_touchafaec_entry_on">Вкл.</string>
      <string name="pref_camera_touchafaec_title">АФ/АС по нажатию</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_ubifocus_title">Refocus</string>
      <string name="pref_camera_video_duration_entry_10">10 минут</string>
      <string name="pref_camera_video_duration_entry_120">2 часа</string>
      <string name="pref_camera_video_duration_entry_30">30 минут</string>
@@ -505,6 +511,8 @@
      <string name="simple_mode_button_text_hdr">Выйти</string>
      <string name="simple_mode_button_text_panorama">Выйти</string>
      <string name="simple_mode_button_text_slow_video">Выйти</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="simple_mode_button_text_ubifocus">Close Refocus Mode</string>
      <string name="simple_mode_title">Простой режим</string>
      <string name="slideshow">Слайдшоу</string>
      <string name="snapshot_lower_than_video">Размер снимка меньше, чем размер видео. Выберите разрешение выше или равное текущему размеру видео.</string>
@@ -527,6 +535,8 @@
      <string name="toast_burst_snap_forbidden_when_iso_not_auto">Серийная съемка не поддерживается при не автом. ISO</string>
      <string name="toast_cannot_preview_image_when_screen_locked">Невозможно посмотреть изображение или видео, когда экран заблокирован</string>
      <string name="toast_start_audio_capture">Похлопайте, чтобы сработал затвор</string>
+     <string name="ubi_focus_capture_fail">"Couldn't take picture"</string>
+     <string name="ubifocus_capture_warning_message">For best results, your picture should contain objects both near (less than 1 meter from the lens) and far</string>
      <string name="undo">Назад</string>
      <string name="unit_mm">мм</string>
      <string name="video_camera_label">Видеокамера</string>

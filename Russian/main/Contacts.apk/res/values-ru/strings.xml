@@ -195,8 +195,6 @@
      <string name="createContactShortcutSuccessful">Виджет контакта добавлен на рабой стол</string>
      <string name="create_group_dialog_title">Создание новой группы</string>
      <string name="create_group_item_label">Создать новую группу</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="create_qrcode_fail_message">Create QR Code failed</string>
      <string name="customLabelPickerTitle">Название ярлыка</string>
      <string name="custom_list_filter">Настройка отображения</string>
      <string name="custom_nickname_hint">Введите: М или Ж</string>
@@ -751,10 +749,6 @@
      <string name="profile_display_name">Настроить профиль</string>
      <string name="profile_name">Мой профиль</string>
      <string name="profile_name_photo">Я</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="qr_card_card">My QR Code</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="qrcode_card_title">QR code card</string>
      <string name="quickcontact_missing_app">Действие не поддерживается ни в одном приложении</string>
      <string name="quit_dialog_confirm_title">Выйти из режима объединения контактов?</string>
      <string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из различных аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>
@@ -878,8 +872,6 @@
      <string name="resource_exchange_wrong_format_by_local">Введен неправильный код</string>
      <string name="resource_exchange_wrong_format_by_server">Код не может быть подтвержден. Проверьте его и попробуйте еще раз.</string>
      <string name="resource_expand_full_text">Раскрыть</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_failed_to_load_list">Failed to load list</string>
      <string name="resource_get_auth_checking">Проверка авторизации…</string>
      <string name="resource_get_auth_exceed_max_limit_tips">Тема не может работать на текущем устройстве с Вашего аккаунта, т.к. ограничение составляет до 10 мобильных устройств каждый год. Пожалуйста, попробуйте другие аккаунты Xiaomi.</string>
      <string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
@@ -916,7 +908,6 @@
      <string name="resource_ringtone_playing_error">Ошибка проигрывания</string>
      <string name="resource_ringtone_volume_mute">Громкость мелодии отключена</string>
      <string name="resource_save_to_note">Сохранить в заметки</string>
-     <string name="resource_search_list_empty">"Coundn't find anything"</string>
      <string name="resource_see_more">Подробнее</string>
      <string name="resource_select">Выбрать</string>
      <string name="resource_selected">Лучшие</string>
@@ -942,6 +933,8 @@
      <string name="resource_trial_fail_message">Make sure your system clock is set to the correct time.</string>
      <string name="resource_trial_fail_title">"Couldn't set up trial session"</string>
      <string name="resource_trial_time">(до окончания %1$d мин.)</string>
+     <string name="resource_unable_to_access">"Unfortunately,
+the content you're looking for is not currently available in your region."</string>
      <string name="resource_unknow_error">Неизвестная ошибка</string>
      <string name="resource_update">Обн.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -956,10 +949,6 @@
      <string name="scan">сканировать устройство</string>
      <string name="scan_duplicate_message">Контакты с полным дублированием данных (%1$d)</string>
      <string name="scan_merge">Поиск возможных дубликатов контактов…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="scan_qrcode_card_hint1">Scan QR Code</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="scan_qrcode_card_hint2">Add my information to your contacts</string>
      <string name="scanning">Поиск устройств…</string>
      <string name="scanning_sdcard_failed_message">Не удалось просканировать SD-карту. Причина: %s.</string>
      <string name="scanning_sdcard_failed_title">SD-карта не просканирована</string>

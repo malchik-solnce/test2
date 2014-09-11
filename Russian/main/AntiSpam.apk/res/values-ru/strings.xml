@@ -114,8 +114,7 @@
      <string name="dlg_white_antispam_message">Добавить сообщение в белый список?</string>
      <string name="fw_blocked">Черный список</string>
      <string name="fw_blocked_count">Заблокировано</string>
-     <string name="fw_blocked_count_call">вызовов:%d и</string>
-     <string name="fw_blocked_count_sms">сообщений:%d</string>
+     <string name="fw_blocked_join">" and "</string>
      <string name="hint_antispam_mode_edit">Пользовательский режим</string>
      <string name="info_antispam_phone">Блокировать вызовы</string>
      <string name="info_antispam_phone_sms">Блокировать вызовы и сообщения</string>

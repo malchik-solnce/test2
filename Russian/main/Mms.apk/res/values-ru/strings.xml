@@ -82,8 +82,6 @@
      <string name="confirm_restore_positive">Восстановить</string>
      <string name="confirm_restore_title">Восстановить все выбранные сообщения?</string>
      <string name="confirm_send_mms">Один из получателей содержит адрес электронной почты. Это сообщение будет отправлено как MMS, что может привести к дополнительным расходам.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="context_menu_add_calendar">Show in Calendar</string>
      <string name="context_menu_add_contact">Добавить в контакты</string>
      <string name="context_menu_add_to_browser_favorite">Добавить в избранное браузера</string>
      <string name="context_menu_browse_web">Перейти</string>
@@ -204,14 +202,11 @@
      <string name="menu_edit">Изменить</string>
      <string name="menu_forward">Переслать</string>
      <string name="menu_lock">Заблокировать</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_more">More</string>
      <string name="menu_new_manual">Ввести номер вручную</string>
      <string name="menu_pick_from_contact">Выбрать из контактов</string>
      <string name="menu_preferences">Настройки</string>
      <string name="menu_unlock">Разблокировать</string>
      <string name="menu_view_contact">Просмотреть контакт</string>
-     <string name="menu_yellowpage">View %s</string>
      <string name="message_class_label">"Класс сообщений: "</string>
      <string name="message_details_title">Сведения о сообщении</string>
      <string name="message_download_failed_title">Не удалось загрузить сообщение</string>

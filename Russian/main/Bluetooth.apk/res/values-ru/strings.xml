@@ -9,14 +9,6 @@
      <string name="auth_notif_message">Введите ключ сеанса для %1$s</string>
      <string name="auth_notif_ticker">Запрос на аутентификацию Obex</string>
      <string name="auth_notif_title">Ключ сеанса</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="ble_device_connected">Device is connected</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bluetooth_no_devices_found">No nearby Bluetooth devices were found.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bluetooth_preference_found_devices">Available devices</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bluetooth_preference_scan_title">Scan for devices</string>
      <string name="bt_enable_cancel">Отмена</string>
      <string name="bt_enable_line1">Чтобы использовать службы Bluetooth, включите адаптер Bluetooth</string>
      <string name="bt_enable_line2">Включить Bluetooth?</string>
@@ -34,8 +26,6 @@
      <string name="defaultname">Автомобильный комплект</string>
      <string name="deleteAll_record">Удалить все записи</string>
      <string name="delete_record">Удалить запись</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="device_picker">Bluetooth device chooser</string>
      <string name="download_cancel">Остановить</string>
      <string name="download_fail_line1">Файл не получен</string>
      <string name="download_fail_line2">Файл: %1$s</string>
@@ -99,8 +89,6 @@
      <string name="permlab_bluetoothShareManager">Доступ к диспетчеру загрузки</string>
      <string name="permlab_bluetoothWhitelist">Белый список Bluetooth устройств</string>
      <string name="permlab_handoverStatus">Получать информацию о статусе передачи через BT</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="progress_scanning">Searching</string>
      <string name="start_server">Запустить TCP-сервер</string>
      <string name="status_canceled">Передача отменена пользователем</string>
      <string name="status_connection_error">Ошибка подключения</string>

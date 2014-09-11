@@ -344,23 +344,6 @@
      <string name="hot_rank_tag">Топ рейтинга</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ignore_manage">Ignored updates</string>
-     <string name="impunity_declaration">The GameCenter you are about to use may increase your data usage costs.Will you agree?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="impunity_declaration_agree">Agree</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="impunity_declaration_disagree">Disagree</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="impunity_declaration_not_remind">not remind next time</string>
-     <string name="impunity_declaration_quit">You cannot use GameCenter if you not allow to use data usage.Not allow to use Data usage?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="impunity_declaration_settings">data usage</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="impunity_declaration_summary">allow to use data usage</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="impunity_declaration_title">Declaration and Impunity</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="initial_activation_notification_content">The fastest millet mobile phone with the high game</string>
-     <string name="initial_activation_notification_title">Happiness is in the game center!</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="insert_image">InsertImage</string>
      <string name="install">уст.</string>

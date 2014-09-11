@@ -35,6 +35,8 @@
      <string name="err_type_systemapp">MIUI приложения</string>
      <string name="err_type_wifi">Wi-Fi</string>
      <string name="hot_problem">Распространенные ошибки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="hot_problem_empty">Empty</string>
      <string name="loading_apps">Загрузка списка…</string>
      <string name="loading_hot_problem">Загрузка…</string>
      <string name="menu_attach_screenshot">Прикрепить скриншот</string>
