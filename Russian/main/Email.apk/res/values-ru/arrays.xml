@@ -76,6 +76,10 @@
         <item>Только удалять</item>
         <item>Архивировать или удалять</item>
      </string-array>
+     <string-array name="send_inline_filter_array">
+        <item>@string/eas_outlook_email</item>
+        <item>@string/eas_hotmail_email</item>
+     </string-array>
      <string-array name="sync_status">
         <item>Сихронизовано</item>
         <item>Нет соединения</item>

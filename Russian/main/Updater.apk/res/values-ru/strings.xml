@@ -135,6 +135,8 @@
      <string name="not_recommend">"Wouldn't recommend"</string>
      <string name="now">Перезагрузить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="particular_build">Particular</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="paused_queued_for_network">Waiting for network connection</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="paused_queued_for_wifi">Waiting for WLAN connection</string>
