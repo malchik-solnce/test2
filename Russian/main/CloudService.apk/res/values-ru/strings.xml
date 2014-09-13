@@ -8,13 +8,28 @@
      <string name="alert_notif_title_dspt">Сервис синхронизации не включен</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_name">Mi Cloud</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_sync_off">App sync off</string>
      <string name="bad_authentication">Неверный пароль или имя пользователя</string>
      <string name="btn_return">Назад</string>
      <string name="button_cancel">Отмена</string>
      <string name="cloud_find_device">Поиск устройства</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_sync_setting_summary_standard">Use your mobile data connection to sync SMS, Contacts info, and call logs. Use WLAN to sync photos, videos, MMS, app data, Contact profile photos, and more.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_sync_setting_summary_wlan">Only sync when connected to WLAN</string>
      <string name="cmcc_micloud_dspt">Используй Mi Cloud для синхронизации данных, поиска устройства</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="contact">Contacts</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="current">Current</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="data_syncing">Always sync</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="detail">Details</string>
      <string name="disable_find_device_error">%1$s, ошибка отключения обнаружения устройства</string>
      <string name="enableAll">Включить все</string>
+     <string name="enable_cloud_service_notification">"You haven't enabled Mi Cloud"</string>
      <string name="enable_find_device_error">%1$s, ошибка включения обнаружения устройства</string>
      <string name="enable_micloud">Войти или создать аккаунт</string>
      <string name="enable_sync">Включить</string>
@@ -43,14 +58,30 @@
 При смене SIM-карты, будет отправлено сообщение для включения услуги."</string>
      <string name="find_device_stop_noise">Нажми OK, чтобы остановить сигнал</string>
      <string name="find_device_success_title">Поиск устройства</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="finish">Finish</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="flight_mode">Airplane mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="full_space">Not enough space</string>
      <string name="header_data_and_synchronization">Настройки сихронизации</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="i_know">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="internet">Internet</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="internet_disconnected">No data connection</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="less_flow_mode">Data saver</string>
      <string name="master_alert_notif_dspt_add">"%s haven't been synced."</string>
      <string name="master_alert_notif_dspt_no">"Everything's up to date."</string>
      <string name="master_alert_notif_title">Последняя синхронизация %s дн. назад</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud">Mi Cloud</string>
      <string name="micloud_dspt">Используй Mi Cloud для синхронизации данных, поиска устройства</string>
      <string name="micloud_dspt_provision">Используй Mi Cloud для синхронизации данных, поиска устройства и расскажи друзьям</string>
+     <string name="micloud_first_login_summary" />
+     <string name="micloud_first_login_title" />
      <string name="micloud_full_influence_dspt">"Все твои фотографии, видео, заметки и приложения будут сохранены в облаке. 
 
 Таким образом, при потере или повреждении устройства, все данные будут в безопасности.
@@ -65,14 +96,32 @@
      <string name="micloud_intro_02_part_02">Облачные сервисы синхронизируют контакты, сообщения, фотографии и другие данные</string>
      <string name="micloud_intro_03_part_01">Данные в MiCloud</string>
      <string name="micloud_intro_03_part_02">Управление данными, блокировка, очистка и т.д. на i.mi.com</string>
+     <string name="micloud_main_data_unsynced">%d not synced</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_main_last_sync_time">Last sync</string>
+     <string name="micloud_main_network_error">"Can't connect to the network. Check your network settings and try again."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_main_stop_sync">Stop sync</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_main_suggest_sync">Some items need to be synced with your Mi Cloud.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_main_sync_now">Sync now</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_main_sync_on_wifi">Use WLAN</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_main_sync_stop">Stop sync</string>
      <string name="micloud_more">Узнать больше</string>
      <string name="micloud_proceed">Продолжить</string>
      <string name="micloud_sec_dspt">и поделись этим с друзьями</string>
      <string name="micloud_space_full_influence"><u>Закончилось место в облаке?</u></string>
+     <string name="micloud_storage_usage" formatted="false">Used %s/Total space %s</string>
      <string name="micloud_title_dspt" formatted="false">"Всего: %s 
 занято: %s | свободно: %s"</string>
      <string name="micloud_title_dspt_remain">Осталось %s</string>
      <string name="micloud_title_full_dspt">Достигнут предел места в облаке</string>
+     <string name="micloud_unlogin_for_time_summary" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_unlogin_for_time_title">Enable Mi Cloud</string>
      <string name="micloud_upgrade_space">Добавить место</string>
      <string name="micloud_user_space_title">Место в облаке</string>
      <string name="micloud_user_space_usage">Облако</string>
@@ -85,24 +134,50 @@
      <string name="next">Далее</string>
      <string name="noRemind">Не напоминать</string>
      <string name="no_sim">SIM-карта не обнаружена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="normal">Normal</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="only_in_wlan">Only use WLAN to sync</string>
      <string name="other_settings">Другие настройки</string>
      <string name="password">Введи пароль</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="photo">Photos</string>
      <string name="pref_summary_sync_display_photo_on_wifi_only">Рекомендуется включить, иначе будет использоваться мобильный интернет</string>
      <string name="pref_title_sync_contacts_title">Синхронизация контактов</string>
      <string name="pref_title_sync_display_photo_on_wifi_only">Только по Wi-Fi</string>
      <string name="pref_title_sync_my_profile_title">Синхронизация профиля</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="remind_later">Remind me later</string>
      <string name="restoreSync">Восстановить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="setting">Settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sms">SMS</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="space">Storage</string>
      <string name="start_micloud">Начать</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="storage">Storage</string>
      <string name="sub_alert_notif_dspt_add">"%s haven't been synced."</string>
      <string name="sub_alert_notif_dspt_no">"Everything's up to date."</string>
      <string name="sub_alert_notif_title">Сервис синхронизации не включен</string>
      <string name="sub_sync_item_sms_summary">Рекомендуется включить, иначе будет использоваться мобильный интернет</string>
      <string name="sub_sync_item_sms_title_wifi_only">Только по Wi-Fi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync">Sync</string>
      <string name="sync_dspt">Включить синхронизацию</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_item_calllog_summary">Sync records of calls made and received on this phone</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_item_calllog_title">Sync call logs</string>
      <string name="sync_item_sms_summary">Прочитанные SMS сообщения будут автоматически синхронизироваться</string>
      <string name="sync_item_sms_title">Синхронизация сообщений</string>
      <string name="sync_off">Выкл.</string>
      <string name="sync_on">Вкл.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_setting">Sync settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_standard">Sync the small stuff</string>
      <string name="sync_sub_1_intl_sms">Для активации SIM-карты, будет отправлено одно международное сообщение</string>
      <string name="sync_sub_1_sms">Для активации SIM-карты, будет отправлено одно обычное сообщение</string>
      <string name="sync_sub_1_sms_1_intl_sms">Для активации SIM-карт, будет отправлено одно международное и одно обычное сообщение</string>
@@ -113,10 +188,18 @@
      <string name="sync_sub_dspt_provision">Просмотривай и управляй данными в любое время</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sync_sub_int_dspt">Activation text message is subject to international data charges.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="system_sync_off">System sync off</string>
      <string name="title_reg">Создание аккаунта</string>
      <string name="unactivated_user">Отключен</string>
      <string name="vcode">Проверочный код</string>
      <string name="verify">Проверить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi">WLAN</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_disconnected">No WLAN</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_sync">Wait for WLAN</string>
      <string name="wipe_data_dialog_msg_separator">, </string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="xiaomi_cloud_service">Mi Cloud</string>
