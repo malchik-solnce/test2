@@ -10,6 +10,8 @@
      <string name="action_item_download">Скачать</string>
      <string name="action_item_remove">Удалить</string>
      <string name="action_item_send">Отправить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="add_music">Add songs</string>
      <string name="album_search_title">Альбом</string>
      <string name="all_tracks">Вся музыка</string>
      <string name="all_tracks_short">Все</string>
@@ -50,7 +52,6 @@
      <string name="dialog_title_name_playlist">Название плейлиста</string>
      <string name="dialog_title_remove_tracks">Удалить</string>
      <string name="dialog_title_track_picker">Выберите треки</string>
-     <string name="dislike">Не нравится</string>
      <string name="done">Готово</string>
      <string name="download">Загрузить</string>
      <string name="download_auto_after_favorite_summary">Автоматическа загрузка избранных треков</string>
@@ -118,7 +119,6 @@
      <string name="favourite_music_left_half">To add songs to this playlist, tap the</string>
      <string name="favourite_music_right_half">"Favorite icon to the right of the song's title"</string>
      <string name="file_not_found">Файл не существует</string>
-     <string name="find_ktv">KTV консоль</string>
      <string name="find_music">Найти музыку</string>
      <string name="format_unsupported">Неподдерживаемый формат</string>
      <string name="fragment_more">Еще</string>
@@ -128,7 +128,6 @@
      <string name="fragment_title_channel">Радио</string>
      <string name="fragment_title_recommend">Рекомендуемое</string>
      <string name="function_error">"Well, this is embarrassing! This feature isn't ready yet (we're working on it)."</string>
-     <string name="go_to_add_music">Добавить~</string>
      <string name="high_quality">Высокое качество</string>
      <string name="higher_quality_music">Качественная музыка</string>
      <string name="higher_quality_music_summary">Слушай и скачивай в высоком качестве</string>
@@ -156,7 +155,6 @@
      <string name="lyric_open_other_connect">Загрузка текста песен, с помощью мобильного подключения к интернету</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="max_sleep_time">90</string>
-     <string name="mediaplaybacklabel">Музыка</string>
      <string name="metered_alert">Предупреждение использования данных</string>
      <string name="metered_alert_msg">"Using your data connection to stream music will increase your data usage. Be careful not to exceed your carrier plan's monthly limit as this may result in steep overage charges."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -168,7 +166,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="min_sleep_time">1</string>
      <string name="music_browser_label">Музыка</string>
-     <string name="music_picker_title">Выберите трек</string>
      <string name="music_settings">Настройки</string>
      <string name="my_account">Мой аккаунт</string>
      <string name="my_music">Устройство</string>
@@ -199,11 +196,14 @@
      <string name="playback_failed_no_title_by_bad_file">Невозможно проиграть трек. Не поддерживается формат файла.</string>
      <string name="playlist_deleted_message">Плейлист удален</string>
      <string name="playlist_renamed_message">Плейлист переименован</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="please_download_first">Please download first.</string>
      <string name="presonal_center">Настройки аакунта</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="project_device">Mi Box</string>
      <string name="quit_warining">Автоотключение через %d мин.</string>
      <string name="retry">Повтор</string>
+     <string name="ringtone_not_support">"The song's format is not supported."</string>
      <string name="search_hint">Поиск музыки</string>
      <string name="search_title">Поиск</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -215,7 +215,14 @@
      <string name="select_device">Выберите устройство</string>
      <string name="send_to">Отправить</string>
      <string name="send_to_title">Отправить в (%1$s)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="set_as_ring">Set To Ring</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="set_ringtones_failed">Failed to set ringtones.</string>
+     <string name="set_ringtones_successful">Successfully set %s as ringtones.</string>
      <string name="sleep_mode">Настройки выключения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sleep_mode_canceled">Sleep mode canceled</string>
      <string name="sleep_mode_summary">Используйте ползунок внизу, чтобы установить время</string>
      <string name="sleep_mode_title">Остановить по истечении времени</string>
      <string name="song_not_find">"Network is not allowed or song isn't on shelf. Unable to get resources currently"</string>
@@ -234,7 +241,6 @@
      <string name="track_list_control_edit_rename_playlist">Переименовать</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="track_list_control_play">Play</string>
-     <string name="track_list_descript_cover">Обложка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="track_main_fragment_tab_album">Album</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

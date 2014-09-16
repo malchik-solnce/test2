@@ -43,7 +43,11 @@
      <string name="compress_title">Архивация</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="connect_network_setting_des">Remind when accessing network</string>
      <string name="copy_failed">Ошибка копирования</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="copy_file_to_kuaipan">Copy file to Kuaipan</string>
      <string name="create_kuaipan_shortcut_pref">Создать ярлык на рабочем столе</string>
      <string name="create_new_folder_desctiption">Создание папки…</string>
      <string name="create_new_folder_failed">Не удалось создать папку</string>
@@ -72,6 +76,7 @@
      <string name="download_failed">Ошибка загрузки</string>
      <string name="download_link_completed">Я поделился %1$s через KuaiPan. Нажми на ссылку внизу для просмотра:</string>
      <string name="downloading">Загрузка</string>
+     <string name="downloading_in_3g">Downloading on 3G…</string>
      <string name="enable_sd_card">В настоящий момента SD-карта подключена к компьютеру и используется. Чтобы видеть ее содержимое, отключи режим накопителя.</string>
      <string name="error_filename_too_long">Имя файла слишком длинное</string>
      <string name="error_info_cant_send_folder">Папка не может быть передана</string>
@@ -83,6 +88,7 @@
      <string name="favorite_ringtone">Мелодии</string>
      <string name="favorite_screen_cap">Скриншоты</string>
      <string name="fileSizeSuffix">%1$s%2$s</string>
+     <string name="file_already_downlaoded">File saved to \"%1$s\"</string>
      <string name="file_info_canread">Чтение:</string>
      <string name="file_info_canwrite">Запись:</string>
      <string name="file_info_ishidden">Скрытый:</string>
@@ -106,6 +112,10 @@
      <string name="ftp_username_hint">Имя пользователя</string>
      <string name="gbk_summary">Если используется кодировка GBK, например, в Windows Explorer, выбери этот тип кодирования, чтобы избежать искажения текста на китайском языке</string>
      <string name="gigabyteShort">ГБ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="image_download">Download</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="image_share">Share</string>
      <string name="instruction">Адрес синхронизации:</string>
      <string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
      <string name="kilobyteShort">КБ</string>
@@ -166,6 +176,8 @@
      <string name="name_illegal">Имя не может быть пустым</string>
      <string name="net_lose_connected">Сеть недоступна, невозможно получить размер</string>
      <string name="networkView_notConnected">Нет доступных сетей</string>
+     <string name="network_connect_confirm_des">Using kuaipan will access network, agree?</string>
+     <string name="never_notify_network_connect">"Don't show me this again"</string>
      <string name="new_folder_name">Новая папка</string>
      <string name="no">Нет</string>
      <string name="no_enough_storage_indication">Не хватает места для вставки файла. Очисти место с помощью очистки или просто удалите большие файлы.</string>
@@ -182,7 +194,10 @@
 2. Загрузить (обновить файл в облаке)"</string>
      <string name="open_changed_file_title">Файл изменен</string>
      <string name="open_file_failed">не удалось открыть</string>
+     <string name="operate_confirm_in_3g">Use your mobile data connection to download this large file?</string>
      <string name="operating">Обработка…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="operation_agree">Agree</string>
      <string name="operation_cancel">Отмена</string>
      <string name="operation_compress">Архивация</string>
      <string name="operation_compressing">Архивация…</string>
@@ -214,6 +229,8 @@
      <string name="operation_rename_message">Введите новое имя</string>
      <string name="operation_resume">Начать</string>
      <string name="operation_resume_all">Начать все</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="operation_save">Save</string>
      <string name="operation_send">Отправить</string>
      <string name="operation_show_sys">Показать системные</string>
      <string name="operation_unfavorite">Из избранного</string>
@@ -257,9 +274,13 @@
      <string name="storage_usb">USB-накопитель</string>
      <string name="storage_warning">Внешний носитель не доступен</string>
      <string name="sys_size_enable">Включить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="system_alert">Remind</string>
      <string name="tab_category">Категории</string>
      <string name="tab_expand">Онлайн</string>
      <string name="tab_local">Телефон</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="tab_path">Path</string>
      <string name="tab_phone">Файлы</string>
      <string name="tab_sys_size">Общая память</string>
      <string name="terabyteShort">ТБ</string>
@@ -298,6 +319,8 @@
      <string name="user_guide_other_version">Скачай с mi.kuaipan.cn, войдя в аккаунт (%1$s)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="user_guide_save_file">Saving your files and pictures in Kuaipan.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_guide_summary">A brief overview</string>
      <string name="user_guide_upload_to_kuaipan">"С телефона,
 просто скопируй и вставь в Kuaipan"</string>
      <string name="utf8_summary">Тип кодировки по умолчанию</string>
