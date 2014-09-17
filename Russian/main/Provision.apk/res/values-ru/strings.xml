@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="agree">Agree</string>
      <string name="congratulation_label">Наслаждайтесь новым телефоном :)</string>
      <string name="congratulation_next">Начать работу</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="disagree">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ime_privacy_policy">Privacy Policy of selected keyboard</string>
+     <string name="ime_privacy_policy_no_network">"Can't connect to the internet. View the Privacy Policy for this keyboard at %s."</string>
      <string name="input_method_category">Выберите метод ввода по умолчанию, который будет использоваться при написании электронных писем, заметок, и т.д.. Сторонние клавиатуры можно установить позже.</string>
      <string name="input_method_setting">Настроить метод ввода</string>
      <string name="logo_congratulation">Вы все настроили!</string>
@@ -22,6 +29,11 @@
      <string name="pref_title_data_slot">Preferred data SIM card</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_title_voice_slot">Preferred voice SIM card</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="privacy_policy">Privacy Policy</string>
+     <string name="provision_inputmethod_policy_description">"View the selected keyboard's "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="provision_inputmethod_policy_description1">Privacy Policy</string>
      <string name="shut_down">Выключить</string>
      <string name="sim_card_detecting">Проверка SIM-карты…</string>
      <string name="sim_card_detection">SIM-карта не найдена</string>
@@ -31,5 +43,11 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="summary_not_set">Not set</string>
      <string name="summary_sim_card">Card %1$d%2$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="terms_of_use">Terms of Service</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="terms_of_use_label">You must agree to User Agreement and Privacy Policy before you can use MIUI.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_agreement">User Agreement</string>
      <string name="welcome">Добро пожаловать в</string>
 </resources>

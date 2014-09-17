@@ -85,7 +85,6 @@
      <string name="express_addressee_name">Имя адресата</string>
      <string name="express_addressee_region">Регион адресата</string>
      <string name="express_cancel_order">Отмена</string>
-     <string name="express_company_empty">Нет компаний</string>
      <string name="express_company_list_empty">Нет компаний</string>
      <string name="express_company_phone_prefix">Контакт:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -233,6 +232,10 @@ Custom service will contact you in a moment"</string>
      <string name="menu_add_black_list">Добавить в черный список</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_add_to_favorite">Add to favorites</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Dial IP call -->
      <string name="menu_call_ip_number">IP вызов (набрать %s)</string>
      <string name="menu_copy_text">Копировать в буфер обмена</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -252,6 +255,7 @@ Custom service will contact you in a moment"</string>
      <string name="navigation_search_no_city_list">Город не найден</string>
      <string name="navigation_search_positioning">Поиск местоположения…</string>
      <string name="navigation_search_positioning_failed">Выберите город</string>
+     <string name="nearby_average_price">Average %d RMB</string>
      <string name="nearby_no_yellow_page">Никого нет</string>
      <string name="nearby_yellow_page_title">Рядом</string>
      <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
@@ -330,8 +334,6 @@ Custom service will contact you in a moment"</string>
 Органы общественной безопасности, почтового сектора, электронной коммерции компании и курьерские компании не запрашивают информацию о банковыских картах и паролях."</string>
      <string name="remind_user_suspect_number_title">Остерегайся мошенников</string>
      <string name="scan">Сканировать</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="select">Select</string>
      <string name="select_package_before_buy">Выбери пакет для покупки</string>
      <string name="selected_category_format">%1$s (%2$d людей отметили, нажми для согласия)</string>
      <string name="send_shortcut_failed">Ошибка отправки</string>
@@ -342,6 +344,7 @@ Custom service will contact you in a moment"</string>
      <string name="sim1">SIM-карта 1</string>
      <string name="sim2">SIM-карта 2</string>
      <string name="sina_share_fail">Не удалось отправить</string>
+     <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
      <string name="sina_share_pendding">Отправка…</string>
      <string name="sina_share_success">Отправлено</string>
      <string name="sina_token_expired_warning">Weibo аккаунт истек: свяжи повторно</string>

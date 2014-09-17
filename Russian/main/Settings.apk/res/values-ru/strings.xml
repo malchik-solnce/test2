@@ -1132,7 +1132,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="later">Reboot later</string>
      <string name="launch_count_label">Подсчет</string>
-     <string name="launcher_settings_title">Рабочий стол</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="launching_cit">Launching cit, please wait.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -1641,7 +1640,6 @@
 	%d: 0 must: 0 -->
      <!-- Original string: Use %s -->
      <string name="preferred_application_warning_use_system">Отмена</string>
-     <string name="preferred_launcher_title">Рабочий стол</string>
      <string name="preferred_media_app_summary">Выберите аудиоплеер</string>
      <string name="preferred_sms_settings">Это приложение будет установлено по умолчанию для написания и чтения сообщений</string>
      <string name="preferred_sms_title">Приложение сообщений по умолчанию</string>
@@ -1938,7 +1936,6 @@
      <string name="search_key">кнопки</string>
      <string name="search_label">Настройки</string>
      <string name="search_language">язык</string>
-     <string name="search_launcher">лаунчер</string>
      <string name="search_led">индикаторы</string>
      <string name="search_network">сеть</string>
      <string name="search_power_mode">режим</string>
@@ -2073,6 +2070,8 @@
      <string name="sim_pin_enabled">PIN1 включен!</string>
      <string name="sim_pin_toggle">Блокировка SIM-карты</string>
      <string name="sim_pins_dont_match">PIN-коды не совпадают</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sim_radio_off">Not activated</string>
      <string name="sim_reenter_new">Введите новый PIN повторно</string>
      <string name="sim_status_title">Статус SIM</string>
      <string name="skip_label">Далее</string>

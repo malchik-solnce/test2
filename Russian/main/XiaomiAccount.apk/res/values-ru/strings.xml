@@ -93,6 +93,8 @@
      <string name="internet_comm">Сервис сообщений</string>
      <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
      <string name="loading">Loading…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="loading_mili_center">Loading Mi Credit</string>
      <string name="login">Войти</string>
      <string name="login_failed">Не удалось войти</string>
      <string name="login_instead_reg">Использовать этот номер телеофна</string>

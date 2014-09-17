@@ -185,6 +185,7 @@ Over %2$s users have already checked in to MIUI %3$s"</string>
 Over %2$s users have already checked in to MIUI %3$s"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sina_share_fail">Failed to send</string>
+     <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
      <string name="sina_share_pendding">Sending…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sina_share_success">Sent</string>
