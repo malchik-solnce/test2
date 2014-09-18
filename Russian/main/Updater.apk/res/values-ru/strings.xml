@@ -9,41 +9,28 @@
      <string name="apply_update_dialog_cancel_button">Отмена</string>
      <string name="apply_update_dialog_update_button">Обновление</string>
      <string name="apply_upload_info_message">Нажмите «Обновить», телефон будет автоматически перезагружен для применения обновлений</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="auto_update">Update automatically</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="autosetmode">Update settings</string>
      <string name="boot_recovery">В режим восстановления</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_text_check">Check</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_text_later_reboot">Reboot later</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_text_reboot">Reboot now</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_text_update">Update</string>
      <string name="cancel_download">Stop downloading this update?</string>
      <string name="cancel_download_buton_text">Отмена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="check_new_version">Check</string>
      <string name="check_update_policy">Настройки</string>
      <string name="check_update_when_wifi_available">Обновлять только по Wi-Fi</string>
      <string name="daily_build">ежедневная сборка</string>
      <string name="dialog_no">Нет</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dialog_ok">OK</string>
      <string name="dialog_yes">Да</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="download_again">Download again</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="download_cancel">Cancel</string>
      <string name="download_current_rom">Скачать полный пакет</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="download_diff">Download diff</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="download_error">Download error. Wait a minute or two and try again.</string>
      <string name="download_failed">"Couldn't download"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="download_full">Download full</string>
      <string name="download_title">Downloading (%s)</string>
      <string name="download_title_first">Getting update info…</string>
@@ -52,116 +39,76 @@
      <string name="emegency_build">Сборка:</string>
      <string name="experimental_build">Экспериментальная сборка</string>
      <string name="file_not_found_error_message">Запрошенный файл не найден</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="get_auto">Get Auto Mode</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="get_current">Get current</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="go_on_download">Continue</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="install">Install</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="install_failed">Update failed</string>
      <string name="install_file_explorer">Установите приложение Файлы</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="install_local">Install local</string>
      <string name="install_qq">"Get Tencent's Weibo app"</string>
      <string name="internal_build">Внутренняя сборка</string>
      <string name="later">Позже</string>
      <string name="loading">Requesting…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="log_share">Share</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_title_check_update">Only use WLAN to check for updates</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_title_current_version_log">Update summary</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_title_download_current_rom">Download update package</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_title_pick_rom_file">Select update package</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_title_recovery">Reboot to Recovery mode</string>
      <string name="miui_summary_has_new_version">"  An update is available  "</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="miui_summary_no_new_version">No updates available</string>
      <string name="miui_summary_now_version">"Current version "</string>
      <string name="monthly_build">ежемесячная сборка</string>
      <string name="my_rank">Update status:</string>
      <string name="network_error">Ошибка подключения к сети или сервер занят</string>
      <string name="new_updates_found_notification_title">Новое обновление системы!</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_log">No summary available</string>
      <string name="no_proper_updates">Для текущей версии обновлений нет</string>
      <string name="no_wifi_msg">"You're no longer connect to WLAN. Continuing to download over your mobile data connection will increase your data usage."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_wifi_title">Data usage warning</string>
      <string name="notification_downloading">Downloading update…</string>
      <string name="notification_new_version">Update to %s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="notification_reboot_btn">Reboot</string>
      <string name="notification_reboot_des">Reboot your device to update %s.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="notification_reboot_seccess_des">Tap to share update info.</string>
      <string name="notification_reboot_seccess_title">Device updated!</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="notification_reboot_title">Update complete</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="notification_share">Share</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="notification_update_new_version">Update available</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="notification_update_now">Update now</string>
      <string name="notification_updating">Updating…</string>
      <string name="now">Перезагрузить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="on_checking">Checking update</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="particular_build">Particular</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pause">Pause</string>
      <string name="progress_title_checking">Checking for updates…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="reboot">Reboot</string>
      <string name="reboot_to_new_system">Перезагрузиться в новую систему</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="repeat">Retry</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="set_auto">Set Auto Mode</string>
      <string name="set_installfail_full_msg">"Can't update at the moment. Touch \"OK\" to report this error to our engineers."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="set_installfail_msg">Downloading this update over your mobile data connection will increase your data usage.</string>
      <string name="set_installfail_title">Try to download update again?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="set_installfail_title_full">Update failed</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="set_network_msg">Connect to a WLAN network before downloading this update.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="set_network_title">Connect to network</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="set_only_wifi">Set Only WLAN Check</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="share">Share</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="share_qq">Post on Tencent Weibo</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="share_sina">Post on Sina Weibo</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="share_update">Share update info</string>
      <string name="share_update_content_sign">"I've updated MIUI to %1$s! I was the %2$s person to update. For the detailed changelog, go to %3$s"</string>
      <string name="share_update_content_unsign">"I've updated MIUI to %1$s! For the detailed changelog, go to %2$s"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sina_share_fail">Failed to send</string>
      <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
      <string name="sina_share_pendding">Sending…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sina_share_success">Sent</string>
      <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
      <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
      <string name="space_not_enough_msg">"There's not enough storage space on your device to download this update."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="space_not_enough_title">Not enough space</string>
      <string name="stable_build">стабильная сборка</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="test">Test</string>
      <string name="timer_title">Device will reboot in %d seconds.</string>
      <string name="top_secret_build">Секретная сборка</string>
@@ -171,21 +118,15 @@
      <string name="update_success">Поздравляем, обновление успешно</string>
      <string name="update_success_body">Current version: %s</string>
      <string name="update_success_title">Update complete!</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="upgrade_close">Close</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="upgrade_kernel">Your kernel is outdated</string>
      <string name="upgrade_kernel_msg">"The kernel of the version you're using doesn't match the latest version of MIUI's. You need upgrade your kernel manually. Refer to Xiaomi's upgrade tutorial: 
 "</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="user_begin">Download</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="user_intertup_download_msg">Downloads have been paused. You can unpause them any time in the Updater app.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="user_intertup_download_title">Update download paused</string>
      <string name="validate_pkg_failed_msg">"The update you downloaded doesn't match our data. Try downloading it again."</string>
      <string name="validate_pkg_failed_title">"Can't verify update"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="view_upgrade_tutorial">View</string>
      <string name="weekly_build">еженедельная сборка</string>
 </resources>
