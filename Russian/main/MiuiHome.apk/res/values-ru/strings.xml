@@ -29,11 +29,6 @@
      <string name="default_folder_title_security">Безопасность</string>
      <string name="default_folder_title_tools">Инструменты</string>
      <string name="default_name">По умол.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="disable">Disable</string>
-     <string name="disable_auto_start_format">Disable %s auto start</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="disable_auto_start_message">Disable auto start on boot.</string>
      <string name="edit_folder_title">Имя папки</string>
      <string name="editing_add_widget_tips">Добавление виджетов</string>
      <string name="editing_mode_title_empty">Выберите</string>

@@ -20,7 +20,6 @@
      <string name="category_document">Документы</string>
      <string name="category_favorite">Избранное</string>
      <string name="category_log">Журналы</string>
-     <string name="category_mirouter">Роутер</string>
      <string name="category_music">Музыка</string>
      <string name="category_other">Прочее</string>
      <string name="category_picture">Фото</string>
@@ -37,7 +36,6 @@
      <string name="clean_trash_box">Очистить корзину</string>
      <string name="cleaning">Очистка…</string>
      <string name="close">Закрыть</string>
-     <string name="colon">": "</string>
      <string name="compress_fail">Ошибка архивирования. Файл уже существует.</string>
      <string name="compress_message">Архивация в…</string>
      <string name="compress_title">Архивация</string>
@@ -112,10 +110,6 @@
      <string name="ftp_username_hint">Имя пользователя</string>
      <string name="gbk_summary">Если используется кодировка GBK, например, в Windows Explorer, выбери этот тип кодирования, чтобы избежать искажения текста на китайском языке</string>
      <string name="gigabyteShort">ГБ</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="image_download">Download</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="image_share">Share</string>
      <string name="instruction">Адрес синхронизации:</string>
      <string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
      <string name="kilobyteShort">КБ</string>
@@ -128,7 +122,6 @@
      <string name="kuaipan_tech_support">При поддержке Kingsoft Kuaipan</string>
      <string name="load_err">Ошибка загрузки</string>
      <string name="loading">Загрузка</string>
-     <string name="local_cache_size">Размер кэша: %s</string>
      <string name="login_reg_content">KuaiPan позволяет хранить файлы и синхронизировать их между несколькими устройствами</string>
      <string name="login_reg_content0">Ваш облачный диск KuaiPan</string>
      <string name="megabyteShort">МБ</string>
@@ -240,7 +233,6 @@
      <string name="petabyteShort">PB</string>
      <string name="phone">Устройство</string>
      <string name="pull_to_signin">Потяни вниз, чтобы войти в систему и получить место</string>
-     <string name="query_bind_state">Запрос состояния, подожди…</string>
      <string name="release_to_signin">Отпусти для входа</string>
      <string name="rename_description">Переименование…</string>
      <string name="rename_failed">Переименование %1$s не удалось</string>
@@ -281,13 +273,10 @@
      <string name="tab_local">Телефон</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tab_path">Path</string>
-     <string name="tab_phone">Файлы</string>
-     <string name="tab_sys_size">Общая память</string>
      <string name="terabyteShort">ТБ</string>
      <string name="toast_file_not_can_read">Этот тип файла не поддерживается</string>
      <string name="tools">Инструменты</string>
      <string name="trans_task">Передача</string>
-     <string name="trans_task_delete_confirm_message">Удалить выбранные задачи %1$d?</string>
      <string name="transing">Отправка</string>
      <string name="trash_box_capacity">Объем корзины: %1$s</string>
      <string name="trash_box_link">Посети pan.xiaomi.com для очистки корзины</string>
