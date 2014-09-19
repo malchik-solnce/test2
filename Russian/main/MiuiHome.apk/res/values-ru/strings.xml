@@ -2,6 +2,8 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="activity_not_found">Приложение не найдено</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_being_backup_message">App is being backed up.</string>
      <string name="application_name">Рабочий стол</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="apply_as_lock_wallpaper">OK</string>

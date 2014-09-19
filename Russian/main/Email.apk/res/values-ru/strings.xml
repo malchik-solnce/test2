@@ -591,6 +591,8 @@
      <string name="no">Нет</string>
      <string name="no_address_email">noaddressemail@123.com</string>
      <string name="no_application_found">Файл не поддерживается вашими приложениями</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_contacts">Empty</string>
      <string name="no_conversations">Нет сообщений</string>
      <string name="no_mails">Нет сообщений</string>
      <string name="no_matched_attachment">Нет подобранных вложений!</string>
