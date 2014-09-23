@@ -970,6 +970,7 @@
      <string name="forget_wifi_message">Забыть эту Wi-Fi сеть? Для подключения Вы будете должны ввести пароль.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="found_new_version">Update available</string>
+     <string name="free_wifi_agreement_remind_never">"Don't show again"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="free_wifi_confirm">OK</string>
      <string name="free_wifi_connect">Подключиться</string>
@@ -987,6 +988,12 @@
      <string name="free_wifi_manage_summary">Нажми, чтобы посмотртеь %1$s</string>
      <string name="free_wifi_speed_title">Медленное подключение?</string>
      <string name="free_wifi_summary">Бесплатный Wi-Fi, при поддержке %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="free_wifi_user_agreement">When you use WiWide to connect to a network, your phone number will be used to verify your identity.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="free_wifi_user_agreement_allow">Agree</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="free_wifi_user_agreement_title">Terms of Use</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="free_wifi_wiwide_provider">WiWide</string>
      <string name="frequently_fragment_delete">Удалить</string>
@@ -2286,6 +2293,7 @@
      <string name="trackball_settings">Трекбол</string>
      <string name="trackball_wake_title">Пробуждение от трекбола</string>
      <string name="transition_animation_scale_title">Скорость переходов</string>
+     <string name="translation_contributors_summary" />
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="translation_contributors_title">Contributors</string>
      <string name="trusted_credentials">Надежные сертификаты</string>

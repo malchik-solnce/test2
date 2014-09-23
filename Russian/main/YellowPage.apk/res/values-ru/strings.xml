@@ -109,6 +109,8 @@
      <string name="express_inquiry_delete_warning_multiple">Удалить %d выбранных записей?</string>
      <string name="express_inquiry_delete_warning_single">Удалить выбранные записи?</string>
      <string name="express_inquiry_delivered">Доставлено</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="express_inquiry_edit_logistics">Courier</string>
      <string name="express_inquiry_history">История</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_inquiry_history_remark">Remark</string>
@@ -117,8 +119,9 @@
      <string name="express_inquiry_internal_failure">"Произошла ошибка.
 Проверь номер отслеживания."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="express_inquiry_logistics_empty">Please select logistics.</string>
-     <string name="express_inquiry_logistics_indication">Служба доставки</string>
+     <string name="express_inquiry_logistics">Select a courier service</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="express_inquiry_logistics_select_others_indication">Other</string>
      <string name="express_inquiry_no_history">Пусто</string>
      <string name="express_inquiry_no_result">Нет результатов</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -193,6 +196,8 @@ Custom service will contact you in a moment"</string>
      <string name="express_submit_order">Submit</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_tracking_number">Tracking number</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="express_urge_order">Urge</string>
      <string name="express_view_order">Просмотр заказов</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_view_status">Track</string>
