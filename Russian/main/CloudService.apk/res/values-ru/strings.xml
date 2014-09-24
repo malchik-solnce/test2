@@ -66,6 +66,8 @@
      <string name="full_space">Not enough space</string>
      <string name="header_data_and_synchronization">Настройки сихронизации</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="header_other_settings">Others</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="i_know">OK</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="internet">Internet</string>

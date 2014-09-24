@@ -265,6 +265,10 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="tc_sms_report_get_sms2">Get SMS</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tc_sms_report_get_sms_again">Refresh SMS</string>
+     <string name="tc_sms_report_get_sms_failure">"Couldn't get data usage SMS format"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="tc_sms_report_get_sms_successs">Data usage SMS format updated</string>
+     <string name="tc_sms_report_get_sms_timeout">"Couldn't get data SMS format: timed out"</string>
      <string name="tc_sms_report_get_success">"Received data usage report SMS from carrier. Make sure it's accurate and submit it to us."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tc_sms_report_get_success_notify_body">Make sure the report is accurate and submit it to MIUI.</string>
@@ -290,6 +294,9 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="tc_sms_report_send_num">Carrier phone number</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tc_sms_report_summary">Help us improve this feature by sending a report when your data usage info is incorrect or fails to update</string>
+     <string name="tc_sms_report_tips_dialog_message">"Data usage uses a specially formatted SMS to get your latest data usage from your carrier. If this feature isn't working normally, try updating the data usage SMS format. The new updated format will then be uploaded to our servers."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="tc_sms_report_tips_dialog_title">Data usage report SMS</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tc_sms_report_title">Report data usage bug</string>
      <string name="tc_sms_report_upload_success">"Data usage report SMS submitted. We'll get right on it!"</string>

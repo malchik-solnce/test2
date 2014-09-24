@@ -528,6 +528,8 @@
      <string name="msim_not_set_summary">Не выбрано</string>
      <string name="msim_pref_title_data">Настройки интернета</string>
      <string name="msim_pref_title_voice">Настройки телефона</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="msim_set_icc_card_error">ICC card error</string>
      <string name="msim_set_sub_not_supported_phone_in_call">Недоступно во время вызова</string>
      <string name="msim_set_sub_not_supported_slot_id_error">Ошибка SIM-карты. Повторите позже.</string>
      <string name="msim_setting_categery_title">Информация SIM-карты</string>

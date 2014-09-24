@@ -121,6 +121,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="view_indexes_title_wind">Wind power</string>
      <string name="view_indexes_wind_unit">km/h</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="view_sun_titile">Sunrise and sunset</string>
      <string name="weather_unit">°</string>
      <string name="weather_unit_middle">~</string>
      <string name="weather_unit_with_c">°C</string>

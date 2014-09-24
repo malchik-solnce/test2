@@ -19,6 +19,8 @@
      <string name="accessibility_more_ptions_closed">Дополнительные настройки отключены</string>
      <string name="accessibility_more_ptions_opened">Дополнительные настройки включены</string>
      <string name="accessibility_open_more_ptions">Вкл. доп. настройки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="accessibility_panorama_review_cancel">Panorama Cancel Saving</string>
      <string name="accessibility_review_thumbnail">Недавние фото</string>
      <string name="accessibility_scroll_button_slider">Camera-Video-Switcher</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -30,6 +32,10 @@
      <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
      <string name="accessibility_skin_beautify_closed">Усилитель тона кожи отключен</string>
      <string name="accessibility_skin_beautify_opened">Усилитель тона кожи включен</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="accessibility_video_capture_button">VideoCaptureButton</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="accessibility_video_pause_button">VideoPauseButton</string>
      <string name="accessibility_zoom_control">Приближение</string>
      <string name="albums">Альбомы</string>
      <string name="aperture">Апертура</string>
@@ -286,8 +292,6 @@
      <string name="pref_camera_focusmode_entry_manual">Ручной</string>
      <string name="pref_camera_focusmode_entry_normal">Обычный</string>
      <string name="pref_camera_focusmode_title">Режим фокусировки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_front_fb_title">Enhance skin tones</string>
      <string name="pref_camera_hand_night_title">Сумерки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_hdr_title">HDR</string>
@@ -478,7 +482,6 @@
      <string name="resume_playing_restart">Сначала</string>
      <string name="resume_playing_resume">Возобновить</string>
      <string name="resume_playing_title">Воспроизведение</string>
-     <string name="review_cancel">Отмена</string>
      <string name="rotate_left">Повернуть влево</string>
      <string name="rotate_right">Повернуть вправо</string>
      <string name="save">Сохранить</string>
