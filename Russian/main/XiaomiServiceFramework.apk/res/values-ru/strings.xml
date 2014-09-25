@@ -2,6 +2,8 @@
 <!-- Builded with CloudBuildr -->
 <resources>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate">Activate</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="activate_feature_call_log_sync">Call log sync</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="activate_feature_find_device">Find device</string>
@@ -59,8 +61,16 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="activate_popup_title_failed_server">Activation failed</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Activate %s -->
      <string name="activate_popup_title_manual">SIM card activation</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Reactivate %s -->
      <string name="activate_popup_title_new_sim_card">New SIM Card Activation</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="activate_popup_title_register_account">Register account</string>

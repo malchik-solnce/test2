@@ -5,6 +5,7 @@
      <string name="about_title">О приложении</string>
      <string name="about_version_label">Версия</string>
      <string name="actor_colon">Актеры:</string>
+     <string name="ad_countdown">广告剩余: %s 秒</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ad_moredetail">more detail</string>
      <string name="add_favorite_success">Добавлено</string>

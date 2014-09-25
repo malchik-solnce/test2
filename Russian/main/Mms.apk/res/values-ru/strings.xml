@@ -254,9 +254,6 @@
      <string name="mx_activate_int_hint_malformed_info">Ваши личные данные повреждены. Требуется отправка международного SMS для повторной активации облачных сообщений. Активировать?</string>
      <string name="mx_activate_int_hint_server">Сервер отклонил запрос активации. Требуется отправка международного SMS для повторной активации облачных сообщений. Активировать?</string>
      <string name="mx_activate_int_hint_sim_change">SIM-карта изменилась. Требуется отправка международного SMS для повторной активации облачных сообщений. Активировать?</string>
-     <string name="mx_activate_int_popup_msg">MiMessaging позволяет пользователям MIUI отправлять друг другу сообщения без использования мобильного интернета</string>
-     <string name="mx_activate_popup_msg">MiMessaging позволяет пользователям MIUI отправлять друг другу сообщения без использования мобильного интернета</string>
-     <string name="mx_activation_done">Облачные сообщения включены</string>
      <string name="mx_auto_resend_mms">Отправить как MMS</string>
      <string name="mx_auto_resend_mms_summary">Отправлять сообщения как MMS, когда облачные сообщения не доступны</string>
      <string name="mx_auto_resend_sms">Отправить как SMS</string>
@@ -268,15 +265,14 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="mx_current_status">Статус: онлайн</string>
      <string name="mx_dspt">Отправка сообщений через интернет</string>
      <string name="mx_enable">Облачные сообщения</string>
-     <string name="mx_enable_int_popup_msg">Облачные сообщения позволяют обмениваться сообщениями между пользователями MIUI. Для активации будет отправлено международное SMS. Стоимость сообщения зависит от оператора. Активировать сейчас? Вы сможете активировать позже в Настройках.</string>
      <string name="mx_enable_popup_msg">Облачные сообщения позволят Вам обмениваться сообщениями с другими пользователями MIUI. Требуется отправка обычного SMS сообщения для активации. Активировать сейчас?</string>
-     <string name="mx_int_warning_notice">Для активации облачных сообщений будет отправлено международное SMS. Стоимость сообщения зависит от оператора.</string>
      <string name="mx_msg">Облачные сообщения</string>
      <string name="mx_offline">Не в сети</string>
+     <string name="mx_on_sim_1">Mi Messaging with SIM slot %s</string>
+     <string name="mx_on_sim_2">Mi Messaging with SIM slot %s</string>
      <string name="mx_online">В сети</string>
      <string name="mx_reactivate">Повторное активирование облачных сообщений</string>
      <string name="mx_recommend_msg">Включи облачные сообщения. Нажми кнопку включить и бесплатно отправляй сообщения.</string>
-     <string name="mx_warning_notice">Будет отправлено SMS для активации облачных сообщений</string>
      <string name="need_download">Ожидание синхронизации…</string>
      <string name="new_message">Новое сообщение</string>
      <string name="new_message_arrived">Получено новое сообщение</string>

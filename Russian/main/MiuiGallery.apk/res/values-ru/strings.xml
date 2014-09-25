@@ -261,6 +261,14 @@
      <string name="immomo_camera">Immomo</string>
      <string name="import_complete">Импорт завершен</string>
      <string name="import_fail">Сбой импорта</string>
+     <string name="impunity_declaration">Gallery may connect to network to provide service, including but not only Internet. Confirm to continue?</string>
+     <string name="impunity_declaration_ignore">"Don't show again"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="impunity_declaration_settings">Show network notice</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="impunity_declaration_summary">Show network notice every time when launch Gallery app</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="impunity_declaration_title">Network notice</string>
      <string name="initial_cloud_button_text">Попробовать</string>
      <string name="initial_cloud_text">Организовывайте и просматривайте свои фотографии</string>
      <string name="initializing_cloud">Запуск облачного альбома…</string>

@@ -2,6 +2,11 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="about_device">Сведения о системе</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="active_xiaomi_account">Active</string>
+     <string name="active_xiaomi_account_msg">To activate your Mi Account, go to https://account.xiaomi.com/pass/serviceLogin.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="active_xiaomi_account_title">Activate Mi Account</string>
      <string name="app_name">Обновление</string>
      <string name="apply_later_button_text">Обновить позже</string>
      <string name="apply_now_button_text">Обновить</string>
@@ -12,7 +17,11 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="auto_update">Update automatically</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="auto_update_sum">Automatically choose the best times to download updates</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="autosetmode">Update settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="best_update">Best update so far</string>
      <string name="boot_recovery">В режим восстановления</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_text_check">Check</string>
@@ -28,6 +37,19 @@
      <string name="check_new_version">Check</string>
      <string name="check_update_policy">Настройки</string>
      <string name="check_update_when_wifi_available">Обновлять только по Wi-Fi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="check_update_when_wifi_available_sum">Only use WLAN to check for updates</string>
+     <string name="comment_invalid">Rate this update (touch the stars)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_publish">Submit</string>
+     <string name="comment_sending">Sending…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_upload_failed">Failed to send comment</string>
+     <string name="comment_upload_hint">Thank you for your feedback!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_upload_not_logined">You need to sign in to your Mi Account first</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_upload_success">Sent</string>
      <string name="daily_build">ежедневная сборка</string>
      <string name="dialog_no">Нет</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -49,13 +71,29 @@
      <string name="download_title_first">Getting update info…</string>
      <string name="download_title_full_download">Getting package info…</string>
      <string name="downloading_description">Скачивание…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="edit_comment">Add comments</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="edit_comment_title">Edit comment</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="edit_text_default">Write a comment</string>
      <string name="emegency_build">Сборка:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="expect">Expectations</string>
      <string name="experimental_build">Экспериментальная сборка</string>
      <string name="file_not_found_error_message">Запрошенный файл не найден</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="finish">Finish</string>
+     <string name="fourgrid_hint_text">Thanks for using the developer build of MIUI! Tell us what you think and help make us MIUI better.</string>
+     <string name="fourgrid_no_notificaiont">"Don't show in status bar"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="fourgrid_notificaiont">Show in status bar</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="get_auto">Get Auto Mode</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="get_current">Get current</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="get_update_error">Failed to get update info</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="go_on_download">Continue</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -86,9 +124,19 @@
      <string name="miui_summary_no_new_version">No updates available</string>
      <string name="miui_summary_now_version">"Current version "</string>
      <string name="monthly_build">ежемесячная сборка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="my_best_update">Best update</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="my_expect_update">Expectations</string>
      <string name="my_rank">Update status:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="my_update_feel">My feedback</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="my_worst_update">Worst update</string>
      <string name="network_error">Ошибка подключения к сети или сервер занят</string>
      <string name="new_updates_found_notification_title">Новое обновление системы!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="next">Next</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_log">No summary available</string>
      <string name="no_proper_updates">Для текущей версии обновлений нет</string>
@@ -119,6 +167,8 @@
      <string name="particular_build">Particular</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pause">Pause</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="previous">Previous</string>
      <string name="progress_title_checking">Checking for updates…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="reboot">Reboot</string>
@@ -162,12 +212,34 @@
      <string name="space_not_enough_title">Not enough space</string>
      <string name="stable_build">стабильная сборка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="submit">Submit</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="submit_fail">Submit fail</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="submit_progress">Submiting</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="submit_success">Submit success</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="test">Test</string>
      <string name="timer_title">Device will reboot in %d seconds.</string>
      <string name="top_secret_build">Секретная сборка</string>
      <string name="unkown_error_title">Something went wrong…</string>
      <string name="unstable_build">Нестабильная сборка</string>
+     <string name="update_comment_hint" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="update_comment_title">Comment</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="update_feedback">Update feedback</string>
+     <string name="update_feedback_end">"You missed this week's four-grid"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="update_feedback_end_sum">You can join in every Tuesday.</string>
+     <string name="update_feedback_expired">"You missed this week's four-grid feedback round.
+But you can take part next Tuesday"</string>
+     <string name="update_feel">What do you think?</string>
+     <string name="update_general">So-so</string>
+     <string name="update_happy">Awesome!</string>
      <string name="update_monthly_build_only">Только ежемесячные обновления</string>
+     <string name="update_sad">Meh (not good)</string>
      <string name="update_success">Поздравляем, обновление успешно</string>
      <string name="update_success_body">Current version: %s</string>
      <string name="update_success_title">Update complete!</string>
@@ -188,4 +260,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="view_upgrade_tutorial">View</string>
      <string name="weekly_build">еженедельная сборка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="worst_update">Worst update so far</string>
 </resources>

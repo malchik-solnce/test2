@@ -1,6 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+     <string name="account">帐号</string>
+     <string name="account_access_denied">访问受限</string>
+     <string name="account_activating">正在激活...</string>
+     <string name="account_alert_title_remove_account">删除帐户</string>
+     <string name="account_app_name">小米服务框架</string>
+     <string name="account_bad_authentication">用户名密码不匹配</string>
+     <string name="account_btn_reg">注册账户</string>
+     <string name="account_button_cancel">取消</string>
+     <string name="account_checking_account">正在验证...</string>
+     <string name="account_completed">完成</string>
+     <string name="account_confirm">确定</string>
+     <string name="account_data_keep_in_phone">保留在我的手机上</string>
+     <string name="account_data_wipe_from_phone">从手机上删除</string>
+     <string name="account_dspt">"小米帐户可以同步备份短信、
+联系人、照片等各种手机数据"</string>
+     <string name="account_email_already_be_used">邮箱已被注册</string>
+     <string name="account_error_dup_phone">该电话号码已被注册</string>
+     <string name="account_error_network">当前网络不可用</string>
+     <string name="account_error_no_sms_service">短信服务不可用</string>
+     <string name="account_error_server">服务器出错</string>
+     <string name="account_error_sim_not_ready">SIM卡未就绪</string>
+     <string name="account_error_unknown">未知错误:%1$s</string>
+     <string name="account_failed_to_send_activate_email">发送激活邮件失败</string>
+     <string name="account_find_password_on_web_msg">请访问 account.xiaomi.com 找回密码</string>
+     <string name="account_forget_password">忘记密码</string>
+     <string name="account_hint_text">邮箱/手机号码/小米ID</string>
+     <string name="account_i_know">我知道了</string>
+     <string name="account_input_password_hint">请输入帐户密码</string>
+     <string name="account_login">登 录</string>
+     <string name="account_login_failed">登录失败</string>
+     <string name="account_login_notice">登录中...</string>
+     <string name="account_micloud_account">小米帐户</string>
+     <string name="account_micloud_account_label">帐户:%1$s</string>
+     <string name="account_micloud_account_name">小米帐户</string>
+     <string name="account_micloud_account_not_actived">帐户未激活</string>
+     <string name="account_micloud_active_email_sent_1">我们已向您的邮箱</string>
+     <string name="account_micloud_active_email_sent_2">发送了一封验证邮件</string>
+     <string name="account_micloud_active_email_visit">请访问 %s</string>
+     <string name="account_micloud_activing_account">正在激活您的帐户，请稍候...</string>
+     <string name="account_micloud_click_email">点击邮件中的链接就可以激活您的</string>
+     <string name="account_micloud_click_email_to_valid">点击邮件中的链接完成激活</string>
+     <string name="account_micloud_confirm_logout_account">确定注销帐户？</string>
+     <string name="account_micloud_delete_account">删除帐户</string>
+     <string name="account_micloud_email">请输入您的邮箱地址</string>
+     <string name="account_micloud_error_email">邮箱格式不正确</string>
+     <string name="account_micloud_error_empty_pwd">密码不能为空</string>
+     <string name="account_micloud_error_empty_username">用户名不能为空</string>
+     <string name="account_micloud_error_illegal_pwd">密码格式错误</string>
+     <string name="account_micloud_input_password_prompt">请设置帐户密码</string>
+     <string name="account_micloud_logout_account">注销帐户</string>
+     <string name="account_micloud_password_confirm_hint">再次确认密码</string>
+     <string name="account_micloud_password_error_inconsistent">密码不一致</string>
+     <string name="account_micloud_password_req_notice">您的密码长度必须为8－16字符，且必须包含一个数字、一个字母。可以使用特殊符号，字母区分大小写。</string>
+     <string name="account_micloud_reg_new">注册新帐户</string>
+     <string name="account_micloud_resend_active_email">重发验证邮件</string>
+     <string name="account_micloud_use_existing">使用已有帐户登录</string>
+     <string name="account_micloud_val_sms_alert">系统将发送一条验证短信，是否继续？</string>
+     <string name="account_micloud_welcome_skip_login"><u>跳过此步骤</u></string>
+     <string name="account_mili_center">米币中心</string>
+     <string name="account_name">帐户:%1$s</string>
+     <string name="account_next">下一步</string>
+     <string name="account_password">密码</string>
+     <string name="account_prev">上一步</string>
+     <string name="account_quick_login_title">"系统需要验证您的小米帐户，
+请输入您的帐户密码"</string>
+     <string name="account_reg_by_email_failure">注册失败： %1$s</string>
+     <string name="account_reg_failed">注册失败</string>
+     <string name="account_reg_type_email">用邮箱注册</string>
+     <string name="account_reg_type_phone">用本手机号码注册（推荐）</string>
+     <string name="account_relogin">重新登录</string>
+     <string name="account_remove_account_notice">帐户删除后，您要如何处理手机上的短信和联系人？</string>
+     <string name="account_remove_confirm">确认删除</string>
+     <string name="account_remove_unactivated_account_notice">小米帐户还未激活，确认要删除？</string>
+     <string name="account_skip_login">跳过登录</string>
+     <string name="account_skip_setup_account_msg">使用小米帐户可以同步备份短信、联系人、照片等各种手机数据。确认要跳过帐户设置吗？</string>
+     <string name="account_skip_setup_account_title">跳过帐户设置</string>
+     <string name="account_title_reg">注册小米帐户</string>
+     <string name="account_unactivated_user">未激活</string>
+     <string name="account_user_agreement_p1">"登录帐户即表示您同意遵守
+小米帐户的"</string>
+     <string name="account_user_agreement_p2">用户协议</string>
+     <string name="account_user_agreement_p3">和</string>
+     <string name="account_user_agreement_p4">隐私条款</string>
+     <string name="account_user_agreement_p5">"注册帐户即表示您同意遵守
+小米帐户的"</string>
      <string name="all_cities">Все города</string>
      <string name="app_name">Магазин</string>
      <string name="app_version">Версия:Beta V%1$s</string>
@@ -34,6 +119,10 @@
      <string name="deadline">Истекает:%1$s-%2$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="delete">Delete</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="experimental_validate">Validate</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="experimental_validate_fail">Validate failed, please try again</string>
      <string name="extend">Развернуть</string>
      <string name="feedback_contact">Связаться</string>
      <string name="feedback_contact_subtitle">Введи номер телефона, и мы свяжемся с тобой как можно скорее!</string>
@@ -114,7 +203,14 @@
      <string name="location_dialog_content">您之前选择的城市是%1$s，定位发现您可能在%2$s，是否切换当前城市到%2$s？</string>
      <string name="location_dialog_title">是否切换至%1$s？</string>
      <string name="location_distance">Расстояние</string>
+     <string name="location_left_button">取消</string>
+     <string name="location_no_content">您已经关闭了位置服务，开启可以获得更准确的周边推荐，请点击设置，并开启位置服务。</string>
+     <string name="location_no_title">获得更准确的推荐</string>
+     <string name="location_right_button">设置</string>
      <string name="location_toast">您可以在『我的小米生活』中更改城市</string>
+     <string name="logout_cancel">取消</string>
+     <string name="logout_ok">退出登录</string>
+     <string name="logout_title">您已经登陆账号%1$s，是否退出登录？</string>
      <string name="lottery_announcement_title">中奖用户信息</string>
      <string name="lottery_in">已参与</string>
      <string name="lottery_info">抽奖号:%1$s</string>
@@ -123,6 +219,7 @@
      <string name="lottery_run">已开奖</string>
      <string name="map_choose_title">Выбери карту</string>
      <string name="merchant_phone">Телефон：%1$s</string>
+     <string name="micloud_active_sms_status_wait">Please wait a minute…</string>
      <string name="mini_agree">同意</string>
      <string name="mini_app_error">系统繁忙，请稍后再试。</string>
      <string name="mini_canel_install_msp">你已取消安装移动快捷支付。</string>
@@ -303,6 +400,204 @@
      <string name="mini_weakpassword_error_serial">请不要使用连续的数字</string>
      <string name="mini_web_title">标题</string>
      <string name="mini_widget_label_input">mini_widget_label_input</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_add_bank_card">Bank card</string>
+     <string name="mipay_agreement">Agree to %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_alipay">Alipay</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_alipay_error">Alipay failed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_app_name">Bank cards</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_bank_card_cvv2">CVV2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_bank_card_cvv2_hint">CVV2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_bank_card_hint">Please enter account number</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_bank_card_id_card">ID card no.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_bank_card_id_card_hint">ID card no. associated with the account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_bank_card_info_error">Please check your bank card information</string>
+     <string name="mipay_bank_card_item">%1$s (Card no. %2$s)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_bank_card_logo_desc">Bank logo</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_bank_card_name">Name</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_bank_card_name_hint">Name associated with the account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_bank_card_number_error">Please check your account number</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_bank_card_phone">Phone</string>
+     <string name="mipay_bank_card_phone_hint">"Bank account's corresponding personal phone number"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_bank_card_safe_info">This service is encrypted and authorized by Xiaomi and Bank</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_bank_card_support_list">Supported banks</string>
+     <string name="mipay_bank_card_tail_number">Card no. %1$s</string>
+     <string name="mipay_bank_card_type">%1$s-%2$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_bank_card_type_credit">Credit card</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_bank_card_type_debit">Debit card</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_bank_card_valid_date">Expiration Date</string>
+     <string name="mipay_bank_card_valid_date_hint">MM/YY</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_bank_cards">Bank cards</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_bank_cards_add">Add bank card</string>
+     <string name="mipay_bank_cards_item_bank_number">**** **** **** %1$s</string>
+     <string name="mipay_bank_cards_item_bank_title">%1$s%2$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_bank_cards_title">My bank cards</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_button_cancel">Cancel</string>
+     <string name="mipay_button_count_down">Inquire after %1$s seconds</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_button_done">Done</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_button_finish">Finish</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_button_next">Next</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_button_ok">Confirm</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_button_pay">Pay</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_button_unbind_bank_card">Unbind</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_button_update">Update</string>
+     <string name="mipay_cancel_bind_bank_card">Give up binding bank card?</string>
+     <string name="mipay_cancel_forget_password">Give up finding out your payment password?</string>
+     <string name="mipay_cancel_modify_password">Give up modifying your payment password?</string>
+     <string name="mipay_cancel_pay">Give up purchasing?</string>
+     <string name="mipay_cancel_unbind_bank_card">Give up unbinding bank card?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_check_login_password_summary">Please enter your Xiaomi account password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_check_order_title">Counter</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_check_password_summary">Please enter your payment password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_check_personal_info_error">Please check your personal information</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_check_personal_info_id_card">ID card no.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_check_personal_info_id_card_hint">Your ID card no.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_check_personal_info_name">Name</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_check_personal_info_name_hint">Your name</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_check_personal_info_phone">Phone</string>
+     <string name="mipay_check_personal_info_phone_hint">"Bank account's corresponding phone number"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_check_sms_captcha_hint">Please enter verification code</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_check_sms_captcha_resend">Resend</string>
+     <string name="mipay_check_sms_captcha_summary">Verification code has been sent to your phone %1$s</string>
+     <string name="mipay_check_sms_captcha_wait">%1$ssec</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_common_license">User Agreement</string>
+     <string name="mipay_create_order_progress">Creating order…</string>
+     <string name="mipay_date_picker_label_month" />
+     <string name="mipay_date_picker_label_year" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_denom_unit">RMB</string>
+     <string name="mipay_error_account_changed">"Your account info has changed.
+Please log in again."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_error_auth">Account login error, please log in again.</string>
+     <string name="mipay_error_cert_date">"Certificate date error. 
+Please check your local date and try again."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_error_common">System error. Please try again later.</string>
+     <string name="mipay_error_network">"Couldn't connect to network."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_error_server">Server error. Please try again later</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_format_date">MMM. dd, yyyy</string>
+     <string name="mipay_format_time">MMM dd, yyyy hh:mmaa</string>
+     <string name="mipay_loading">Loading…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_login_password_error">Please check your Xiaomi account password</string>
+     <string name="mipay_order_id">Order:</string>
+     <string name="mipay_order_title">Product:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_password_error">Please check you payment password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_pay_check_cvv2_title">Please enter CVV2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_pay_check_password_title">Please enter your payment password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_pay_check_sms_captcha_title">Please enter verification code</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_pay_cvv2_error">Please check your CVV2</string>
+     <string name="mipay_pay_order_denom_summary">Price: ￥%1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_pay_record">Payment records</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_pay_record_empty">No payment record</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_pay_record_title">Payment records</string>
+     <string name="mipay_pay_sms_captcha_summary">Verification code has been sent to %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_pay_type_hint">Please choose pay methods</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_process_bind_bank_card">Bind bank card</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_process_expired">Your operation has expired, please restart</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_process_forget_password">Find payment password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_process_modify_password">Modify payment password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_process_pay">Payment</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_process_unbind_bank_card">Unbind bank card</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_query_failed">Payment failed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_query_success">Payment complete</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_query_timeout">Payment timeout</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_query_timeout_contact">Please contact our customer service</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_query_wait">Paying</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_result_title">Payment</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_set_password_first_summary">Set up payment password to protect you account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_set_password_hint">Please enter six digits</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_set_password_modify_summary">Please enter a new payment password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_setting_forget_password">Forgot payment password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_setting_modify_password">Modify payment password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_setting_title">Security Settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_setting_title_password">Payment password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_sms_captcha_error">Please check your verification code</string>
+     <string name="mipay_update_title">Mipay has update!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui_copyright_title">Copyright</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui_mibi_license_title">Mi Credit user agreement</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui_privacy_policy_title">Privacy policy</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui_user_agreement_title">User agreement</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui_user_manual_title">User manual</string>
      <string name="money">юань</string>
      <string name="money_prefix">Всего</string>
      <string name="month_down_btn">-</string>
@@ -356,16 +651,24 @@
      <string name="no_service">Нет сервиса</string>
      <string name="nores">免预约</string>
      <string name="nores_short">Беспл.</string>
+     <string name="notification_title">Signin error for %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="open_wifi_settings">Open network connection</string>
      <string name="order_id_all">Заказов:%1$s</string>
      <string name="order_id_text">Номер заказа:%1$s</string>
      <string name="order_number">Номер заказа:</string>
      <string name="orig_price">цена %1$s</string>
      <string name="passbook_count">%1$s</string>
+     <string name="passbook_no">无</string>
      <string name="passbook_status_pwd">%1$s</string>
      <string name="passbook_status_split"> | </string>
      <string name="payment">Оплата</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="perm_payment_dspt">Allow app to pay through Xiaomi payment service</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="perm_payment_lab">Xiaomi payment service</string>
      <string name="personal_buy_history">История покупок</string>
      <string name="personal_change_city">Сменить город</string>
      <string name="personal_change_city_default">Мое положение</string>
@@ -384,6 +687,7 @@
      <string name="refreshing">Обновлнеие…</string>
      <string name="refundable">Возвращаемый</string>
      <string name="releasetorefresh">Отпусти, чтобы обновить</string>
+     <string name="safetylegal_activity_unreachable">Your phone is not connected to a data service. To view this information now, go to %s from any computer connected to the Internet.</string>
      <string name="search_content_empty">Введи запрос поиска</string>
      <string name="search_desc">Поиск %1$s</string>
      <string name="search_hint">Поиск тут)</string>
@@ -394,6 +698,7 @@
      <string name="shrink">Свернуть</string>
      <string name="source">Источнок:%1$s</string>
      <string name="source_all">本次团购内容由%1$s提供，消费时请告知店员使用%1$s团购券。</string>
+     <string name="source_id">券号:</string>
      <string name="total_passbook">/%1$s всего</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="uicomponenet">uicomponenet</string>

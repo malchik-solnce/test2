@@ -18,15 +18,23 @@
      <string name="account_settings">Настройки аккаунта</string>
      <string name="account_xiaomi_service">Сервисы Xiaomi</string>
      <string name="activating">Активация…</string>
-     <string name="add_weibo_account">Добавить аккаунт</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="add_account">Add account</string>
      <string name="alert_title_remove_account">Удаление аккаунта</string>
      <string name="app_name">Mi аккаунт</string>
      <string name="bad_authentication">Неверный пароль или имя пользователя</string>
      <string name="barcode_add_account_prompt">Чтобы добавить аккаунт, отсканируй QR-код еще раз после входа</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bind_facebook">Add your Facebook Account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bind_qq">Add your QQ Account</string>
      <string name="bind_settings">Настройки привязки</string>
      <string name="bind_sina_weibo">Связать с Sina WeiBo</string>
+     <string name="bind_sns_description">Complete your profile using the personal information across %s.</string>
      <string name="bind_weibo_description">Найди и синхронизируй друзей с Sina WeiBo</string>
      <string name="binded">Связан</string>
+     <string name="binded_description" formatted="false">"Has bound %s successfully 
+ Complete your profile using the personal information across %s."</string>
      <string name="btn_activate">Активировать</string>
      <string name="btn_return">Назад</string>
      <string name="button_cancel">Отмена</string>
@@ -43,6 +51,7 @@
      <string name="completed">Готово</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
+     <string name="confirm_unbind">confirm unbind?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="data_keep_in_device">Keep on this device</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -72,6 +81,8 @@
      <string name="error_user_name">Неверный логин</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="error_verify_code">The code you entered is incorrect</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="facebook">facebook</string>
      <string name="failed_to_send_activate_email">"Couldn't send activation email"</string>
      <string name="find_device_dspt">Немедленная блокировка или очистка устройства</string>
      <string name="find_password_on_web_msg">Посети account.mi.com для получения пароля</string>
@@ -178,6 +189,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="privacy_policy">Privacy Policy</string>
      <string name="process_result">Подробнее</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="qq">QQ</string>
      <string name="quick_login_dialog_step2_title">2-step verification</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="quick_login_dialog_title">Verify password</string>
@@ -230,6 +243,8 @@
      <string name="trust_device">Доверять этому устройству</string>
      <string name="unactivated_user">Подожди…</string>
      <string name="unbind">Отвязан</string>
+     <string name="unbind_sns_description">After unbinding，you will not log in your Mi Account using %s</string>
+     <string name="unbind_weibo_description">After unbinding，you will not sync your contacts, and also not log in your Mi Account using Sina Weibo</string>
      <string name="update_contacts">Обновление адресной книги</string>
      <string name="update_contacts_description">Sina micro Fair обновит информацию контактов</string>
      <string name="updated_contacts">Обновлено контактов: %s</string>

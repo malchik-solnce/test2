@@ -178,6 +178,8 @@
      <string name="cell_broadcast_sms">Широковещательные SMS-службы</string>
      <string name="cfb_title">Если занято</string>
      <string name="cfnrc_title">Если вне зоны доступа</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cfnrc_title_cta">Forward when unreachable</string>
      <string name="cfnry_title">Если нет ответа</string>
      <string name="cfu_title">Всегда переадресовать</string>
      <string name="change_num">Обновить</string>
