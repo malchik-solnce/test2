@@ -41,6 +41,8 @@
      <string name="callrecordview_item_op_time_short_incoming">Входящий: </string>
      <string name="callrecordview_item_op_time_short_outgoing">Исходящий: </string>
      <string name="check_network">Посмотреть настройки сети</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="choose_upload">Choose file for upload</string>
      <string name="colon">:</string>
      <string name="confirm_delete_all_call_log_title">Удалить все журналы вызовов?</string>
      <string name="confirm_delete_call_log_title">Удалить выбранные журналы вызовов?</string>
@@ -131,6 +133,15 @@ Please check your tracking number."</string>
      <string name="express_inquiry_provider_info">При поддержке</string>
      <string name="express_inquiry_serial_number_indication">Номер отправления</string>
      <string name="express_inquiry_serial_number_prefix">Номер: </string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="express_inquiry_trace">Trace</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="express_inquiry_trace_success">Traced</string>
+     <string name="express_inquiry_trace_user_notice_content">"We'll let you know when your order's status changes."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="express_inquiry_untrace">Untrace</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="express_inquiry_untrace_success">Unraced</string>
      <string name="express_no_address">Пусто</string>
      <string name="express_no_order_info">Нет информации</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -216,7 +227,10 @@ Custom service will contact you in a moment"</string>
      <string name="group_name_banner" />
      <string name="group_name_basic" />
      <string name="group_name_data_source">Источник</string>
+     <string name="group_name_enroll" />
      <string name="group_name_gallery">Галерея</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="group_name_management">Manage</string>
      <string name="group_name_more">Разное</string>
      <string name="group_name_service">Служба</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -224,6 +238,7 @@ Custom service will contact you in a moment"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="group_name_shop_recommendation">Nearby</string>
      <string name="group_name_title" />
+     <string name="hms_no_subject_view">(No subject)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hms_notification">Messages</string>
      <string name="locating_fail">Не удалось обнаружить. Проверь настройки местоположения и повтори.</string>
@@ -232,8 +247,6 @@ Custom service will contact you in a moment"</string>
      <string name="mark_number_custom_dialog_maintitle">Согласиться или исправить метку</string>
      <string name="mark_number_dialog_maintitle">Отметить неизв. номер и загрузить</string>
      <string name="mark_title_null_hint">Ввод не может быть пустым</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_about_yellow_page">About</string>
      <string name="menu_add_black_list">Добавить в черный список</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_add_to_favorite">Add to favorites</string>
@@ -247,6 +260,8 @@ Custom service will contact you in a moment"</string>
      <string name="menu_correct_yellow_page">Correction</string>
      <string name="menu_delete_call_log">Удалить журналы вызовов</string>
      <string name="menu_delete_one">Удалить это из журнала вызовов</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_enroll_in_yellow_page">Sign up for Mi Yellow Pages</string>
      <string name="menu_remove_black_list">Удалить из черного списка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_remove_from_favorite">Remove from favorites</string>
@@ -367,6 +382,8 @@ Custom service will contact you in a moment"</string>
      <string name="upload_and_verify_fraud_num_off">This feature has been closed</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="upload_and_verify_fraud_num_on">Share blocked telemarketer info</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="uploads_disabled">File uploads are disabled</string>
      <string name="user_agreement2">" User agreement"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="user_agreement4">Privacy policy</string>

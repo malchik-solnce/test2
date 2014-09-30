@@ -121,10 +121,6 @@
         <item>Ну, что? Я не понял.</item>
         <item>Снова не понял</item>
      </string-array>
-     <string-array name="security_center">
-        <item>com.android.settings</item>
-        <item>com.miui.securitycenter.Main</item>
-     </string-array>
      <string-array name="send_item">
         <item>Сообщение</item>
         <item>Емэйл</item>

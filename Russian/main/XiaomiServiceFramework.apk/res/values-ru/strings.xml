@@ -2,6 +2,8 @@
 <!-- Builded with CloudBuildr -->
 <resources>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="accept">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="activate">Activate</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="activate_feature_call_log_sync">Call log sync</string>
@@ -137,6 +139,9 @@
      <string name="cloud_messaging">Облачные сообщения</string>
      <string name="current_account">Текущий аккаунт</string>
      <string name="enable_micloud">Включить облачные сервисы</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_device_id_message">Some account and cloud features will be unavailable</string>
+     <string name="error_device_id_title">"Can't get IMEI number"</string>
      <string name="internet_comm">Сервис сообщений</string>
      <string name="internet_message">Облачные сообщения</string>
      <string name="memu_refresh">Обновить</string>

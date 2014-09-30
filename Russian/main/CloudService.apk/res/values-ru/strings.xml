@@ -49,6 +49,12 @@
      <string name="find_device_disabled_title">Поиск устройства отключен</string>
      <string name="find_device_disabling">Выключение…</string>
      <string name="find_device_dspt">Немедленная блокировка или очистка устройства</string>
+     <string name="find_device_dspt_provision">"If you lose your device, you can go to "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="find_device_dspt_provision_2">i.mi.com</string>
+     <string name="find_device_dspt_provision_3">" to locate, lock, or reset it.
+
+You can turn this feature on and off anytime in Settings."</string>
      <string name="find_device_enabling">Включение…</string>
      <string name="find_device_error_network">Сеть недоступна</string>
      <string name="find_device_error_server">Ошибка сервера</string>
@@ -56,6 +62,8 @@
      <string name="find_device_notice_p1">Зайди на</string>
      <string name="find_device_notice_p3">"для поиска, блокировки устройства или восстановления данных.
 При смене SIM-карты, будет отправлено сообщение для включения услуги."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="find_device_send_sms_alert">If you switch SIM cards, another SMS will be sent automatically to reactivate this service.</string>
      <string name="find_device_stop_noise">Нажми OK, чтобы остановить сигнал</string>
      <string name="find_device_success_title">Поиск устройства</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -75,6 +83,8 @@
      <string name="internet_disconnected">No data connection</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="less_flow_mode">Data saver</string>
+     <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
+     <string name="loading">Loading…</string>
      <string name="master_alert_notif_dspt_add">"%s haven't been synced."</string>
      <string name="master_alert_notif_dspt_no">"Everything's up to date."</string>
      <string name="master_alert_notif_title">Последняя синхронизация %s дн. назад</string>
@@ -133,6 +143,13 @@
      <string name="micloud_warn_low_title">Мало свободного места…</string>
      <string name="micloud_web_discription_01">Зайди на i.mi.com</string>
      <string name="micloud_web_discription_02">для доступа к файлам в любое время из любого места</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mx_dspt">Mi Message</string>
+     <string name="mx_dspt_provision">"Mi Message lets you send messages to other MIUI users without incurring SMS charges.
+
+You can turn this feature on and off anytime in Settings."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mx_sub_dspt_provision">Mi Message</string>
      <string name="next">Далее</string>
      <string name="noRemind">Не напоминать</string>
      <string name="no_sim">SIM-карта не обнаружена</string>
@@ -148,6 +165,8 @@
      <string name="pref_title_sync_contacts_title">Синхронизация контактов</string>
      <string name="pref_title_sync_display_photo_on_wifi_only">Только по Wi-Fi</string>
      <string name="pref_title_sync_my_profile_title">Синхронизация профиля</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="privacy_policy">Privacy Policy</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="remind_later">Remind me later</string>
      <string name="restoreSync">Восстановить</string>
@@ -168,6 +187,13 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sync">Sync</string>
      <string name="sync_dspt">Включить синхронизацию</string>
+     <string name="sync_dspt_provision">"Mi Cloud syncs your photos, SMS, notes, and more across all your Mi devices. You can also access them from any browser at "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_dspt_provision2">i.mi.com</string>
+     <string name="sync_dspt_provision3">".
+
+You can turn this feature on and off anythime in Settings.
+"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sync_item_calllog_summary">Sync records of calls made and received on this phone</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -194,6 +220,12 @@
      <string name="system_sync_off">System sync off</string>
      <string name="title_reg">Создание аккаунта</string>
      <string name="unactivated_user">Отключен</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_agreement">User Agreement</string>
+     <string name="user_agreement_p6">"Your use of this feature is subject to "</string>
+     <string name="user_agreement_p7">"Mi Cloud's Terms of Service"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_agreement_p8">.</string>
      <string name="vcode">Проверочный код</string>
      <string name="verify">Проверить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

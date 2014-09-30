@@ -19,6 +19,14 @@
      <string name="camera_problem3">Принудительное закрытие камеры</string>
      <string name="camera_problem4">Не удается переключаться между задними и передними камерами</string>
      <string name="camera_problem5">Камера перестает работать</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cta_cancel">cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cta_confirm">confirm</string>
+     <string name="cta_dialog_content">BugReport may connect to network to provide service, including but not only Internet. Confirm to continue?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cta_dialog_title">Network notice</string>
+     <string name="cta_not_show_again">"Don't show again"</string>
      <string name="description">Описание (обязательно)</string>
      <string name="discard_draft_dialog_button_cancel">Отмена</string>
      <string name="discard_draft_dialog_content">В отчете были изменения. Нажмиnt OK, чтобы отказаться от отзыва.</string>
@@ -69,6 +77,7 @@
      <string name="systemui">Панель уведомлений</string>
      <string name="title_hot_problem">Распространенные ошибки</string>
      <string name="toast_description_required">Описание не может быть пустым</string>
+     <string name="toast_feedback_network_unavailable">"Can't connect to network"</string>
      <string name="toast_feedback_pending_wlan">Твой отзыв будет отправлен позже при включенном Wi-Fi</string>
      <string name="toast_feedback_submitted">Отзыв успешно отправлен</string>
      <string name="toast_feedbackservice_in_submit">Отправка предыдущего отзыва…</string>

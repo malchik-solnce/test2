@@ -108,6 +108,7 @@ For more info check the message you received from your service provider"</string
      <string name="input_aviable_traffic">Настроить лимит трафика</string>
      <string name="input_traffic_pkg">Введите пакет трафика</string>
      <string name="input_used_hint">Введите исполь. трафик</string>
+     <string name="input_used_max_hint">Enter data usage(less than %s)</string>
      <string name="left_precent">60%</string>
      <string name="list_empty_text">Пусто</string>
      <string name="lock_screen_traffic_warn_title">Предупреждение трафика</string>

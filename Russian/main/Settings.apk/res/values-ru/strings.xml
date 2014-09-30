@@ -1886,6 +1886,10 @@
      <string name="screen_key_long_press">ДОЛГОЕ НАЖАТИЕ КНОПОК</string>
      <string name="screen_key_long_press_action">Переключатель функций</string>
      <string name="screen_key_long_press_timeout">Время нажатия</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="screen_key_press">Press navigation buttons</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="screen_key_press_action">Trigger function</string>
      <string name="screen_never_timeout_title">Никогда не отключать</string>
      <string name="screen_on_proximity_sensor_summary">Предотвращение функциональности телефона, при помощи датчика</string>
      <string name="screen_on_proximity_sensor_title">Защита датчиком</string>
@@ -2203,6 +2207,14 @@
      <string name="status_serialno">serial no</string>
      <string name="status_service_state">Доступность моб. сети</string>
      <string name="status_signal_strength">Уровень сигнала</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="status_sim">SIM Status</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="status_sim_1">SIM1</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="status_sim_2">SIM2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="status_summary">Tap to view details</string>
      <string name="status_unavailable">Недоступно</string>
      <string name="status_up_time">Время с момента включения</string>
      <string name="status_wifi_mac_address">MAC-адрес Wi-Fi</string>
@@ -2870,6 +2882,8 @@
      <string name="wifi_status">Статус</string>
      <string name="wifi_status_test">Статус Wi-Fi</string>
      <string name="wifi_stopping">Отключение Wi-Fi…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_subnet_mask">Subnet mask</string>
      <string name="wifi_suspend_optimizations">Оптимизация Wi-Fi</string>
      <string name="wifi_suspend_optimizations_summary">Экономить заряд батареи, когда используется Wi-Fi</string>
      <string name="wifi_tether_checkbox_text">Точка доступа Wi-Fi</string>

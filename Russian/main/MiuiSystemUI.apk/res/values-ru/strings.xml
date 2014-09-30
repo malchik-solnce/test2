@@ -101,6 +101,8 @@
      <string name="headset_custom">Настр.</string>
      <string name="headset_info">Настройка кнопок</string>
      <string name="headset_settings">Подключена гарнитура</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="hint_for_long_press_app_switch_key">Long pressing to show menu</string>
      <string name="invalid_charger">"Зарядка по USB порту не поддерживается.
 Используйте зарядное устройство из комплекта поставки."</string>
      <string name="label_view">Просмотр</string>

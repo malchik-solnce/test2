@@ -30,6 +30,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_text_reboot">Reboot now</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_text_reboot_hm">After reboot</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_text_update">Update</string>
      <string name="cancel_download">Stop downloading this update?</string>
      <string name="cancel_download_buton_text">Отмена</string>
@@ -228,6 +230,10 @@
      <string name="update_comment_hint" />
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="update_comment_title">Comment</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="update_downfull_no_info_sum">Unable to download,please check Update button.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="update_downfull_no_info_title">Unable to download</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="update_feedback">Update feedback</string>
      <string name="update_feedback_end">"You missed this week's four-grid"</string>

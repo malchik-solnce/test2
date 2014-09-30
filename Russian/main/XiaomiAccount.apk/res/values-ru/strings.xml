@@ -83,6 +83,8 @@
      <string name="error_verify_code">The code you entered is incorrect</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="facebook">facebook</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="failed_get_mibi_info">Failed to get the mi credit</string>
      <string name="failed_to_send_activate_email">"Couldn't send activation email"</string>
      <string name="find_device_dspt">Немедленная блокировка или очистка устройства</string>
      <string name="find_password_on_web_msg">Посети account.mi.com для получения пароля</string>
@@ -92,6 +94,8 @@
      <string name="get_verify_code">Получить код</string>
      <string name="getting_verify_code">Получение</string>
      <string name="header_data_and_synchronization">Настройки синхронизации</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="hide_mibi_info">Mi credit info has been hidden</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="i_know">OK</string>
      <string name="input_captcha_hint">Введи код</string>
@@ -113,6 +117,7 @@
      <string name="login_notice">Вход…</string>
      <string name="login_step2_title">2-step verification</string>
      <string name="login_title">Войди в Mi аккаунт</string>
+     <string name="mibi_balance">%s Mi Credits</string>
      <string name="micloud_account">Mi аккаунт</string>
      <string name="micloud_account_details">Сведения об аккаунте</string>
      <string name="micloud_account_label">Аккаунт: %1$s</string>

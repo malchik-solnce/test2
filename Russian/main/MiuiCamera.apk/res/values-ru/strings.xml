@@ -314,6 +314,8 @@
      <string name="pref_camera_long_pressing_burst_shooting_entry_off">Фокусировка</string>
      <string name="pref_camera_long_pressing_burst_shooting_entry_on">Серийная съемка</string>
      <string name="pref_camera_long_pressing_burst_shooting_title">Удержание кнопки затвора</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_manual_mode_title">Manual</string>
      <string name="pref_camera_movie_solid_title">Стабилизация изображения</string>
      <string name="pref_camera_multilevel_entry_high">Высокая</string>
      <string name="pref_camera_multilevel_entry_higher">Отличная</string>
@@ -441,6 +443,10 @@
      <string name="pref_grp_restore_settings">Сброс настроек</string>
      <string name="pref_manual_exposure_title">Ручная выдержка</string>
      <string name="pref_priority_storage_title">Сохранять на SD-карту</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_qc_focus_position_title">Focus</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_qc_focus_position_value_default">0</string>
      <string name="pref_scan_qrcode_title">Сканирование QR кода</string>
      <string name="pref_setting_title">Настройки</string>
      <string name="pref_settings_mode">Режим камеры</string>
@@ -512,6 +518,10 @@
      <string name="simple_mode_button_text_fast_video">Close slow-motion camera</string>
      <string name="simple_mode_button_text_hand_night">Выйти</string>
      <string name="simple_mode_button_text_hdr">Выйти</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="simple_mode_button_text_manual">Close Manual Mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="simple_mode_button_text_manual_mode">Close manual</string>
      <string name="simple_mode_button_text_panorama">Выйти</string>
      <string name="simple_mode_button_text_slow_video">Выйти</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
