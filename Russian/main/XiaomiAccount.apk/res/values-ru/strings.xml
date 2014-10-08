@@ -45,6 +45,8 @@
      <string name="check_phone_io_error">Ошибка сети</string>
      <string name="checking_account">Проверка пароля…</string>
      <string name="checking_input">Проверка…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="choose_which_one_sim">Choose a phone number</string>
      <string name="cloud_messaging">Облачные сообщения</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_service">Mi Cloud</string>
@@ -237,6 +239,7 @@
      <string name="service_error">Ошибка сервиса</string>
      <string name="show_password">Показать пароль</string>
      <string name="sim_changed_notification_content">SIM-карта не активирована</string>
+     <string name="sim_index_info">SIM card %1$d - %2$s</string>
      <string name="skip_login">Пропустить</string>
      <string name="skip_login_u"><u>Пропустить</u></string>
      <string name="skip_register">Пропустить регистрацию</string>

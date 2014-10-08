@@ -52,6 +52,7 @@
      <string name="find_device_dspt_provision">"If you lose your device, you can go to "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="find_device_dspt_provision_2">i.mi.com</string>
+     <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
      <string name="find_device_dspt_provision_3">" to locate, lock, or reset it.
 
 You can turn this feature on and off anytime in Settings."</string>
@@ -190,6 +191,7 @@ You can turn this feature on and off anytime in Settings."</string>
      <string name="sync_dspt_provision">"Mi Cloud syncs your photos, SMS, notes, and more across all your Mi devices. You can also access them from any browser at "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sync_dspt_provision2">i.mi.com</string>
+     <string name="sync_dspt_provision2_int">mi.com/micloud</string>
      <string name="sync_dspt_provision3">".
 
 You can turn this feature on and off anythime in Settings.

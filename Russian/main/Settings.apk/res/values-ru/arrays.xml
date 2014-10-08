@@ -533,6 +533,20 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Очень быстрая</item>
         <item>Самая быстрая</item>
      </string-array>
+     <string-array name="tts_rate_xunfei_entries">
+        <item>Very slow</item>
+        <item>Slow</item>
+        <item>Normal</item>
+        <item>Fast</item>
+        <item>Faster</item>
+     </string-array>
+     <string-array name="tts_rate_xunfei_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+     </string-array>
      <string-array name="usage_stats_display_order_types">
         <item>Время использования</item>
         <item>Количесво запусков</item>
