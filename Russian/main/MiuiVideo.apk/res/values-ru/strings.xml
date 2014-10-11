@@ -100,6 +100,7 @@
      <string name="day" />
      <string name="declaration">Условия использования</string>
      <string name="declaration_content">Принимаешь условия использования предусмотренные Sohu Video, iQiyi и других провайдеров видео?</string>
+     <string name="declaration_content_td_custom">Will you agree to connect the internet when you use video?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="defaults">Default</string>
      <string name="delete">Удалить</string>
@@ -417,6 +418,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_super_definition">UHD</string>
      <string name="vp_support_by">Support by %1$s</string>
+     <string name="vp_toast_downloadapk">Download apk in the background for you …</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_unknown_source">Unknown source</string>
      <string name="vp_using_16_9">Force 16:9</string>

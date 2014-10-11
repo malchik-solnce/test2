@@ -9,7 +9,11 @@
      <string name="account_bind_settings">Привязать аккаунт</string>
      <string name="account_dspt">Один аккаунт для всего Xiaomi</string>
      <string name="account_dspt_provision">Один аккаунт для всего Xiaomi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_dspt_provision2">Learn More</string>
      <string name="account_hint_text">Почта, номер или ID</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_learn_more_title">Create a Mi Account</string>
      <string name="account_name">Аккаунт: %1$s</string>
      <string name="account_not_activated">Аккаунт не активирован</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -50,6 +54,8 @@
      <string name="cloud_messaging">Облачные сообщения</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_service">Mi Cloud</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_service_dspt">Sync your photos, contacts, notes, apps, and more across all your devices.</string>
      <string name="completed">Готово</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
@@ -119,6 +125,8 @@
      <string name="login_notice">Вход…</string>
      <string name="login_step2_title">2-step verification</string>
      <string name="login_title">Войди в Mi аккаунт</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mi_account_dspt_provision">Sign in to Mi Cloud, MIUI Themes Store, and other Mi services with one account.</string>
      <string name="mibi_balance">%s Mi Credits</string>
      <string name="micloud_account">Mi аккаунт</string>
      <string name="micloud_account_details">Сведения об аккаунте</string>
@@ -247,6 +255,10 @@
      <string name="skip_setup_account_title">Пропустить настройку</string>
      <string name="sync_off">Выкл.</string>
      <string name="sync_on">Вкл.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="theme_store">MIUI Themes Store</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="theme_store_dspt">Choose your look. Hundreds of free customizable themes to make your phone unique.</string>
      <string name="title_reg">Создать аккаунт</string>
      <string name="trust_device">Доверять этому устройству</string>
      <string name="unactivated_user">Подожди…</string>

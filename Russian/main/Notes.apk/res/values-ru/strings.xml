@@ -104,5 +104,5 @@
      <string name="unknown_source">Неизвесный источник</string>
      <string name="widget_content_loading">Loading…</string>
      <string name="widget_havenot_content">Нет заметок. Нажмите сюда, чтобы создать.</string>
-     <string name="widget_under_visit_mode">Не возможно просмотреть заметки в гостевом режиме</string>
+     <string name="widget_under_privacy_mode">"Can't view notes in Guest mode"</string>
 </resources>

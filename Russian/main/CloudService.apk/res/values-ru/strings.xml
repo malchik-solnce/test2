@@ -231,6 +231,8 @@ You can turn this feature on and off anythime in Settings.
      <string name="vcode">Проверочный код</string>
      <string name="verify">Проверить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="view_storage_title">View cloud space</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wifi">WLAN</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wifi_disconnected">No WLAN</string>

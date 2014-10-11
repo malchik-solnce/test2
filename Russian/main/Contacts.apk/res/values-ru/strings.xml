@@ -349,6 +349,8 @@
      <string name="export_sim_contacts_dialog_message">На SIM-карту можно сохранить %d контактов. Продолжить?</string>
      <string name="export_to_sdcard">Экспорт на SD-карту</string>
      <string name="export_to_sim">Экспорт на SIM-карту</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="export_to_sim1">Export to SIM card 1</string>
      <string name="export_to_sim2">Экспорт на SIM-карту 2</string>
      <string name="export_to_sim_title">Экспорт на SIM-карту</string>
      <string name="export_vcard_description">Экспортировать vCard на SD-карту</string>
@@ -418,6 +420,8 @@
      <string name="import_from_other_phone">Импортировать с телефона</string>
      <string name="import_from_sdcard">Импорт с SD-карты</string>
      <string name="import_from_sim">Импортировать с SIM-карты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="import_from_sim1">Import from SIM card 1</string>
      <string name="import_from_sim2">Импортировать с SIM-карты 2</string>
      <string name="import_multiple_vcard_string">Импорт нескольких vCard</string>
      <string name="import_name">имя</string>
@@ -703,6 +707,8 @@
      <string name="pref_key_rebuild_t9_index_message">Обновить индекс контактов для поиска с помощью T9</string>
      <string name="pref_key_rebuild_t9_index_title">Обновление индекса</string>
      <string name="pref_key_sim_manage">Контакты SIM-карты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_key_sim_manage1">Configure SIM card 1</string>
      <string name="pref_key_sim_manage2">Контакты SIM-карты 2</string>
      <string name="pref_summary_import_from_account">Импорт контактов из аккаунта Google в аккаунт Xiaomi</string>
      <string name="pref_title_account_import">Импорт из аккаунта</string>
@@ -1062,6 +1068,8 @@ the content you're looking for is not currently available in your region."</stri
      <string name="splitConfirmation_title">Разделение контакта</string>
      <string name="starredList">Помеченные</string>
      <string name="starred_contacts">Избранные</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="starred_yellowpage">Favorite directories</string>
      <string name="status_available">На месте</string>
      <string name="status_away">Отошел</string>
      <string name="status_busy">Не беспокоить</string>
