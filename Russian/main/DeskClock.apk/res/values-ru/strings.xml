@@ -104,6 +104,8 @@
      <string name="timer_message_with_hour">таймер на %1$d ч. и %2$d мин.</string>
      <string name="timer_message_with_seconds">%1$d секунд</string>
      <string name="timer_new_item">Настроить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="timer_notify_text">Snooze or dismiss timer.</string>
      <string name="timer_start_alarm">Время таймера вышло</string>
      <string name="timer_title">Таймер</string>
      <string name="timezone_exist_error_message">Часовой пояс уже существует</string>

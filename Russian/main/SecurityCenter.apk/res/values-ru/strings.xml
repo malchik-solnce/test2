@@ -304,6 +304,10 @@
      <string name="menu_item_about_summary">Версия:%s</string>
      <string name="menu_item_about_title">О приложении</string>
      <string name="menu_item_app_details">Сведения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_item_app_permissions_control">Permission manager</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_item_control_app_permissions">Ask your permission before allowing apps to read your contacts, view your call log, change system settings, or access camera and other device resources</string>
      <string name="menu_item_force_stop">Остановить</string>
      <string name="menu_item_notification_antispam_text_avail">Спам</string>
      <string name="menu_item_notification_antispam_text_normal">Спам</string>
@@ -359,11 +363,16 @@
      <string name="permission_action_accept">Разрешить</string>
      <string name="permission_action_prompt">Спрашивать</string>
      <string name="permission_action_reject">Запретить</string>
+     <string name="permission_close_permission_control_dialog_msg">"When Permission manager is off, apps won't ask your permission before reading your contacts, viewing your call log, changing system settings, or accessing camera and other device resources."</string>
+     <string name="permission_close_permission_control_dialog_title">Disable Permission manager?</string>
      <string name="permission_group_title_charges_related">Платные сервисы</string>
      <string name="permission_group_title_media_related">Мультимедиа</string>
      <string name="permission_group_title_others">Разные</string>
      <string name="permission_group_title_privacy_related">Безопасность и конфиденциальность</string>
      <string name="permission_group_title_settings_related">Настройки системы</string>
+     <string name="permission_permission_control_closed_desc_dialog_msg">"Apps won't ask your permission before reading your contacts, viewing your call log, changing system settings, or accessing camera and other device resources. You can turn this feature on in Permission settings."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="permission_permission_control_closed_desc_dialog_title">Permission manager is off</string>
      <string name="permission_send_sms_descx">Прямая отправка SMS и MMS-сообщений</string>
      <string name="power_20s_enter_mode">%1$ds переключиться в режим %2$s</string>
      <string name="power_apply_toast">Включен режим %s и сохранено текущеее состояние</string>
@@ -543,9 +552,12 @@
      <string name="pref_title_garbage_cleanup_check_size">Размер мусора</string>
      <string name="pref_title_garbage_cleanup_check_time">Уведомление о мусоре</string>
      <string name="pref_title_manual_check_cleanup_db_update">Обновить</string>
+     <string name="preference_key_app_permission_control">key_app_permission_control</string>
      <string name="preference_key_auto_start_manager">key_auto_start_manager</string>
+     <string name="preference_key_category_title_module_settings">key_category_title_module_settings</string>
      <string name="preference_key_cta_settings">key_cta_settings</string>
      <string name="preference_key_default_apps_manager">key_default_apps_manager</string>
+     <string name="preference_key_module_permissions">key_module_permissions</string>
      <string name="preference_key_notification_bar_manager">key_notification_bar_manager</string>
      <string name="preference_key_open_virus_cloud_scan">key_open_virus_cloud_scan</string>
      <string name="preference_key_open_virus_install_monitor">key_open_virus_install_monitor</string>
@@ -566,6 +578,8 @@
      <string name="root_apply_step_5">Дать %s права суперпользователя?</string>
      <string name="root_apply_title">Важное предупреждение</string>
      <string name="score_pts">%</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="settings_title_permission">Permission settings</string>
      <string name="st_title_mode_choose_group">Выбери режим</string>
      <string name="suffix_virus_count_bottom">всего</string>
      <string name="suffix_virus_count_top">подозрений</string>

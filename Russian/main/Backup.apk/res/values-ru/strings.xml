@@ -85,6 +85,8 @@
  Вы должны войти в аккаунт Xiaomi для удаления данных или использования других устройств для восстановления резервной копии."</string>
      <string name="enable_encrypt_title">Шифрование</string>
      <string name="enable_encrypt_xiaomi_account">Эта резервная копия была создана %1$s. Пожалуйста, удали текущий аккаунт, и войди в %2$s для восстановления данных.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="every_day">Every day</string>
      <string name="exchange_account">Сменить аккаунт</string>
      <string name="fail">Ошибка</string>
      <string name="findlost_contact">Найти удаленые контакты</string>
@@ -113,6 +115,8 @@
      <string name="miliao_account_login">Войти в MiTalk</string>
      <string name="mms_title">Сообщения MMS</string>
      <string name="multi_select_title">Выбрано: %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="never">Never</string>
      <string name="no_encrypt_password">Нет шифрования пароля</string>
      <string name="no_network">"Нет сетевого соединения.
  Проверь соединение и попробуй еще раз."</string>

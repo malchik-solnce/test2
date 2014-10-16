@@ -22,7 +22,6 @@
      <string name="close">Закрыть</string>
      <string name="component_category_finest_title">ОСНОВНЫЕ КОМПОНЕНТЫ</string>
      <string name="component_category_more_title">ДОПОЛНИТЕЛЬНЫЕ КОМПОНЕНТЫ</string>
-     <string name="default_name">По умолчанию</string>
      <string name="deleting">Удаление…</string>
      <string name="description_author">Автор:</string>
      <string name="description_designer">Дизайнер:</string>
@@ -44,7 +43,6 @@
      <string name="lockscreen_wallpaper">Локскрин</string>
      <string name="lockstyle_personal_settings">Настроить</string>
      <string name="long_ringtone_resource">Длинные</string>
-     <string name="maml_component_customization_title">Настройки компонентов</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mi_wallpaper">Mi</string>
      <string name="online_no_network">Не удается подключиться к сети</string>

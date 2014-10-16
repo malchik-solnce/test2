@@ -327,6 +327,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mishop_saved_folder_display_name">MiStore saved</string>
      <string name="miui_capture_screen_folder_display_name">Скриншоты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui_wallpaper">Wallpaper</string>
      <string name="modified_time">Время изменения</string>
      <string name="more">Дополнительно</string>
      <string name="move">Переместить</string>
@@ -540,6 +542,8 @@
      <string name="view_sharers">Посмотреть поделившихся</string>
      <string name="vignette">Виньетка</string>
      <string name="wallpaper">На рабочий стол</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wandoujia">SnapPea</string>
      <string name="warn">Внимание</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="weikan_weikan">Weikan TV</string>

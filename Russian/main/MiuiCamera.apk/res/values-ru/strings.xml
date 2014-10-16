@@ -43,6 +43,8 @@
      <string name="auto">Авто</string>
      <string name="bg_replacement_message">"Положите устройство на поверхность
 и выйдите из обзора камеры на некоторое время"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="burst_shoot_exit_button_text">Close Burst Shoot</string>
      <string name="camera_disabled">Камера отключена в соответствии с политикой безопасности</string>
      <string name="camera_error_title">Ошибка камеры</string>
      <string name="camera_label">Камера</string>
@@ -60,6 +62,8 @@
      <string name="confirm_change_to_expert_mode_message">Переключиться в расширенный режим?</string>
      <string name="confirm_change_to_simple_mode_message">Переключиться в простой режим?</string>
      <string name="confirm_location_message">Сохранять информацию о месте съемки фотографий?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="confirm_location_title">Store location info</string>
      <string name="confirm_restore_message">Восстановить настройки по умолчанию?</string>
      <string name="confirm_restore_title">Восстановление настроек</string>
      <string name="connect_wifi">Подключиться к Wi-Fi</string>
@@ -214,6 +218,8 @@
      <string name="pref_audio_indicator_entryvalue_off">off</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_audio_indicator_entryvalue_on">on</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_burst_shoot_title">Burst shoot</string>
      <string name="pref_camcorder_settings">Настройки видео</string>
      <string name="pref_camcorder_settings_category">Настройки видеокамеры</string>
      <string name="pref_camera_ae_bracket_hdr_default">Выкл.</string>
@@ -436,6 +442,20 @@
      <string name="pref_exposure_title">Экспозиция</string>
      <string name="pref_face_beauty_default">i:0</string>
      <string name="pref_face_beauty_title">Красивое лицо</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_front_mirror_default">auto</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_front_mirror_entry_auto">Auto</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_front_mirror_entry_off">Off</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_front_mirror_entry_on">On</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_front_mirror_entryvalue_auto">auto</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_front_mirror_entryvalue_off">off</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_front_mirror_entryvalue_on">on</string>
      <string name="pref_front_mirror_title">Передняя камера</string>
      <string name="pref_grp_advanced_settings">Расширенные настройки</string>
      <string name="pref_grp_capture_settings">Настройки съемки</string>
@@ -456,6 +476,8 @@
      <string name="pref_video_focusmode_title">Режим фокусировки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_video_quality_entry_4kuhd">4K</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_video_quality_entry_value_4kuhd">12</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_video_quality_pad_default">6</string>
      <string name="pref_video_quality_title">Качество видео</string>

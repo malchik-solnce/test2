@@ -35,6 +35,8 @@
      <string name="SMS_MODENAME">Черный список</string>
      <string name="SMS_PREFIX">Префиксы</string>
      <string name="SMSpass">Разрешить сообщения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="STRANGER_BLOCK">Stranger blocklist</string>
      <string name="ad_block_hint">Заблокировано: %d</string>
      <string name="ad_install_monitor">Мониторинг приложений</string>
      <string name="ad_install_monitor_hint">Проверять приложения на наличие рекламы при установке</string>
@@ -58,6 +60,8 @@
      <string name="blacklist_prefix_add_hint">Добавить все номера с префиксом в черный список</string>
      <string name="block_message_number">Заблокировано: %d</string>
      <string name="block_phone_number">Заблокировано: %d</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_to_setting">Settings</string>
      <string name="call_delete_hint">Удалить все заблокированные вызовы с выбранного номера?</string>
      <string name="cancle">Отмена</string>
      <string name="close_callwait">Выключить</string>
@@ -100,6 +104,8 @@
      <string name="dlg_import_blacklist">Добавление в черный список</string>
      <string name="dlg_import_whitelist">Добавление в белый список</string>
      <string name="dlg_keyword_ok">Сохранить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dlg_message_not_open_stranger_identify">You need to enable Identify unknown numbers in Phone > Settings, before you can tag a number.</string>
      <string name="dlg_no_block">Не блокировать этот номер?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlg_no_block_ok">OK</string>
@@ -114,6 +120,8 @@
      <string name="dlg_retore">Восстановить это сообщение?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlg_retore_ok">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dlg_title_not_open_stranger_identify">Enable Identify unknown numbers</string>
      <string name="dlg_white_address_antispam_message">Добавить регион в белый список?</string>
      <string name="dlg_white_antispam_hint">Белый список</string>
      <string name="dlg_white_antispam_message">Добавить сообщение в белый список?</string>
@@ -129,6 +137,28 @@
      <string name="info_unantispam_phone_sms">Разрешить вызовы и сообщения</string>
      <string name="info_unantispam_sms">Разрешить сообщения</string>
      <string name="label_callwait">Ожидание вызова</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_agent">Sales agent</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_agent_block">Marked as agent</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_express">Courier</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_express_block">Marked as courier</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_fraud">Fraud</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_fraud_block">Marked as fraud</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_meal">Food delivery</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_meal_block">Marked as food delivery</string>
+     <string name="mark_number_info">"
+Note that sometimes these calls maybe useful (e.g. when you're actually looking for an apartment). Only block numbers which you never want to receive calls from."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_sell">Telemarketer</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_sell_block">Marked as telemarketer</string>
      <string name="marked_by_others">%d пользователей отметили как</string>
      <string name="marked_by_user">вы отметили как</string>
      <string name="menu_add">Добавить</string>
@@ -266,6 +296,8 @@
      <string name="st_title_man_editwhitelist">Выбери код региона для добавления в белый список</string>
      <string name="st_title_man_head_addblacklist">Введи префикс телефона для блокировки</string>
      <string name="st_title_man_head_addwhitelist">Добавить префикс телефона в белый список</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="st_title_markednumber_group">Marked number blocklist</string>
      <string name="st_title_mode_choose_group">Режимы блокировки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="st_title_not_sim">Empty</string>

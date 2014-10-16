@@ -58,6 +58,8 @@
      <string name="preference_record_type_title">Тип записи</string>
      <string name="preference_scenes">Режим записи</string>
      <string name="preference_silent_mode">В режиме без звука</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="record_back_pressed_hint">Touch again to stop recording</string>
      <string name="record_download">Скачать из MiCloud</string>
      <string name="record_download_activity">Загрузка записей</string>
      <string name="record_download_complete">Готово</string>
