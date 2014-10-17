@@ -702,6 +702,10 @@ Please check your local date and try again."</string>
      <string name="total_passbook">/%1$s всего</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="uicomponenet">uicomponenet</string>
+     <string name="update_dialog_message">"
+推荐您立即升级到最新的%1$s版
+"</string>
+     <string name="update_dialog_title">小米生活新版本</string>
      <string name="update_status_failed">Ошибка обновлени. Нет ответа от сервера.</string>
      <string name="update_status_local_app_failed">Ошибка обновления локального приложения</string>
      <string name="xiaomi_bytes_unit">%1$sб</string>

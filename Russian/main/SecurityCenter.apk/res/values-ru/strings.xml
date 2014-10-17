@@ -295,7 +295,7 @@
      <!-- The count of MNPS does not match! Now: 1 must: 1
 	%s: 1 must: 0
 	%d: 0 must: 1 -->
-     <!-- Original string: Most recent scan was %d days ago -->
+     <!-- Original string: Scanned %d days ago -->
      <string name="last_checked_date2">Последняя проверка %s дн. назад</string>
      <string name="last_checked_default">Последняя проверка %s дн. назад</string>
      <string name="legal_workday">По праздникам</string>
