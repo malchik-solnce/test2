@@ -34,6 +34,8 @@
      <string name="SMS_KEYWORDS">Ключевые слова</string>
      <string name="SMS_MODENAME">Черный список</string>
      <string name="SMS_PREFIX">Префиксы</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="SMS_SERVICE">Service blocklist</string>
      <string name="SMSpass">Разрешить сообщения</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="STRANGER_BLOCK">Stranger blocklist</string>
@@ -236,6 +238,8 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
      <string name="st_antispam_title_contact_sms">Сообщения от контактов</string>
      <string name="st_antispam_title_contactandanoy_group">Контакты и неизвестные</string>
      <string name="st_antispam_title_null_incoming">Скрытые номера</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="st_antispam_title_service_sms">Service notifications</string>
      <string name="st_antispam_title_whitelist">Белый список</string>
      <string name="st_block_all">Блокировка вызовов и сообщений</string>
      <string name="st_block_mute">Блокировка вызовов и отключения звука сообщения</string>

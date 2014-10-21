@@ -77,6 +77,10 @@
      <string name="btn_text_start_check">Проверить</string>
      <string name="btn_text_stop">Остановить</string>
      <string name="btn_text_virus_scan">Сканировать</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_antivirus">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_optimizer">OK</string>
      <string name="button_text_accept">Разрешить</string>
      <string name="button_text_accept_timer">Разрешить (%d)</string>
      <string name="button_text_add_to_white_list">В белый список</string>
@@ -187,6 +191,8 @@
      <string name="handle_text_cache">Кэш</string>
      <string name="handle_text_memory">Память</string>
      <string name="handle_text_system">Система</string>
+     <string name="header_antivirus">"By using this feature, you agree to Tencent's "<a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7">Terms of Service</a></string>
+     <string name="header_optimizer">"By using this feature, you agree to Clean Master's "<a href="http://www.cmcm.com/about/privacy_zh.html?p=cm">Terms of Service</a></string>
      <string name="hints_ad_header_left">Файлы рекламы: %d</string>
      <string name="hints_apk_header_left">Файлы апк: %d</string>
      <string name="hints_apk_version">Версия: %s</string>
@@ -546,12 +552,16 @@
      <string name="pref_summary_expand_cache_group">Группы в списке кэша будут по умолчанию развернуты</string>
      <string name="pref_summary_garbage_cleanup_check_size">Уведомлять, когда мусор достигает заданного размера</string>
      <string name="pref_summary_garbage_cleanup_check_time">Уведомлять, когда время достигает заданного интервала</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_summary_open_optimizer_cloud_scan">Upload and compare unknown file names with online definitions</string>
      <string name="pref_title_auto_update_cleanup_db">Автообновление</string>
      <string name="pref_title_cleanup_white_list">Белый список очистки</string>
      <string name="pref_title_expand_cache_group">Разворачивать кэш</string>
      <string name="pref_title_garbage_cleanup_check_size">Размер мусора</string>
      <string name="pref_title_garbage_cleanup_check_time">Уведомление о мусоре</string>
      <string name="pref_title_manual_check_cleanup_db_update">Обновить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_title_open_optimizer_cloud_scan">Use online Cleaner engine</string>
      <string name="preference_key_app_permission_control">key_app_permission_control</string>
      <string name="preference_key_auto_start_manager">key_auto_start_manager</string>
      <string name="preference_key_category_title_module_settings">key_category_title_module_settings</string>
@@ -559,6 +569,7 @@
      <string name="preference_key_default_apps_manager">key_default_apps_manager</string>
      <string name="preference_key_module_permissions">key_module_permissions</string>
      <string name="preference_key_notification_bar_manager">key_notification_bar_manager</string>
+     <string name="preference_key_open_optimizer_cloud_scan">key_open_optimizer_cloud_scan</string>
      <string name="preference_key_open_virus_cloud_scan">key_open_virus_cloud_scan</string>
      <string name="preference_key_open_virus_install_monitor">key_open_virus_install_monitor</string>
      <string name="preference_key_permission_manager">key_permission_manager</string>
@@ -584,15 +595,25 @@
      <string name="suffix_virus_count_bottom">всего</string>
      <string name="suffix_virus_count_top">подозрений</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="summary_antivirus">Upload app names and scan using online virus definitions</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="summary_dev">Avoid applications stealing user data</string>
      <string name="summary_install_virus">Проверять приложения на вирусы перед установкой</string>
      <string name="summary_mms">Фильтрация нежелательных сообщений (скидки, объявления и т.д.)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="summary_optimizer">Upload and compare unknown app names and files with online definitions</string>
      <string name="summary_permission">Защита моей конфиденциальности от сторонних приложений</string>
      <string name="summary_usb">Избегать вирусов, рассылаемых с помощью USB подключения</string>
      <string name="summary_virus">Найдено вирусов: %2$d</string>
      <string name="summary_virus_update">Обновлять базу данных автоматически при Wi-Fi подключении</string>
      <string name="system_check_content">Подозрительные файлы: %1$d</string>
      <string name="system_header_title">К очистке: %1$d освободится %2$s памяти</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="text_antivirus">Use online virus definitions</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="text_optimizer">Use online Cleaner engine</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_antivirus">Virus scan</string>
      <string name="title_app_update_no">Обновлений: %d</string>
      <string name="title_app_update_yes">Все приложения обновлены!</string>
      <string name="title_data_flow_no">Контроль трафика отключен</string>
@@ -607,6 +628,8 @@
      <string name="title_miui_update_yes">MIUI обновлена!</string>
      <string name="title_mms_no">Фильтрация сообщений отключена</string>
      <string name="title_mms_yes">Фильтрация сообщений включена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_optimizer">Cleaner</string>
      <string name="title_permission_no">Мониторинг разрешений отключен</string>
      <string name="title_permission_yes">Мониторинг разрешений включен</string>
      <string name="title_show_notification_no">Скрыть с панели уведомлений</string>

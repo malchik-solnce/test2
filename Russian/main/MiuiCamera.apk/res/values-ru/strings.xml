@@ -193,7 +193,6 @@
      <string name="ok">OK</string>
      <string name="orientation">Ориентация</string>
      <string name="pano_dialog_panorama_failed">Не удалось сохранить панораму</string>
-     <string name="pano_dialog_prepare_preview">Обработка…</string>
      <string name="pano_dialog_title">Панорама</string>
      <string name="pano_dialog_waiting_previous">Ожидание обработки предыдущей панораммы</string>
      <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>

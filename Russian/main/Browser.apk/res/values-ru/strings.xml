@@ -83,7 +83,6 @@
      <string name="block_ads_message">Do you want to block messages from this website?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="block_ads_title">Content may contain ads</string>
-     <string name="bookmark_URL_already_exisit">Эта ссылка уже в закладках</string>
      <string name="bookmark_add_group_text_header">Add selected %1$d to group</string>
      <string name="bookmark_add_to">Добавить в</string>
      <string name="bookmark_cannot_save_url">Невозможно добавить в закладки эту страницу</string>
@@ -93,7 +92,6 @@
      <string name="bookmark_needs_title">Необходимо указать имя закладки</string>
      <string name="bookmark_needs_url">Необходимо указать место закладки</string>
      <string name="bookmark_not_saved">Не удалось сохранить закладку</string>
-     <string name="bookmark_page">Добавить в закладки последнюю просмотренную страницу</string>
      <string name="bookmark_rename_group">Переименовать</string>
      <string name="bookmark_saved">Сохранено в закладках</string>
      <string name="bookmark_this_page_to_readmodelist">Добавить эту страницу в список чтения</string>
@@ -102,6 +100,7 @@
      <string name="bookmark_to_readmodelist_not_saved">Не могу сохранить в список чтения</string>
      <string name="bookmark_to_readmodelist_saved">Сохранено в список чтения</string>
      <string name="bookmark_url">Адрес</string>
+     <string name="bookmark_url_already_exisit">"You've already bookmarked this URL"</string>
      <string name="bookmark_url_lable">Адрес</string>
      <string name="bookmark_url_not_valid">Неправильный URL</string>
      <string name="bookmarks">Закладки</string>
@@ -449,7 +448,6 @@
      <string name="pref_development_normal_rendering">Нормальный рендеринг</string>
      <string name="pref_development_reset_prelogin">Сброс предлогин</string>
      <string name="pref_development_single_column_rendering">Рендеринг одной колоной</string>
-     <string name="pref_development_title">Выполнить отладку</string>
      <string name="pref_development_trace">Включить отслеживание</string>
      <string name="pref_development_viewport">Исполь. широкое окно просмотра</string>
      <string name="pref_development_visual_indicator">Вкл. визуальные индикаторы</string>
@@ -486,14 +484,12 @@
      <string name="pref_inverted">Инверсия</string>
      <string name="pref_inverted_category">РЕЖИМ ИНВЕРСИИ</string>
      <string name="pref_inverted_contrast">Контраст</string>
-     <string name="pref_inverted_summary">Черное становится белым и наоборот</string>
      <string name="pref_key_gesture_title">Кнопки и жесты</string>
      <string name="pref_key_title">НАСТРОЙКИ КНОПОК</string>
      <string name="pref_link_prefetch_dialogtitle">Загрузка веб-страниц</string>
      <string name="pref_link_prefetch_summary">" разрешать браузеру предварительно загружать связанные веб-страницы в фоновом режиме</string>
      <string name="pref_link_prefetch_title">Загрузка веб-страниц</string>
      <string name="pref_link_prefetch_value_never_summary">Не разрешать браузеру предварительно загружать веб-страницы в фоновом режиме</string>
-     <string name="pref_min_font_size">Мин. размер шрифта</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_other_title">Other</string>
      <string name="pref_privacy_clear_cache">Очистить кэш</string>
@@ -536,7 +532,6 @@
      <string name="pref_security_show_security_warning_summary">Сообщать о проблемах с безопасностью сайтов</string>
      <string name="pref_set_homepage_to">Сохранить</string>
      <string name="pref_setting_title">НАСТРОЙКИ СТРАНИЦЫ</string>
-     <string name="pref_text_zoom">Масштабирование текста</string>
      <string name="pref_ua_string">Определние браузера как</string>
      <string name="pref_ua_title">НАСТРОЙКИ АГЕНТА</string>
      <string name="pref_version_summary">Версия: %s</string>
@@ -558,6 +553,8 @@
      <string name="progress_dialog_setting_wallpaper">Применение обоев…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="qr_code_title">QR Code</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="quicklink_bookmark_save">Save to</string>
      <string name="quicklink_not_saved">"Couldn't add to start page"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="quicklink_saved">Added to start page</string>
