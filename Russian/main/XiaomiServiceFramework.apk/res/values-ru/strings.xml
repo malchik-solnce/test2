@@ -140,6 +140,11 @@
      <string name="current_account">Текущий аккаунт</string>
      <string name="enable_micloud">Включить облачные сервисы</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: "Invalid Device ID: %s
+Device ID must be valid IMEI or MAC address. Without device id, some account and cloud features will be unavailable." -->
      <string name="error_device_id_message">Some account and cloud features will be unavailable</string>
      <string name="error_device_id_title">"Can't get IMEI number"</string>
      <string name="internet_comm">Сервис сообщений</string>

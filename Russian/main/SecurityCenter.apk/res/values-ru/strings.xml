@@ -191,8 +191,8 @@
      <string name="handle_text_cache">Кэш</string>
      <string name="handle_text_memory">Память</string>
      <string name="handle_text_system">Система</string>
-     <string name="header_antivirus">"By using this feature, you agree to Tencent's "<a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7">Terms of Service</a></string>
-     <string name="header_optimizer">"By using this feature, you agree to Clean Master's "<a href="http://www.cmcm.com/about/privacy_zh.html?p=cm">Terms of Service</a></string>
+     <string name="header_antivirus">""By using this feature, you agree to Tencent's "<a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7">Terms of Service</a>"</string>
+     <string name="header_optimizer">""By using this feature, you agree to Clean Master's "<a href="http://www.cmcm.com/about/privacy_zh.html?p=cm">Terms of Service</a>"</string>
      <string name="hints_ad_header_left">Файлы рекламы: %d</string>
      <string name="hints_apk_header_left">Файлы апк: %d</string>
      <string name="hints_apk_version">Версия: %s</string>

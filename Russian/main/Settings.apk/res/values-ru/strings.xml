@@ -2182,6 +2182,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_settings_show_notificationBar_notification">Show in notification shade</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="status_bar_settings_show_notification_icon">Show notification icon</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_settings_show_screenshot_notification">Show screenshot notification</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_settings_show_statusBar_notification">Show in keyguard</string>
