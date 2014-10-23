@@ -60,6 +60,7 @@
      <string name="comment_sending">Отправка…</string>
      <string name="comment_upload_account_need_activitied">Ваш аккаунт не активирован. Включить его сейчас?</string>
      <string name="comment_upload_account_not_activitied">Ваш аккаунт не активирован. Пожалуйста, активируйте и попробуйте еще раз.</string>
+     <string name="comment_upload_auth_failed">"Can't send comment. Try signing in again."</string>
      <string name="comment_upload_data_invalid">Комментирований является недействительным</string>
      <string name="comment_upload_failed">Ошибка отправки</string>
      <string name="comment_upload_hint">Ваш комментарий появится после проверки</string>

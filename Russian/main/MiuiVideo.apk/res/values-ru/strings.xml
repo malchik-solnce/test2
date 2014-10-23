@@ -97,8 +97,18 @@
      <string name="count_ge_media">%d видео</string>
      <string name="count_ge_result">Результатов: %d</string>
      <string name="count_ji_quan">Все %d эп.</string>
+     <string name="datastream_alert_download">You are download video with the 2G/3G/4G network, may result in higher flow cost</string>
+     <string name="datastream_alert_hint">You may be in the Settings-system application-Video, close the tip</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="datastream_alert_negative_button">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="datastream_alert_positive_button">Continue</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="datastream_alert_title">Traffic tips</string>
      <string name="day" />
      <string name="declaration">Условия использования</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="declaration_allow">Agree</string>
      <string name="declaration_content">Принимаешь условия использования предусмотренные Sohu Video, iQiyi и других провайдеров видео?</string>
      <string name="declaration_content_td_custom">Will you agree to connect the internet when you use video?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -247,6 +257,10 @@
      <string name="pptv">PPTV</string>
      <string name="prefix_countdown">advertisement left:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="priority_storage">Use external SD card</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="priority_storage_summary">Automatically save to external SD card if available</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="qiyi">iQiyi</string>
      <string name="rank">Топ</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -332,6 +346,9 @@
      <string name="upgrade">Обновить</string>
      <string name="use_cellular_network">Мобильный интернет</string>
      <string name="use_cellular_network_summary">Использовать мобильный интернет для загрузки видео. Возможны денежные затраты.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="use_cellular_play_summary">In order to save the cost of open flow, suggestions</string>
+     <string name="use_cellular_play_title">2G/3G/4G network broadcast video tips</string>
      <string name="userdata_alert_content">You are currently using data network, may produce a lot of traffic fees, sure you want to continue?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="userdata_alert_ok">Continue</string>
@@ -367,6 +384,8 @@
      <string name="vp_confirm">confirm</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_content_description">Content description</string>
+     <string name="vp_datastream_alert_hint">You may be in the Settings-system application-Video, close the tip</string>
+     <string name="vp_datastream_alert_play">You are playing video with the 2G/3G/4G network, may result in higher flow cost</string>
      <string name="vp_device_list">Устройства</string>
      <string name="vp_download_connect_fail">"Couldn't find URL. Check your data connection and try again."</string>
      <string name="vp_download_file_fail">"Download failed. Make sure there's enough room on you"</string>
