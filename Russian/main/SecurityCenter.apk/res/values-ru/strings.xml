@@ -305,6 +305,9 @@
      <string name="last_checked_date2">Последняя проверка %s дн. назад</string>
      <string name="last_checked_default">Последняя проверка %s дн. назад</string>
      <string name="legal_workday">По праздникам</string>
+     <string name="legal_workday_invalidate">Data expired(Currently ringing Moday to Friday)</string>
+     <string name="legal_workday_invalidate_message">(Data expired,click to update interconnection)</string>
+     <string name="legal_workday_message">(Skip holidays smartly)</string>
      <string name="memeory_check_content">%1$d прил., память %2$s</string>
      <string name="menu_item_about_content">Версия: %s</string>
      <string name="menu_item_about_summary">Версия:%s</string>

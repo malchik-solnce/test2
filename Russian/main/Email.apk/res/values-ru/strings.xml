@@ -366,6 +366,7 @@
      <string name="downlaod_nonWifi_confirm_message">Нет Wi-Fi подключения. Продолжить загрузку?</string>
      <string name="download_again">Скачать еще раз</string>
      <string name="download_before_sharing"> еще не загружено. Сначала скачай, прежде чем отправлять!</string>
+     <string name="download_before_view">"It hasn't been downloaded yet, please download it firstly!"</string>
      <string name="download_cancel_confirm_title">Отменить загрузку?</string>
      <string name="download_complete_not_cancel">Загрузка завершена. Отменить не удалось!</string>
      <string name="download_confirm_message">Чтобы открыть этот файл, нужно скачать вложение размером %1$s</string>
@@ -475,10 +476,15 @@
      <string name="invalid_recipient">Недействительный адрес: %s</string>
      <string name="kilobytes">%s кб</string>
      <string name="label_notification_ticker" formatted="false">%s: %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="load_from_remote">Continue to search on the server</string>
      <string name="load_more">Загрузить еще</string>
      <string name="loading_conversation">Загрузка…</string>
      <string name="loading_conversations">Загрузка…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="loading_from_remote">Searching on the server...</string>
      <string name="local_search">Поиск</string>
+     <string name="local_search_result">%s emails found from all the local emails</string>
      <string name="login">Войти</string>
      <string name="login_failed_ticker">Ошибка авторизации %s</string>
      <string name="login_failed_title">Не удалось войти в аккаунт</string>
@@ -637,6 +643,12 @@
      <string name="password_expired_dialog_content_fmt">Данные аккаунта %s удаляются с вашего устройства. Вы можете восстановить их, изменив свой PIN-код или пароль блокировки экрана. Изменить его сейчас?</string>
      <string name="password_expired_dialog_title">Пароль блокировки экрана устарел</string>
      <string name="password_expired_ticker">Срок действия вашего PIN-кода или пароля блокировки экрана истек</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="perference_change_pw">Update password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="perference_change_pw_notnull_tips">Password can not be empty</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="perference_change_pw_ok_tips">Password update sucess</string>
      <string name="permission_access_provider_desc">Приложение получит доступ к базе данных программы электронной почты, которая включает полученные и отправленные письма, имена пользователей и пароли</string>
      <string name="permission_access_provider_label">Доступ к данным сервиса эл. почты</string>
      <string name="permission_read_attachment_desc">Приложение получит доступ к прикрепленным файлам в сообщениях эл. почты</string>
@@ -689,6 +701,7 @@
      <string name="preferences_signature_dialog_title">Подпись</string>
      <string name="preferences_signature_summary_not_set">Не настроена</string>
      <string name="preferences_signature_title">Подпись</string>
+     <string name="prefetched_got_it">"I've got it"</string>
      <string name="preview_attachment">Просмотр</string>
      <string name="previous_action">Назад</string>
      <string name="prompt_title">Совет</string>
@@ -715,6 +728,9 @@
      <string name="refreshing_done">Synchroniztion complete</string>
      <string name="release_to_refresh">Отпусти, чтобы обновить</string>
      <string name="remote_folders_heading">Серверные папки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="remote_search">All the emails on the server</string>
+     <string name="remote_search_result">%s emails found from all the emails on the server</string>
      <string name="remove_account">Удалить аккаунт</string>
      <string name="remove_account_confirm">Аккаунт %1$s будет удален из почты. Продолжить?</string>
      <string name="remove_folder">Удалить из папки %1$s</string>

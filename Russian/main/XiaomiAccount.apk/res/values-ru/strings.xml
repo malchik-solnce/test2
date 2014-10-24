@@ -69,6 +69,8 @@
      <string name="dirty_mms_count">Сообщений: %d</string>
      <string name="dirty_note_count">Заметок: %d</string>
      <string name="email_already_be_used">Этот адрес почты уже используется</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="email_or_id_hint_text">Email or Mi Account ID</string>
      <string name="email_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
      <string name="enable_sync">Включить</string>
      <string name="enable_sync_dspt">Синхронизация отключена</string>
@@ -96,7 +98,6 @@
      <string name="failed_to_send_activate_email">"Couldn't send activation email"</string>
      <string name="find_device_dspt">Немедленная блокировка или очистка устройства</string>
      <string name="find_password_on_web_msg">Посети account.mi.com для получения пароля</string>
-     <string name="foreign_login"><u>Код страны</u></string>
      <string name="forget_password"><u>Забыл пароль?</u></string>
      <string name="get_back_pwd">Получить пароль</string>
      <string name="get_verify_code">Получить код</string>
@@ -112,7 +113,6 @@
      <string name="input_vcode_hint">Введи проверочный код</string>
      <string name="input_vcode_prompt">Введи проверочный код</string>
      <string name="input_verify_code_hint">Введи проверочный код</string>
-     <string name="int_phone_user_notice">Добавь код страны при входе по номеру телефона</string>
      <string name="internet_comm">Сервис сообщений</string>
      <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
      <string name="loading">Loading…</string>
@@ -126,6 +126,7 @@
      <string name="login_notice">Вход…</string>
      <string name="login_step2_title">2-step verification</string>
      <string name="login_title">Войди в Mi аккаунт</string>
+     <string name="login_with_email_or_id"><u>Sign in with another account</u></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mi_account_dspt_provision">Sign in to Mi Cloud, MIUI Themes Store, and other Mi services with one account.</string>
      <string name="mibi_balance">%s Mi Credits</string>
@@ -244,7 +245,6 @@
      <string name="removing_account">Удаление аккаунта…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="scan_barcode_title">Login safely Xiaomi Account, by scanning the QR code from the web page or TV</string>
-     <string name="seperator_forget_and_foreign">" | "</string>
      <string name="service_error">Ошибка сервиса</string>
      <string name="show_password">Показать пароль</string>
      <string name="sim_changed_notification_content">SIM-карта не активирована</string>
