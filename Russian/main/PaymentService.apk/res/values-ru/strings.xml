@@ -70,7 +70,6 @@
      <string name="cancel">Отмена</string>
      <string name="change_security_lock">Изменить блокировку</string>
      <string name="colon">: </string>
-     <string name="confirm_title">提示</string>
      <string name="denomination_unit">￥</string>
      <string name="detail_consume_account">ID покупки</string>
      <string name="detail_consume_amount">Количество</string>
@@ -90,7 +89,6 @@
      <string name="detail_recharge_order">Номер заказа</string>
      <string name="detail_recharge_time">Время</string>
      <string name="detail_recharge_title">Пополнения</string>
-     <string name="ensure">确定</string>
      <string name="error_account_changed_summary">"Изменилась информация об аккаунте.
 Пожалуйста, войди занова."</string>
      <string name="error_account_changed_title">Аккаунт изменен</string>
@@ -107,6 +105,9 @@
      <string name="error_network_summary">Ошибка сети. Попробуй еще раз.</string>
      <string name="error_server_summary">Ошибка сервера. Попробуй позже.</string>
      <string name="error_user_id_mismatch_summary">Пожалуйста, проверь настройки аккаунта и попробуй снова</string>
+     <string name="fee_with_giftcard"> (Include%1$s)</string>
+     <string name="fee_with_mibi_giftcard"> %1$s-Mi Credit gift card</string>
+     <string name="fee_with_partner_giftcard"> %1$s-Mi Credit %2$s</string>
      <string name="forget_password"><u>Забыл пароль?</u></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="format_date">d MMMM yyyy</string>
@@ -251,7 +252,7 @@
      <string name="prepaid_picker_title_default">Select amount</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="prepaid_picker_title_selected">amount</string>
-     <string name="processing">加载中</string>
+     <string name="process_expired">"Where'd you go? This operation has timed out."</string>
      <string name="progress_bankcall_card_creating">Создание заказа…</string>
      <string name="progress_bankcall_card_querying">Определение типа банковского счета…</string>
      <string name="progress_creating">Проверка покупки…</string>

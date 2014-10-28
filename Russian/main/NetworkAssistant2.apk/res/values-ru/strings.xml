@@ -251,6 +251,9 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="read_unit">" статей"</string>
      <string name="right_precent">100%</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sc_allow_network_dialog_message">You need to allow this app to connect to the internet for it function normally.</string>
+     <string name="sc_allow_network_dialog_tiltle">"Can't use data saver"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="setting_traffic_pkg">Set data package</string>
      <string name="settings">Настройки</string>
      <string name="songs_number">18 песен</string>

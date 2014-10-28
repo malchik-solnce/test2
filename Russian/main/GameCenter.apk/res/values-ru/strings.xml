@@ -94,6 +94,8 @@
      <string name="comment_sending">Отправка комментария…</string>
      <string name="comment_upload_account_need_activitied">Ваш аккаунт не активирован. Хотите включить его?</string>
      <string name="comment_upload_account_not_activitied">Ваш аккаунт не активирован. Включите его и повторите еще раз.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_upload_auth_failed">Log information is invalid, please try later</string>
      <string name="comment_upload_data_invalid">Ошибка добавления комментария</string>
      <string name="comment_upload_failed">Ошибка отправки комментария</string>
      <string name="comment_upload_hint">Ваш комментарий будет показан после проверки</string>

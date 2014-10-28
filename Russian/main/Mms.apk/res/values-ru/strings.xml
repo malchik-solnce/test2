@@ -278,7 +278,15 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="mx_enable_popup_msg">Облачные сообщения позволят Вам обмениваться сообщениями с другими пользователями MIUI. Требуется отправка обычного SMS сообщения для активации. Активировать сейчас?</string>
      <string name="mx_msg">Облачные сообщения</string>
      <string name="mx_offline">Не в сети</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Mi Messaging with SIM slot 1 -->
      <string name="mx_on_sim_1">Mi Messaging with SIM slot %s</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Mi Messaging with SIM slot 2 -->
      <string name="mx_on_sim_2">Mi Messaging with SIM slot %s</string>
      <string name="mx_online">В сети</string>
      <string name="mx_reactivate">Повторное активирование облачных сообщений</string>

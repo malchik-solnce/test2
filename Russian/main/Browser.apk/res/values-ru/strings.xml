@@ -235,7 +235,11 @@
      <string name="empty_bookmark">Пусто</string>
      <string name="empty_bookmarks_folder">Нет закладок</string>
      <string name="empty_history">Пусто</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="empty_history_hint">Empty</string>
      <string name="empty_snapshots_folder">Нет сохраненных страниц</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="enter_developer_mode">Enter developer mode</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="enter_incongnito_mode">Enter incognito mode</string>
      <string name="error_console_eval_button_text">Оценить</string>
@@ -723,6 +727,8 @@
      <string name="webapp_add_to_favorite_toast">Добавить в список избранного</string>
      <string name="webapp_addtodeskpop_append">Добавлено</string>
      <string name="webapp_app_name">Веб-приложения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webapp_bottom_bar_addtodesk">Add to desktop</string>
      <string name="webapp_dialog_title">Добавить приложения на рабочий стол</string>
      <string name="webapp_menu_addtodesk">Добавить на рабочий стол</string>
      <string name="webapp_menu_already_addtodesk">Уже добавлено на рабочий стол</string>
@@ -732,6 +738,8 @@
      <string name="webapp_menu_settings">Настройки</string>
      <string name="webapp_menu_share">Поделиться</string>
      <string name="webapp_settings_title">Настройки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webapp_splashview_loading">Loading now...</string>
      <string name="webapp_webapp_favortes_title">Избранное</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="webpage_bookmark_title">Bookmark</string>

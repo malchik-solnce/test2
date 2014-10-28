@@ -6,6 +6,8 @@
      <string name="app_label">Компас</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="calibrate_altitude">Calibrating altitude</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="calibrate_failed">Calibrating altitude failed</string>
      <string name="calibrate_failed_no_location">Ошибка калибрации: невозможно получить данные</string>
      <string name="calibrate_failed_timeout">Ошибка калибрации: сервер не отвечает</string>
      <string name="calibrate_success">Калибрация завершена</string>
@@ -44,4 +46,12 @@
      <string name="mobiledata_alert_dialog_title">Data usage warning</string>
      <string name="pressure_title">Давление</string>
      <string name="pressure_unit">гПа</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="using_camera_confirm_cancel">Exit</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="using_camera_confirm_message">We are using camera device while in the Compass application.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="using_camera_confirm_ok">Agree and continue</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="using_camera_confirm_title">Terms and Agreements</string>
 </resources>

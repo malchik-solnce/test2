@@ -146,6 +146,13 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_wifi_title">Data usage warning</string>
      <string name="notification_downloading">Downloading update…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="notification_load_body_alpha">Sign in to your Mi Account to update your device.</string>
+     <string name="notification_load_body_dev">"Sign in to your Mi Account to make sure you're getting the right updates."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="notification_load_title_alpha">Sign in to your Mi Account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="notification_load_title_dev">Sign in to your Mi Account</string>
      <string name="notification_new_version">Update to %s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="notification_reboot_btn">Reboot</string>
@@ -241,6 +248,8 @@
      <string name="update_feedback_end_sum">You can join in every Tuesday.</string>
      <string name="update_feedback_expired">"You missed this week's four-grid feedback round.
 But you can take part next Tuesday"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="update_feedback_need_update">Currently you are not using the latest development version n upgrade to the latest development version before voting</string>
      <string name="update_feel">What do you think?</string>
      <string name="update_general">So-so</string>
      <string name="update_happy">Awesome!</string>
@@ -249,6 +258,10 @@ But you can take part next Tuesday"</string>
      <string name="update_success">Поздравляем, обновление успешно</string>
      <string name="update_success_body">Current version: %s</string>
      <string name="update_success_title">Update complete!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="updater_nolog">There are no log</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="updater_nonetwork">Connect to the network to get log</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="upgrade_close">Close</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

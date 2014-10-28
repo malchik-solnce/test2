@@ -139,13 +139,6 @@
      <string name="deleting_fdn_contact">Выполняется удаление номера ограниченного набора…</string>
      <string name="description_delete_button">пробел</string>
      <string name="description_dial_button">набор номера</string>
-     <string name="description_direction_down_left">Вниз налево</string>
-     <string name="description_direction_down_right">Вниз направо</string>
-     <string name="description_direction_left">Сдвинь влево для %s</string>
-     <string name="description_direction_right">Сдвинь вправо для %s</string>
-     <string name="description_direction_up">Сдвинь вверх для %s</string>
-     <string name="description_direction_up_left">Вверх налево</string>
-     <string name="description_direction_up_right">Вверх направо</string>
      <string name="description_image_button_eight">восемь</string>
      <string name="description_image_button_five">пять</string>
      <string name="description_image_button_four">четыре</string>
@@ -158,12 +151,6 @@
      <string name="description_image_button_three">три</string>
      <string name="description_image_button_two">два</string>
      <string name="description_image_button_zero">ноль</string>
-     <string name="description_target_answer">Правильный вариант</string>
-     <string name="description_target_answer_rx_video">Ответить с RX видео</string>
-     <string name="description_target_answer_tx_video">Ответить с TX видео</string>
-     <string name="description_target_answer_video">Ответить с видео</string>
-     <string name="description_target_decline">Отклонить</string>
-     <string name="description_target_send_sms">Отправить SMS</string>
      <string name="dial_emergency_empty_error">Вызов не осуществлен, наберите номер экстренного вызова!</string>
      <string name="dial_emergency_error">Вызов не осуществляется, так как %s не является номером экстренного вызова!</string>
      <string name="dial_pad_autocomplete">Автозавершение набора</string>
@@ -233,9 +220,6 @@
      <string name="eo_enable">Вакансии включены</string>
      <string name="error_updating_title">Ошибка настройки вызовов</string>
      <string name="exception_error">Ошибка сети или SIM-карты</string>
-     <string name="fake_phone_activity_infoText_text">Входящий телефонный номер</string>
-     <string name="fake_phone_activity_phoneNumber_text">+7 (123) 123-4567</string>
-     <string name="fake_phone_activity_placeCall_text">Поддельный входящий звонок</string>
      <string name="fdn">Разрешенные номера</string>
      <string name="fdn_activation">Активация разреш. номеров</string>
      <string name="fdn_check_failure">Фиксированный набор телефонного номера включен. Как результат, некоторые смежные функции не работают.</string>
@@ -282,7 +266,6 @@
      <string name="incoming_call_forwarded_title">Переадресация входящего вызова</string>
      <string name="international_disable">Международные новости отключены</string>
      <string name="international_enable">Международные новости включены</string>
-     <string name="internet_phone">Интернет-вызов</string>
      <string name="invalidPin">Введи PIN, содержащий от 4 до 8 цифр</string>
      <string name="invalidPin2">Введи PIN2, содержащий от 4 до 8 цифр</string>
      <string name="invalidPuk2">Введи 8-значный код PUK2</string>
@@ -360,8 +343,6 @@
      <string name="no_change">Номер не изменен</string>
      <string name="no_internet_available">Перед звонком через интернет проверьте подключение</string>
      <string name="no_internet_available_title">Подключение к интернету отсутствует</string>
-     <string name="no_sip_account_found">Нет аккаунтов. Создать новый?</string>
-     <string name="no_sip_account_found_title">Нет аккаунтов</string>
      <string name="no_vm_number">Не указан номер голосовой почты</string>
      <string name="no_vm_number_msg">На SIM-карте нет ни одного номера голосовой почты</string>
      <string name="no_voip">Интернет-вызов не поддерживается</string>
@@ -474,8 +455,6 @@
      <string name="phone_in_ecm_call_notification_text">Передача данных отключена</string>
      <string name="phone_in_ecm_notification_title">Режим экстренных обратных вызовов</string>
      <string name="phone_info_divider">" ｜ "</string>
-     <string name="pick_outgoing_call_phone_type">Исходящий вызов</string>
-     <string name="pick_outgoing_sip_phone">Аккаунт для интернет-вызовов:</string>
      <string name="pin2_changed">PIN2 успешно изменен</string>
      <string name="pin2_invalid">Номер ограниченного набора не обновлен: вы ввели неверный PIN-код</string>
      <string name="pin2_or_fdn_invalid">Список разрешенных номеров не обновлен. Указан неверный PIN2 или номер телефона.</string>
@@ -510,7 +489,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="proxy_address">ProxyAddress</string>
      <string name="proxy_address_title">Адрес прокси-сервера</string>
-     <string name="pstn_phone">Вызов по сотовой сети</string>
      <string name="puk2_requested">Неверный пароль, SIM-карта заблокирована! Введи код PUK2</string>
      <string name="puk_requested">Неверный пароль, SIM-карта заблокирована! Введи код PUK2.</string>
      <string name="puk_unlocked">SIM-карта разблокирована. Разблокировка телефона…</string>
@@ -532,11 +510,9 @@
      <string name="registration_status_registering">Регистрация…</string>
      <string name="registration_status_server_unreachable">Не удалось зарегистрировать аккаунт. Неверное имя сервера.</string>
      <string name="registration_status_still_trying">Пожалуйста, подожди…</string>
-     <string name="remember_my_choice">Использовать для всех интернет-вызовов</string>
      <string name="remove_sip_account">Удалить аккаунт</string>
      <string name="removing_account">Удаление аккаунта…</string>
      <string name="requesting_unlock">Запрос разблокировки сети…</string>
-     <string name="reset_my_choice_hint">В настройках вызовов можно изменить аккаунт интернет-телефонии, который используется по умолчанию при выполнении вызовов. Для этого выбери другой аккаунт в настройках интернет-вызовов.</string>
      <string name="respond_via_sms_canned_response_1">Не могу говорить. Что случилось?</string>
      <string name="respond_via_sms_canned_response_2">Я сейчас Вам перезвоню</string>
      <string name="respond_via_sms_canned_response_3">Я перезвоню Вам позже</string>
@@ -582,7 +558,6 @@
      <string name="sip_account_list">SIP-аккаунты</string>
      <string name="sip_accounts">Аккаунты</string>
      <string name="sip_accounts_title">Аккаунты</string>
-     <string name="sip_always_send_keepalive">Отправлять всегда</string>
      <string name="sip_call_options_entry_1">Для всех вызовов при возможности передачи данных</string>
      <string name="sip_call_options_entry_2">Только для интернет-вызовов</string>
      <string name="sip_call_options_entry_3">Спрашивать для каждого вызова</string>
@@ -597,7 +572,6 @@
      <string name="sip_receive_calls">Принимать входящие</string>
      <string name="sip_receive_calls_summary">Повышает расход заряда батареи</string>
      <string name="sip_settings">Настройки</string>
-     <string name="sip_system_decide">Автоматически</string>
      <string name="sports_news_settings">Новости спорта</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="stk_cc_ss_to_dial_error">SS request modified to DIAL request.</string>
