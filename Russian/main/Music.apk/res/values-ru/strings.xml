@@ -171,6 +171,7 @@
      <string name="my_account">Мой аккаунт</string>
      <string name="my_music">Устройство</string>
      <string name="my_music_empty">Nothing to play! Download or favorite some music in the Online Music tab.</string>
+     <string name="my_music_empty_goto_online">Your playlist is empty! Add songs from the Online tab</string>
      <string name="my_playlist">Мои плелисты</string>
      <string name="network_error">Нет подключения к сети. Проверьте сетевые настройки.</string>
      <string name="network_failure">"Can't connect to the network. Check your data connection and try again."</string>
@@ -178,6 +179,7 @@
      <string name="no_favorites_songs">Пусто</string>
      <string name="no_local_songs">Пусто</string>
      <string name="no_local_songs_selected">"Can't send songs because they haven't been downloaded"</string>
+     <string name="no_local_source_find">"Can't find local resource, send failed!"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_online_song_selected">No songs selected</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

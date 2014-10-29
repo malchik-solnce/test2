@@ -115,6 +115,8 @@
      <string name="apn_auth_type">Тип аутентификации</string>
      <string name="apn_auth_type_none">Нет</string>
      <string name="apn_auth_type_pap_chap">PAP или CHAP</string>
+     <string name="apn_chinaunicom_3gnet_general">沃3G连接互联网</string>
+     <string name="apn_chinaunicom_3gwap_general">沃3G手机上网</string>
      <string name="apn_edit">Изменить</string>
      <string name="apn_general">Точки доступа интернет</string>
      <string name="apn_http_port">Порт</string>
