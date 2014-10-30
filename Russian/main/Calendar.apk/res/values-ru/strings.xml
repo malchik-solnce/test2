@@ -39,14 +39,36 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="alarm_label">OK</string>
      <string name="alert_title">Уведомления календаря</string>
+     <string name="anniversary_metric" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="anniversary_term">anniversary</string>
      <string name="app_label">Календарь</string>
      <string name="attendees_label">Гости</string>
      <string name="birthday_calendar_display_name">Напоминание о дне рождения</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 2
+	%s: 1 must: 2
+	%d: 0 must: 0 -->
+     <!-- Original string: "Today is %1$s's %4$s!" -->
      <string name="birthday_event_description">Сегодня день рождения у %1$s!</string>
+     <string name="birthday_metric" />
+     <!-- The count of MNPS does not match! Now: 1 must: 2
+	%s: 1 must: 2
+	%d: 0 must: 0 -->
+     <!-- Original string: 3 days until the %3$s (%4$s) -->
      <string name="birthday_notification_text_three_days_later">3 дня до дня рождения (%3$s)</string>
      <string name="birthday_notification_text_today">Не забудь поздравить с днем рождения!</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 2
+	%s: 1 must: 2
+	%d: 0 must: 0 -->
+     <!-- Original string: "%1$s's %2$s is coming up" -->
      <string name="birthday_notification_title_three_days_later">Через 3 дня у %1$s день рождения</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 2
+	%s: 1 must: 2
+	%d: 0 must: 0 -->
+     <!-- Original string: "%1$s's %3$s" -->
      <string name="birthday_notification_title_today">День рождения у %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="birthday_term">birthday</string>
      <string name="button_day">Д</string>
      <string name="button_month">М</string>
      <string name="button_online">О</string>

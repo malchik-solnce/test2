@@ -21,6 +21,8 @@
      <string name="bad_authentication">Неверный пароль или имя пользователя</string>
      <string name="btn_return">Назад</string>
      <string name="button_cancel">Отмена</string>
+     <string name="buy_space_expire">Purchased space will expire in %s</string>
+     <string name="buy_space_expire_concat">%1$s to %2$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="buy_space_sulotion_auto_renew">Automatic renew</string>
      <string name="buy_space_sulotion_message">You will buy %sGB Space</string>
@@ -121,6 +123,8 @@ You can turn this feature on and off anytime in Settings."</string>
      <string name="less_flow_mode">Data saver</string>
      <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
      <string name="loading">Loading…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="loading_hint">Loading</string>
      <string name="master_alert_notif_dspt_add">"%s haven't been synced."</string>
      <string name="master_alert_notif_dspt_no">"Everything's up to date."</string>
      <string name="master_alert_notif_title">Последняя синхронизация %s дн. назад</string>

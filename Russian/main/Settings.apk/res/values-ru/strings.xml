@@ -1514,6 +1514,7 @@
      <string name="mvno_match_data">Значение MVNO</string>
      <string name="mvno_type">Тип MVNO</string>
      <string name="nearby_wifi">Доступные сети</string>
+     <string name="need_reboot_now">Need reboot to complete update,please reboot now !</string>
      <string name="network_assistant">Трафик</string>
      <string name="network_detail">Свойства сети %s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

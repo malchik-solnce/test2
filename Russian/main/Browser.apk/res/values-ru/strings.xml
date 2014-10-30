@@ -25,6 +25,8 @@
      <string name="action_menu_text_nightmode_on">Ночной режим</string>
      <string name="action_menu_text_setting">Настройки</string>
      <string name="action_menu_text_share">Поделиться</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="action_menu_text_snapshot">Save page</string>
      <string name="actionbar_share">Поделиться</string>
      <string name="actionbar_web_search">Поиск в интернете</string>
      <string name="adblock_notification">Заблокировано рекламы: %d</string>
@@ -237,6 +239,8 @@
      <string name="empty_history">Пусто</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="empty_history_hint">Empty</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="empty_snapshot_hint">Empty</string>
      <string name="empty_snapshots_folder">Нет сохраненных страниц</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="enter_developer_mode">Enter developer mode</string>

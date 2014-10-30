@@ -79,6 +79,11 @@
      <string name="snippet_image_stub">[Картинка]</string>
      <string name="snippet_image_template">[Image %1$s]</string>
      <string name="sns_action_send">Отправить</string>
+     <string name="sns_choose_quality_high">High (%1$s)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sns_choose_quality_low">Low</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sns_choose_quality_title">Choose image quality</string>
      <string name="sns_content_default">Поделиться</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sns_desc_preview_wechat">WeChat message preview</string>
