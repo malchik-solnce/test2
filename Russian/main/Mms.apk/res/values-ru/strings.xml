@@ -291,6 +291,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="mx_online">В сети</string>
      <string name="mx_reactivate">Повторное активирование облачных сообщений</string>
      <string name="mx_recommend_msg">Включи облачные сообщения. Нажми кнопку включить и бесплатно отправляй сообщения.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="my_bookmark">Bookmarks</string>
      <string name="need_download">Ожидание синхронизации…</string>
      <string name="new_message">Новое сообщение</string>
      <string name="new_message_arrived">Получено новое сообщение</string>

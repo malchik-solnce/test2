@@ -119,6 +119,23 @@
      <string name="favourite_music_left_half">To add songs to this playlist, tap the</string>
      <string name="favourite_music_right_half">"Favorite icon to the right of the song's title"</string>
      <string name="file_not_found">Файл не существует</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="filter_by_duration">Filter by duration</string>
+     <string name="filter_by_duration_format">%2$dmin%5$2dsec</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="filter_by_duration_max">5 min</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="filter_by_duration_min">0 sec</string>
+     <string name="filter_by_duration_prefix">"Minimum Duration: "</string>
+     <string name="filter_by_duration_summary">"Don't display short audio files"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="filter_by_size">Filter by size</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="filter_by_size_max">2MB</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="filter_by_size_min">0KB</string>
+     <string name="filter_by_size_prefix">"Minimum size: "</string>
+     <string name="filter_by_size_summary">"Don't display small audio files"</string>
      <string name="find_music">Найти музыку</string>
      <string name="format_unsupported">Неподдерживаемый формат</string>
      <string name="fragment_more">Еще</string>
@@ -167,6 +184,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="min_sleep_time">1</string>
      <string name="music_browser_label">Музыка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="music_filter">Filter files</string>
      <string name="music_settings">Настройки</string>
      <string name="my_account">Мой аккаунт</string>
      <string name="my_music">Устройство</string>
@@ -179,7 +198,6 @@
      <string name="no_favorites_songs">Пусто</string>
      <string name="no_local_songs">Пусто</string>
      <string name="no_local_songs_selected">"Can't send songs because they haven't been downloaded"</string>
-     <string name="no_local_source_find">"Can't find local resource, send failed!"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_online_song_selected">No songs selected</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

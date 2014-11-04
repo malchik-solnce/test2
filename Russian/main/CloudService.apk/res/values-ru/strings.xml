@@ -167,6 +167,14 @@ You can turn this feature on and off anytime in Settings."</string>
      <string name="micloud_proceed">Продолжить</string>
      <string name="micloud_sec_dspt">и поделись этим с друзьями</string>
      <string name="micloud_space_full_influence"><u>Закончилось место в облаке?</u></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_storage_expires_auto_renewal_sum">You need to renew your subscription.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_storage_expires_manually_renewal_sum">You need to renew your subscription.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_storage_expires_soon_title">Mi Cloud storage expires soon</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_storage_expires_very_soon_title">Mi Cloud storage expires soon</string>
      <string name="micloud_storage_usage" formatted="false">Used %s/Total space %s</string>
      <string name="micloud_title_dspt" formatted="false">"Всего: %s 
 занято: %s | свободно: %s"</string>

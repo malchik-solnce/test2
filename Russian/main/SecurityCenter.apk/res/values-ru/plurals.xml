@@ -13,4 +13,8 @@
         <item quantity="other">"%d мин. "</item>
         <item quantity="one">"%d мин. "</item>
      </plurals>
+     <plurals name="summary_app_update">
+        <item quantity="other">Updates available for %d apps.</item>
+        <item quantity="one">Updates available for %d app.</item>
+     </plurals>
 </resources>

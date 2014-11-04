@@ -30,6 +30,11 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="determine">OK</string>
      <string name="dialog_cannot_resume">Загрузка прервана. Она не может быть возобновлена.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dialog_confirm_delete_checkbox_message">Delete local files as well</string>
+     <string name="dialog_confirm_delete_downloads_message">Delete %d tasks?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dialog_confirm_delete_the_download_item_message">Delete these tasks</string>
      <string name="dialog_failed_body">Вы хотите повторить загрузку файла позже или удалить его из очереди?</string>
      <string name="dialog_file_already_exists">Не могу скачать. Файл уже существует.</string>
      <string name="dialog_file_missing_body">Загруженный файл не найден</string>
