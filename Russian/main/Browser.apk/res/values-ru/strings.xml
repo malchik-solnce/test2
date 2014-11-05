@@ -680,11 +680,11 @@
      <string name="sync_item_browser_summary">Синхронизировать данные браузера в облако, для легкого использования на разных устройствах</string>
      <string name="sync_item_browser_title">Синхронизация браузера</string>
      <string name="tab_history">История</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="tab_hotpage">Trending</string>
      <string name="tab_most_visited">Часто посещаемые</string>
      <string name="tab_quicklinks">Полезные</string>
      <string name="tab_snapshots">Сохраненные страницы</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="tab_videopage">Video</string>
      <string name="tab_yellowpage">Популярные</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="time_picker_dialog_am">AM</string>

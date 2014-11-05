@@ -198,6 +198,7 @@
      <string name="no_favorites_songs">Пусто</string>
      <string name="no_local_songs">Пусто</string>
      <string name="no_local_songs_selected">"Can't send songs because they haven't been downloaded"</string>
+     <string name="no_local_source_find">"Couldn't find file"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_online_song_selected">No songs selected</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

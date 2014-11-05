@@ -48,6 +48,8 @@
      <string name="delete_timezone_title">Удалить часовой пояс</string>
      <string name="dialog_confirm_abort">Отменить изменения?</string>
      <string name="done">Готово</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="edit_systemtime">Edit system time</string>
      <string name="every_day">Каждый день</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
@@ -67,7 +69,6 @@
      <string name="loading_ringtone">Загрузка мелодии…</string>
      <string name="menu_add_worldclock">Добавить</string>
      <string name="menu_desk_clock">Настольные часы</string>
-     <string name="menu_edit_systemtime">Настройки даты и времени</string>
      <string name="menu_edit_timer_item">Редактировать таймер</string>
      <string name="menu_item_dock_settings">Настройки док-станции</string>
      <string name="minute">1 минуту</string>

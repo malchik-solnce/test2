@@ -203,6 +203,10 @@
      <string name="first_recommend_download">full installation</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="first_recommend_enter">enter gamecenter</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="float_window_menu_gone">hide</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="float_window_menu_plugin">plugin</string>
      <string name="from_camre">Сделать фото</string>
      <string name="from_file">Выбрать из галереи</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -725,6 +729,8 @@ Please check and refresh"</string>
      <string name="request_game_detail_fail">request game detail fail.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="reset">reset</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resetting_success">Reset successful</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="restore">Restore</string>
      <string name="save_photo_fail">Ошибка сохранения фото</string>

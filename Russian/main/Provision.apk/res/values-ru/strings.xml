@@ -12,6 +12,9 @@
      <string name="ime_privacy_policy_no_network">"Can't connect to the internet. View the Privacy Policy for this keyboard at %s."</string>
      <string name="input_method_category">Выберите метод ввода по умолчанию, который будет использоваться при написании электронных писем, заметок, и т.д.. Сторонние клавиатуры можно установить позже.</string>
      <string name="input_method_setting">Настроить метод ввода</string>
+     <string name="locale_picker_confirm_dialog_desc">Determine select %s as your location?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locale_picker_confirm_dialog_title">Location Setting</string>
      <string name="locale_picker_desc">"If yout want to change your location later on, you'll need to perform a Factory data reset"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="locale_picker_title">Choose your location</string>

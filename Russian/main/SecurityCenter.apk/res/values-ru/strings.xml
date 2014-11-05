@@ -209,9 +209,6 @@
      <string name="hints_apk_header_left">Файлы апк: %d</string>
      <string name="hints_apk_version">Версия: %s</string>
      <string name="hints_app_uninstall_residual">Удалить остаточные файлы?</string>
-     <string name="hints_apps_perm_count">Разрешений: %d</string>
-     <string name="hints_auto_start_disable_title">Приложения без автозапуска %d </string>
-     <string name="hints_auto_start_enable_title">Приложения в автозапуске %d </string>
      <string name="hints_auto_start_warning_info">Forbid auto-start will not receive any message</string>
      <string name="hints_cache_header_left">Файлы кэша: %d</string>
      <string name="hints_cleanning_text">Очистка…</string>
@@ -224,8 +221,6 @@
      <string name="hints_garbage_cleanup_result_safe">Безопасные</string>
      <string name="hints_garbage_handle_item_content">файлов: %1$d - %2$s</string>
      <string name="hints_garbage_handle_item_empty_content">Пусто</string>
-     <string name="hints_get_root_disable_title">Приложения без прав суперполь.: %d</string>
-     <string name="hints_get_root_enable_title">Приложения с правами суперполь.: %d</string>
      <string name="hints_handle_item_text_risk">Risks: %d</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hints_handle_item_text_safe">Safe</string>
@@ -255,7 +250,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hints_need_quick_scan">Recommended quick scan</string>
      <string name="hints_no_info">Нет информации</string>
-     <string name="hints_permission_apps_count">%d прил.</string>
      <string name="hints_power_percent_title">заряда</string>
      <string name="hints_quick_cleanning">Очистка…</string>
      <string name="hints_quick_cleanuping">Оптимизация…</string>
@@ -277,6 +271,10 @@
      <string name="hints_scanning_virus_by_cloud">Ongoing cloud scanning…</string>
      <string name="hints_storage_free">Свободно</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: %s available -->
      <string name="hints_storage_free_size">Free Memory</string>
      <string name="hints_title_garbage">Мусор</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

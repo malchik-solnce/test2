@@ -7,7 +7,6 @@
      <string name="activity_not_found_uri">Не удается найти приложение для этого типа файлов</string>
      <string name="addBlackList">Добавить в черный список</string>
      <string name="add_attachment">Добавить вложение</string>
-     <string name="add_bookmark">Избранные</string>
      <string name="add_contact">Контакт</string>
      <string name="add_festival">Поздравление</string>
      <string name="add_music">Добавить музыку</string>
@@ -281,18 +280,16 @@ SMS (%1$d), MMS (%2$d)"</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Mi Messaging with SIM slot 1 -->
+     <!-- Original string: Mi Message SIM slot 1 -->
      <string name="mx_on_sim_1">Mi Messaging with SIM slot %s</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Mi Messaging with SIM slot 2 -->
+     <!-- Original string: Mi Message SIM slot 2 -->
      <string name="mx_on_sim_2">Mi Messaging with SIM slot %s</string>
      <string name="mx_online">В сети</string>
      <string name="mx_reactivate">Повторное активирование облачных сообщений</string>
      <string name="mx_recommend_msg">Включи облачные сообщения. Нажми кнопку включить и бесплатно отправляй сообщения.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="my_bookmark">Bookmarks</string>
      <string name="need_download">Ожидание синхронизации…</string>
      <string name="new_message">Новое сообщение</string>
      <string name="new_message_arrived">Получено новое сообщение</string>
