@@ -223,6 +223,8 @@
      <string name="attachment_canceling">It is canceling now, please wait a minute!</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="attachment_decoding">The attachment is downloaded completely, it is decoding now, please waiting.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="attachment_download_all">Download all</string>
      <string name="attachment_image">Изображение</string>
      <string name="attachment_mgr_name">Вложение</string>
      <string name="attachment_not_exists">The attachment is not available!</string>
@@ -275,6 +277,7 @@
      <string name="clear_display_images_whitelist_dialog_message">Ты действительно хочешь запретить показ изображений в письмах?</string>
      <string name="clear_display_images_whitelist_dialog_title">Запрет показа изображений</string>
      <string name="clear_display_images_whitelist_title">Запретить показ изображений</string>
+     <string name="click_download_all_content">[ Tap to download content ]</string>
      <string name="collapse_recipient_details">Скрыть сведения о получателе</string>
      <string name="colon">:</string>
      <string name="compose">Написать</string>
@@ -414,6 +417,13 @@
      <string name="file_not_found_redownload">"Can't find file"</string>
      <string name="file_rar_not_support">Не поддерживает зашифрованный файл RAR!</string>
      <string name="filtered_tag">[%1$s]%2$s</string>
+     <string name="flow_saved_dlg_do_not_show">"Don't show again"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="flow_saved_dlg_i_know">OK</string>
+     <string name="flow_saved_dlg_message">%1$d new messages. Saved %2$s (mobile data).</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="flow_saved_dlg_title">Reduced your data usage</string>
+     <string name="flow_saved_preference_total">Saved %1$s.</string>
      <string name="folder_drafts_name_cn0">草稿</string>
      <string name="folder_drafts_name_cn1">草稿箱</string>
      <string name="folder_drafts_name_en0">Черновики</string>
@@ -468,6 +478,7 @@
      <string name="header_category_other">Others</string>
      <string name="header_label_general_preferences">Общие настройки</string>
      <string name="help_and_info">Справка</string>
+     <string name="hide_atts_remaining">Hide %1$d attachments</string>
      <string name="hide_elided">▼ Скрыть цитируемый текст</string>
      <string name="hide_folders">Скрыть папки</string>
      <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -498,6 +509,12 @@
      <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
      <string name="mail">Почта</string>
      <string name="mail_body_turncated">Это сообщение слишком большое, чтобы загрузить. Отображается только его часть. Посмотри его на ПК позже.</string>
+     <string name="mail_header_downloading_message_body">Downloading…</string>
+     <string name="mail_header_message_body_auto_download_complete">Downloaded email content using Wi-Fi.</string>
+     <string name="mail_header_message_body_auto_download_tip">Email content will be downloaded using Wi-Fi.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mail_header_message_body_download_failed">Connection timed out.</string>
+     <string name="mail_header_network_not_available">"You don't have a network connection."</string>
      <string name="mailbox_list_account_selector_combined_view">Комбинированный режим</string>
      <string name="mailbox_name_display_drafts">Черновики</string>
      <string name="mailbox_name_display_inbox">Входящие</string>
@@ -562,6 +579,7 @@
      <string name="message_body_auto_download_tip">"You're currently using WLAN. it will automatically download email"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="message_body_download_failed">Time out when downloading email</string>
+     <string name="message_body_loading">[ Loading… ]</string>
      <string name="message_compose_fwd_header_fmt">"
 
 -------- Исходное сообщение --------
@@ -588,6 +606,7 @@
      <string name="message_view_attachment_background_load">Примечание. Несколько прикрепленных файлов в переадресованном сообщении будут загружены перед отправкой.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mock_content_provider">Mock Content Provider</string>
+     <string name="more_atts_remaining">%1$d more remaining</string>
      <string name="more_atts_total">Всего вложений: %1$d</string>
      <string name="more_info_attachment">Справка</string>
      <string name="more_string">еще %1$s…</string>
@@ -704,6 +723,10 @@
      <string name="policy_text_truncation">Ограничивать размер текст. эл. сообщения</string>
      <string name="prefDialogTitle_conversationListIcon">Фотографии отправителей</string>
      <string name="prefDialogTitle_removal_action">Я предпочитаю:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="preference_head_load_description">Download message titles only, when using mobile data.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="preference_head_load_title">Reduce data usage</string>
      <string name="preference_removal_action_title">Архивация или удаление</string>
      <string name="preference_sender_image_description">Показывать фото рядом с именами в списке цепочек</string>
      <string name="preference_sender_image_title">Фотографии отправителей</string>
@@ -894,15 +917,6 @@
      <string name="widget_large_unread_count">%d+</string>
      <string name="widget_other_views">Нажми, чтобы изменить</string>
      <string name="wrong_password">Неверный пароль!</string>
-     <string name="xiaomi_bytes_unit">%1$sб</string>
-     <string name="xiaomi_external_storage_unavailable">Память недоступна. Проверь SD-карту.</string>
-     <string name="xiaomi_kilobytes_unit">%1$sкб</string>
-     <string name="xiaomi_megabytes_unit">%1$sмб</string>
-     <string name="xiaomi_update_dialog_message">"Новая версия %1$s
-Размер: %2$s"</string>
-     <string name="xiaomi_update_dialog_message_diff">"Новая версия %1$s
-Размер обновления: %2$s"</string>
-     <string name="xiaomi_update_dialog_title">Обновление %1$s</string>
      <string name="yes">Да</string>
      <string name="zip_viewer_no_file">Нет файлов!</string>
 </resources>

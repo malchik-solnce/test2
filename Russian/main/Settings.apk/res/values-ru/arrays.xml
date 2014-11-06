@@ -588,6 +588,18 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Истекло время ожидания, повтор…</item>
         <item>Устройство подключено</item>
      </string-array>
+     <string-array name="whetstone_level_entries">
+        <item>Off</item>
+        <item>Low</item>
+        <item>Middle</item>
+        <item>High</item>
+     </string-array>
+     <string-array name="whetstone_level_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+     </string-array>
      <string-array name="wifi_ap_security">
         <item>Без шифрования</item>
         <item>WPA PSK</item>

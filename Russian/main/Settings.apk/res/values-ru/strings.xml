@@ -1460,6 +1460,7 @@
      <string name="multi_sim_settings_title">Настройка SIM-карт</string>
      <string name="multi_touch_points_category_title">Точки мультитач</string>
      <string name="multi_touch_points_preference">Перезагрузить для применения</string>
+     <string name="music_HiFi_title">Hi-Fi audio</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_audio_effect_settings">Audio effect settings</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -2655,6 +2656,12 @@
      <string name="wfd_settings_title">Wi-Fi дисплей</string>
      <string name="wfd_wps_keypad">Нажатие кнопки</string>
      <string name="wfd_wps_pbc">Ввод PIN-кода</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="whetstone_level_reboot">This setting will take effect when you restart your device</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="whetstone_level_reboot_OK">Reboot</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="whetstone_level_title">System memory optimization</string>
      <string name="widget_picker_title">Выбор виджета</string>
      <string name="wifi_access_points">Сети Wi-Fi</string>
      <string name="wifi_add_network">Добавить сеть</string>
