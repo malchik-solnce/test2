@@ -127,6 +127,7 @@
      <string name="login_step2_title">2-step verification</string>
      <string name="login_title">Войди в Mi аккаунт</string>
      <string name="login_with_email_or_id"><u>Sign in with another account</u></string>
+     <string name="logout_failed">"Can't sign out"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mi_account_dspt_provision">Sign in to Mi Cloud, MIUI Themes Store, and other Mi services with one account.</string>
      <string name="mibi_balance">%s Mi Credits</string>
@@ -260,6 +261,8 @@
      <string name="theme_store">MIUI Themes Store</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="theme_store_dspt">Choose your look. Hundreds of free customizable themes to make your phone unique.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="timeout_retry">Request timeout, please retry.</string>
      <string name="title_reg">Создать аккаунт</string>
      <string name="trust_device">Доверять этому устройству</string>
      <string name="unactivated_user">Подожди…</string>

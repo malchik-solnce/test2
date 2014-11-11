@@ -63,6 +63,8 @@
      <string name="block_message_number">Заблокировано: %d</string>
      <string name="block_phone_number">Заблокировано: %d</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_text_delete">Delete</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_to_setting">Settings</string>
      <string name="call_delete_hint">Удалить все заблокированные вызовы с выбранного номера?</string>
      <string name="cancle">Отмена</string>

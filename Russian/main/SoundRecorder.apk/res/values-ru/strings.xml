@@ -39,6 +39,8 @@
      <string name="menu_settings">Настройки</string>
      <string name="message_file_size_error">Запись достигла максимальной длины записи (%s)</string>
      <string name="minute">%d минут</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_downloading_file">no downloading file</string>
      <string name="no_file">Нет записей</string>
      <string name="notification_message_all_paused">Может увеличить потребление мобильного интернета</string>
      <string name="notification_playback">Воспроизведение…</string>

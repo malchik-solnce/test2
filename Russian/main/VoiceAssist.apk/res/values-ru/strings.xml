@@ -49,6 +49,7 @@
      <string name="app_off">Выкл.</string>
      <string name="app_ok">ОК</string>
      <string name="app_on">Вкл.</string>
+     <string name="app_uninstall">确认是否卸载</string>
      <string name="app_unquiet_net">网络不稳定，请稍候重试</string>
      <string name="app_upgradeDetail">修复某些情况下时间不更新的问题。</string>
      <string name="app_upgradeDownloading">Загрузка обновления</string>
@@ -74,6 +75,9 @@
      <string name="avg_price_default">--</string>
      <string name="begin_talk">Поиск</string>
      <string name="begin_talk_web">Поиск в интернете</string>
+     <string name="bluetooth_off">关闭蓝牙</string>
+     <string name="bluetooth_on">打开蓝牙</string>
+     <string name="bluetooth_setting">打开蓝牙设置</string>
      <string name="buffering">Буферизация..</string>
      <string name="button_allow">Да</string>
      <string name="button_not_allow">Нет</string>
@@ -100,17 +104,26 @@
      <string name="contact_select">Пожалуйста, выберите контакт</string>
      <string name="contacts">Контакты</string>
      <string name="content">Содержание</string>
+     <string name="data_off">关闭数据连接</string>
+     <string name="data_on">打开数据连接</string>
+     <string name="date_setting">打开时间日期设置</string>
      <string name="day">日</string>
      <string name="descript_format" formatted="false">%s - %s</string>
+     <string name="display_setting">打开系统设置</string>
      <string name="download_failed">Ошибка загрузки</string>
      <string name="engine_settings_button">Настройки запуска</string>
      <string name="find_more_restaurant">Посмотреть еще</string>
      <string name="find_restaurant_nearby">Найти рестораны поблизости</string>
      <string name="finish">Готово</string>
+     <string name="flight_off">关闭飞行模式</string>
+     <string name="flight_on">打开飞行模式</string>
      <string name="format_date_md">MM/d kk:mm</string>
      <string name="format_date_wmd">MM/d EEE</string>
+     <string name="gps_off">关闭gps</string>
+     <string name="gps_on">打开gps</string>
      <string name="grammar_build_error">Ошибка</string>
      <string name="help_content">Я могу Вам помочь?</string>
+     <string name="help_prefix">正在为您</string>
      <string name="help_tip">Вы можете использовать следующие команды голосом:</string>
      <string name="in_calling">Вызов в</string>
      <string name="in_sms">Сообщение в</string>
@@ -161,6 +174,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="not_remind">Do not remind again</string>
      <string name="not_understand">Ошибка распознания, повторите попытку</string>
+     <string name="not_uninstall_system_app">系统应用不能卸载</string>
      <string name="online_category">ОНЛАЙН</string>
      <string name="over_24h_clock_operation">Вы не можете установить будильник более 24 часов, следует создать заметку в календарь</string>
      <string name="password_guard">Защита</string>
@@ -197,7 +211,13 @@
      <string name="restaurant_detail">Подробнее</string>
      <string name="restaurant_feature">Особенности:</string>
      <string name="restaurant_more">Еще</string>
+     <string name="ring_normal">设置为正常模式</string>
+     <string name="ring_shake">设置为震动模式</string>
+     <string name="ring_silent">设置为静音模式</string>
+     <string name="screen_rotation_off">关闭旋转</string>
+     <string name="screen_rotation_on">打开旋转</string>
      <string name="security_center">Безопасность</string>
+     <string name="security_setting">进行安全设置</string>
      <string name="send_weather_sms_cycle">%1$s未来天气：%2$s</string>
      <string name="send_weather_sms_error">无相关天气信息</string>
      <string name="send_weather_sms_main">%1$s %2$s,%3$s %4$s %5$s</string>
@@ -215,6 +235,7 @@
      <string name="sms_sender">sender</string>
      <string name="sms_sent_cancel">Отмена</string>
      <string name="sms_sent_success">Отправить</string>
+     <string name="sound_setting">进入声音设置</string>
      <string name="stock_not_found">Не найдено на складе</string>
      <string name="success_schecule">设置提醒成功</string>
      <string name="summary_response_timeout">Установите время ожидания ответа</string>
@@ -267,7 +288,11 @@
      <string name="weather_no_city">无当地的天气信息</string>
      <string name="weather_no_date">无当天的天气信息</string>
      <string name="weather_unit">°</string>
+     <string name="web_result">为您找到了一下结果</string>
      <string name="widget_loading">Нет информации о погоде</string>
+     <string name="wifi_off">关闭wifi</string>
+     <string name="wifi_on">打开wifi</string>
+     <string name="wifi_setting">打开wifi设置</string>
      <string name="year">年</string>
      <string name="yellow_page">Желтые страницы</string>
      <string name="you_can_say_so">Вы можете сказать, что это:</string>
