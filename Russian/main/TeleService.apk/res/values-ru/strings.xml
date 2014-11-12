@@ -965,6 +965,8 @@ SIM-карта будет заблокирована навсегда при н�
      <string name="uplmn_list_setting_add_plmn">Новая PLMN</string>
      <string name="uplmn_list_setting_title">Предпочтительные сети</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="uplmn_numeric_is_empty">Enter a network ID</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="username">UserName</string>
      <string name="username_title">Имя пользователя</string>
      <string name="ussdRunning">Выполняется USSD запрос…</string>

@@ -46,6 +46,13 @@
      <string name="mipay_bank_cards_item_bank_tail">Card no. %1$s</string>
      <string name="mipay_bank_cards_item_bank_title">%1$s%2$s</string>
      <string name="mipay_bank_cards_title">Мои карты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_bank_type_credit">Credit</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_bank_type_debit">Debit</string>
+     <string name="mipay_bank_type_ecash">E-Cash Card</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_bank_type_quasi_credit">Quasi Credit</string>
      <string name="mipay_button_cancel">Отмена</string>
      <string name="mipay_button_close_count_down">Close(%1$s)</string>
      <string name="mipay_button_count_down">Повторно через %1$s сек.</string>
@@ -108,6 +115,42 @@ Please check your local date and try again."</string>
      <string name="mipay_i_know">I know it</string>
      <string name="mipay_loading">Загрузка…</string>
      <string name="mipay_login_password_error">Проверьте пароль аккаунта Xiaomi</string>
+     <string name="mipay_nfc_balance_limit_title">E-Cash Balance Limit</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_bank_card_details_title">Bank card</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_bank_card_name_default">A Bank</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_card_balance_title">Balance</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_card_title">NFC Read Card</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_card_valid_date">Card valid date</string>
+     <string name="mipay_nfc_e_cash_balance_extra">Non-saving account funds are displayed in Online Checking</string>
+     <string name="mipay_nfc_e_cash_balance_title">E-Cash Balance</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_pay_record_content">Recent activity</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_pay_record_title">Payment history</string>
+     <string name="mipay_nfc_per_limit_title">Per-Trade Limit</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_record_empty">No records</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_record_title">Records</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_shop_name_default">No Name Company</string>
+     <string name="mipay_nfc_tail_num_hint">Tail Num: %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_trade_times_title">Payment activity</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_trans_card_details_title">Trans Card</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_warning">Holding the card to the back of the device again</string>
+     <string name="mipay_nfc_warning_suport">*This function only supports optional trans card</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_warning_toast_move">Move too fast</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_warning_toast_support">This card is not supported</string>
      <string name="mipay_order_bank_card_info">%1$s %2$s (Card no. %3$s) %4$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_order_change">Replace</string>
@@ -161,6 +204,18 @@ Please check your local date and try again."</string>
      <string name="mipay_setting_title">Настройки безопасности</string>
      <string name="mipay_setting_title_password">Пароль оплаты</string>
      <string name="mipay_sms_captcha_error">Проверьте проверочный код</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_trade_type_consume">Purchase</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_trade_type_deposit">Deposit</string>
+     <string name="mipay_trade_type_deposit_e_cash">Deposit E-Cash</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_trade_type_enchashment">Withdraw</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_trade_type_query_balance">Check balance</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_trade_type_recharge">Top up</string>
+     <string name="mipay_unit_yuan">¥ %1$s</string>
      <string name="mipay_update_title">Есть обновление Mipay!</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_use_new_card">Use new bank card</string>

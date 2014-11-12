@@ -144,7 +144,6 @@
      <string name="fragment_title_bill">Плейлисты</string>
      <string name="fragment_title_channel">Радио</string>
      <string name="fragment_title_recommend">Рекомендуемое</string>
-     <string name="function_error">"Well, this is embarrassing! This feature isn't ready yet (we're working on it)."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="headset_settings">Headset settings</string>
      <string name="high_quality">Высокое качество</string>

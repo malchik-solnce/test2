@@ -12,6 +12,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="accelerate_unit">X</string>
      <string name="accelerate_value_is">speed has been open to %s</string>
+     <string name="accelerating_function_introduction_1">小提示:在此启动游戏,即可享受加速功能</string>
+     <string name="accelerating_function_introduction_2">你可以自己控制游戏速度,用途吗,你懂的...</string>
      <string name="account_all_game">Все игры</string>
      <string name="account_feedback">Отзыв</string>
      <string name="account_local_game_title">Мои игры</string>
@@ -207,12 +209,18 @@
      <string name="float_window_menu_gone">hide</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="float_window_menu_plugin">plugin</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="free_open">Free open</string>
      <string name="from_camre">Сделать фото</string>
      <string name="from_file">Выбрать из галереи</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="from_gamecenter_download">Download From the GameCenter</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="function_declaration">Function declaration</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="function_setting">Features</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="game_accelerated_failure">Game accelerated failure</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="game_category">Category</string>
      <string name="game_comments_tab">Комментарии</string>
@@ -568,6 +576,8 @@ Please check and refresh"</string>
      <string name="no_updateable_game">Нет обновляемых игр</string>
      <string name="no_url">Не удалось найти адрес загрузки</string>
      <string name="no_yiguoqi">Истек</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="not_have_install_games">Do not have to install the game</string>
      <string name="notif_install_failed">Ошибка установки %1$s</string>
      <string name="notif_install_failed_sdcard_space_not_enough">Не удалось установить: не хватает места на SD-карты</string>
      <string name="notif_install_failed_system_space_not_enough">Не удалось установить: недостаточно памяти</string>
