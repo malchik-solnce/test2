@@ -101,6 +101,7 @@
      <string name="allow_bind_app_widget_activity_always_allow_bind">Всегда разрешать %1$s создавать виджеты и получать доступ к их данным</string>
      <string name="allow_mock_location">Фиктивные местоположения</string>
      <string name="allow_mock_location_summary">Разрешить фиктивные местоположения</string>
+     <string name="alpha_build">" | Alpha"</string>
      <string name="always_allow_bind_appwidgets_text">Вы разрешили этому приложению создавать виджеты и получать доступ к данным</string>
      <string name="android_beam_disabled_summary">Недоступно, так как NFC отключен</string>
      <string name="android_beam_explained">"Когда включена эта функция, данные приложений можно передавать на другие устройства с поддержкой связи малого радиуса действия. Например, отправлять страницы браузера, видео YouTube, контакты и другие сведения.
@@ -751,6 +752,7 @@
      <string name="details_title">Расход батареи</string>
      <string name="dev_settings_warning_message">Эти настройки только для разработчиков. Они могут вызвать нестабильность работы устройства и приложений на нем.</string>
      <string name="dev_settings_warning_title">Разрешить настройки для разработчиков?</string>
+     <string name="developer_build">" | Developer"</string>
      <string name="development_enable">Режим разработчика</string>
      <string name="development_settings_not_available">Настройки разработчика не доступны для этого пользователя</string>
      <string name="development_settings_summary">Настройка параметров для разработчиков</string>
@@ -940,7 +942,6 @@
      <string name="error_mnc_not23">Поле MNC должно содержать 2 или 3 цифры</string>
      <string name="error_name_empty">Необходимо указать название</string>
      <string name="error_title">Предупреждение</string>
-     <string name="experimental_build">(Experimental)</string>
      <string name="external_code_size_label">USB-накопитель</string>
      <string name="external_data_size_label">SD-карта</string>
      <string name="factory_reset_summary">Вы можете удалить Ваши личные данные в Восстановление и сброс или выбрать установленные приложения для удаления и отформатировать SD-карту до заводских настроек</string>
@@ -2138,6 +2139,7 @@
      <string name="ssl_ca_cert_warning_message">"Третья сторона может отслеживать Ваши действия в сети (например, просматривать ваши письма, приложения и список посещенных сайтов).
 
 Это возможно благодаря надежному сертификату, установленному на устройстве."</string>
+     <string name="stable_build">" | Stable"</string>
      <string name="status_awake_time">Время работы</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_and_notification_bar">Notification shade and status bar</string>

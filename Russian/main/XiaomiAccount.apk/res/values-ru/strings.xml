@@ -26,6 +26,8 @@
      <string name="add_account">Add account</string>
      <string name="alert_title_remove_account">Удаление аккаунта</string>
      <string name="app_name">Mi аккаунт</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="authorize_title">Authorization</string>
      <string name="bad_authentication">Неверный пароль или имя пользователя</string>
      <string name="barcode_add_account_prompt">Чтобы добавить аккаунт, отсканируй QR-код еще раз после входа</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

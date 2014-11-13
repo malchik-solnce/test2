@@ -35,6 +35,10 @@
      <string name="account_settings_action">Настройки аккаунта</string>
      <string name="account_settings_background_attachments_label">Автозагрузка файлов</string>
      <string name="account_settings_background_attachments_summary">Автоматически загружать прикрепленные файлы при подключении по Wi-Fi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_settings_chat_mode_enable">Conversation Mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_settings_chat_mode_summary">Click to merge the email group and enter conversation mode</string>
      <string name="account_settings_data_usage">Использование данных</string>
      <string name="account_settings_description_label">Название аккаунта</string>
      <string name="account_settings_edit_quick_responses_label">Быстрые ответы</string>
@@ -220,6 +224,8 @@
      <string name="attachment_application_vnd_ms_excel">Таблица</string>
      <string name="attachment_application_vnd_ms_powerpoint">Презентация</string>
      <string name="attachment_audio">Аудио</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="attachment_bar_title">Attachments</string>
      <string name="attachment_canceling">It is canceling now, please wait a minute!</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="attachment_decoding">The attachment is downloaded completely, it is decoding now, please waiting.</string>
@@ -245,7 +251,9 @@
      <string name="bcc_heading">Скрытая: </string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="blank_feedback_toast">You need to write feedback</string>
+     <string name="body_forward_email_text">[Forward]</string>
      <string name="body_hint">Текст сообщения</string>
+     <string name="body_inline_pic_text">[Picture]</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="bottom_bar_more_delete">Delete</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -269,7 +277,17 @@
      <string name="change_folders_selection_dialog_title">Изменение папок</string>
      <string name="change_sync_settings">Настройки синхронизации</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="chat_item_msg_people_unit">persons</string>
+     <string name="chat_item_msg_user_etc">…</string>
+     <string name="chat_item_msg_user_saying">says:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="chat_type_name">Conversation</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="chat_view_description">Merge the conversation list to show conversation</string>
+     <string name="chat_view_quote_text">-----Quoted Text-----</string>
+     <string name="chat_view_retract_quote_text">---Hide Quoted Text---</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="chat_view_title">Show conversation</string>
      <string name="check_setup_data">Validating server settings…</string>
      <string name="checking_for_mail">Проверка почты…</string>
      <string name="choosertitle_sharevia">Отправить через</string>
@@ -380,6 +398,8 @@
      <string name="download_confirm_message">Чтобы открыть этот файл, нужно скачать вложение размером %1$s</string>
      <string name="download_confirm_title">Подтверждение загрузки</string>
      <string name="download_failed">Ошибка загрузки. Нажми, чтобы повторить.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="download_show_image">Download and display image</string>
      <string name="downloading_message_body">Downloading email, please wait…</string>
      <string name="draft_count_format"> (%1$s)</string>
      <string name="drawer_close">Закрыть панель навигации</string>
@@ -426,25 +446,37 @@
      <string name="flow_saved_preference_total">Saved %1$s.</string>
      <string name="folder_drafts_name_cn0">草稿</string>
      <string name="folder_drafts_name_cn1">草稿箱</string>
+     <string name="folder_drafts_name_cn2">[Gmail]/草稿</string>
      <string name="folder_drafts_name_en0">Черновики</string>
      <string name="folder_drafts_name_en1">Черновик</string>
+     <string name="folder_drafts_name_en2">[Gmail]/Drafts</string>
      <string name="folder_icon_desc">Значок папки</string>
      <string name="folder_junk_name_cn0">垃圾邮件</string>
      <string name="folder_junk_name_cn1">垃圾箱</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="folder_junk_name_en0">Junk</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="folder_junk_name_en1">Bulk Mail</string>
      <string name="folder_picker_title">Выбери папку</string>
      <string name="folder_removed">Удалено из папки %1$s</string>
      <string name="folder_sent_name_cn0">已发送</string>
      <string name="folder_sent_name_cn1">已发邮件</string>
      <string name="folder_sent_name_cn2">已发送邮件</string>
+     <string name="folder_sent_name_cn3">[Gmail]/已发邮件</string>
      <string name="folder_sent_name_en0">Отправленные</string>
      <string name="folder_sent_name_en1">Отправленные сообщения</string>
      <string name="folder_sent_name_en2">Отправленное сообщение</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="folder_sent_name_en3">Sent Items</string>
+     <string name="folder_sent_name_en4">[Gmail]/Sent Mail</string>
      <string name="folder_shortcut_widget_label">Папка почты</string>
      <string name="folder_trash_name_cn0">已删除</string>
      <string name="folder_trash_name_cn1">已删除邮件</string>
+     <string name="folder_trash_name_cn2">[Gmail]/已删除邮件</string>
      <string name="folder_trash_name_en0">Корзина</string>
      <string name="folder_trash_name_en1">Удаленные сообщения</string>
      <string name="folder_trash_name_en2">Удаленное сообщение</string>
+     <string name="folder_trash_name_en3">[Gmail]/Bin</string>
      <string name="formatted_email_address">&lt;%1$s></string>
      <string name="formatted_subject">%1$s%2$s</string>
      <string name="forward">Переслать</string>
@@ -532,6 +564,18 @@
      <string name="mailbox_settings_sync_enabled_label">Синхронизировать эту папку</string>
      <string name="mailbox_settings_sync_enabled_summary">Загружать сообщения при подключении к интернету</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="maileditor_fontsize_textitem1">8pt</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="maileditor_fontsize_textitem2">10pt</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="maileditor_fontsize_textitem3">12pt</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="maileditor_fontsize_textitem4">14pt</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="maileditor_fontsize_textitem5">16pt</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="maileditor_fontsize_textitem6">18pt</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="main_help_context">ttl</string>
      <string name="manual_sync">Синхр.</string>
      <string name="mark_important">Отметить как важное</string>
@@ -608,6 +652,8 @@
      <string name="mock_content_provider">Mock Content Provider</string>
      <string name="more_atts_remaining">%1$d more remaining</string>
      <string name="more_atts_total">Всего вложений: %1$d</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="more_context">More</string>
      <string name="more_info_attachment">Справка</string>
      <string name="more_string">еще %1$s…</string>
      <string name="more_than_999">более 999</string>
@@ -626,6 +672,7 @@
      <string name="no_application_found">Файл не поддерживается вашими приложениями</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_contacts">Empty</string>
+     <string name="no_content_in_body">[No Body]</string>
      <string name="no_conversations">Нет сообщений</string>
      <string name="no_mails">Нет сообщений</string>
      <string name="no_matched_attachment">Нет подобранных вложений!</string>
@@ -752,7 +799,39 @@
      <string name="quick_4">Это нужно обсудить при встрече</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="quick_reply_dialog_title">Please choose</string>
+     <string name="quick_reply_hint">Reply to all %1$d persons</string>
+     <string name="quick_reply_hint_bcc">(In BCC)</string>
+     <string name="quick_reply_hint_cc">(In CC)</string>
      <string name="quick_responses_empty_view">Нет шаблонов для быстрых ответов</string>
+     <string name="quote_divider_1">-------- 原始邮件 --------</string>
+     <string name="quote_divider_10">-----------------------------------</string>
+     <string name="quote_divider_11">----- 原文 -----</string>
+     <string name="quote_divider_12"> 原始邮件 </string>
+     <string name="quote_divider_2">---原始邮件---</string>
+     <string name="quote_divider_3">-------- 原始消息 --------</string>
+     <string name="quote_divider_4">-----邮件原件-----</string>
+     <string name="quote_divider_5">-----------用于引用的分割线-------------</string>
+     <string name="quote_divider_6">---Original---</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="quote_divider_7">Original Message</string>
+     <string name="quote_divider_8">_____________________________________</string>
+     <string name="quote_divider_9">--------------------------------------------------</string>
+     <string name="quote_divider_apple">"
+>"</string>
+     <string name="quote_divider_huawei_zh">来自华为手机</string>
+     <string name="quote_divider_ipad_zh">发自我的 iPad</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="quote_divider_iphone_en">Sent from my iPhone</string>
+     <string name="quote_divider_iphone_fwd_en">Begin forwarded message:</string>
+     <string name="quote_divider_iphone_fwd_zh">以下是转发的邮件：</string>
+     <string name="quote_divider_ks_web">________________________________________</string>
+     <string name="quote_divider_qq_en">------------------ Original ------------------</string>
+     <string name="quote_divider_qq_zh">------------------ 原始邮件 ------------------</string>
+     <string name="quote_divider_wps_zh">发自WPS Mail</string>
+     <string name="quote_divider_wps_zh_hk">發自WPS Mail</string>
+     <string name="quote_divider_xm_rsh">Отправлено с MiPhone</string>
+     <string name="quote_divider_xm_zh">发自我的小米手机</string>
+     <string name="quote_divider_xm_zh_hk">發自我的小米手機</string>
      <string name="quoted_text">Включить цитируемый текст</string>
      <string name="quoted_text_label">Цитировать</string>
      <string name="read_string">прочитано</string>
@@ -846,6 +925,17 @@
      <string name="single_new_message_notification_title">%1$s: %2$s</string>
      <string name="sort_attachment">Сортировка</string>
      <string name="spaceChar">" "</string>
+     <string name="special_text_1">写道:</string>
+     <string name="special_text_2">写道：</string>
+     <string name="special_text_3">寫道:</string>
+     <string name="special_text_4">寫道：</string>
+     <string name="special_text_5">wrote:</string>
+     <string name="special_text_colon_en">:</string>
+     <string name="special_text_colon_zh">：</string>
+     <string name="special_text_qq_subscribe">loadScript(_aoFiles){</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="special_text_sender_en">sender</string>
+     <string name="special_text_sender_zh">发件人</string>
      <string name="status_network_error">Ошибка подключения</string>
      <string name="storage">Память</string>
      <string name="str_select_all">Выбрать все</string>
@@ -853,6 +943,8 @@
      <string name="subject_and_snippet" formatted="false">%s — %s</string>
      <string name="subject_hint">Тема:</string>
      <string name="swipe_down_to_refresh">Потяни вниз, чтобы обновить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="switch_as_tranditional_view">Traditional View</string>
      <string name="sync_error">Ошибка синхронизации</string>
      <string name="sync_error_message">Недостаточно места для синхронизации</string>
      <string name="system_account_create_failed">Не удалось создать аккаунт. Повтори попытку.</string>
@@ -868,6 +960,8 @@
      <string name="tap_to_configure_folder_sync">Синхронизировать папку</string>
      <string name="tap_to_enable_sync">Нажми, чтобы включить</string>
      <string name="time_error">Ошибка времени</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="tip_cannot_switchview_in_unread_folder">Unable to switch view in unread mail aggregation mode</string>
      <string name="to">Кому:</string>
      <string name="to_heading">Кому: </string>
      <string name="too_large_to_attach_additional">Не удалось прикрепить файл: превышен лимит (%1$s)</string>
