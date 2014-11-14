@@ -10,6 +10,7 @@
      <string name="app_comments">Комментарии</string>
      <string name="app_comments_footer">Пустые комментарии здесь не показаны</string>
      <string name="app_comments_title">Комментарии: %1$s</string>
+     <string name="app_detail_result_tip">The app detail info is from %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_name">Mi Store</string>
      <string name="app_source">Source:</string>
@@ -29,6 +30,7 @@
      <string name="button_search_pad">Pad</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_search_phone">Phone</string>
+     <string name="bytes">%1$s/%2$s</string>
      <string name="bytes_unit">%1$sБайт</string>
      <string name="cancel">Отмена</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -65,12 +67,17 @@
      <string name="comment_upload_failed">Ошибка отправки</string>
      <string name="comment_upload_hint">Ваш комментарий появится после проверки</string>
      <string name="comment_upload_login_cancel">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_upload_login_ok">Sign in</string>
      <string name="comment_upload_need_login">Войти в аккаунт, чтобы оставить комментарий?</string>
      <string name="comment_upload_not_logined">Сначала войди в аккаунт</string>
      <string name="comment_upload_success">Комментарий отправлен!</string>
      <string name="comment_version_name">(версия %1$s)</string>
      <string name="connect_fail">Ошибка соединения. Проверь подключение к сети.</string>
-     <string name="connect_no_enough_space">Не хватает места для установки приложения. Освободи место и попробуй снова.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="connect_no_enough_space_message">Not enough space available on your device</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="connect_no_enough_space_title">Not enough space</string>
      <string name="connect_no_fit_fail">Загрузка не завершена. Нет пакета установки для этого телефона.</string>
      <string name="connecting">Подключение…</string>
      <string name="data_save_mode_tip">Изображения отключены</string>
@@ -106,6 +113,7 @@
      <string name="download_history">Download history</string>
      <string name="download_history_login_hint">Войдите в аккаунт Xiaomi, чтобы проверить историю загрузок</string>
      <string name="download_start_fail">Загрузка не завершена. Ошибка создания задачи для загрузки.</string>
+     <string name="download_time">%1$s/%2$s/%3$s</string>
      <string name="downloading">Пауза</string>
      <string name="edit_comment">Комментарий</string>
      <string name="edit_comment_title">Редактирование: %1$s</string>
@@ -195,6 +203,8 @@
      <string name="login_now">Войти</string>
      <string name="login_ok">Войти</string>
      <string name="login_skip">Далее</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="look_more">Look more</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="management">Management</string>
      <string name="management_tag">Файлы</string>
@@ -304,19 +314,25 @@
      <string name="pref_title_version">Версия</string>
      <string name="pref_title_web_dev">Разработчик</string>
      <string name="pref_title_web_market">Маркет</string>
+     <string name="price">￥%1$s</string>
+     <string name="progress">%1$s%%</string>
      <string name="publish_info">%1$s %2$s %3$s</string>
      <string name="quicksearchbox_description">Поиск маркета для приложений</string>
+     <string name="rank_app_name">%1$s. %2$s</string>
      <string name="rank_tag">Топ</string>
      <string name="rating_button">Голосов: %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="recommendation_app">Recommended</string>
      <string name="recommendation_tag">Все</string>
      <string name="remove_package_fail">Ошибка установки</string>
-     <string name="result_notice">Результаты предоставленны Baidu App Center</string>
      <string name="result_of_clear_history">История поиска очищена</string>
      <string name="resume">Возобновить</string>
      <string name="search_local_app_text_hint">Поиск в приложениях: %1$d</string>
      <string name="search_not_found">\"%1$s\" не найдено</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Search from %1$s -->
      <string name="search_other_market">Поискать еще</string>
      <string name="search_recommend_hint">Вам понравится</string>
      <string name="search_recommend_ingore">Игнор</string>
@@ -344,6 +360,7 @@
      <string name="show_report_data">Показывать данные отчета</string>
      <string name="signature_inconsistent_apps">Противоречивое приложение</string>
      <string name="signature_inconsistent_message">Приложение имеет противоречивую подпись в маркете. Продолжить обновление?</string>
+     <string name="size">(%1$s)</string>
      <string name="size_interval">%1$d~%2$dM</string>
      <string name="size_more_than_one_hundred">Более 100МБ</string>
      <string name="system_app_sign_not_match_fail">Несовместимая подпись системного приложения. Невозможно обновить.</string>

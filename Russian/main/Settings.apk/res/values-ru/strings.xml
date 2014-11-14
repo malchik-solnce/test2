@@ -559,12 +559,6 @@
      <string name="clear_failed_dlg_text">Не удалось удалить данные</string>
      <string name="clear_failed_dlg_title">Стереть данные</string>
      <string name="clear_user_data_text">Стереть данные</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cmcc_dm_settings_disable_summary">Disable auto boot</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cmcc_dm_settings_enable_summary">Enable auto boot</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cmcc_dm_settings_title">Device Management Permission</string>
      <string name="color_black">Черный</string>
      <string name="color_blue">Синий</string>
      <string name="color_calibration_none">Натуральный</string>
@@ -1465,6 +1459,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_audio_effect_settings">Audio effect settings</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="music_dirac_control">Optimize audio quality</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_dirac_mode_earbuds">Mi earbuds</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_dirac_mode_general">General</string>
@@ -1473,9 +1469,13 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_dirac_mode_general_inear">General inear</string>
      <string name="music_dirac_mode_in_ear">Mi in-ear headphones</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="music_dirac_mode_off">Dirac off</string>
+     <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
      <string name="music_dirac_mode_piston_100">Mi piston-1</string>
      <string name="music_dirac_mode_piston_2">Mi piston-2</string>
-     <string name="music_dirac_mode_piston_youth">Mi piston-youth</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="music_dirac_mode_piston_basic">Basic Edition</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_equalizer">Equalizer</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
