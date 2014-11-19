@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="confirm_pin_msg">Enter PIN again</string>
      <string name="default_lockscreen_unlock_hint_text">Сдвинь вверх для разблокировки</string>
      <string name="delete">Удалить</string>
      <string name="emergency_call_string">Экстренные</string>
@@ -21,6 +23,7 @@
      <string name="input_password_hint_text">Введи пароль</string>
      <string name="input_pin_code">Введи PIN-код</string>
      <string name="input_puk_code">Введи PUK-код</string>
+     <string name="invalid_confirm_pin_hint">"PINs don't match"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="keyguard_torch_cover_text">To keep torch on, press the Power button</string>
      <string name="lock_screen_date">"EEEE 

@@ -92,8 +92,7 @@
      <string name="sns_footer_text">Создано в MIUI V6</string>
      <string name="sns_hint_content">Что у Вас на уме?</string>
      <string name="sns_hint_title">Subject (Optional)</string>
-     <string name="sns_message_building">Создание записи…</string>
-     <string name="sns_message_sending">Отправка…</string>
+     <string name="sns_message_disconnect">"Can't connect to the network. Check your connection and try again."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sns_title_edit">Edit title</string>
      <string name="sns_title_send">Отправить сообщение</string>
