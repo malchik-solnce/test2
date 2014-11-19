@@ -201,6 +201,10 @@
      <string name="res_net_timeout">Тайм-аут сети</string>
      <string name="res_no_match">Не могу распознать, пожалуйста, проверьте подключение к сети</string>
      <string name="res_no_talk">Не знаю, что вы говорите</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: 录音失败，请在安全中心授权管理中打开%1$s的录音权限 -->
      <string name="res_recode_error">Не удалось записать</string>
      <string name="res_response_timeout">反应超时</string>
      <string name="res_service_busy">Служба занята</string>

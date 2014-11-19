@@ -493,6 +493,8 @@
      <string name="power_dialog_screen_brightness_title">Подсветка</string>
      <string name="power_dialog_sleep_title">Сон</string>
      <string name="power_dialog_vibration_title">Вибрация</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="power_dialog_wifi_title">WLAN</string>
      <string name="power_exitlowbattery_whencharge">Выходить при зарядке</string>
      <string name="power_idle">Режим ожидания</string>
      <string name="power_mode_airplane_mode">Режим полета</string>
@@ -512,6 +514,8 @@
      <string name="power_mode_cpu_state_save">Энергосбережение</string>
      <string name="power_mode_cpu_state_save_desc">Автономная работа приоритетней производительности</string>
      <string name="power_mode_internet">2G/3G</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="power_mode_keep_state">Keep State</string>
      <string name="power_mode_my_mode">Мой режим</string>
      <string name="power_mode_my_mode_summary">Автоматическое сохранение ежедневного статуса использования</string>
      <string name="power_mode_screen_brightness">Яркость</string>
