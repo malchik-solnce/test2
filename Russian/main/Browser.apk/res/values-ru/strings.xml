@@ -30,6 +30,13 @@
      <string name="actionbar_share">Поделиться</string>
      <string name="actionbar_web_search">Поиск в интернете</string>
      <string name="adblock_notification">Заблокировано рекламы: %d</string>
+     <string name="adblock_rules_number_text">%d items blocked</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="adblock_rules_restore">Restore</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="adblock_websites_settings_empyt_hint">Empty rules</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="adblock_websites_settings_title">Custom rules</string>
      <string name="add_bookmark">Закладка</string>
      <string name="add_bookmark_group">Группа</string>
      <string name="add_folder">Добавить папку</string>
@@ -125,6 +132,13 @@
      <string name="clear_history_group">Очистить всю историю (%s)</string>
      <string name="clear_search_history">Очистить историю</string>
      <string name="clip_dialog_title">Открыть скопированную ссылку?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="close_ads_choice_no">No</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="close_ads_choice_yes">Yes</string>
+     <string name="close_ads_message">You will close this content。Block this content automatically later? The content that is blocked will be displayed in Settings > Advanced > Custom rules</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="close_ads_title">Hint</string>
      <string name="close_all_tab_alert_message">Закрыть все вкладки?</string>
      <string name="close_all_tab_alert_title">Закрытие вкладок</string>
      <string name="close_cloud_tab_tip">Закрыть облачные вкладки на %s?</string>
