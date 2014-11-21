@@ -1143,6 +1143,8 @@ the content you're looking for is not currently available in your region."</stri
      <string name="yellowPageNavigationIconLabel">Сервисы</string>
      <string name="yellowPageNavigationLabel">Сервисы</string>
      <string name="yellowpage_navigation_more_items">Еще</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="yellowpage_navigation_more_items_title">More services</string>
      <string name="yellowpage_navigation_network_location_enable">Включить</string>
      <string name="yellowpage_navigation_network_location_enable_later">Отмена</string>
      <string name="yellowpage_navigation_network_location_enabled">Сервис включен. Ты можешь отключить его в настройках местоположения.</string>
