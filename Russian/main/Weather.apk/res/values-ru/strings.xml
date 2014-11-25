@@ -42,6 +42,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_label">Weather Provider</string>
      <string name="app_name">Погода</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="application_screenorientation">portrait</string>
      <string name="aqi_quality_index_break">AQI %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <!-- The count of MNPS does not match! Now: 0 must: 1
@@ -103,6 +105,16 @@
      <string name="menu_location">Местоположение</string>
      <string name="menu_more">Сведения</string>
      <string name="network_unavailable">Сеть недоступна</string>
+     <string name="view_aqi_detail_item_null">--</string>
+     <string name="view_aqi_detail_item_unit">μg/m<small><sup>3</sup></small></string>
+     <string name="view_aqi_detail_no2">NO<small><sub>2</sub></small></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="view_aqi_detail_pm10">PM10</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="view_aqi_detail_pm25">PM2.5</string>
+     <string name="view_aqi_detail_so2">SO<small><sub>2</sub></small></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="view_aqi_detail_title">AQI details</string>
      <string name="view_aqi_main_no_data">N/A</string>
      <string name="view_aqi_pm25_format">PM2.5: %1$s</string>
      <string name="view_aqi_pubtime">Updated at %1$s</string>

@@ -76,6 +76,11 @@
      <string name="calendar_network_error">网络错误</string>
      <string name="calendar_refresh">Обновить</string>
      <string name="calendar_server_error">Ошибка сети</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="can_not_modify_allday_event">Allday event can not be modified</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="can_not_modify_event">Can not be modified</string>
+     <string name="can_not_modify_repeating_acrossing_days_event">Repeating and acrossing-days event can not be modified</string>
      <string name="change_response_title">Изменить ответ</string>
      <string name="chinese_leap">闰</string>
      <string name="chongsha">冲煞</string>
@@ -121,6 +126,8 @@
      <string name="edit_event_confirm_message">Отменить изменения в событии?</string>
      <string name="edit_event_from_label">С</string>
      <string name="edit_event_label">Сведения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="edit_event_reminder_off_toast">Default reminder mode is none</string>
      <string name="edit_event_show_all">Показать все</string>
      <string name="edit_event_to_label">До</string>
      <string name="edit_label">Изменить</string>
@@ -160,10 +167,8 @@
      <string name="hint_description">Описание</string>
      <string name="hint_what">Название мероприятия</string>
      <string name="hint_where">Место</string>
-     <string name="holiday_label">Праздник</string>
      <string name="huangli_bad_type">忌</string>
      <string name="huangli_good_type">宜</string>
-     <string name="huangli_label">Хуан Ли</string>
      <string name="jump_date">Перейти</string>
      <string name="jump_date_full">Перейти к дате</string>
      <string name="label_recent_events">Недавние события</string>
@@ -264,7 +269,6 @@
      <string name="select_synced_calendars_button">Синхронизировать</string>
      <string name="select_synced_calendars_title">Синхронизировать календари</string>
      <string name="select_visible_calendars_title">Отображать календари</string>
-     <string name="setting_online_calendar">订阅日历</string>
      <string name="setting_wifi_mode">仅在WLAN下同步订阅日历大图</string>
      <string name="show_controls">Показать боковую панель</string>
      <string name="show_day_view">Показать день</string>
@@ -305,6 +309,8 @@
      <string name="widget_select_style">Выбери стиль виджета</string>
      <string name="work_day_indication">:(</string>
      <string name="wuxing">五行</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="xiaomi_calendar_display_name">Xiaomi Calenadr</string>
      <string name="xingxiu">星宿</string>
      <string name="yearly">Ежегодно (%s)</string>
      <string name="yearly_plain">Ежегодно</string>

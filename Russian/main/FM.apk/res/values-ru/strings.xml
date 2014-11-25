@@ -51,6 +51,10 @@
      <string name="frequency_mhz_fomart">%sМГц</string>
      <string name="frequency_out_of_range">Частота вне диапозона (%1$s~%2$s)</string>
      <string name="frequency_should_not_null">Частота не может быть пустой</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="group_favor">Presets</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="group_other">Others</string>
      <string name="hint_frequency">Частота: %1$s ~ %2$s</string>
      <string name="hint_label">Радио</string>
      <string name="hint_station_name">Название радиостанции</string>

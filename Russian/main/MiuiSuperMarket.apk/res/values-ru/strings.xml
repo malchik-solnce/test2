@@ -85,7 +85,16 @@
      <string name="delete">Delete</string>
      <string name="delete_confirm">Удалить выбранные приложения: %1$s?</string>
      <string name="delete_confirm_system_app">Удалить %1$s приложений? %2$s в системном разделе.</string>
+     <string name="delete_download_history_confirm">确定要删除所选的%1$s个下载记录吗</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="delete_download_history_failed">failed to delete download history</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="delete_download_history_partition_failed">some delete failed, try agagin please</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="delete_download_history_success">succeed to delete download history</string>
      <string name="delete_selected_apps">Удалить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="delete_selected_download_history">Delete records</string>
      <string name="deleting">Удаление</string>
      <string name="delta_update">Обновление %1$s</string>
      <string name="description_info">Описание</string>
@@ -184,6 +193,7 @@
      <string name="install_verification_fail">Установка не завершена. Не удался процесс проверки.</string>
      <string name="installed">устан.</string>
      <string name="installing">установка…</string>
+     <string name="items_selected">%1$s item selected</string>
      <string name="kilobytes_unit">%1$sKB</string>
      <string name="launch">Открыть</string>
      <string name="launch_failed_text">Ошибка запуска %1$s</string>
@@ -316,6 +326,14 @@
      <string name="pref_title_web_market">Маркет</string>
      <string name="price">￥%1$s</string>
      <string name="progress">%1$s%%</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="progress_downloading">Downloading</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="progress_installing">Installing</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="progress_paused">Paused</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="progress_pending">Pending</string>
      <string name="publish_info">%1$s %2$s %3$s</string>
      <string name="quicksearchbox_description">Поиск маркета для приложений</string>
      <string name="rank_app_name">%1$s. %2$s</string>
@@ -345,6 +363,8 @@
      <string name="search_tag">Search</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="searchview_hint">Search apps</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="select_item">Select items</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="send">Send</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

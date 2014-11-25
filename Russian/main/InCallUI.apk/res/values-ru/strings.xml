@@ -292,6 +292,7 @@
      <string name="list_language_summary">Выбрать язык для новостей</string>
      <string name="list_language_title">Язык</string>
      <string name="livetalk_provider_info">Provided by %s</string>
+     <string name="livetalk_waiting">Waiting…</string>
      <string name="load_networks_progress">Поиск…</string>
      <string name="local_disable">Местные новости отключены</string>
      <string name="local_enable">Местные новости включены</string>
