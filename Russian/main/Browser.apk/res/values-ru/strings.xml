@@ -277,6 +277,13 @@
      <string name="filename_empty_alert_message">Имя файла не может быть пустым</string>
      <string name="filename_illegal_alert_message">Имя файла содержит недопустимые символы. Они были удалены автоматически.</string>
      <string name="find_on_page">Найти на странице</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="find_on_page_cancel">Cancel</string>
+     <string name="find_on_page_matches">%d matches</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="find_on_page_next">Next</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="find_on_page_prev">Back</string>
      <string name="folder_name">Имя папки</string>
      <string name="forward">Вперед</string>
      <string name="general_set_default_browser_dialog_close_txt">Отмена</string>
@@ -319,6 +326,8 @@
      <string name="location">Адрес</string>
      <string name="low_memory_error">Не хватает памяти для завершения данной операции</string>
      <string name="max_tabs_warning">Достигнут предел количества вкладок</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="maximum_input_alert">Maximum input 2048 characters</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="media_player_error_button">OK</string>
      <string name="media_player_error_text_invalid_progressive_playback">Данное видео нельзя проиграть на этом устройстве</string>
@@ -712,6 +721,9 @@
      <string name="up_to_loading_tips">Отпусти, чтобы обновить</string>
      <string name="uploads_disabled">Добавление файлов отключено</string>
      <string name="url_copy_done">Ссылка скопирована</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="url_find_on_page_result">View in Browser</string>
+     <string name="url_find_on_page_result_item">View all the text for \"%s\"</string>
      <string name="url_hint">Поиск или адрес сайта</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="url_opened_in_background">Open in background tab</string>
