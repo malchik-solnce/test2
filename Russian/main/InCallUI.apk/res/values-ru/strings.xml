@@ -273,6 +273,24 @@
      <string name="ivr_menu_dialing_msg_no_mute">Переход в выбранную службу…[включена автокорректировка ошибок]</string>
      <string name="ivr_menu_list_sub_menu_count_format">Нажми %s</string>
      <string name="ivr_menu_list_title">Голосовое меню</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="jeejen_answer_call_text">Answer call</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="jeejen_card_title_call_cancel">Call cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="jeejen_card_title_call_ended">Call ended</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="jeejen_card_title_dialing">Dialing</string>
+     <string name="jeejen_card_title_in_call" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="jeejen_card_title_incoming_call">Incoming call</string>
+     <string name="jeejen_card_title_on_hold" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="jeejen_end_call_text">End call</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="jeejen_reject_call_text">Reject call</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="jeejen_toggle_dialpad_text">Dialpad</string>
      <string name="labelCDMAMore">Настройки вызовов CDMA</string>
      <string name="labelCF">Переадресация вызова</string>
      <string name="labelCFB">Если занято</string>

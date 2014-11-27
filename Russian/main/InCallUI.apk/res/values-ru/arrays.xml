@@ -18,6 +18,9 @@
         <item>Голос</item>
         <item>Видео</item>
      </string-array>
+     <string-array name="jeejen_auto_opendialer_number">
+        <item>13800138000</item>
+     </string-array>
      <string-array name="list_language_entries">
         <item>Английский</item>
         <item>Французский</item>

@@ -30,7 +30,6 @@
      <string name="actionbar_share">Поделиться</string>
      <string name="actionbar_web_search">Поиск в интернете</string>
      <string name="adblock_notification">Заблокировано рекламы: %d</string>
-     <string name="adblock_rules_number_text">%d items blocked</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="adblock_rules_restore">Restore</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -203,6 +202,10 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="create_qr_code">qr code</string>
      <string name="create_shortcut_bookmark">Добавить ярлык на главную</string>
+     <string name="data_traffic_prompt_change">Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
+     <string name="data_traffic_prompt_message">Using your mobile data connection to browse will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="data_traffic_prompt_title">Data usage warning</string>
      <string name="date_picker_dialog_clear">Очистить</string>
      <string name="date_picker_dialog_other_button_label">Другое</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -279,7 +282,6 @@
      <string name="find_on_page">Найти на странице</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="find_on_page_cancel">Cancel</string>
-     <string name="find_on_page_matches">%d matches</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="find_on_page_next">Next</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -743,6 +745,11 @@
      <string name="v5_edit_mode_title_empty">0 selected</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="v5_select_all">Select all</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="video_project_button">Stop</string>
+     <string name="video_project_msg">Displaying on %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="video_project_title">External display</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="video_title">Video</string>
      <string name="view_certificate">Просмотреть сертификат</string>

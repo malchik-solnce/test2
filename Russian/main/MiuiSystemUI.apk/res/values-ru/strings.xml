@@ -46,6 +46,12 @@
      <string name="always_use_accessory">Использовать по умолчанию для этого USB-аксессуара</string>
      <string name="always_use_device">Использовать по умолчанию для этого USB-устройства</string>
      <string name="app_label">Графический интерфейс системы</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="audio_effect_custom">Configure</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="audio_effect_info">Optimize audio</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="audio_effect_settings">Set headphones type</string>
      <string name="battery_low_percent_format">Осталось: %d%%</string>
      <string name="battery_low_subtitle">Батарея разряжена</string>
      <string name="battery_low_title">Подключите зарядное устройство</string>
@@ -132,6 +138,12 @@
      <string name="notification_otg_trackball_out">Трекбол отключен</string>
      <string name="notification_otg_unknow_in">Устройство OTG подключено</string>
      <string name="notification_otg_unknow_out">Устройство OTG отключено</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="oldman_airplane_mode_text">airplane</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="oldman_incall_text">incall</string>
+     <string name="oldman_status_bar_time_format_12">h:mm</string>
+     <string name="oldman_status_bar_time_format_24">HH:mm</string>
      <string name="reject_call">Отклонение вызова</string>
      <string name="return_to_incall_screen">Нажмите, для возврата к вызову</string>
      <string name="screenshot_failed_text">Не удалось сохранить скриншот. Возможно, накопители заняты.</string>

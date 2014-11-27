@@ -205,6 +205,11 @@
      <string name="add_file_attachment">Прикрепить файл</string>
      <string name="add_label">Добавить папку</string>
      <string name="add_photo_attachment">Прикрепить фото</string>
+     <string name="add_pre_message_attachments">Add the attachments of pre-message?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="add_pre_message_attachments_no">No</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="add_pre_message_attachments_yes">Add</string>
      <string name="add_star">Пометить</string>
      <string name="add_video_attachment">Прикрепить видео</string>
      <string name="address_display_format">%1$s | %2$s</string>
@@ -270,6 +275,8 @@
      <string name="bottom_bar_more_quickreply">Quick reply</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="bottom_bar_more_unread">Mark Unread</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bottom_bar_no_quickreply_toast">No quick reply</string>
      <string name="bytes">%s б</string>
      <string name="cancel">Отмена</string>
      <string name="cancel_action">Отмена</string>
@@ -537,6 +544,9 @@
      <string name="ignore_spam_warning">Я доверяю отправителю</string>
      <string name="inbox_folders_heading">Входящие</string>
      <string name="info">Детали</string>
+     <string name="inline_picture_deleted">"Can't find this picture,downloading…"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="inline_picture_download_complete">inline picture download complete</string>
      <string name="input_password_prompt">Введите пароль:</string>
      <string name="invalid_recipient">Недействительный адрес: %s</string>
      <string name="kilobytes">%s кб</string>
@@ -684,6 +694,7 @@
      <string name="new_incoming_messages_one">%s – новое сообщение. Показать.</string>
      <string name="new_messages">Новых сообщений: %1$d</string>
      <string name="next_action">Далее</string>
+     <string name="next_not_prompt">"Don't prompt"</string>
      <string name="no">Нет</string>
      <string name="no_address_email">noaddressemail@123.com</string>
      <string name="no_application_found">Файл не поддерживается вашими приложениями</string>

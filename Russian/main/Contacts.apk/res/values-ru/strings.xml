@@ -649,7 +649,6 @@
      <string name="non_phone_add_to_contacts">Добавить в контакты</string>
      <string name="non_phone_caption">Номер телефона</string>
      <string name="non_phone_close">Закрыть</string>
-     <string name="none_found">Устройства не найдены</string>
      <string name="none_paired">Нет сопряженных устройств</string>
      <string name="not_applied">Не поддерживается</string>
      <string name="notification_action_voicemail_play">Прослушать</string>
@@ -965,7 +964,6 @@ the content you're looking for is not currently available in your region."</stri
      <string name="scan_qrcode_card_hint1">Scan QR Code</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="scan_qrcode_card_hint2">Add my information to your contacts</string>
-     <string name="scanning">Поиск устройств…</string>
      <string name="scanning_sdcard_failed_message">Не удалось просканировать SD-карту. Причина: %s.</string>
      <string name="scanning_sdcard_failed_title">SD-карта не просканирована</string>
      <string name="sdcard_not_mounted_dialog_message">"Вставьте SD-карту"</string>
@@ -975,7 +973,6 @@ the content you're looking for is not currently available in your region."</stri
      <string name="search_settings_description">Имена контактов</string>
      <string name="searching_vcard_message">Поиск данных vCard на SD-карте…</string>
      <string name="select_all">Выбрать все</string>
-     <string name="select_device">выбери устройство для подключения</string>
      <string name="select_groups">Выбери группу</string>
      <string name="select_new_photo_from_photo_package">Новое изображеине из пакета</string>
      <string name="select_none">Выбери хотя бы один контакт</string>
