@@ -40,6 +40,8 @@
      <string name="launch_wechat">Открыть WeChat</string>
      <string name="name">Имя:</string>
      <string name="nickname">Псевдоним:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="not_insert_contact">Fail to insert contact</string>
      <string name="not_recommend_access_web_url">Secure access (not recommended)</string>
      <string name="not_tips">Больше не показывать</string>
      <string name="note">Примечания:</string>
