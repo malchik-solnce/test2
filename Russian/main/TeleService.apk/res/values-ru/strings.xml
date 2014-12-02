@@ -112,12 +112,18 @@
      <string name="call_record_on_summary">Включена автоматическая запись звонков</string>
      <string name="call_record_setting">Настройки записи</string>
      <string name="call_record_whitelist_custom">Пользовательские номера</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Touch to listen. -->
      <string name="call_recording_notification_message">Нажмите для просмотра %s</string>
      <string name="call_recording_notification_message_low_storage">Запись остановлена: недостаточно места</string>
      <string name="call_recording_notification_message_sd_unmounted">Запись остановлена: SD-карта извлечена</string>
      <string name="call_recording_notification_summary">Показывать уведомление после завершения записи вызова</string>
      <string name="call_recording_notification_title">Запись вызова</string>
      <string name="call_recording_notification_title_error">Не удалось записать вызов</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="call_recording_notification_toggle_title">Call recording notification</string>
      <string name="call_recording_setting">Настройки записи</string>
      <string name="call_remove_exception_numbers_confirm">Будет удалено номеров: %d</string>
      <string name="call_settings">Вызовы</string>
@@ -785,6 +791,8 @@ SIM-карта будет заблокирована навсегда при н�
      <string name="retail_directory_disable">Retail Directory disabled</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="retail_directory_enable">Retail Directory enabled</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="retry_btn">Retry</string>
      <string name="reverting_settings">Возврат к предыдущим настройкам…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="rhrpd_unlock_failed">RUIM Hrpd unlock request unsuccessful.</string>

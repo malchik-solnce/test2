@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="access_error">Запись недоступна в гостевом режиме</string>
      <string name="alert_message_delete_record">Удалить выбранную запись?</string>
      <string name="app_name">Диктофон</string>
      <string name="back">Назад</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="button_ok">OK</string>
      <string name="button_queue_for_wifi">В очередь</string>
      <string name="button_start_now">Скачать</string>
      <string name="call_record">Записи вызовов (%d)</string>
@@ -32,14 +29,8 @@
      <string name="error_sdcard_access">Не удалось получить доступ к SD-карте</string>
      <string name="error_sdcard_unmounted">SD-карта недоступна</string>
      <string name="fm_record">Записи радио (%d)</string>
-     <string name="hour">%d часов</string>
-     <string name="loading_recording">Загрузка записей</string>
      <string name="low_battery_error">Аккумулятор телефона заряжен менее, чем 5%. Для того, чтобы не потерять запись, она была остановлена ​​и сохранена. Неожиданное отключение может привести к потере записи, рекомендуется записывать при полной зарядке.</string>
-     <string name="low_battery_message_title">Низкий заряд батареи</string>
-     <string name="low_battery_warning">Неожиданное отключение может привести к потере записи. Рекомендуется записывать при полной зарядке.</string>
-     <string name="menu_settings">Настройки</string>
      <string name="message_file_size_error">Запись достигла максимальной длины записи (%s)</string>
-     <string name="minute">%d минут</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_downloading_file">no downloading file</string>
      <string name="no_file">Нет записей</string>
@@ -51,7 +42,6 @@
      <string name="notification_title_all_paused">Загрузка приостановлена</string>
      <string name="notification_warning">Мало места (меньше чем для %d минут)…</string>
      <string name="pause">пауза</string>
-     <string name="play_record">проиграть</string>
      <string name="preference_enable_earpiece_summary">Использовать динамик телефона для проигрывания</string>
      <string name="preference_enable_earpiece_title">Динамик телефона</string>
      <string name="preference_led_indicator">Индикатор записи</string>
@@ -67,7 +57,6 @@
      <string name="record_download_activity">Загрузка записей</string>
      <string name="record_download_complete">Готово</string>
      <string name="record_download_failed">Ошибка</string>
-     <string name="record_download_manager">Загрузки</string>
      <string name="record_download_msg">Записи можно воспроизводить только после их полной загрузки</string>
      <string name="record_download_msg_reload">Этой записи не существует</string>
      <string name="record_download_paused">Пауза</string>
@@ -82,32 +71,23 @@
      <string name="record_list_cloud_call">Записи вызовов в облаке</string>
      <string name="record_list_cloud_fm">Записи радио в облаке</string>
      <string name="record_list_fm">Записи радио</string>
-     <string name="record_loading">Загрузка записей…</string>
-     <string name="record_picker_title">Выберите запись</string>
-     <string name="record_saving">Сохранение записи…</string>
      <string name="recording">Запись…</string>
      <string name="recording_stopped">Запись остановлена</string>
      <string name="rename">Переименовать</string>
      <string name="rename_dialog_title">Переименование файла</string>
      <string name="rename_duplicate">Дубликат имени записи. Переименуйте:</string>
      <string name="retry">Повторить</string>
-     <string name="search_for_recordings_in_folders">Поиск записей в папках</string>
-     <string name="second">%d сек.</string>
-     <string name="send_to">Отправить</string>
      <string name="sound_recorder_settings">Настройки</string>
      <string name="start">Продолжить</string>
-     <string name="start_recording">Начало записи</string>
      <string name="status_bar_back">Нажмите, чтобы вернуться к записи</string>
      <string name="status_bar_recording">Запись…</string>
      <string name="status_bar_recording_pause">Запись остановлена</string>
-     <string name="stop_recording">Остановка записи</string>
      <string name="sync_only_in_wifi">Только по Wi-Fi</string>
      <string name="sync_only_in_wifi_summary">Рекомендуется включить. Иначе будет использоваться мобильный интернет.</string>
      <string name="sync_records">Синхронизировать записи</string>
      <string name="toast_file_is_downloading">Загрузка файла…</string>
      <string name="toast_max_record_time">Приложение %1$s максимально поддерживает %2$s записей вложения</string>
      <string name="toast_uninstall_fileexplorer">Приложение файлы не установлено</string>
-     <string name="view_list_of_recordings">Список записей</string>
      <string name="wifi_recommended_body" formatted="false">"Загрузка %s может сократить работу устройства от батареи и/или привести к затратам трафика и денежных стредств.
 
  Нажмите %s, чтобы скачать позже при подключении к Wi-Fi сети."</string>

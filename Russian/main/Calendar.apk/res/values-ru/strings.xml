@@ -54,13 +54,13 @@
      <!-- The count of MNPS does not match! Now: 1 must: 2
 	%s: 1 must: 2
 	%d: 0 must: 0 -->
-     <!-- Original string: 3 days until the %3$s (%4$s) -->
+     <!-- Original string: 3 days until %3$s (%4$s) -->
      <string name="birthday_notification_text_three_days_later">3 дня до дня рождения (%3$s)</string>
      <string name="birthday_notification_text_today">Не забудь поздравить с днем рождения!</string>
      <!-- The count of MNPS does not match! Now: 1 must: 2
 	%s: 1 must: 2
 	%d: 0 must: 0 -->
-     <!-- Original string: "%1$s's %2$s is coming up" -->
+     <!-- Original string: "%1$s's %2$s is coming up." -->
      <string name="birthday_notification_title_three_days_later">Через 3 дня у %1$s день рождения</string>
      <!-- The count of MNPS does not match! Now: 1 must: 2
 	%s: 1 must: 2

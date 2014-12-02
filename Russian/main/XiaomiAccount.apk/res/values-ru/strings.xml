@@ -181,7 +181,14 @@
      <string name="micloud_resend_active_email">Повторно отправить письмо активации</string>
      <string name="micloud_space_info">Доступно: %s</string>
      <string name="micloud_sync_info">%d элемен. для синхронизации</string>
-     <string name="micloud_sync_info_synced">Синхронизация не требуется</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_sync_state_need_wifi">Use WLAN to sync</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_sync_state_stop">Stopped</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_sync_state_synced">Synced</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_sync_state_syncing">Syncing</string>
      <string name="micloud_user_base_info">Информация о пользователе</string>
      <string name="micloud_user_email">Почта</string>
      <string name="micloud_user_id">Mi аккаунт ID</string>

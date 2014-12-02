@@ -60,8 +60,6 @@
      <string name="summary_not_set">Not set</string>
      <string name="summary_sim_card">Card %1$d%2$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="terms_of_service">Terms of Service</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="terms_of_use">Terms of Service</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="terms_of_use_label">You must agree to User Agreement and Privacy Policy before you can use MIUI.</string>

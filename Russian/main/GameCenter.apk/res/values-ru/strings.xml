@@ -695,6 +695,14 @@ Please check and refresh"</string>
      <string name="privilege_service_title">Сервисы</string>
      <string name="privilege_service_title_introduction">Описание сервиса</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="progress_downloading">Downloading</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="progress_installing">Installing</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="progress_paused">Paused</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="progress_pending">Pending</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="promotion_detail_action_text_attend">Participate in promotion</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="promotion_detail_action_text_install">Go to install</string>

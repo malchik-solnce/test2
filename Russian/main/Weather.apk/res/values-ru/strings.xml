@@ -95,6 +95,10 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="edit_city">Edit</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="first_start_network_msg">To get weather info, you need to connect to the internet.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="first_start_network_title">Connection Alert</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gps_hint">Current location</string>
      <string name="loading_weather">Загрузка погоды…</string>
      <string name="location_allow_err">Не удалось определить местоположение</string>

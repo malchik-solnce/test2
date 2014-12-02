@@ -110,6 +110,12 @@ You can turn this feature on and off anytime in Settings."</string>
      <string name="master_alert_notif_dspt_add">"%s haven't been synced."</string>
      <string name="master_alert_notif_dspt_no">"Everything's up to date."</string>
      <string name="master_alert_notif_title">Последняя синхронизация %s дн. назад</string>
+     <string name="micloud_check_sim_notify_text">"Look's like you've changed SIM cards. Sign in
+to your Mi Account to reactivate Mi Cloud."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_check_sim_notify_title">Reactivate Mi Cloud</string>
+     <string name="micloud_check_sim_title">"Look's like you've changed SIM cards. Sign in
+to your Mi Account to reactivate Mi Cloud."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_detail_fail">fail</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -165,6 +171,8 @@ You can turn this feature on and off anytime in Settings."</string>
      <string name="micloud_main_stop_sync">Stop sync</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_main_suggest_sync">Some items need to be synced with your Mi Cloud.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_main_sync_exception">Sync error</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_main_sync_now">Sync now</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

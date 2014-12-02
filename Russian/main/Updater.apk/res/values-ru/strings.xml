@@ -14,6 +14,19 @@
      <string name="apply_update_dialog_cancel_button">Отмена</string>
      <string name="apply_update_dialog_update_button">Обновление</string>
      <string name="apply_upload_info_message">Нажмите «Обновить», телефон будет автоматически перезагружен для применения обновлений</string>
+     <string name="auto_agree_clause">"Our updated Privacy Policy has already been put into effect. "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="auto_button_examine">View</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="auto_button_examine_immediately">View</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="auto_button_sure_cancel">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="auto_check_clause_button">View</string>
+     <string name="auto_check_clause_msg">"You must agree to our updated Privacy Policy before you can update your system. "</string>
+     <string name="auto_dialog_msg">"We've updated our Privacy Policy. Please read it carefully before updating your system. "</string>
+     <string name="auto_dialog_msg_check_again">"You must agree to our updated Privacy Policy before you can update your system. "</string>
+     <string name="auto_dialog_title_check_again">Cancel update?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="auto_update">Update automatically</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -98,6 +111,8 @@
      <string name="get_update_error">Failed to get update info</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="go_on_download">Continue</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="important_suggestion">Privacy Policy has changed</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="install">Install</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -272,6 +287,8 @@ But you can take part next Tuesday"</string>
      <string name="updater_nolog">There are no log</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="updater_nonetwork">Connect to the network to get log</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="updater_nonetwork_clause">Connect to network to view updated Privacy Policy</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="upgrade_close">Close</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

@@ -115,10 +115,6 @@
      <string name="cloud_media_set_set">Облачные альбомы</string>
      <string name="cloud_owner_album_share_guide">Вы можете поделиться этим альбомом с друзьями</string>
      <string name="cloud_screenshots_display_name">Скриншоты</string>
-     <string name="cloud_share_guide_message">"Вы можете поделиться облачным альбомом с
-друзьями. Просматривайте и обновляйте
-альбом из любого места."</string>
-     <string name="cloud_share_guide_title">Простой обмен</string>
      <string name="cloud_tab_albums">Альбомы</string>
      <string name="cloud_tab_all">Все</string>
      <string name="cloudfolder_already_exists">Папка уже существует</string>

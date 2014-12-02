@@ -363,6 +363,10 @@
      <string name="use_cellular_network">Мобильный интернет</string>
      <string name="use_cellular_network_summary">Использовать мобильный интернет для загрузки видео. Возможны денежные затраты.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="use_cellular_offlinedownload_summary">Show notification when using mobile data to download video</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="use_cellular_offlinedownload_title">Download notification</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="use_cellular_play_summary">In order to save the cost of open flow, suggestions</string>
      <string name="use_cellular_play_title">2G/3G/4G network broadcast video tips</string>
      <string name="userdata_alert_content">You are currently using data network, may produce a lot of traffic fees, sure you want to continue?</string>
