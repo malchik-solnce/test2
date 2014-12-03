@@ -312,6 +312,10 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="tips_message">Более подробно о информации вашего пакета трафика, вы можете узнать набрав %2$s (%1$s)</string>
      <string name="traffic_config_alert_body">"Your carrier's accounting show you have used %s
 Update your data usage info?"</string>
+     <string name="traffic_config_alert_body_extra">"
+You bought %1$s of additional data this month. This is different from the %2$s you added manually."</string>
+     <string name="traffic_config_alert_body_extra_notset">"
+You bought %s of additional data this month. This isn't reflected in the monthly data limit you set manually."</string>
      <string name="traffic_config_alert_body_leisure">"Your carrier's accounting shows you've used %1$s of your off-peak data this month, this is different from the %2$s you've set manually."</string>
      <string name="traffic_config_alert_body_leisure_notset">"
 Your carrer's accounting shows you have %s of off-peak data remaining. You haven't set a limit for off-peak data."</string>

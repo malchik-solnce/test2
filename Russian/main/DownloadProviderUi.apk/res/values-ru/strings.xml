@@ -52,6 +52,8 @@
      <string name="download_complete">Скачанные</string>
      <string name="download_error">Ошибка</string>
      <string name="download_error_insufficient_space">Недостаточно места</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="download_filesize_unknown">unknown</string>
      <string name="download_in_process">В процессе</string>
      <string name="download_info_count_deleted_tasks">Удалено загрузок: %s</string>
      <string name="download_info_start_deleted_tasks">Подготовка к удалению</string>
