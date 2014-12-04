@@ -247,6 +247,12 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="privacy_declare_dialog_message">"By using this service, you are agreeing to Opera's &lt;a href=http://max.oupeng.com/eula.html> Terms and Conditions&lt;/a>."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="privacy_declare_dialog_title">Terms and Conditions</string>
+     <string name="privacy_prompt_purchase_history_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers to get your mobile data purchase history."</string>
+     <string name="privacy_prompt_tc_sms_report_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers in order to update your data usage info."</string>
+     <string name="privacy_prompt_traffic_adjust_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers to update SMS query templates and to check if this feature is available in your area."</string>
+     <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers to get more info about data purchasing options."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="privacy_prompt_upload">Privacy notification</string>
      <string name="read_number">86 статей</string>
      <string name="read_unit">" статей"</string>
      <string name="right_precent">100%</string>
@@ -266,6 +272,7 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="tc_sms_report_direction">Enquiry code (command in SMS to carrier)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tc_sms_report_do_report">Send</string>
+     <string name="tc_sms_report_get_default">"You won't incur charges for SMS messages used to get your data usage balance from your carrier."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tc_sms_report_get_sms">Get SMS</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

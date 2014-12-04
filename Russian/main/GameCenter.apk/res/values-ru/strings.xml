@@ -55,6 +55,12 @@
      <string name="bad_comments">Негативные</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="beta_cat_tag">Beta</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="betagame_boutique">Boutique Games</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="betagame_fresh">Fresh Games</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="betagame_title">Beta Zone</string>
      <string name="button_refresh">Обновить</string>
      <string name="button_search">Поиск</string>
      <string name="button_text_login">Войти</string>
