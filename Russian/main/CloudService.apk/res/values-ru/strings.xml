@@ -158,7 +158,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: last sync time is %s -->
+     <!-- Original string: Last synced %s -->
      <string name="micloud_main_last_sync_time">Last sync</string>
      <string name="micloud_main_network_abnormal">"Can't connect to the network"</string>
      <string name="micloud_main_network_error">"Can't connect to the network. Check your network settings and try again."</string>
