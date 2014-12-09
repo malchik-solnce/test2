@@ -35,7 +35,7 @@
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: Help improve MIUI by sending anonymous usage data (%s) -->
+     <!-- Original string: Help improve MIUI by sending us statistics about how you use its features (%s) -->
      <string name="other_settings_user_experience_summary">Помогите улучшить MIUI, отправляя анонимные данные об использовании</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="other_settings_user_experience_summary1">privacy policy</string>

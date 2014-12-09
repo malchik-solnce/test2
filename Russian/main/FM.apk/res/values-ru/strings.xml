@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="alert_frequency_duplicate">This frequency already exists</string>
      <string name="alert_invalid_frequency">Неверная частота</string>
      <string name="alert_message_delete_station">Удалить радиостанцию?</string>
      <string name="app_name">Радио</string>

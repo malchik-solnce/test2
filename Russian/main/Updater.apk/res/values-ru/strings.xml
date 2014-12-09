@@ -178,7 +178,11 @@
      <string name="notification_reboot_seccess_des">Tap to share update info.</string>
      <string name="notification_reboot_seccess_title">Device updated!</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="notification_reboot_summary_hm">Touch to reboot your device.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="notification_reboot_title">Update complete</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="notification_reboot_title_hm">Reboot to apply update</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="notification_share">Share</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

@@ -47,6 +47,8 @@
      <string name="pressure_title">Давление</string>
      <string name="pressure_unit">гПа</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="shake_enter_tip">Shake to calibrate</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="using_camera_confirm_cancel">Exit</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="using_camera_confirm_message">We are using camera device while in the Compass application.</string>

@@ -262,6 +262,10 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="setting_traffic_pkg">Set data package</string>
      <string name="settings">Настройки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="show_traffic_dialog_message">Your data usage info will be displayed in the notification shade. You can turn this feature on or off anytime in Data usage > Settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="show_traffic_dialog_title">Show usage in notification shade</string>
      <string name="songs_number">18 песен</string>
      <string name="songs_unit">" песен"</string>
      <string name="sorted_button">Сортировка</string>

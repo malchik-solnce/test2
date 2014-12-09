@@ -108,6 +108,7 @@
      <string name="data_on">打开数据连接</string>
      <string name="date_setting">打开时间日期设置</string>
      <string name="day">日</string>
+     <string name="default_words">点击查看详情</string>
      <string name="descript_format" formatted="false">%s - %s</string>
      <string name="display_setting">打开系统设置</string>
      <string name="download_failed">Ошибка загрузки</string>
@@ -236,9 +237,13 @@
      <string name="sms_content">content</string>
      <string name="sms_report">Отчет сообщений</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sms_send_cancel">cancled send message</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sms_send_fail">send message fail</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sms_send_success">send message success</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sms_sender">sender</string>
-     <string name="sms_sent_cancel">Отмена</string>
-     <string name="sms_sent_success">Отправить</string>
      <string name="sound_setting">进入声音设置</string>
      <string name="stock_not_found">Не найдено на складе</string>
      <string name="success_schecule">设置提醒成功</string>

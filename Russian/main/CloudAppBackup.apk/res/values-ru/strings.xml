@@ -12,6 +12,8 @@
      <string name="backup_to_cloud">Бэкап в Mi Cloud</string>
      <string name="button_abandon">Отмена</string>
      <string name="button_cancel">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_continue">Continue</string>
      <string name="button_delete">Удалить</string>
      <string name="button_finish">Готово</string>
      <string name="button_next">Вперед</string>
@@ -19,6 +21,8 @@
      <string name="button_ok">OK</string>
      <string name="button_restore">Восстановить</string>
      <string name="button_return">Назад</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_stop">Stop</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="check_fail">Check failed</string>
      <string name="cloud_app_backup_cancel">Остановка резервного копирования…</string>
