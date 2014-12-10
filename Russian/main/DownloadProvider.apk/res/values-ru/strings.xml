@@ -33,7 +33,19 @@
      <string name="permlab_downloadManagerAdvanced">Расширенные функции менеджера загрузки</string>
      <string name="permlab_downloadWithoutNotification">загружать файлы без оповещения</string>
      <string name="permlab_seeAllExternal">Просмотреть все загрузки на SD-карту</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="privacy_notif_content">Touch to view details.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="privacy_notif_title">Xunlei Download Accelerator is on</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="privacy_tip_cancel">Cancel</string>
+     <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="privacy_tip_ok">OK</string>
+     <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
      <string name="root_downloads">Загрузки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="task_already_exist">Task already exists</string>
      <string name="wifi_recommended_body" formatted="false">"О загрузке через мобильный интернет：
 
  %s（%s）

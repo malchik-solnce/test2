@@ -58,6 +58,8 @@
      <string name="decompress_success">Архив успешно распакован</string>
      <string name="decompress_to">Распаковать в…</string>
      <string name="decompress_to_here">Распаковать в эту папку</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="delete_dialog_button">Delete</string>
      <string name="delete_failed">Ошибка удаления</string>
      <string name="delete_file">Удалить этот файл?</string>
      <string name="delete_files">Удалить выбранные файлы? (%1$d)</string>

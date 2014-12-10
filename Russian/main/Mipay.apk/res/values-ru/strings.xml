@@ -6,6 +6,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_alipay">Alipay</string>
      <string name="mipay_alipay_error">Ошибка Alipay</string>
+     <string name="mipay_bank_card_already_open">"I'm done"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_bank_card_cvv2">CVV2</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -22,6 +23,7 @@
      <string name="mipay_bank_card_name">Имя</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_bank_card_name_hint">Name associated with the account</string>
+     <string name="mipay_bank_card_need_open_china_union_card">"Your card can't be used to make UnionPay Online payments.To activate this feature, visit %1$s"</string>
      <string name="mipay_bank_card_number_error">Проверьте номер аккаунта</string>
      <string name="mipay_bank_card_phone">Телефон</string>
      <string name="mipay_bank_card_phone_hint">"Bank account's corresponding personal phone number"</string>
@@ -126,6 +128,26 @@ Please check your local date and try again."</string>
      <string name="mipay_nfc_card_title">NFC Read Card</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_nfc_card_valid_date">Card valid date</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_cur_american">USD</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_cur_china">CNY</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_cur_hongkong">HKD</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_cur_india">INR</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_cur_japan">JPY</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_cur_korea">KOW</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_cur_macau">AUD</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_cur_malaysia">MYR</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_cur_singapore">SGD</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_cur_taiwan">NTD</string>
      <string name="mipay_nfc_e_cash_balance_extra">Non-saving account funds are displayed in Online Checking</string>
      <string name="mipay_nfc_e_cash_balance_title">E-Cash Balance</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -139,6 +161,9 @@ Please check your local date and try again."</string>
      <string name="mipay_nfc_record_title">Records</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_nfc_shop_name_default">No Name Company</string>
+     <string name="mipay_nfc_support_list_tip"><u>Supported cards</u></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_support_tip">Use your Mi device anywhere NFC is supported, from ATMs to public transit.</string>
      <string name="mipay_nfc_tail_num_hint">Tail Num: %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_nfc_trade_times_title">Payment activity</string>
@@ -151,6 +176,8 @@ Please check your local date and try again."</string>
      <string name="mipay_nfc_warning_toast_move">Move too fast</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_nfc_warning_toast_support">This card is not supported</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_nfc_warning_toast_unknown">Something went wrong</string>
      <string name="mipay_order_bank_card_info">%1$s %2$s (Card no. %3$s) %4$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_order_change">Replace</string>

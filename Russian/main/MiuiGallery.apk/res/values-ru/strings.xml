@@ -62,7 +62,6 @@
      <string name="auto_create_recent_album_confirm">После отключения этой функции, галерея очистит созданные данные последних альбомов. Последние альбомы установленные пользователем, не будут затронуты. Кроме того, можно установить это вручную, долгим нажатием на альбом.</string>
      <string name="auto_create_recent_album_over_ten_times">Создает избранный альбом после захода в него более 10 раз</string>
      <string name="auto_upload_album_comfirm_to_share">It is an album which will be uploaded automatically, Are you sure to share it?</string>
-     <string name="auto_upload_tip">Album with the same name will be created after enabled. Existed album (including share album which you share to others) with the same name will be merged.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="auto_upload_title">Upload automatically</string>
      <string name="autofix">Авто</string>
@@ -333,16 +332,28 @@
      <string name="message_no_delete_access">Отказано в доступе. Невозможно удалить файл или папку: %s.</string>
      <string name="message_no_delete_access_with_count">Невозможно удалить файлы или папки (%d). Возможно они не существуют или доступ к ним запрещен.</string>
      <string name="messagelist_sender_self">Я</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miliao">MiTalk</string>
      <string name="miliao_painting_folder_display_name">Рисунок MiTalk</string>
      <string name="miliao_saved_folder_display_name">Сохраненные MiTalk</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mimetype">MIME type</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mishop">MiShop</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mishop_saved_folder_display_name">MiStore saved</string>
      <string name="miui_capture_screen_folder_display_name">Скриншоты</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="miui_wallpaper">Wallpaper</string>
      <string name="modified_time">Время изменения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="moman">MomanCamera</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="moman_camera_drawing">Moman Camera drawing</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="moman_camera_icon">Moman Camera emoticon</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="moman_camera_picture">Moman Camera pictures</string>
      <string name="more">Дополнительно</string>
      <string name="move">Переместить</string>
      <string name="move_to_cloud_album">Переместить в облако</string>
@@ -428,6 +439,8 @@
      <string name="pocket_camera_picture">Pocket Camera pictures</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pocket_camera_video">Pocket Camera videos</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pocketcamera">PocketCamera</string>
      <string name="posterize">Постеризация</string>
      <string name="preparing_data_to_delete">Подготовка к удалению данных…</string>
      <string name="priority_storage">Сохранять на SD-карту</string>
@@ -437,6 +450,10 @@
      <string name="publish_failed">Ошибка публикации</string>
      <string name="publish_succeeded">Альбом опубликован</string>
      <string name="publishing">Публикация, подождите…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="qq">QQ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="qzone">QZone</string>
      <string name="recognizing_image">Определение изображения…</string>
      <string name="redeye">Красные глаза</string>
      <string name="redeye_tooltip">Нажми для устранения эффекта красных глаз</string>
@@ -516,8 +533,6 @@
      <string name="show_images_only">Только изображения</string>
      <string name="show_on_map">На карте</string>
      <string name="show_videos_only">Только видео</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sina_weibo_save">Weibo</string>
      <string name="size_above">%1$s или более</string>
      <string name="size_below">%1$s или менее</string>
      <string name="size_between">%1$s – %2$s</string>
@@ -546,6 +561,8 @@
      <string name="sync_only_in_wifi">Только по Wi-Fi</string>
      <string name="sync_only_in_wifi_alert">Отключение загрузки только через Wi-Fi может потреблять мобильный трафик. Продолжить?</string>
      <string name="sync_only_in_wifi_summary">Синхронизировать фотографии и скриншоты только при Wi-Fi соединении</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_third_party_app_pic_summary">Upload photos in some app folders to your cloud automatically</string>
      <string name="system_album">Системный альбом</string>
      <string name="tab_all_text">На все</string>
      <string name="tab_lockscreen_text">На локскрин</string>
@@ -567,6 +584,8 @@
      <string name="ubifocus_refocus_data_missing">Не удалось обновить из-за некоторых отсутствующих данных</string>
      <string name="ubifocus_refocus_download_tip">Скачайте обновленные данные перед обновлением</string>
      <string name="ubifocus_refocus_map_error">Не удалось обновить из-за некоторых неверных данных</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="uc">UC</string>
      <string name="unit_mm">мм</string>
      <string name="unpublish_failed">Не удалось отменить публикацию!</string>
      <string name="unpublish_succeeded">Альбом снят с публикации!</string>
@@ -582,6 +601,10 @@
      <string name="wandoujia">SnapPea</string>
      <string name="warn">Внимание</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wechat">WeChat</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="weibo">Weibo</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="weikan_weikan">Weikan TV</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="weixin">WeChat</string>
@@ -592,6 +615,8 @@
      <string name="widget_type_photo">Выберите изображение</string>
      <string name="widget_type_shuffle">Перемешать все изображения</string>
      <string name="width">Ширина</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wps">WPS</string>
      <string name="yellow_page">Сервисы</string>
      <string name="yes">Да</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

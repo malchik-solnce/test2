@@ -338,6 +338,8 @@
      <string name="gift_pack_install_game_title">Gift could only be applied for after the game is installed</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gift_pack_list_empty">There is no gift now</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="gift_pack_list_empty_searchmodel">This package was not found</string>
      <string name="gift_pack_list_end">"No gifts you like? Try 'Search' on the upper right corner"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gift_pack_load_info_fail">fail to get Gift information</string>
@@ -354,6 +356,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gift_received_progress">Gift package progress</string>
      <string name="gift_receiving">Receiving…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="gift_search_hint">Enter the package name</string>
      <string name="gift_time_day"> дней</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gift_time_end">end</string>
@@ -651,6 +655,8 @@ Please check and refresh"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="plugin_playing_list_empty">no playing games with plugin</string>
      <string name="plugin_provider">This plugin is provided by %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="plugin_provider_name">Huluxia</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="plugin_setting">plugin setting</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

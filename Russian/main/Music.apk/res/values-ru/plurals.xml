@@ -9,6 +9,9 @@
         <item quantity="other">Осталось: %d дн.</item>
         <item quantity="one">Осталось: %d дн.</item>
      </plurals>
+     <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d new</item>
+     </plurals>
      <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">Дообавлено треков в плейлист: %d</item>
         <item quantity="one">Дообавлено треков в плейлист: 1</item>

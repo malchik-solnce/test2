@@ -56,6 +56,8 @@
      <string name="battery_low_subtitle">Батарея разряжена</string>
      <string name="battery_low_title">Подключите зарядное устройство</string>
      <string name="battery_low_why">Статистика</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="battery_profiles">Use battery profiles</string>
      <string name="bluetooth_tethered">Общий модем доступен через Bluetooth</string>
      <string name="call_status_dialing">Вызов</string>
      <string name="call_status_ringing">Звонок</string>

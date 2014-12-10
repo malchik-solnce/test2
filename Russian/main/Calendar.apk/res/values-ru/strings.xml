@@ -77,6 +77,8 @@
      <string name="calendar_refresh">Обновить</string>
      <string name="calendar_server_error">Ошибка сети</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="can_not_create_long_event">Event content is too long</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="can_not_modify_allday_event">Allday event can not be modified</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="can_not_modify_event">Can not be modified</string>
@@ -159,6 +161,8 @@
      <string name="event_view">Просмотр мероприятия</string>
      <string name="every_weekday">Каждый будний день (пн–пт)</string>
      <string name="exist_calendar">Уже существует</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="from_google_group_calendar">Google calendar</string>
      <string name="gadget_no_events">Нет предстоящих мероприятий</string>
      <string name="gadget_title">Календарь</string>
      <string name="goto_today">Сегодня</string>

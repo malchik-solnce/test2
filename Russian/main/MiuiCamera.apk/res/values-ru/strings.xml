@@ -189,6 +189,14 @@
      <string name="pref_camera_jpegquality_entry_low">Низкое</string>
      <string name="pref_camera_jpegquality_entry_normal">Обычное</string>
      <string name="pref_camera_jpegquality_title">Качество изображения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_long_press_shutter_feature_default">burst</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_long_press_shutter_feature_title">Long press Shutter button</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Burst shoot</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Focus</string>
      <string name="pref_camera_long_pressing_shutter_title">Press &amp; hold Shutter button to lock AE/AF/AWB</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_manual_mode_title">Manual</string>

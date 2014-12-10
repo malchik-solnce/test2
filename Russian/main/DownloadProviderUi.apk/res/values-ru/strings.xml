@@ -133,6 +133,12 @@
      <string name="pref_summary_no_limit_popup">Лимит размера отключен</string>
      <string name="pref_title_enable_max_bytes_popup">Предупредить о лимите</string>
      <string name="preferences_title">Настройки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="privacy_tip_cancel">Cancel</string>
+     <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="privacy_tip_ok">OK</string>
+     <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
      <string name="remove_download">Удалить</string>
      <string name="restart_download">Заново</string>
      <string name="resume_download">Далее</string>

@@ -296,14 +296,6 @@
      <string name="item_app_permission">Разрешения приложений</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="item_dev_mode">Developer options</string>
-     <string name="item_garbage_size_1000m">1 ГБ</string>
-     <string name="item_garbage_size_100m">100 МБ</string>
-     <string name="item_garbage_size_300m">300 МБ</string>
-     <string name="item_garbage_size_500m">500 МБ</string>
-     <string name="item_garbage_time_3d">Каждые 3 дня</string>
-     <string name="item_garbage_time_7d">Каждые 7 дней</string>
-     <string name="item_garbage_time_daily">Ежедневно</string>
-     <string name="item_garbage_time_never">Никогда</string>
      <string name="item_install_monitor">Установить мониторинг</string>
      <string name="item_mms">Фильтр сообщений</string>
      <string name="item_title_garbage_size">Размер мусора</string>
@@ -600,10 +592,18 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_title_open_optimizer_cloud_scan">Use online Cleaner engine</string>
      <string name="preference_key_app_permission_control">key_app_permission_control</string>
+     <string name="preference_key_auto_clean_content_ad">key_auto_clean_content_ad</string>
+     <string name="preference_key_auto_clean_content_apk">key_auto_clean_content_apk</string>
+     <string name="preference_key_auto_clean_content_cache">key_auto_clean_content_cache</string>
+     <string name="preference_key_auto_clean_content_residual">key_auto_clean_content_residual</string>
      <string name="preference_key_auto_start_manager">key_auto_start_manager</string>
      <string name="preference_key_category_title_module_settings">key_category_title_module_settings</string>
+     <string name="preference_key_checkbox_garbage_auto_clean_and_alert">key_checkbox_garbage_auto_clean_content</string>
      <string name="preference_key_cta_settings">key_cta_settings</string>
      <string name="preference_key_default_apps_manager">key_default_apps_manager</string>
+     <string name="preference_key_garbage_auto_clean_and_alert">key_garbage_auto_clean_and_alert</string>
+     <string name="preference_key_garbage_auto_clean_content">key_garbage_auto_clean_content</string>
+     <string name="preference_key_garbage_auto_process_mode">key_garbage_auto_process_mode</string>
      <string name="preference_key_module_permissions">key_module_permissions</string>
      <string name="preference_key_notification_bar_manager">key_notification_bar_manager</string>
      <string name="preference_key_open_optimizer_cloud_scan">key_open_optimizer_cloud_scan</string>

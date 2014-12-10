@@ -100,6 +100,8 @@
      <string name="first_start_network_title">Connection Alert</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gps_hint">Current location</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="international_detail_menu_title">Details</string>
      <string name="loading_weather">Загрузка погоды…</string>
      <string name="location_allow_err">Не удалось определить местоположение</string>
      <string name="location_management">Управление городами</string>
@@ -145,6 +147,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="view_indexes_title_wind">Wind power</string>
      <string name="view_indexes_wind_unit">km/h</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="view_realtime_clear_substitution">Clear</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="view_sun_titile">Sunrise and sunset</string>
      <string name="viewsun_time_format">HH:mm</string>

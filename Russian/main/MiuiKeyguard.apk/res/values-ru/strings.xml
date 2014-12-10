@@ -50,6 +50,8 @@ d MMMM yyyy"</string>
      <string name="phone_locked_timeout_minutes_string">Вернись сюда через %s мин.</string>
      <string name="phone_locked_timeout_seconds_string">Вернись сюда через %s сек.</string>
      <string name="unlock_sim_string">Разблокировать SIM-карту</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="unlock_string">Unlock</string>
      <string name="unlocking_sim_card">Разблокировка SIM-карты</string>
      <string name="unlockscreen_low_battery">Подключи зарядное устройство</string>
      <string name="unlockscreen_recharge_completed">Зарядка завершена</string>
