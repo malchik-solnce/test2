@@ -961,6 +961,10 @@
      <string name="font_size_preview_text">Перевод от KDev Group</string>
      <string name="font_size_small">Маленький</string>
      <string name="font_size_summary">Настройка размера шрифта в приложениях (телефон, сообщения, контакты и других)</string>
+     <string name="font_size_summary1">"
+Dissatisfied? Try"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="font_size_summary2">JeeJen Home</string>
      <string name="force_hw_ui">Ускорить работу GPU</string>
      <string name="force_hw_ui_summary">Использовать аппаратное ускорение 2D в приложениях</string>
      <string name="force_msaa">Включить 4x MSAA</string>
@@ -2300,6 +2304,10 @@
      <string name="timezone_settings">Часовой пояс</string>
      <string name="title_color_calibration">Предустановки цвета</string>
      <string name="title_dolby_control">Параметры Dolby</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_font">Font</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_font_current">Using</string>
      <string name="title_font_size">Размер шрифта</string>
      <string name="title_hdmi_color_calibration">Предустановки цвета</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

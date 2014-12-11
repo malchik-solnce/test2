@@ -2,70 +2,14 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="about">О программе</string>
-     <string name="act_find_city_hint">Поиск из 2400 городов (Chinese/Pinyin)</string>
-     <string name="act_find_city_hot_title">Популярные города</string>
-     <string name="act_find_city_null_data">Запрашиваемый город не найден</string>
-     <string name="act_find_city_title">Добавить местоположение</string>
-     <string name="act_set_city_delete_city">你确定要删除 %s 吗？</string>
-     <string name="act_set_city_delete_title">删除位置</string>
-     <string name="act_set_city_find_side">Перепозиционирование...</string>
-     <string name="act_set_city_find_side_error">Не найдено</string>
-     <string name="act_set_city_find_side_on">Включить GPS</string>
-     <string name="act_set_city_title">Изменить местоположение</string>
-     <string name="act_weather_cycle_add_city">保存位置</string>
-     <string name="act_weather_cycle_offreport">无</string>
-     <string name="act_weather_cycle_update">Обновление...</string>
-     <string name="act_weather_main_data_null">"Нет данных о погоде,
-нажмите для обновления"</string>
-     <string name="act_weather_main_net_error">网络错误,请重试</string>
-     <string name="act_weather_range_select">请选择位置</string>
-     <string name="act_weather_range_title">周边天气</string>
-     <string name="act_weather_update_time">Обновлено: %s</string>
      <string name="adding_alarm">Добавить будильник</string>
      <string name="address">Адрес:</string>
      <string name="alarm">Напоминание</string>
      <string name="alarming">Добавлено ​​напоминание:%1$s %2$s</string>
-     <string name="alert_provider_message">Разрешить приложению использовать ваше текущее местоположение?</string>
-     <string name="alert_provider_title">Уведомления местоположения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_about_1">v4.0.1</string>
-     <string name="app_about_2">Copyright © 2012 miui.com, All Rights Reserved</string>
-     <string name="app_def_city">Пекин</string>
-     <string name="app_del">Удалить</string>
-     <string name="app_exit">Выйти</string>
      <string name="app_launching">Открывается</string>
-     <string name="app_love_add_btn">Добавить контакт</string>
-     <string name="app_love_back_btn">返回</string>
-     <string name="app_love_font_lng">%s</string>
-     <string name="app_love_next_btn">下一步</string>
-     <string name="app_love_send_title">发送给..</string>
-     <string name="app_love_sms_title">Содержание смс</string>
-     <string name="app_love_title">亲情天气提醒</string>
-     <string name="app_love_view_title">Предпросмотр</string>
      <string name="app_name">Ассистент</string>
-     <string name="app_no_sktq">暂无实况</string>
-     <string name="app_nohave_net">无网络连接，请检查网络</string>
      <string name="app_not_found">Приложение не найдено</string>
-     <string name="app_off">Выкл.</string>
-     <string name="app_ok">ОК</string>
-     <string name="app_on">Вкл.</string>
      <string name="app_uninstall">确认是否卸载</string>
-     <string name="app_unquiet_net">网络不稳定，请稍候重试</string>
-     <string name="app_upgradeDetail">修复某些情况下时间不更新的问题。</string>
-     <string name="app_upgradeDownloading">Загрузка обновления</string>
-     <string name="app_upgradeFailed">Ошибка обновления, попробуйте позже</string>
-     <string name="app_upgradeNo">Позже</string>
-     <string name="app_upgradeTitle">Обновление</string>
-     <string name="app_upgradeYes">Обновить</string>
-     <string name="app_w_1x4">Погода 1x4</string>
-     <string name="app_w_1x4_color">Погода 1x4</string>
-     <string name="app_w_2x4">Погода 2x4</string>
-     <string name="app_weather_friend_1">Открыть текущее местоположение, чтобы напомнить</string>
-     <string name="app_weather_friend_2">Сообщать о внезапной погоде (дождь, снег, холодно)</string>
-     <string name="app_weather_friend_btn">Добавить контакт</string>
-     <string name="app_weather_friend_delete_title">Удалить контакт</string>
-     <string name="app_weather_friend_title_1">Поделиться погодой с другом</string>
-     <string name="app_weather_friend_title_2">将今日天气通过短信或电话转给联系人</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="arrow">></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -79,8 +23,6 @@
      <string name="bluetooth_on">打开蓝牙</string>
      <string name="bluetooth_setting">打开蓝牙设置</string>
      <string name="buffering">Буферизация..</string>
-     <string name="button_allow">Да</string>
-     <string name="button_not_allow">Нет</string>
      <string name="calendaring">Добавлено ​​в Календалрь, нажмите кнопку Просмотр</string>
      <string name="calendaring_cancel">Вы отменили напоминание</string>
      <string name="calling">Набрать %1$s %2$s</string>
@@ -118,8 +60,6 @@
      <string name="finish">Готово</string>
      <string name="flight_off">关闭飞行模式</string>
      <string name="flight_on">打开飞行模式</string>
-     <string name="format_date_md">MM/d kk:mm</string>
-     <string name="format_date_wmd">MM/d EEE</string>
      <string name="gps_off">关闭gps</string>
      <string name="gps_on">打开gps</string>
      <string name="grammar_build_error">Ошибка</string>
@@ -132,17 +72,7 @@
      <string name="init_ok">Инициализация идентификации будет завершена</string>
      <string name="invert_stop_report">Переверните, чтобы остановить отчет</string>
      <string name="local_category">ТЕЛЕФОН</string>
-     <string name="menu_about">О программе</string>
-     <string name="menu_cycle">天气预报</string>
-     <string name="menu_detail">今日详情</string>
      <string name="menu_long_press_launch">Долго нажати МЕНЮ, чтобы запустить</string>
-     <string name="menu_new">编辑位置</string>
-     <string name="menu_range">周边天气</string>
-     <string name="menu_reload">刷新</string>
-     <string name="menu_report_off">收拢提醒</string>
-     <string name="menu_report_on">展开提醒</string>
-     <string name="menu_set">设置</string>
-     <string name="menu_sms">短信转发</string>
      <string name="model_name">张若涵</string>
      <string name="month">月</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -193,9 +123,7 @@
      <string name="recognition_failure">"Ничего не найдено
 Пожалуйста, еще раз введите команду"</string>
      <string name="recognition_mess">Пример распознавания речи</string>
-     <string name="report_exit">查看详情</string>
      <string name="report_method">Голосовой отчет</string>
-     <string name="report_send">转发</string>
      <string name="res_client_error">Непредвиденная ошибка</string>
      <string name="res_error">Ошибка идентификации</string>
      <string name="res_net_error">Ошибка сети, пожалуйста, проверьте подключение к сети</string>
@@ -223,9 +151,6 @@
      <string name="screen_rotation_on">打开旋转</string>
      <string name="security_center">Безопасность</string>
      <string name="security_setting">进行安全设置</string>
-     <string name="send_weather_sms_cycle">%1$s未来天气：%2$s</string>
-     <string name="send_weather_sms_error">无相关天气信息</string>
-     <string name="send_weather_sms_main">%1$s %2$s,%3$s %4$s %5$s</string>
      <string name="sending">Отправить СМС на %1$s</string>
      <string name="sending_content">На %1$s：</string>
      <string name="set_advance_vad_off_sample">增强VAD关闭</string>
@@ -252,19 +177,8 @@
      <string name="summary_set_default">Восстановить настройки по умолчанию</string>
      <string name="summary_speech_timeout">Установить голос тайм-аут</string>
      <string name="telephone">Телефон:</string>
-     <string name="temp">℃</string>
-     <string name="temp_flag">℃</string>
      <string name="text_title_intent">测试Intent调用</string>
      <string name="ticket_not_found">Не могу найти информацию о билетах</string>
-     <string name="tip_weather">MIUI天气提醒</string>
-     <string name="tip_weather_help_off">关闭天气提醒</string>
-     <string name="tip_weather_help_on">"开启%s天气提醒
-早上将会自动获得天气提示。"</string>
-     <string name="tip_weather_info_content_1">外出注意加减衣服噢。</string>
-     <string name="tip_weather_info_content_2">如果外出请注意噢。</string>
-     <string name="tip_weather_info_error">无相关数据</string>
-     <string name="tip_weather_info_title_1">%1$s今天预计昼夜温差%2$d度</string>
-     <string name="tip_weather_info_title_2">%1$s今天预计有%2$s</string>
      <string name="titil_cancle">Отмена</string>
      <string name="titil_ok">ОК</string>
      <string name="title_aital_setup">Настройки распознавания голоса</string>
@@ -274,7 +188,6 @@
      <string name="title_set_default">Сбросить настройки</string>
      <string name="title_set_vad">开启VAD</string>
      <string name="title_speech_timeout">Голос тайм-аут</string>
-     <string name="to">转</string>
      <string name="to_degree">到</string>
      <string name="today_date">%1$s, %2$s</string>
      <string name="tts_voice_effect">Голосовой эффект</string>
@@ -295,10 +208,8 @@
      <string name="voiceassist_settings_title">Настройки голосового помощника</string>
      <string name="weather">天气</string>
      <string name="weather_no_city">无当地的天气信息</string>
-     <string name="weather_no_date">无当天的天气信息</string>
      <string name="weather_unit">°</string>
      <string name="web_result">为您找到了一下结果</string>
-     <string name="widget_loading">Нет информации о погоде</string>
      <string name="wifi_off">关闭wifi</string>
      <string name="wifi_on">打开wifi</string>
      <string name="wifi_setting">打开wifi设置</string>

@@ -376,6 +376,8 @@
      <string name="msg_update_error_code_no_newer_db">Обновление не требуется</string>
      <string name="msg_update_error_code_success">Обновлено</string>
      <string name="msg_update_error_code_unknown_error">Неизвестная ошибка. Повтори позже.</string>
+     <string name="name_antivirus">"Tencent's Privacy Policy"</string>
+     <string name="name_optimizer">"Cheetah Mobile's Privacy Policy"</string>
      <string name="never">Один раз</string>
      <string name="notification_button_text_of_low_memory">Очистить</string>
      <string name="notification_summary_of_garbage_cleanup">Эй ты! Обнаружено мусора %s. Не забудь очистить!</string>
@@ -591,6 +593,8 @@
      <string name="pref_title_manual_check_cleanup_db_update">Обновить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_title_open_optimizer_cloud_scan">Use online Cleaner engine</string>
+     <string name="preference_category_key_auto_update_cleanup_db">key_category_auto_update_cleanup_db</string>
+     <string name="preference_category_key_reference_settings">key_reference_settings</string>
      <string name="preference_key_app_permission_control">key_app_permission_control</string>
      <string name="preference_key_auto_clean_content_ad">key_auto_clean_content_ad</string>
      <string name="preference_key_auto_clean_content_apk">key_auto_clean_content_apk</string>

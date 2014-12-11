@@ -202,6 +202,7 @@
      <string name="loading_category_list">Загрузка категорий…</string>
      <string name="loading_collection_list">Загрузка списка…</string>
      <string name="loading_installed_list">Загрузка приложений…</string>
+     <string name="loading_partitial_failed">"Couldn't load some items."</string>
      <string name="loading_recommend_list">Загрузка…</string>
      <string name="loading_search_result">Поиск…</string>
      <string name="loading_update_history_list">Загрузка истории…</string>
@@ -405,6 +406,10 @@
      <string name="share_to_weibo">Отправить в sina weibo</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="share_weibo_endnote">Download from attached URL</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: from @Mi App Market %1$s -->
      <string name="share_weibo_from">from @Mi App Market</string>
      <string name="share_weibo_text">Check out this awesome app --> %1$s.</string>
      <string name="show_all_local_app">Показать все</string>

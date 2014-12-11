@@ -240,6 +240,8 @@ You can turn this feature on and off anytime in Settings."</string>
      <string name="only_in_wlan">Only use WLAN to sync</string>
      <string name="other_settings">Другие настройки</string>
      <string name="password">Введи пароль</string>
+     <string name="phone_number_may_required_dspt_provision">"This service may require your phone number. "</string>
+     <string name="phone_number_required_dspt_provision">"This service requires your phone number. "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="photo">Photos</string>
      <string name="pref_summary_sync_display_photo_on_wifi_only">Рекомендуется включить, иначе будет использоваться мобильный интернет</string>
