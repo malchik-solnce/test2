@@ -55,6 +55,10 @@
      <string name="apps_sort_type_item_time">По использованию</string>
      <string name="apps_sort_type_title">Сортировка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="auto_clean_switch_off">Off</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="auto_clean_switch_on">On</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="auto_handle_title">Optimize automatically</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="back">Back</string>
@@ -131,6 +135,12 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="call_and_contact">Calls and Contacts</string>
      <string name="cancel">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="clean_content_all">Everything</string>
+     <string name="clean_content_one">%s</string>
+     <string name="clean_content_three">Skip %s</string>
+     <string name="clean_content_two">%1$s and %2$s</string>
+     <string name="clean_content_zero">"Don't clean anything"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cta_button_text_agree">OK</string>
      <string name="cta_button_text_cancel">Отмена</string>
@@ -300,6 +310,8 @@
      <string name="item_mms">Фильтр сообщений</string>
      <string name="item_title_garbage_size">Размер мусора</string>
      <string name="item_title_garbage_time">Период уведомлений</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="item_title_process_mode">Choose an action</string>
      <string name="item_usb_debug">USB отладка</string>
      <string name="item_virus">Вирус</string>
      <string name="item_virus_lib">Обновлять базу данных автоматически</string>
@@ -380,6 +392,7 @@
      <string name="name_optimizer">"Cheetah Mobile's Privacy Policy"</string>
      <string name="never">Один раз</string>
      <string name="notification_button_text_of_low_memory">Очистить</string>
+     <string name="notification_summary_after_auto_cleanup">Cleaned %s.</string>
      <string name="notification_summary_of_garbage_cleanup">Эй ты! Обнаружено мусора %s. Не забудь очистить!</string>
      <string name="notification_summary_of_low_memory">Отключать установку новых приложений при нехватке памяти</string>
      <string name="notification_title_firewall_blocked">Заблокировано</string>
@@ -571,25 +584,51 @@
      <string name="power_subtitle_lowbattery">Энергосбережение при низком заряде батареи</string>
      <string name="power_subtitle_ontime">Энергосбережение по времени</string>
      <string name="power_wifi">Wi-Fi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_category_title_auto_clean_settings">Clean automatically</string>
      <string name="pref_category_title_auto_update_cleanup_db">Настройки обновления</string>
      <string name="pref_category_title_cleanup_white_list">Настройки белого списка</string>
      <string name="pref_category_title_garbage_cleanup_check">Настройки очистки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_category_title_lock_screen_memory_clean">Clean at lock screen</string>
      <string name="pref_category_title_module_settings">Настройки модулей</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_category_title_other_clean_settings">Additional settings</string>
      <string name="pref_category_title_reference_settings">Настройки защиты</string>
      <string name="pref_category_title_securitycenter_settings">Настройки безопасности</string>
      <string name="pref_category_title_virus_lib_auto_update">Настройки базы данных</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_content_cleanup_white_list_none">None</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_summary_auto_clean_and_alert">Set cleaner to run automatically</string>
      <string name="pref_summary_auto_update_cleanup_db">Обновлено: %s</string>
      <string name="pref_summary_cleanup_white_list">Мусор из белого списка не будет удаляться</string>
      <string name="pref_summary_expand_cache_group">Группы в списке кэша будут по умолчанию развернуты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_summary_garbage_auto_clean_content">Choose which items to clean automatically</string>
      <string name="pref_summary_garbage_cleanup_check_size">Уведомлять, когда мусор достигает заданного размера</string>
      <string name="pref_summary_garbage_cleanup_check_time">Уведомлять, когда время достигает заданного интервала</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_summary_garbage_process_mode">Set notifications for when cleaner runs</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_summary_lock_screen_memory_clean">Clean automatically when your device is locked</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_summary_open_optimizer_cloud_scan">Upload and compare unknown file names with online definitions</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_title_auto_clean_and_alert">Clean automatically</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_title_auto_clean_content_choose">Choose items to clean</string>
      <string name="pref_title_auto_update_cleanup_db">Автообновление</string>
      <string name="pref_title_cleanup_white_list">Белый список очистки</string>
      <string name="pref_title_expand_cache_group">Разворачивать кэш</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_title_garbage_auto_clean_content">Choose items to clean</string>
      <string name="pref_title_garbage_cleanup_check_size">Размер мусора</string>
      <string name="pref_title_garbage_cleanup_check_time">Уведомление о мусоре</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_title_garbage_process_mode">Notifications</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_title_lock_screen_memory_clean">Clean at lock screen</string>
      <string name="pref_title_manual_check_cleanup_db_update">Обновить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_title_open_optimizer_cloud_scan">Use online Cleaner engine</string>
@@ -644,6 +683,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="summary_antivirus">Upload app names and scan using online virus definitions</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="summary_antivirus_oversea">Update virus definitions automatically</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="summary_cleaner_cloudscan">Upload and compare unknown folder names with online definitions</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="summary_cloud_account">To get access to more Mi services, sign in to your Mi Account.</string>
@@ -681,6 +722,8 @@
      <string name="system_header_title">К очистке: %1$d освободится %2$s памяти</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="text_antivirus">Use online virus definitions</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="text_antivirus_oversea">Update virus definitions</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="text_optimizer">Use online Cleaner engine</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

@@ -93,6 +93,13 @@
      <string name="section_screenshot">Скриншот</string>
      <string name="signal_problem1">Нет сигнала</string>
      <string name="signal_problem2">Слабый сигнал</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="submit_dialog_cancel">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="submit_dialog_confirm">Submit</string>
+     <string name="submit_dialog_content">"Your feedback, along with error logs and attached images, will be sent to Xiaomi's servers."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="submit_dialog_title">Send report to Xiaomi</string>
      <string name="suggestion_description">Я надеюсь, что добавите функцию X, потому что…</string>
      <string name="suggestion_problem1">Добавьте эту функцию, потому что…</string>
      <string name="system_app_select">Системные приложения</string>
