@@ -13,6 +13,8 @@
      <string name="bluetooth_problem3">Не удается отправить файлы</string>
      <string name="bluetooth_problem4">Не удается принять файлы</string>
      <string name="btn_send">Отправить</string>
+     <string name="bugreport_tool_log_toast">Log saved to %s</string>
+     <string name="bugreport_tool_log_toast_generate_bugreport">Creating bug report (takes about a minute)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_feedback">Other</string>
      <string name="button_plus">+1</string>

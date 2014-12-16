@@ -576,6 +576,8 @@
 Будет использоваться предпочтительная сеть."</string>
      <string name="network_settings_turn_off">Отключить</string>
      <string name="network_settings_warn_message">Только использовать сеть выбранную вручную</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="network_unlock">Unlock</string>
      <string name="networks">Операторы связи</string>
      <string name="networks_title">Оператор связи</string>
      <string name="new_password_label">Новый парлль (4 цифры)</string>
@@ -697,6 +699,7 @@ This can take up to 5 minutes."</string>
      <string name="preferred_network_mode_dialogtitle">Предпочтительные сети</string>
      <string name="preferred_network_mode_summary">Изменить режим работы сети</string>
      <string name="preferred_network_mode_title">Режим сети</string>
+     <string name="preferred_network_restrict_network_changed_incall">"Can't change mobile network during call"</string>
      <string name="preferred_network_type_3g_only_warning">"Вы выбрали только 3G как тип сети, из-за этого возможна потеря сети при плохом покрытии сетей 3G. 
 Нажмите OK для продолжения."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -840,6 +843,10 @@ SIM-карта будет заблокирована навсегда при н�
      <string name="simContacts_airplaneMode">Чтобы импортировать контакты с SIM-карты, отключите режим полета</string>
      <string name="simContacts_emptyLoading">Считывание с SIM-карты…</string>
      <string name="simContacts_title">Контакты SIM-карты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sim_cards_network_mode_changed_summary">Touch to view SMS and call settings.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sim_cards_network_mode_changed_title">New SIM card detected</string>
      <string name="sim_contact_name">Имя</string>
      <string name="sim_contact_number">Номер</string>
      <string name="sim_ndp_dismiss_text">Закрыть</string>

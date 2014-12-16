@@ -128,6 +128,7 @@
      <string name="choosertitle_sharevia">Способ отправки</string>
      <string name="clear">Очистить</string>
      <string name="clear_history">Очистить историю</string>
+     <string name="clear_history_by_group_alert">Clear history from %s?</string>
      <string name="clear_history_group">Очистить всю историю (%s)</string>
      <string name="clear_search_history">Очистить историю</string>
      <string name="clip_dialog_title">Открыть скопированную ссылку?</string>

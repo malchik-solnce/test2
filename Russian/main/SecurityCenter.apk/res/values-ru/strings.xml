@@ -217,7 +217,15 @@
      <string name="handle_text_cache">Кэш</string>
      <string name="handle_text_memory">Память</string>
      <string name="handle_text_system">Система</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: "This feature encrypts and uploads your device's ID to Tencent's servers (%s)." -->
      <string name="header_antivirus">""By using this feature, you agree to Tencent's "<a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7">Terms of Service</a>"</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: By using this feature, you are agreeing to %s. -->
      <string name="header_optimizer">""By using this feature, you agree to Clean Master's "<a href="http://www.cmcm.com/about/privacy_zh.html?p=cm">Terms of Service</a>"</string>
      <string name="hints_ad_header_left">Файлы рекламы: %d</string>
      <string name="hints_apk_header_left">Файлы апк: %d</string>

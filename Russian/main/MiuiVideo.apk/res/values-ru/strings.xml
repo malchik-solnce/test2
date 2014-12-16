@@ -81,6 +81,8 @@
      <string name="clear_cache_success">Кэш очищен</string>
      <string name="clear_cache_summary">Очистить кэш приложения</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="clear_search_history">Clear search history</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="click_star_rate">Click on the star rating</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="click_to_login">Touch image to sign in</string>
