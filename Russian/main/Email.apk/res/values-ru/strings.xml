@@ -250,6 +250,8 @@
      <string name="attachment_mgr_name">Вложение</string>
      <string name="attachment_not_exists">The attachment is not available!</string>
      <string name="attachment_not_found">Не удалось загрузить файл</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="attachment_stop_all">Stop</string>
      <string name="attachment_text">Текст</string>
      <string name="attachment_type_blocked">Не удается сохранить или открыть этот тип прикрепленных файлов</string>
      <string name="attachment_unknown">Файл %s</string>

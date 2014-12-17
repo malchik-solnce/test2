@@ -1149,6 +1149,14 @@ Dissatisfied? Try"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="launching_pho">Launching phone info, please wait.</string>
      <string name="launching_rep">Reporting…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="layout_size_large">Large</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="layout_size_medium">Medium</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="layout_size_normal">Normal</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="layout_size_small">Small</string>
      <string name="led_colors_summary">Цвет уведомлений</string>
      <string name="led_frequence_summary">Интервал между миганиями</string>
      <string name="led_pulse_summary">Мигать светодиодом при новых уведомлениях</string>
@@ -1459,7 +1467,11 @@ Dissatisfied? Try"</string>
      <string name="multi_sim_settings_title">Настройка SIM-карт</string>
      <string name="multi_touch_points_category_title">Точки мультитач</string>
      <string name="multi_touch_points_preference">Перезагрузить для применения</string>
-     <string name="music_HiFi_title">Hi-Fi audio</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="music_audio_effect_optimize">Audio settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="music_audio_effect_optimize_summary">Dirac, headphones and other audio settings</string>
+     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, headphones and other audio settings</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_audio_effect_settings">Audio effect settings</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -1482,6 +1494,8 @@ Dissatisfied? Try"</string>
      <string name="music_dirac_mode_piston_basic">Basic Edition</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_equalizer">Equalizer</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="music_equalizer_summary">Adjust individual levels for different types of music</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_headphone_settings">Headphone type settings</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -1507,11 +1521,16 @@ Dissatisfied? Try"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_headset_mode_music">Control music playback</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="music_headset_mode_settings">Headphone remote buttons</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_headset_mode_volume">Control volume level</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_headset_no_contected">No headphones detected</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_headset_settings">Headphones</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="music_hifi_summary">Reduce noise and distortion and increase audio quality. This feature increases battery use.</string>
+     <string name="music_hifi_title">Hi-Fi audio</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_mi_effect_summary">Always use MiSound enhancer when using speakers</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -1596,6 +1615,71 @@ Dissatisfied? Try"</string>
      <string name="owner_info_settings_edit_text_hint">Введите текст</string>
      <string name="owner_info_settings_title">Сведения о владельце</string>
      <string name="packages_subtitle">Вложенные пакеты</string>
+     <string name="page_layout_1">Sun 16/08</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_10">News</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_11">Security</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_12">Settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_13">Tools</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_14">Games</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_15">Apps</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_16">Themes</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_17">Life</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_18">Recent</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_19">Contacts</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_2">Camera</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_20">Direcotry</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_21">816 contacts</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_22">Set up my profile</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_23">My groups</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_24">FAVORITES</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_25">Daddy</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_26">Zoey Hannah</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_27">Lian Josie</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_28">Zhaohad</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_29">Kathy</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_3">Gallery</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_30">Zoey Jhone</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_31">Chartte Yvon</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_4">Music</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_5">Video</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_6">Weather</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_7">Notes</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_8">Calendar</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_9">Mail</string>
+     <string name="page_layout_confirm_message">"Display density has changed, layout of the desktop will be updated. This may take you 1 minute.
+Are you sure to change?"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_confirm_title">Change display metrics</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="passwordIncorrect">The password you entered is incorrect</string>
      <string name="password_guard">Защита</string>
@@ -2310,6 +2394,8 @@ Dissatisfied? Try"</string>
      <string name="title_font_current">Using</string>
      <string name="title_font_size">Размер шрифта</string>
      <string name="title_hdmi_color_calibration">Предустановки цвета</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_layout_current">Using layout</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_local_resource">Local resources</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

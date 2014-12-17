@@ -188,8 +188,15 @@
      <string name="feedback_HomeShow_MessageType_Audio">(аудио)</string>
      <string name="feedback_HomeShow_MessageType_Image">(изображение)</string>
      <string name="feedback_PressSendAudio">Нажми и говори</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="feedback_Return">Return</string>
      <string name="feedback_SaveTel">Добавить в контакты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="feedback_Save_Pic_Fail">Failed to save the picture</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="feedback_Save_Pic_Success">Picture saved successfully</string>
      <string name="feedback_Save_Success">Добавлен в контакты</string>
+     <string name="feedback_Save_To">Picture save to：</string>
      <string name="feedback_SelectFromCamera">Камера</string>
      <string name="feedback_SelectFromPhotos">Галерея</string>
      <string name="feedback_Send">Отправить</string>

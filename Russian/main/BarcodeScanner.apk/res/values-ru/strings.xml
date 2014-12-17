@@ -14,6 +14,8 @@
      <string name="birthday">День рождения:</string>
      <string name="camera_error">Ошибка камеры</string>
      <string name="cancel">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="choose_picture">Choose QR code picture</string>
      <string name="close_flash_error">Ошибка выключения вспышки</string>
      <string name="cloud_album_details">Информация о альбоме:</string>
      <string name="company">Компания:</string>
