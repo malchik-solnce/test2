@@ -190,6 +190,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hot">Hot</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="hot_recommend">Trending</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="icntv">iCNTV</string>
      <string name="info_channel_title">资讯频道</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

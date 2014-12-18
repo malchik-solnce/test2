@@ -1166,6 +1166,12 @@ Dissatisfied? Try"</string>
      <string name="line_breaking_summary">Оптимизировать разрывы линий</string>
      <string name="line_breaking_title">Оптимизация текста</string>
      <string name="link_speed_label">Скорость: </string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="local_auto_backup_off">Off</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="local_auto_backup_on">On</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="local_auto_backup_section_title">Auto backups</string>
      <string name="local_backup_password_summary_change">Нажмите, чтобы изменить или удалить пароль для резервного копирования</string>
      <string name="local_backup_password_summary_none">Полные резервные копии в настоящее время не защищены</string>
      <string name="local_backup_password_title">Пароль для резервного копирования</string>

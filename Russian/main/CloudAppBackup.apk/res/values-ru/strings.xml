@@ -102,6 +102,7 @@
      <string name="menu_item_sort_size">Size</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="miui_device_name">Android</string>
+     <string name="name_model">"%1$s's %2$s"</string>
      <string name="no_app_to_backup">Нет приложения для сохранинея</string>
      <string name="no_backup">Нет копий</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
