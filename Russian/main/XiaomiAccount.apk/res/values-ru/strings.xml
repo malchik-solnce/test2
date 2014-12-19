@@ -69,9 +69,6 @@
      <string name="device_list_title">Devices list</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="device_trust_info">Trusted device</string>
-     <string name="dirty_contacts_count">Контактов: %d</string>
-     <string name="dirty_mms_count">Сообщений: %d</string>
-     <string name="dirty_note_count">Заметок: %d</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="email_or_id_hint_text">Email or Mi Account ID</string>
      <string name="error_device_id">"Can't get IMEI"</string>
@@ -120,7 +117,6 @@
      <string name="micloud_none">Ничего</string>
      <string name="micloud_reg_new">Новый</string>
      <string name="micloud_space_info">Доступно: %s</string>
-     <string name="micloud_sync_info">%d элемен. для синхронизации</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_sync_state_need_wifi">Use WLAN to sync</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -408,7 +404,6 @@ To activate your account, follow the
      <string name="unbind_weibo_description">After unbinding，you will not sync your contacts, and also not log in your Mi Account using Sina Weibo</string>
      <string name="update_contacts">Обновление адресной книги</string>
      <string name="update_contacts_description">Sina micro Fair обновит информацию контактов</string>
-     <string name="updated_contacts">Обновлено контактов: %s</string>
      <string name="updated_nothing">Нет обновлений</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="user_agreement">User Agreement</string>

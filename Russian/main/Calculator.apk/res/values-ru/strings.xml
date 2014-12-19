@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="advanced">Дополнительная панель</string>
      <string name="app_name">Калькулятор</string>
-     <string name="basic">Основная панель</string>
      <string name="clear_history">Очистить историю</string>
      <string name="eDesc">Число Эйлера</string>
      <string name="error">Ошибка</string>
