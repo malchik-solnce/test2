@@ -12,39 +12,6 @@
      <string name="cit_accelermeter_sensor_check_summary">Ускорение движения в направлении X, Y, Z показано в трех векторах</string>
      <string name="cit_accelermeter_sensor_check_title">Проверка акселерометра</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cit_aud_spkcal">Calibrate</string>
-     <string name="cit_audio_cali_done">Calibration Done!</string>
-     <string name="cit_audio_cali_failed">Calibration Failed, please Retry!</string>
-     <string name="cit_audio_cali_file_existed">Music file do not exist,can not do calibration!</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cit_audio_cali_playing">Press button to do calibration</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cit_audio_cali_summary">Calibrate Speaker PA</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cit_audio_cali_title">Speaker PA Calibration Test</string>
-     <string name="cit_audio_cali_valueF0">F0:</string>
-     <string name="cit_audio_cali_valueR">Impedance:</string>
-     <string name="cit_audio_cali_valueT">tCoef:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cit_audio_lb_backmic_to_speaker_title">Back mic speaker feedback test</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
-     <string name="cit_audio_lb_phonecall_title">Имитация вызова</string>
-     <string name="cit_audio_lb_summary_backmic_to_speaker">"Back microphone to speaker feedback test. 
-
-Turn the phone, Speak to back microphone , you should hear voice in speaker"</string>
-     <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Main microphone to receiver feedback test.
-
-Hold the phone as if you are making a call, speak to main microphone, you should hear voice from reveiver"</string>
-     <string name="cit_audio_lb_summary_phonecall">"Simulation call test.
-
-Hold the phone as if you are making a call, Speak to main microphone, you should hear voice in the receiver. do the test in silent environment"</string>
-     <string name="cit_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test.
-
- Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cit_audio_lb_topmic_to_speaker_title">Top mic speaker feedback test</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_audio_loopback_check_one_title">Main microphone receiver feedback test</string>
      <string name="cit_audio_loopback_check_summary_first">"Main microphone receiver feedback test
 
@@ -82,11 +49,6 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_button_light_on">Включить подсветку кнопок</string>
      <string name="cit_calibration_fail">Калибровка не удалось</string>
      <string name="cit_calibration_pass">Калибровка</string>
-     <string name="cit_camera_calibration_summary">"Test instructions:
-
-1.Tap the calibration button below to enter Camera interface
-2.Press Back button to exit the camera interface
-3.There will be a calibration pass label to indicate the ois has been calibrated"</string>
      <string name="cit_camera_sdcard_error">SD-карта заполнена. Вы не можете делать снимки.</string>
      <string name="cit_charger_plugin_check_summary">Проверка подключения зарядного устройство</string>
      <string name="cit_charger_plugin_check_title">Проверка подключения зарядного устройства</string>
@@ -123,8 +85,6 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_gps_disabled">"GPS отключен 
 
 Нажмите, чтобы включить GPS…"</string>
-     <string name="cit_gps_first_fix_time">Fixed_time: %s</string>
-     <string name="cit_gps_location">Location: %s</string>
      <string name="cit_gps_satellite_count">Число спутников: %d</string>
      <string name="cit_gps_satellite_prn">Prn: %s</string>
      <string name="cit_gps_satellite_snr">Snr: %s</string>
@@ -185,8 +145,6 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_notificationlight_on">Выключить</string>
      <string name="cit_otg_not_supported">Ваш телефон не поддерживает тест OTG</string>
      <string name="cit_pass">ОК</string>
-     <string name="cit_play_sd_mp3_hifi_summary">Убедитесь, что есть файл с именем \"music.mp3\", хранящейся на SD-карте. Файл \"music.mp3\" нужно проиграть на Hi-Fi устройстве, когда откроете этот тест</string>
-     <string name="cit_play_sd_mp3_hifi_title">Проиграть MP3 (Hi-Fi) с SD-карты</string>
      <string name="cit_play_sd_mp3_summary">Проверка звука. Положите файл с именем music.mp3 в корень SD-карты</string>
      <string name="cit_play_sd_mp3_title">Проверка MP3 с SD-карты</string>
      <string name="cit_playing_sd_mp3">Music.mp3 играет…</string>
@@ -235,20 +193,9 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_tool_bluetooth">Bluetooth</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cit_tool_bluetooth_dut">Enter bluetooth test mode</string>
-     <string name="cit_tool_bluetooth_le_tx_h">Enter bluetooth low-power dissipation (2.480GHz) mode</string>
-     <string name="cit_tool_bluetooth_le_tx_l">Enter bluetooth low-power dissipation (2.402GHz) mode</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_tool_bluetooth_mode">Enter Bluetooth test mode</string>
-     <string name="cit_tool_bluetooth_not_on">BlueTooth function is not on !!</string>
      <string name="cit_tool_bluetooth_off">Выключить</string>
      <string name="cit_tool_bluetooth_on">Включить</string>
-     <string name="cit_tool_bluetooth_tx_h">Enter bluetooth single sound test（2.480GHz) mode</string>
-     <string name="cit_tool_bluetooth_tx_l">Enter bluetooth single sound test（2.402GHz）mode</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cit_tool_cal_camera">Camera Calibration Tool</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cit_tool_enable_3A_log">Enable 3A log Switch</string>
      <string name="cit_tool_log">Отчеты</string>
      <string name="cit_tool_log_bugreport">Отчет об ошибке</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -267,24 +214,52 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_tool_modem">MODEM test tools</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_tool_modem_bugreport">Force MODEM Coredump</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cit_tool_modem_exit_ftm">Exit FTM mode</string>
+     <string name="cit_tool_modem_cta_test">Open/Close protocol conformance test</string>
      <string name="cit_tool_modem_offline_log">Open/Close Offline Log</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cit_tool_nfc">NFC test tools</string>
-     <string name="cit_tool_nfc_st">Nfc ST:</string>
-     <string name="cit_tool_nfc_st_confreq">freq:</string>
-     <string name="cit_tool_nfc_st_run">Запустить</string>
-     <string name="cit_tool_nfc_st_stop">Остановить</string>
+     <string name="cit_tool_modem_pcap_switch">Open/Close DATA output</string>
+     <string name="cit_tool_modem_pcm_switch">Open/Close PCM output</string>
      <string name="cit_tool_wifi">Инструменты WLAN</string>
+     <string name="cit_tool_wifi_5g_100a">Tx:100/6M/13dBm</string>
+     <string name="cit_tool_wifi_5g_100b">Tx:100/54M/13dBm</string>
+     <string name="cit_tool_wifi_5g_100c">Tx:100/MCS0/13dBm</string>
+     <string name="cit_tool_wifi_5g_100d">Tx:100/MCS7/13dBm</string>
+     <string name="cit_tool_wifi_5g_165a">Tx:165/6M/13dBm</string>
+     <string name="cit_tool_wifi_5g_165b">Tx:165/54M/13dBm</string>
+     <string name="cit_tool_wifi_5g_165c">Tx:165/MCS0/13dBm</string>
+     <string name="cit_tool_wifi_5g_165d">Tx:165/MCS7/13dBm</string>
+     <string name="cit_tool_wifi_5g_36a">Tx:36/6M/13dBm</string>
+     <string name="cit_tool_wifi_5g_36b">Tx:36/54M/13dBm</string>
+     <string name="cit_tool_wifi_5g_36c">Tx:36/MCS0/13dBm</string>
+     <string name="cit_tool_wifi_5g_36d">Tx:36/MCS7/13dBm</string>
+     <string name="cit_tool_wifi_b_13a">Tx:13/1M/15dBm</string>
+     <string name="cit_tool_wifi_b_13b">Tx:13/11M/15dBm</string>
+     <string name="cit_tool_wifi_b_1a">Tx:1/1M/15dBm</string>
+     <string name="cit_tool_wifi_b_1b">Tx:1/11M/15dBm</string>
+     <string name="cit_tool_wifi_band_24">band: 2.4G</string>
+     <string name="cit_tool_wifi_band_5">band: 5G</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cit_tool_wifi_chain_1">1</string>
-     <string name="cit_tool_wifi_chain_1_2">1+2</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cit_tool_wifi_chain_2">2</string>
+     <string name="cit_tool_wifi_band_change">Next</string>
      <string name="cit_tool_wifi_exit">Выход</string>
+     <string name="cit_tool_wifi_g_13a">Tx:13/6M/13dBm</string>
+     <string name="cit_tool_wifi_g_13b">Tx:13/54M/13dBm</string>
+     <string name="cit_tool_wifi_g_1a">Tx:1/6M/13dBm</string>
+     <string name="cit_tool_wifi_g_1b">Tx:1/54M/13dBm</string>
+     <string name="cit_tool_wifi_n_13a">Tx:13/MCS0/11dBm</string>
+     <string name="cit_tool_wifi_n_13b">Tx:13/MCS7/11dBm</string>
+     <string name="cit_tool_wifi_n_1a">Tx:1/MCS0/11dBm</string>
+     <string name="cit_tool_wifi_n_1b">Tx:1/MCS7/11dBm</string>
+     <string name="cit_tool_wifi_rx_1">Rx:1</string>
+     <string name="cit_tool_wifi_rx_100">Rx:100</string>
+     <string name="cit_tool_wifi_rx_13">Rx:13</string>
+     <string name="cit_tool_wifi_rx_165">Rx:165</string>
+     <string name="cit_tool_wifi_rx_36">Rx:36</string>
+     <string name="cit_tool_wifi_rx_7">Rx:7</string>
      <string name="cit_tool_wifi_rx_ap">Rx:AP</string>
      <string name="cit_tool_wifi_rx_ap_name">Введите имя AP</string>
+     <string name="cit_tool_wifi_rx_ap_not_null">"AP name or type can't be empty"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cit_tool_wifi_rx_ap_type">bss</string>
+     <string name="cit_tool_wifi_rx_ap_type_error">AP error, re-enter (bss/adhoc)</string>
      <string name="cit_tool_wifi_rx_chan">Rx: Channel</string>
      <string name="cit_tool_wifi_rx_count_error">Ошибка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -293,12 +268,13 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_tool_wifi_rx_exit">Rx:exit</string>
      <string name="cit_tool_wifi_rx_run">Старт</string>
      <string name="cit_tool_wifi_rx_stop">Стоп</string>
+     <string name="cit_tool_wifi_rx_total_format">Total transmitted %s</string>
      <string name="cit_tool_wifi_rxbg_test">Rx:B/G</string>
      <string name="cit_tool_wifi_rxbg_test_channel">chan:</string>
+     <string name="cit_tool_wifi_rxbg_test_datarate">rate:</string>
      <string name="cit_tool_wifi_rxn_test">Rx:N</string>
-     <string name="cit_tool_wifi_rxn_test_bw">bandwidth:</string>
      <string name="cit_tool_wifi_rxn_test_channel">chan:</string>
-     <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
+     <string name="cit_tool_wifi_rxn_test_mcs">MCS:</string>
      <string name="cit_tool_wifi_tx_bg">Tx:B/G</string>
      <string name="cit_tool_wifi_tx_bg_chan">channel:</string>
      <string name="cit_tool_wifi_tx_bg_txpr">txpower:</string>
@@ -308,10 +284,7 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_tool_wifi_tx_n_chan">channel:</string>
      <string name="cit_tool_wifi_tx_n_txpr">txpower:</string>
      <string name="cit_tool_wifi_tx_n_txrt">datarate: MCS</string>
-     <string name="cit_tool_wifi_tx_st">Tx: ST</string>
      <string name="cit_tool_wifi_tx_st_chan">channel:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cit_tool_wifi_txrx_chain_selection">Select antenna</string>
      <string name="cit_torch_off">Выключить вспышку</string>
      <string name="cit_torch_on">Включить вспышку</string>
      <string name="cit_touch_calib_fail">Ошибка калибровки экрана</string>

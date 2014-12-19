@@ -17,6 +17,8 @@
      <string name="bluetooth_preference_scan_title">Scan for devices</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="bluetooth_search_for_devices">Search for devices</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bt_advanced_settings">Bluetooth Advanced Settings</string>
      <string name="bt_enable_cancel">Отмена</string>
      <string name="bt_enable_line1">Чтобы использовать службы Bluetooth, включите адаптер Bluetooth</string>
      <string name="bt_enable_line2">Включить Bluetooth?</string>
@@ -53,7 +55,6 @@
      <string name="empty_file_notification_sent">Bluetooth передача: отклонено нулевых файлов %1$s</string>
      <string name="enabling_progress_content">Включение Bluetooth…</string>
      <string name="enabling_progress_title">Подождите…</string>
-     <string name="format_progress_text">%1$d%%</string>
      <string name="hello">Hello, World! (проверка связи)</string>
      <string name="inbound_history_title">Входящие передачи</string>
      <string name="inbound_noti_title">Bluetooth: полученные файлы</string>
@@ -70,6 +71,14 @@
      <string name="incoming_file_toast_msg">Входящий файл с другого устройства. Подтвердите получение этого файла.</string>
      <string name="insert_record">Вставить запись</string>
      <string name="localPhoneName">Мое название</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="map_datasource_mms_name">MMS</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="map_datasource_sms_name">SMS</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="map_datasource_smsmms_name">SMS and MMS</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="map_provider_smsmms_name">Messaging</string>
      <string name="miui_transfer_history_title">Bluetooth передачи</string>
      <string name="miui_transfer_inbound_title">Входящие</string>
      <string name="miui_transfer_outbound_title">Исходящие</string>
@@ -93,12 +102,51 @@
      <string name="pbap_authentication_timeout_message">Истекло время ожидания ввода ключа сеанса для связи с %1$s</string>
      <string name="pbap_session_key_dialog_header">Необходим ключ сеанса Bluetooth</string>
      <string name="pbap_session_key_dialog_title">Введите ключ сеанса для %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="permdesc_bluetoothMap">Allows the app to access the Bluetooth Message Access Profile content provider and use it send messages to MAP messages to clients.</string>
      <string name="permdesc_bluetoothShareManager">Позволяет приложению получать доступ к диспетчеру передачи файлов по каналу Bluetooth и использовать его для передачи файлов.</string>
      <string name="permdesc_bluetoothWhitelist">Приложение сможет временно добавлять устройства в белый список, что позволит этому устройству отправлять файлы на это устройство без подтверждения пользователя.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="permdesc_fm_receiver">Allows an application to access the FM receiver functions.</string>
      <string name="permdesc_handoverStatus">Позволяет получать передачи передачи информации статуса Bluetooth</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="permlab_bluetoothMap">Access Bluetooth Message Access Profile content provider.</string>
      <string name="permlab_bluetoothShareManager">Доступ к диспетчеру загрузки</string>
      <string name="permlab_bluetoothWhitelist">Белый список Bluetooth устройств</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="permlab_fm_receiver">access FM receiver</string>
      <string name="permlab_handoverStatus">Получать информацию о статусе передачи через BT</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="profile_a2dp">A2DP</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="profile_description_a2dp">A2DP Profile</string>
+     <string name="profile_description_ftp">File Transfer (Server) Profile</string>
+     <string name="profile_description_gatt">GATT/BLE Profile</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="profile_description_hdp">Health Devices Profile</string>
+     <string name="profile_description_hid">Human Interface Device (Host) Profile</string>
+     <string name="profile_description_hs_hfp">Headset/Handsfree Profile</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="profile_description_mse">Message Access Profile</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="profile_description_pan">Personal Area Network Profile</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="profile_description_sap">SIM Access Profile</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="profile_ftp">FTP</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="profile_gatt">GATT</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="profile_hdp">HDP</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="profile_hid">HID Host</string>
+     <string name="profile_hs_hfp">HS/HFP</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="profile_mse">MAP</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="profile_pan">PAN</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="profile_sap">SAP</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="progress_scanning">Searching</string>
      <string name="start_server">Запустить TCP-сервер</string>
@@ -113,6 +161,8 @@
      <string name="status_running">Выполняется передача файла</string>
      <string name="status_success">Передача файла успешно завершена</string>
      <string name="status_unknown_error">Неизвестная ошибка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_bt_mse_settings">Bluetooth MAP Advanced Settings</string>
      <string name="transfer_clear_dlg_msg">Все элементы будут удалены из списка</string>
      <string name="transfer_clear_dlg_title">Очистить</string>
      <string name="transfer_menu_clear">Удалить из списка</string>
