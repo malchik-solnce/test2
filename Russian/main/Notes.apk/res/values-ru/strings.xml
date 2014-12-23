@@ -31,6 +31,11 @@
      <string name="error_unsupport_content">Заметка содержит неподдерживаемое содержимое. Нажмите для обновления системы.</string>
      <string name="error_widget_exist_for_send_to_desktop">Эта заметка уже на рабочем столе</string>
      <string name="folder_exist">Папка с таким именем уже существует</string>
+     <string name="format_move_notes_out_folder">Moved %1$s out</string>
+     <!-- The count of MNPS does not match! Now: 2 must: 2
+	%s: 1 must: 2
+	%d: 1 must: 0 -->
+     <!-- Original string: Moved %1$s to %2$s -->
      <string name="format_move_notes_to_folder">Заметки %1$d перемещены в %2$s</string>
      <string name="hint_foler_name">Введите имя</string>
      <string name="info_note_enter_desktop">Заметка добавлена на рабочий стол</string>

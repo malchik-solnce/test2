@@ -4,7 +4,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="agree">Agree</string>
      <string name="congratulation_label">Наслаждайтесь новым телефоном :)</string>
-     <string name="congratulation_next">Начать работу</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="disagree">Cancel</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -18,7 +17,6 @@
      <string name="locale_picker_desc">"If yout want to change your location later on, you'll need to perform a Factory data reset"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="locale_picker_title">Choose your location</string>
-     <string name="logo_congratulation">Вы все настроили!</string>
      <string name="miui_privacy_policy_no_network">No network connection. View the Privacy Policy at %s</string>
      <string name="miui_terms_no_network">No network connection. View the Terms of Service at %s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -40,11 +38,19 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="other_settings_user_experience_summary1">privacy policy</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_label">Adjust text size and layout for your Home screen, notification shade, dial pad, and more.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_title">System layout</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_title_data_slot">Preferred data SIM card</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_title_voice_slot">Preferred voice SIM card</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="privacy_policy">Privacy Policy</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="provision_finish">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="provision_finish_restart">Restart</string>
      <string name="provision_inputmethod_policy_description">"View the selected keyboard's "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="provision_inputmethod_policy_description1">Privacy Policy</string>
@@ -63,6 +69,7 @@
      <string name="terms_of_use">Terms of Service</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="terms_of_use_label">You must agree to User Agreement and Privacy Policy before you can use MIUI.</string>
+     <string name="title_congratulation">"You're ready to rock!"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="user_agreement">User Agreement</string>
      <string name="welcome">Добро пожаловать в</string>
