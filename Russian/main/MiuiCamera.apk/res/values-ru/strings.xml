@@ -10,6 +10,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="accessibility_panorama_review_cancel">Panorama Cancel Saving</string>
      <string name="accessibility_review_thumbnail">Недавние фото</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="accessibility_seek_bar_line">SeekBarLine</string>
      <string name="accessibility_shutter_button">Кнопка затвора</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>

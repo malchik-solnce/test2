@@ -1828,6 +1828,8 @@ Are you sure to change?"</string>
      <string name="provider_label">Подписки на рассылки оператора</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="provision_next">Next</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="provision_page_layout_confirm_message">Your device needs to reboot in order to apply these changes. This takes about 1 minute.</string>
      <string name="proxy_action_text">Готово</string>
      <string name="proxy_clear_text">Очистить</string>
      <string name="proxy_defaultView_text">Восстановить настройки по умолчанию</string>
@@ -2687,6 +2689,7 @@ Are you sure to change?"</string>
      <string name="volume_alarm_mute">Отключить будильники</string>
      <string name="volume_bluetooth_description">Громкость Bluetooth</string>
      <string name="volume_category_title">Настройки громкости</string>
+     <string name="volume_hifi_description">Hi-Fi settings</string>
      <string name="volume_media_description">Громкость мультимедиа</string>
      <string name="volume_media_mute">Отключить музыку и медиа</string>
      <string name="volume_notification_description">Оповещения</string>

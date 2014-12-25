@@ -232,6 +232,8 @@ to your Mi Account to reactivate Mi Cloud."</string>
      <string name="mx_dspt_provision">"Mi Message lets you send messages to other MIUI users without incurring SMS charges.
 
 You can turn this feature on and off anytime in Settings."</string>
+     <string name="mx_dspt_provision_privacy">"This service may require your phone number. Your carrier may charge for an SMS message used to activate this service.
+This feature encrypts and uploads your device's ID to Mi's servers."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mx_sub_dspt_provision">Mi Message</string>
      <string name="next">Далее</string>
@@ -268,6 +270,10 @@ You can turn this feature on and off anytime in Settings."</string>
      <string name="sub_sync_item_sms_title_wifi_only">Только по Wi-Fi</string>
      <string name="success_upgraded_space">%s added</string>
      <string name="sync_dspt">Включить синхронизацию</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_dspt_entrance_provision">Sync your photos, contacts, and messages, or locate your device.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_dspt_entrance_provision_2">Learn more</string>
      <string name="sync_dspt_provision">"Mi Cloud syncs your photos, SMS, notes, and more across all your Mi devices. You can also access them from any browser at "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sync_dspt_provision2">i.mi.com</string>
@@ -277,6 +283,8 @@ You can turn this feature on and off anytime in Settings."</string>
 You can turn this feature on and off anythime in Settings.
 "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_dspt_provision_title">Mi Cloud</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sync_item_calllog_summary">Sync records of calls made and received on this phone</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sync_item_calllog_title">Sync call logs</string>
@@ -284,6 +292,8 @@ You can turn this feature on and off anythime in Settings.
      <string name="sync_item_sms_title">Синхронизация сообщений</string>
      <string name="sync_off">Выкл.</string>
      <string name="sync_on">Вкл.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_resend_sms_dspt_provision">. If you switch SIM cards, your carrier may charge for an SMS message used to reactivate this service.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sync_setting">Sync settings</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

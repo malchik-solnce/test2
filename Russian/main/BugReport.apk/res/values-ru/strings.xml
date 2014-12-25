@@ -6,6 +6,8 @@
      <string name="action_confirm">OK</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="action_submit">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="announcement">Attention</string>
      <string name="app_empty">Нет приложений</string>
      <string name="app_label">Отзывы</string>
      <string name="bluetooth_problem1">Сопряжение не удалось со сторонними устройствами</string>
@@ -39,6 +41,8 @@
      <string name="discard_draft_dialog_title">Отмена отзыва</string>
      <string name="err_type">Тип ошибки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="err_type_app">Apps</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="err_type_bluetooth">Bluetooth</string>
      <string name="err_type_camera">Камера</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -46,9 +50,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="err_type_hardware_summary">Buttons, charging, sensors, etc.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="err_type_mysuggestion">Suggestions</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="err_type_mysuggestion_summary">Share ideas and feedback with us</string>
+     <string name="err_type_more">More</string>
      <string name="err_type_nonsystemapp">Другие приложения</string>
      <string name="err_type_power_consuming">Потребление энергии</string>
      <string name="err_type_reboot">Перезагрузка системы</string>
@@ -90,6 +92,7 @@
      <string name="refresh">Обновить</string>
      <string name="report_miui">Отправить в MIUI</string>
      <string name="screen_lock">Экран блокировки</string>
+     <string name="screen_orientation_type">-1</string>
      <string name="section_description">Описание</string>
      <string name="section_err_type">Тип проблемы</string>
      <string name="section_screenshot">Скриншот</string>
@@ -109,11 +112,16 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_common_problem">Common bugs</string>
      <string name="title_hot_problem">Распространенные ошибки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_nonsystem_app">Other apps</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_system_app">MIUI apps</string>
      <string name="toast_description_required">Описание не может быть пустым</string>
      <string name="toast_feedback_network_unavailable">"Can't connect to network"</string>
      <string name="toast_feedback_pending_wlan">Твой отзыв будет отправлен позже при включенном Wi-Fi</string>
      <string name="toast_feedback_submitted">Отзыв успешно отправлен</string>
      <string name="toast_feedbackservice_in_submit">Отправка предыдущего отзыва…</string>
+     <string name="toast_network_unavailable">"Couldn't send. Can't connect to the network."</string>
      <string name="toast_pending_log_collection">Сбор логов</string>
      <string name="toast_report_copied_to_clipboard">Отчет скопирован в буфер обмена</string>
      <string name="toast_report_sent_failed">Ошибка отправки отчета</string>
