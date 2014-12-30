@@ -20,6 +20,9 @@
      <string name="chat_number">10 часов</string>
      <string name="chat_uint">" часов"</string>
      <string name="checkout_traffic_saving_history">История</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="daily_limit_network_available_body">Touch to view data usage stats.</string>
+     <string name="daily_limit_over_message">"You've exceeded your daily data limit."</string>
      <string name="daily_pkg_traffic">Предел трафика</string>
      <string name="data_usage_correction_timeout_body">Нажмите для ручного обновления</string>
      <string name="data_usage_correction_timeout_title">Ошибка синхронизации данных</string>
@@ -97,6 +100,7 @@ For more info check the message you received from your service provider"</string
      <string name="firewall_rule_group_title_mobile">3G</string>
      <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
      <string name="firewall_service_network_blocked">%1$s запрещено к подключению %2$s сети</string>
+     <string name="five_percent_total_pkg">%s (5%% of your monthly mobile data)</string>
      <string name="force_stop_dlg_text">При ограничении мобильного интернета в фоне, некоторые приложения и сервисы не будут работать, если нет подключения к Wi-Fi</string>
      <string name="force_stop_dlg_title">Отключить фоновые данные</string>
      <string name="foreground_traffic">Трафик %s</string>
@@ -231,6 +235,10 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="pref_title_declaration">Информация о услуге</string>
      <string name="pref_title_mobile_traffic">Показывать использование трафика при заблокированном экране</string>
      <string name="pref_title_network_diagnostics">Диагностика сети</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_title_over_traffic_limit_warning">Turn off data if limit is exceeded</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_title_traffic_limit_number">Size</string>
      <string name="pref_title_traffic_speed_state">Показывать скорость сети</string>
      <string name="pref_title_update_notification">Показывать трафик в панели</string>
      <string name="pref_traffic_saving_issue">Справка</string>
@@ -257,6 +265,10 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers to get more info about data purchasing options."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="privacy_prompt_upload">Privacy notification</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="reach_daily_limit_value_body">Reduce your mobile data usage.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="reach_daily_limit_value_title">Daily data limit reached</string>
      <string name="read_number">86 статей</string>
      <string name="read_unit">" статей"</string>
      <string name="right_precent">100%</string>
@@ -323,8 +335,12 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="tc_sms_report_title">Report data usage bug</string>
      <string name="tc_sms_report_upload_success">"Data usage report SMS submitted. We'll get right on it!"</string>
      <string name="tc_sms_report_upload_when_net">Thank you for the feedback!</string>
+     <string name="ten_percent_total_pkg">%s (10%% of your monthly mobile data)</string>
+     <string name="three_percent_total_pkg">%s (3%% of your monthly mobile data)</string>
      <string name="tips_dialog_title">Не знаете свой лимит?</string>
      <string name="tips_message">Более подробно о информации вашего пакета трафика, вы можете узнать набрав %2$s (%1$s)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_limit_traffic_per_day">Daily data usage limit</string>
      <string name="traffic_config_alert_body">"Your carrier's accounting show you have used %s
 Update your data usage info?"</string>
      <string name="traffic_config_alert_body_extra">"
