@@ -146,6 +146,8 @@
      <string name="info_unantispam_sms">Разрешить сообщения</string>
      <string name="label_callwait">Ожидание вызова</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="loding">Loading data</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_agent">Sales agent</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_agent_block">Marked as agent</string>
@@ -204,6 +206,8 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
      <string name="open_callwait">Включить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="read_all_sms">Mark as read</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="report">Report</string>
      <string name="report_error">"Couldn't report message"</string>
      <string name="report_error_not_net">"Can't connect to the network"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -212,6 +216,9 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
      <string name="report_sms">Report messages</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="report_success">Message reported</string>
+     <string name="report_warning">"Report %1$s SMS to Mi? These messages and the phone numbers they were sent from will be uploaded to Mi's servers for review. Any personal info associated with these messages is always kept anonymous."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="report_warning_title">Report SMS</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_not_ready">SIM card not ready</string>
      <string name="sms_delete_hint">Удалить все заблокированные сообщения, отправленные выбранным номером?</string>

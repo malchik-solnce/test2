@@ -168,6 +168,10 @@ d MMMM yyyy"</string>
      <string name="status_bar_recent_guide_all">Потяните вверх для закрытия, вниз для блокировки</string>
      <string name="status_bar_recent_guide_bottom">Потяните вниз для блокировки</string>
      <string name="status_bar_recent_guide_top">Потяните вверх для закрытия</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 2
+	%s: 1 must: 2
+	%d: 0 must: 0 -->
+     <!-- Original string: %1$sB of %2$sB available -->
      <string name="status_bar_recent_memory_info1">"%s "</string>
      <string name="status_bar_recent_memory_info2">" %s available"</string>
      <string name="status_bar_recording_back">Назад в диктофон</string>

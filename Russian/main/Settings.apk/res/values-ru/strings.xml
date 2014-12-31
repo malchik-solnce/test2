@@ -1027,6 +1027,14 @@ Dissatisfied? Try"</string>
      <string name="global_locale_change_title">Сменить язык</string>
      <string name="google_backup_section_title">Резервное копирование Google</string>
      <string name="gsm_to_wifi_connect_type_title">Настройки &gt; Wi-Fi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="handy_mode">Handy mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="handy_mode_enable">Handy mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="handy_mode_size">Screen size</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="handy_mode_tips">Swipe left or right from the Home button to pull the screen closer to one side.</string>
      <string name="haptic_feedback_enable_title">Включить виброотклик</string>
      <string name="haptic_feedback_level">Уровень вибрации</string>
      <string name="hardkeyboard_category">Настройки внешней клавиатуры</string>
