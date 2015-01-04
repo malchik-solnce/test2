@@ -313,6 +313,8 @@
      <string name="source_from">Источник: %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="start_to_play">Play</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="stream_quality">stream quality</string>
      <string name="streamloadingtext">Подключение к %s</string>
      <string name="tab_album_list">Альбомы</string>
      <string name="tab_artist_list">Исполнители</string>

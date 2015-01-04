@@ -1545,6 +1545,7 @@ Dissatisfied? Try"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_hifi_summary">Reduce noise and distortion and increase audio quality. This feature increases battery use.</string>
      <string name="music_hifi_title">Hi-Fi audio</string>
+     <string name="music_hifi_volumn">Hi-Fi volumn</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_mi_effect_summary">Always use MiSound enhancer when using speakers</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
