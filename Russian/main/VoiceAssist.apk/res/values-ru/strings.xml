@@ -90,7 +90,6 @@
      <string name="music_result_title">Результаты поиска：</string>
      <string name="music_search_cancelled">Поиск музыки отменен</string>
      <string name="music_search_failed">Нет результатов</string>
-     <string name="music_search_unsupport">Функция требует, чтобы использовать последнюю версию MIUI</string>
      <string name="need_tts_set">Нужно сделать приложение движком по умолчанию. Установить?</string>
      <string name="net_comment">Отзывы</string>
      <string name="net_not_connected">Нет интернет соединения</string>

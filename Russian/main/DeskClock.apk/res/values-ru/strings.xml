@@ -87,7 +87,6 @@
      <string name="slider_text">Сдвиньте вверх, чтобы отключить</string>
      <string name="snooze_confirm_cancel">Отложить</string>
      <string name="snooze_duration_title">Интервал повтора сигнала</string>
-     <string name="snooze_message">Отложить на %d мин.</string>
      <string name="start">Старт</string>
      <string name="start_up">Пуск</string>
      <string name="stopwatch_lap_empty_text">Нет кругов</string>

@@ -65,6 +65,10 @@
      <string name="auto_create_recent_album_over_ten_times">Создает избранный альбом после захода в него более 10 раз</string>
      <string name="auto_upload_album_comfirm_to_share">It is an album which will be uploaded automatically, Are you sure to share it?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="auto_upload_guide">Automatically upload your photos from other apps to Mi Cloud</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="auto_upload_setting_toast">View additional options for this feature in Mi Cloud Settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="auto_upload_title">Upload automatically</string>
      <string name="autofix">Авто</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -251,6 +255,8 @@
      <string name="gallery_setting">Галерея</string>
      <string name="get_album_info_in_process">Запрос свойств облачного альбома…</string>
      <string name="global_setting">Настройки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="go_setting">View settings</string>
      <string name="grain">Зернистость</string>
      <string name="grayscale">Ч/Б</string>
      <string name="group_by">Сгруппировать</string>
@@ -361,6 +367,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
      <string name="new_device_tips">Найдено новое устройство. Нажмите, чтобы посмотреть.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="new_feature">New feature</string>
      <string name="no">Нет</string>
      <string name="no_albums_alert">Нет доступных альбомов</string>
      <string name="no_connectivity">Не удалось найти все места из-за проблем с подключением</string>
@@ -375,6 +383,8 @@
      <string name="no_thumbnail">Нет уменьшенного изображения</string>
      <string name="none_picture">Нет фотографий в галерее</string>
      <string name="not_auto_create_recent_album">Неавтоматическое создание последних альбомов</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="not_now">Not now</string>
      <string name="not_show_hidden_albums">Скрыть скрытые альбомы</string>
      <string name="only_show_camera_in_first_page">Только фотографии камеры</string>
      <string name="only_show_camera_in_first_page_summary">Если отключено, то фотографии всех облачных альбомов будут показаны на первой странице</string>

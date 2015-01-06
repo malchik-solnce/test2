@@ -13,7 +13,6 @@
      <string name="apply_title">Updating (%s)</string>
      <string name="apply_update_dialog_cancel_button">Отмена</string>
      <string name="apply_update_dialog_update_button">Обновление</string>
-     <string name="apply_upload_info_message">Нажмите «Обновить», телефон будет автоматически перезагружен для применения обновлений</string>
      <string name="auto_agree_clause">"Our updated Privacy Policy has already been put into effect. "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="auto_button_examine">View</string>
@@ -66,10 +65,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="comment_upload_success">Sent</string>
      <string name="daily_build">ежедневная сборка</string>
-     <string name="dialog_no">Нет</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dialog_ok">OK</string>
-     <string name="dialog_yes">Да</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="download_again">Download again</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -85,7 +80,6 @@
      <string name="download_title">Downloading (%s)</string>
      <string name="download_title_first">Getting update info…</string>
      <string name="download_title_full_download">Getting package info…</string>
-     <string name="downloading_description">Скачивание…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="edit_comment">Add comments</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -96,7 +90,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="expect">Expectations</string>
      <string name="experimental_build">Экспериментальная сборка</string>
-     <string name="file_not_found_error_message">Запрошенный файл не найден</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="finish">Finish</string>
      <string name="fourgrid_hint_text">Thanks for using the developer build of MIUI! Tell us what you think and help make us MIUI better.</string>
@@ -117,7 +110,6 @@
      <string name="install">Install</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="install_failed">Update failed</string>
-     <string name="install_file_explorer">Установите приложение Файлы</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="install_local">Install local</string>
      <string name="install_qq">"Get Tencent's Weibo app"</string>
@@ -126,8 +118,6 @@
      <string name="loading">Requesting…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="log_share">Share</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_title_check_update">Only use WLAN to check for updates</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_title_current_version_log">Update summary</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -156,7 +146,6 @@
      <string name="next">Next</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_log">No summary available</string>
-     <string name="no_proper_updates">Для текущей версии обновлений нет</string>
      <string name="no_wifi_msg">"You're no longer connect to WLAN. Continuing to download over your mobile data connection will increase your data usage."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_wifi_title">Data usage warning</string>

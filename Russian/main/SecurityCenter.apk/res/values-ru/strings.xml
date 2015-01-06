@@ -81,8 +81,11 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="boot_reminder">Power on your device at a scheduled time</string>
      <string name="boot_reminder_day">Device will power on in %1$dd %2$dh %3$dm</string>
+     <string name="boot_reminder_day_hour">Device will power on in %1$dd %2$dh</string>
      <string name="boot_reminder_hour">Device will power on in %1$dh %2$dm</string>
      <string name="boot_reminder_minute">Device will power on in %1$dm</string>
+     <string name="boot_reminder_only_day">Device will power on in %1$dd</string>
+     <string name="boot_reminder_only_hour">Device will power on in %1$dh</string>
      <string name="boot_shutdown">Device will power on at %1$s and power off at %2$s</string>
      <string name="boot_shutdown_day">Device will power on at %1$s and power off in %2$dd at %3$s</string>
      <string name="boot_time">Device will power on at %1$s</string>
@@ -668,6 +671,7 @@
      <string name="preference_key_garbage_auto_clean_and_alert">key_garbage_auto_clean_and_alert</string>
      <string name="preference_key_garbage_auto_clean_content">key_garbage_auto_clean_content</string>
      <string name="preference_key_garbage_auto_process_mode">key_garbage_auto_process_mode</string>
+     <string name="preference_key_lock_screen_memory_clean">lock_screen_memory_clean</string>
      <string name="preference_key_module_permissions">key_module_permissions</string>
      <string name="preference_key_notification_bar_manager">key_notification_bar_manager</string>
      <string name="preference_key_open_optimizer_cloud_scan">key_open_optimizer_cloud_scan</string>
@@ -732,6 +736,9 @@
      <string name="summary_miui_update">Update available for %s.</string>
      <string name="summary_mms">Фильтрация нежелательных сообщений (скидки, объявления и т.д.)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="summary_network_switch">Allow Security app to connect to the internet</string>
+     <string name="summary_never_flow_verify">"This figure hasn't been verified with your carrier"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="summary_optimizer">Upload and compare unknown app names and files with online definitions</string>
      <string name="summary_permission">Защита моей конфиденциальности от сторонних приложений</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -790,6 +797,8 @@
      <string name="title_mms_no">Фильтрация сообщений отключена</string>
      <string name="title_mms_yes">Фильтрация сообщений включена</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_network_switch">Allow internet connection</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_optimizer">Cleaner</string>
      <string name="title_permission_no">Мониторинг разрешений отключен</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -827,6 +836,8 @@
      <string name="toast_garbage_lib">Turned on automatic updates for Cleaner</string>
      <string name="toast_garbage_list_empty">Отличное состояние. Очистка не требуется!</string>
      <string name="toast_network_eror">Ошибка сети!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="toast_network_switch">This app can connect to the internet</string>
      <string name="toast_removed_from_white_list">Удалено из белого списка</string>
      <string name="toast_root_apply_accept">%s разрешены права суперпользователя</string>
      <string name="toast_root_apply_reject">%s запрещены права суперользователя</string>
