@@ -118,6 +118,10 @@
      <string name="apn_auth_type_pap_chap">PAP или CHAP</string>
      <string name="apn_chinaunicom_3gnet_general">沃3G连接互联网</string>
      <string name="apn_chinaunicom_3gwap_general">沃3G手机上网</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="apn_cm_net">CMNET</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="apn_cm_wap">CMWAP</string>
      <string name="apn_edit">Изменить</string>
      <string name="apn_general">Точки доступа интернет</string>
      <string name="apn_http_port">Порт</string>
@@ -2052,6 +2056,7 @@ Are you sure to change?"</string>
      <string name="screen_color_temperature_and_saturation">Цветовая температура</string>
      <string name="screen_compatibility_label">Совместимость с экраном</string>
      <string name="screen_compatibility_text">Возможно, приложение не предназначено для вашего экрана. Здесь можно настроить параметры его отображения.</string>
+     <string name="screen_effect">Contrast &amp; colors</string>
      <string name="screen_key_long_press">ДОЛГОЕ НАЖАТИЕ КНОПОК</string>
      <string name="screen_key_long_press_action">Переключатель функций</string>
      <string name="screen_key_long_press_timeout">Время нажатия</string>
@@ -2062,6 +2067,8 @@ Are you sure to change?"</string>
      <string name="screen_never_timeout_title">Никогда не отключать</string>
      <string name="screen_on_proximity_sensor_summary">Предотвращение функциональности телефона, при помощи датчика</string>
      <string name="screen_on_proximity_sensor_title">Защита датчиком</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="screen_optimize">Contrast</string>
      <string name="screen_saturation">Насыщенность цвета</string>
      <string name="screen_timeout">Спящий режим</string>
      <string name="screen_timeout_summary">После %1$s бездействия</string>
@@ -2857,6 +2864,10 @@ Are you sure to change?"</string>
      <string name="wifi_disabled_help">Сеть отклонена, так как соединение неустойчивое. Чтобы изменить параметры, выберите \"Настройки > Wi-Fi\" и откройте меню \"Дополнительные функции\".</string>
      <string name="wifi_disabled_network_failure">Включено</string>
      <string name="wifi_disabled_password_failure">Ошибка аутентификации</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_disconnected_notification_summary">Retrying or connect to other WLAN.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_disconnected_notification_title">WLAN disconnected</string>
      <string name="wifi_display_autonomous_go">Включить автономный GO</string>
      <string name="wifi_display_certification">Сертификация беспроводных мониторов</string>
      <string name="wifi_display_certification_heading">Сертификаты</string>

@@ -81,6 +81,8 @@ You can turn this feature on and off anytime in Settings."</string>
 При смене SIM-карты, будет отправлено сообщение для включения услуги."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="find_device_send_sms_alert">If you switch SIM cards, another SMS will be sent automatically to reactivate this service.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="find_device_status_ok">Find your device from anywhere at i.mi.com</string>
      <string name="find_device_stop_noise">Нажми OK, чтобы остановить сигнал</string>
      <string name="find_device_success_title">Поиск устройства</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -191,6 +193,18 @@ to your Mi Account to reactivate Mi Cloud."</string>
      <string name="micloud_other_product_price">Other similar products Price:</string>
      <string name="micloud_proceed">Продолжить</string>
      <string name="micloud_sec_dspt">и поделись этим с друзьями</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_setting_browser_summary">Bookmarks, history, and tags</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_setting_contact_summary">Contacts info and profile photos</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_setting_gallery_summary">Photos and videos</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_setting_music_summary">Playlists and favorites</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_setting_sms_summary">SMS and MMS messages</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_setting_wifi_summary">WLAN settings</string>
      <string name="micloud_space_full_influence"><u>Закончилось место в облаке?</u></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_storage_expires_auto_renewal_sum">You need to renew your subscription.</string>

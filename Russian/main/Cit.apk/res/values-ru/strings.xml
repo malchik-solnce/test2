@@ -356,4 +356,14 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_wifi_ap_scanning">Сканирование AP…</string>
      <string name="cit_wifi_fail_to_scan">Не удается выполнить сканирование сети</string>
      <string name="cit_wifi_state_refresh">обновление</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Front mic speaker feedback test</string>
+     <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Front microphone to speaker feedback test.
+
+Turn the phone, Speak to microphone at the position of the receiver, you should hear voice in speaker"</string>
+     <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test. 
+
+Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cit_x5_audio_lb_top_to_speaker_title">Top mic speaker feedback test</string>
 </resources>

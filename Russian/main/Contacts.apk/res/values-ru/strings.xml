@@ -821,6 +821,10 @@
      <string name="resource_comment_edit_comment_waiting">Проверка истории…</string>
      <string name="resource_comment_edit_text_default">Написать комментарий</string>
      <string name="resource_comment_edit_title">Изменить комментарий: %1$s</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Comments (%1$s) -->
      <string name="resource_comment_entry_tips">Просмотр комментариев</string>
      <string name="resource_comment_expand_full_text">Развернуть ▼</string>
      <string name="resource_comment_footer">Пустые комментарии не отображаются</string>
@@ -858,6 +862,7 @@
      <string name="resource_detail_recommend_desiner_themes">темы: %1$s</string>
      <string name="resource_detail_recommend_other_themes">Пользователям также понравилось</string>
      <string name="resource_detail_update_log_title">Обновления</string>
+     <string name="resource_detail_vertical_divider">|</string>
      <string name="resource_detail_window_title">%1$s свойства</string>
      <string name="resource_download">Скачать</string>
      <string name="resource_download_trial">Попробовать</string>
@@ -883,11 +888,16 @@
      <string name="resource_exchange_wrong_format_by_local">Введен неправильный код</string>
      <string name="resource_exchange_wrong_format_by_server">Код не может быть подтвержден. Проверьте его и попробуйте еще раз.</string>
      <string name="resource_expand_full_text">Раскрыть</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_failed_to_load_list">Failed to load list</string>
      <string name="resource_get_auth_checking">Проверка авторизации…</string>
      <string name="resource_get_auth_exceed_max_limit_tips">Тема не может работать на текущем устройстве с Вашего аккаунта, т.к. ограничение составляет до 10 мобильных устройств каждый год. Пожалуйста, попробуйте другие аккаунты Xiaomi.</string>
      <string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
-     <string name="resource_get_auth_missing">Тема скачана с неофициального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_get_auth_has_been_undercarriaged">This theme is no longer available.</string>
+     <string name="resource_get_auth_not_official">Themes from third-party sources are not supported</string>
      <string name="resource_get_auth_retrieving">Авторизация…</string>
+     <string name="resource_has_been_downloaded">"You've already downloaded this theme."</string>
      <string name="resource_hint">Внимание</string>
      <string name="resource_import_failed">Ошибка импорта</string>
      <string name="resource_import_successful">Загрузка завершена</string>
@@ -897,6 +907,9 @@
      <string name="resource_menu_refresh">Обновить</string>
      <string name="resource_mute">Без звука</string>
      <string name="resource_my">Локально</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_no_match_app">No app was found to handle this action.</string>
+     <string name="resource_no_network_text">"Can't connect to the network."</string>
      <string name="resource_no_result">Нет результатов</string>
      <string name="resource_notification_default">Уведомления</string>
      <string name="resource_on_trial">Триал: %1$s</string>
@@ -919,8 +932,10 @@
      <string name="resource_ringtone_playing_error">Ошибка проигрывания</string>
      <string name="resource_ringtone_volume_mute">Громкость мелодии отключена</string>
      <string name="resource_save_to_note">Сохранить в заметки</string>
+     <string name="resource_search_list_empty">"Coundn't find anything"</string>
      <string name="resource_see_more">Подробнее</string>
      <string name="resource_select">Выбрать</string>
+     <string name="resource_select_ringtone_confirm">Select this sound?</string>
      <string name="resource_selected">Лучшие</string>
      <string name="resource_send">Отправить</string>
      <string name="resource_server_alert_dialog_title">Технические неполадки</string>
@@ -929,9 +944,20 @@
      <string name="resource_share_text">Вот тема, которая Вам понравится: %1$s! Ссылка: %2$s.</string>
      <string name="resource_share_title">Отправка</string>
      <string name="resource_system_title">Системные компоненты</string>
-     <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_tip_select_none">None selected</string>
      <string name="resource_title">Сведения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_title_category">Categories</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_title_hot_subject">Popular</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_title_local">Local</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_title_rank">Top charts</string>
      <string name="resource_title_select_ringtone">Выбери мелодию</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_title_subject">Featured</string>
      <string name="resource_trial_end_message">Пробное время использования %1$s закончилось. Купите, если Вам понравилось :)</string>
      <string name="resource_trial_end_purchase">Купить</string>
      <string name="resource_trial_end_restore">Отмена</string>
@@ -944,8 +970,6 @@
      <string name="resource_trial_fail_message">Make sure your system clock is set to the correct time.</string>
      <string name="resource_trial_fail_title">"Couldn't set up trial session"</string>
      <string name="resource_trial_time">(до окончания %1$d мин.)</string>
-     <string name="resource_unable_to_access">"Unfortunately,
-the content you're looking for is not currently available in your region."</string>
      <string name="resource_unknow_error">Неизвестная ошибка</string>
      <string name="resource_update">Обн.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

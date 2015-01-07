@@ -429,6 +429,8 @@
      <string name="international_disable">International news disabled</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="international_enable">International news enabled</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="international_roaming_setting">International roaming</string>
      <string name="internet_phone">Интернет-вызов</string>
      <string name="invalid_password">Введите пароль из 4 цифр</string>
      <string name="invalid_pin">Введите PIN, содержащий от 4 до 8 цифр</string>

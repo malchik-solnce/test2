@@ -37,6 +37,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="device_hongmi">Redmi</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="device_pad">Mi Pad</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="device_xiaomi">Mi Phone</string>
      <string name="double_seventh_day">Танабата</string>
      <string name="easter">復活節</string>
