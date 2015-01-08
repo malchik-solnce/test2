@@ -213,6 +213,7 @@
      <string name="no_network">Нет сети :)</string>
      <string name="no_syncable_calendars">Нет календарей</string>
      <string name="no_title_label">(нет заголовка)</string>
+     <string name="not_exist_topic_list">无法获取订阅日历列表</string>
      <string name="not_synced">не синхронизирован</string>
      <string name="online_calendar_activity_label">Подписки</string>
      <string name="online_reminder_change_text">Изменить напоминание</string>

@@ -223,6 +223,8 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
      <string name="sim_not_ready">SIM card not ready</string>
      <string name="sms_delete_hint">Удалить все заблокированные сообщения, отправленные выбранным номером?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sms_smart_engine_update">Automatically update SMS filter</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="special_number_group">Block special numbers</string>
      <string name="st_advanced_setting_group">Дополнительно блокировать</string>
      <string name="st_antispam_black_adress_add">Выбрать регион</string>

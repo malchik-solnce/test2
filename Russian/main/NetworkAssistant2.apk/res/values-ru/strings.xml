@@ -366,6 +366,7 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="tc_sms_report_tips_dialog_title">Data usage report SMS</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tc_sms_report_title">Report data usage bug</string>
+     <string name="tc_sms_report_toast_text">Getting info…</string>
      <string name="tc_sms_report_upload_success">"Data usage report SMS submitted. We'll get right on it!"</string>
      <string name="tc_sms_report_upload_when_net">Thank you for the feedback!</string>
      <string name="ten_percent_total_pkg">%s (10%% of your monthly mobile data)</string>

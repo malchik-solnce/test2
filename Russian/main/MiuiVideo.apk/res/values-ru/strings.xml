@@ -273,6 +273,8 @@
      <string name="ok">OK</string>
      <string name="online_video">Онлайн</string>
      <string name="other_setting">Прочие</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="partner_specials">ad space</string>
      <string name="pause">Пауза</string>
      <string name="percent_status">%.1f%%</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

@@ -2069,6 +2069,10 @@ Are you sure to change?"</string>
      <string name="screen_on_proximity_sensor_title">Защита датчиком</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="screen_optimize">Contrast</string>
+     <string name="screen_paper_mode_summary">在长期阅读时启用，减少蓝光伤害</string>
+     <string name="screen_paper_mode_title">阅读模式</string>
+     <string name="screen_paper_mode_turn_off">未启用</string>
+     <string name="screen_paper_mode_turn_on">已开启</string>
      <string name="screen_saturation">Насыщенность цвета</string>
      <string name="screen_timeout">Спящий режим</string>
      <string name="screen_timeout_summary">После %1$s бездействия</string>

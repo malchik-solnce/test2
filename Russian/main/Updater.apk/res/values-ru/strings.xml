@@ -50,6 +50,8 @@
      <string name="check_update_when_wifi_available">Обновлять только по Wi-Fi</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="check_update_when_wifi_available_sum">Only use WLAN to check for updates</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="clean_up_button">Clean up</string>
      <string name="comment_invalid">Rate this update (touch the stars)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="comment_publish">Submit</string>
@@ -256,6 +258,10 @@
      <string name="update_feedback_end_sum">You can join in every Tuesday.</string>
      <string name="update_feedback_expired">"You missed this week's four-grid feedback round.
 But you can take part next Tuesday"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="update_feedback_need_account">You need to sign in to your Mi Account first</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="update_feedback_need_network">Connect to network first</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="update_feedback_need_update">Currently you are not using the latest development version n upgrade to the latest development version before voting</string>
      <string name="update_feel">What do you think?</string>
