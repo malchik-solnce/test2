@@ -22,7 +22,6 @@
      <string name="backup_theme_name">Моя тема</string>
      <string name="backup_theme_progress_message">Сохранение темы, подождите…</string>
      <string name="backup_theme_success_message">Бэкап успешно завершен!</string>
-     <string name="basic_info">Информация</string>
      <string name="change_wallpaper">Обои</string>
      <string name="close">Закрыть</string>
      <string name="component_category_finest_title">ОСНОВНЫЕ КОМПОНЕНТЫ</string>
@@ -113,6 +112,10 @@
      <string name="online_search_hint">Поиск ресурсов</string>
      <string name="payment_info">Мой Mi</string>
      <string name="purchased_list">Список покупок</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: %1$s purchased -->
      <string name="purchased_list_format">Purchased 1$s</string>
      <string name="resource_account_abnormal_state">Ошибка аккаунта. Попробуйте позже.</string>
      <string name="resource_account_fail_to_add">Ошибка добавления аккаунта!</string>

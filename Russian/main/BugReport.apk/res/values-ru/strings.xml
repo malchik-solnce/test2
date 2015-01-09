@@ -84,7 +84,6 @@
      <string name="network_unavailable_dialog_content">Ваш отзыв будет отправлен при включенном интернете</string>
      <string name="network_unavailable_dialog_title">Сеть недоступна</string>
      <string name="non_system_app_select">Загруженные приложения</string>
-     <string name="nonsystemapp_description">Опишите проблему</string>
      <string name="packaging_dialog_content">Создание отчета…</string>
      <string name="power_consuming_problem1">Увеличение потребления питания после обновления</string>
      <string name="power_consuming_problem2">При использовании этого приложения потребляется энергия</string>
