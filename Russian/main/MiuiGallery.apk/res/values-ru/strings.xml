@@ -64,10 +64,9 @@
      <string name="auto_create_recent_album_confirm">После отключения этой функции, галерея очистит созданные данные последних альбомов. Последние альбомы установленные пользователем, не будут затронуты. Кроме того, можно установить это вручную, долгим нажатием на альбом.</string>
      <string name="auto_create_recent_album_over_ten_times">Создает избранный альбом после захода в него более 10 раз</string>
      <string name="auto_upload_album_comfirm_to_share">It is an album which will be uploaded automatically, Are you sure to share it?</string>
+     <string name="auto_upload_guide_msssage">" "<Data> Automatically upload your photos from other apps to Mi Cloud. View settings in &lt;font color=#323232>&lt;b>Gallery settings>Sync with Mi Cloud>Upload automatically&lt;/b>&lt;/font>. </Data>" "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="auto_upload_guide">Automatically upload your photos from other apps to Mi Cloud</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="auto_upload_setting_toast">View additional options for this feature in Mi Cloud Settings</string>
+     <string name="auto_upload_guide_title">Upload automatically</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="auto_upload_title">Upload automatically</string>
      <string name="autofix">Авто</string>
@@ -367,8 +366,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
      <string name="new_device_tips">Найдено новое устройство. Нажмите, чтобы посмотреть.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="new_feature">New feature</string>
      <string name="no">Нет</string>
      <string name="no_albums_alert">Нет доступных альбомов</string>
      <string name="no_connectivity">Не удалось найти все места из-за проблем с подключением</string>

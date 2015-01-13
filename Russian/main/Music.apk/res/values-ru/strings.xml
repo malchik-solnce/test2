@@ -8,6 +8,8 @@
      <string name="action_item_add_to_new_playlist">Новый плейлист</string>
      <string name="action_item_delete">Удалить</string>
      <string name="action_item_download">Скачать</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="action_item_hide">Hide</string>
      <string name="action_item_remove">Удалить</string>
      <string name="action_item_send">Отправить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -154,6 +156,10 @@
      <string name="filter_by_duration_prefix">"Minimum Duration: "</string>
      <string name="filter_by_duration_summary">"Don't display short audio files"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="filter_by_folder">By folder</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="filter_by_folder_summary">Choose folders to display</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="filter_by_size">Filter by size</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="filter_by_size_max">2MB</string>
@@ -299,6 +305,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="select_album">Select Album</string>
      <string name="select_device">Выберите устройство</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="select_displayed_folders">Choose folders to display</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="select_local_album">Select Local Album</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

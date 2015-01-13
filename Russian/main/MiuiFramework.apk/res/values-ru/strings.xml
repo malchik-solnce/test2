@@ -167,6 +167,9 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_toggle_network_type">Network</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="status_bar_toggle_paper_mode">Read mode</string>
+     <string name="status_bar_toggle_paper_mode_action">com.android.settings/.display.ScreenPaperModeActivity</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_toggle_power_mode">Perform</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_toggle_privacy_mode">Guest</string>

@@ -155,6 +155,8 @@
      <string name="clean_content_two">%1$s and %2$s</string>
      <string name="clean_content_zero">"Don't clean anything"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="confirm_auto_cleaner">Confirm</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cta_button_text_agree">OK</string>
      <string name="cta_button_text_cancel">Отмена</string>
      <string name="cta_checkbox_title">Больше не спрашивать</string>
@@ -441,6 +443,8 @@
      <string name="permission_with_SMS_and_MMS">Permissions related to SMS and MMS</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permission_with_call_and_contact">Permissions related to phone calls, contact info, and call logs.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="positive_confirm">Confirm</string>
      <string name="power_20s_enter_mode">%1$ds переключиться в режим %2$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="power_20s_shutdown">Device will power off in 20 seconds</string>
@@ -716,6 +720,7 @@
      <string name="summary_antivirus">Upload app names and scan using online virus definitions</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="summary_antivirus_oversea">Update virus definitions automatically</string>
+     <string name="summary_auto_cleaner">Whether to clean automatically? Every three days after opening the default automatic cleaning a garbage can change the frequency and content in settings</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="summary_cleaner_cloudscan">Upload and compare unknown folder names with online definitions</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -723,6 +728,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="summary_cloud_service">Use Mi Cloud to back up your data in case you damage or lose your device.</string>
      <string name="summary_data_flow">"Check your carrier plan's data limits and set a data usage warning or limit to help manage your data usage."</string>
+     <string name="summary_delete_cache">Confirm that you want to delete the selected cache data? Some applications may not be deleted after use, please choose carefully</string>
+     <string name="summary_delete_large_file">Confirm that you want to delete the selected file? After deleting large files may result in offline maps feature is not available, please choose carefully</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="summary_dev">Avoid applications stealing user data</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -768,6 +775,8 @@
      <string name="title_app_update_no">Обновлений: %d</string>
      <string name="title_app_update_yes">Все приложения обновлены!</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_auto_cleaner">Clean automatically</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_cleaner_cloudscan">Use online Cleaner engine</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_cloud_account">Sign in to your Mi Account</string>
@@ -777,6 +786,10 @@
      <string name="title_data_flow">Set a data usage warning</string>
      <string name="title_data_flow_no">Контроль трафика отключен</string>
      <string name="title_data_flow_yes">Контроль трафика включен</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_delete_cache">Delete cache data</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_delete_large_file">Delete large files</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_dev_no">Developer options on</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
