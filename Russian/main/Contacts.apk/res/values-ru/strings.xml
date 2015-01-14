@@ -756,6 +756,9 @@
      <string name="profile_display_name">Настроить профиль</string>
      <string name="profile_name">Мой профиль</string>
      <string name="profile_name_photo">Я</string>
+     <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
+     <string name="pull_to_refresh_refreshing_label">Loading…</string>
+     <string name="pull_to_refresh_release_label">Release to refresh…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="qr_card_card">My QR Code</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -916,6 +919,8 @@
      <string name="resource_online">Онлайн %1$s</string>
      <string name="resource_pack_confirm">Вы уже приобрели %1$d элементов. Но текущая цена имеет скидку, чем покупка по отдельности. Продолжить?</string>
      <string name="resource_pack_discount_info">%1$s скидка!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_pack_get_auth_has_been_undercarriaged">This subject is no longer available.</string>
      <string name="resource_pack_price_info">%1$s обычная</string>
      <string name="resource_pack_warning">Внимание. Вы уже приобрели %1$d элементов. Текущая цена больше не актуальна. Необходимо приобрести их по отдельности.</string>
      <string name="resource_present">Подарок</string>
@@ -1183,6 +1188,8 @@
      <string name="yellowpage_navigation_send_to_desktop_downloading">Загрузка иконки…</string>
      <string name="yellowpage_navigation_send_to_desktop_failed">Ошибка. Проверь настройки сети.</string>
      <string name="yellowpage_navigation_send_to_desktop_succeeded">Добавлено на рабочий стол</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="yellowpage_search_the_yellowpage">Search the directory</string>
      <string name="yellowpage_user_profile">Профиль</string>
      <string name="zero_items_selected">Выбери контакты</string>
 </resources>

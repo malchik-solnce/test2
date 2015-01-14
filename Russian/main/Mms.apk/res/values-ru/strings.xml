@@ -190,6 +190,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hms_add_image_progress_message">Processing. Please wait...</string>
      <string name="hms_first_use_tips">Для приема служебных сообщений, вы должны быть подключены к Wi-Fi сети</string>
+     <string name="hms_uri_param_err">"Mipub URL's query parameter \"id\" can't be empty"</string>
      <string name="importing_progress_private_message">Импорт сообщений в приватный ящик…</string>
      <string name="in_sms">Сообщение</string>
      <string name="insufficient_drm_rights">Обнаруженных прав DRM недостаточно</string>

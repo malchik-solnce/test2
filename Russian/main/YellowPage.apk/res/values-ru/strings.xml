@@ -108,6 +108,7 @@
      <string name="express_inqiury_select_logistics">Выбери службу</string>
      <string name="express_inquiry">Отслеживание</string>
      <string name="express_inquiry_button_text">Отследить</string>
+     <string name="express_inquiry_clipboard_number_message">Track copied number?</string>
      <string name="express_inquiry_data_owner_prefix">Отслеживание информации:</string>
      <string name="express_inquiry_data_owner_suffix" />
      <string name="express_inquiry_delete_warning_multiple">Удалить %d выбранных записей?</string>
@@ -137,6 +138,7 @@ Please check your tracking number."</string>
      <string name="express_inquiry_serial_number_prefix">Номер: </string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_inquiry_trace">Trace</string>
+     <string name="express_inquiry_trace_device_login_notice">"You're using this service on another device. If you want to receive order's status from this device, you need to verify your Mi Account."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_inquiry_trace_success">Traced</string>
      <string name="express_inquiry_trace_user_notice_content">"We'll let you know when your order's status changes."</string>
@@ -323,6 +325,9 @@ Custom service will contact you in a moment"</string>
      <string name="payment_unknown_status_title">Нет подтверждения оплаты</string>
      <string name="phone_info_divider"> ｜ </string>
      <string name="photo_count">%d total</string>
+     <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
+     <string name="pull_to_refresh_refreshing_label">Loading…</string>
+     <string name="pull_to_refresh_release_label">Release to refresh…</string>
      <string name="quick_yellow_page_tab_call_log">Журнал вызовов</string>
      <string name="quick_yellow_page_tab_phones">Телефон</string>
      <string name="recharge_actual_price">Цена:</string>

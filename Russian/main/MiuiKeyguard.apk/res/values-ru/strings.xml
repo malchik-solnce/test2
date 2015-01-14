@@ -2,6 +2,8 @@
 <!-- Builded with CloudBuildr -->
 <resources>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="click_to_enter_text">Tap to unlock</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm_pin_msg">Enter PIN again</string>
      <string name="default_lockscreen_unlock_hint_text">Сдвинь вверх для разблокировки</string>
      <string name="delete">Удалить</string>
@@ -45,6 +47,10 @@ d MMMM yyyy"</string>
      <string name="login_website_in_case_forget_password">Для сброса пароля, зайди на i.mi.com</string>
      <string name="missed_call_text">%d missed calls</string>
      <string name="miui_keyguard_ble_unlock_succeed_msg">Разблокировано браслетом</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="open_camera_hint_text">Swipe left to open Camera</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="open_remote_center_hint_text">Swipe right to open Mi Remote</string>
      <string name="open_wifi_settings">Открыть настройки подключения</string>
      <string name="phone_locked_string">Устройство заблокировано</string>
      <string name="phone_locked_timeout_minutes_string">Вернись сюда через %s мин.</string>

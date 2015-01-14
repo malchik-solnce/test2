@@ -164,6 +164,9 @@ Device ID must be valid IMEI or MAC address. Without device id, some account and
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_unactivated_title">Your SIM card is unactivated</string>
      <string name="start_micloud">Начать</string>
+     <string name="sync_notification_title_format">Current syncing item: %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="xiaomi_cloud_service">Mi Cloud</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="xmsf_activate_info">XMSF activate info</string>
 </resources>

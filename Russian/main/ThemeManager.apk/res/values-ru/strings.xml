@@ -241,6 +241,8 @@
      <string name="resource_online">Онлайн %1$s</string>
      <string name="resource_pack_confirm">Вы уже приобрели %1$d элементов. Но текущая цена имеет скидку, чем покупка по отдельности. Продолжить?</string>
      <string name="resource_pack_discount_info">Скидка: %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_pack_get_auth_has_been_undercarriaged">This subject is no longer available.</string>
      <string name="resource_pack_price_info">Цена: %1$s</string>
      <string name="resource_pack_warning">Внимание. Вы уже приобрели %1$d элементов. Текущая цена больше не актуальна. Необходимо приобрести их по отдельности.</string>
      <string name="resource_present">Подарок</string>

@@ -711,6 +711,7 @@ This can take up to 5 minutes."</string>
      <string name="preferred_network_type_pref_entries_3g_preferred">Предпочтительно 3G</string>
      <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Prefer 3G networks(CDMA)</string>
      <string name="preferred_network_type_pref_entries_4g_preferred">Предпочтительно 4G</string>
+     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Prefer 4G (CDMA)</string>
      <string name="preferred_network_type_pref_entries_auto">Автоматический</string>
      <string name="preferred_network_type_pref_entries_global">Глобальный</string>
      <string name="preferred_network_type_pref_entries_only_2g">Только 2G</string>
