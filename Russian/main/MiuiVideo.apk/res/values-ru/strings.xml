@@ -168,6 +168,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="fenghuang">iFeng</string>
      <string name="file_error">Ошибка файла</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="file_not_exist">The file does not exist</string>
      <string name="film">电影</string>
      <string name="filter">Фильтр</string>
      <string name="filter_program">Фильтрация программ</string>

@@ -81,6 +81,10 @@
      <string name="call_radio">Радиотелефон</string>
      <string name="call_record_setting_miui">Настройки записи</string>
      <string name="call_settings">Настройки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="call_sim1_menu_title">Dial by Sim1</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="call_sim2_menu_title">Dial by Sim2</string>
      <string name="call_telex">Телекс</string>
      <string name="call_tty_tdd">Телетайп</string>
      <string name="call_work">Рабочий тел.</string>
