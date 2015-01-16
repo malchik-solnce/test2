@@ -765,6 +765,7 @@
      <string name="device_cpu">Тип процессора:</string>
      <string name="device_cpu2_info">2 ядра по </string>
      <string name="device_cpu4_info">4 ядра по </string>
+     <string name="device_cpu8_info">Octa-core</string>
      <string name="device_edit_title">Смена имени</string>
      <string name="device_info_default">Неизвестно</string>
      <string name="device_info_label">Сведения об устройстве</string>
