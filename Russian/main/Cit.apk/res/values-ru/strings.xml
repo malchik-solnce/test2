@@ -240,10 +240,10 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_tool_bluetooth">Bluetooth</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_tool_bluetooth_dut">Enter bluetooth test mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cit_tool_bluetooth_le_tx_ch19">Enter Bluetooth LE 2.440GHz Freq Test Mode</string>
      <string name="cit_tool_bluetooth_le_tx_h">Enter bluetooth low-power dissipation (2.480GHz) mode</string>
      <string name="cit_tool_bluetooth_le_tx_l">Enter bluetooth low-power dissipation (2.402GHz) mode</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cit_tool_bluetooth_mode">Enter Bluetooth test mode</string>
      <string name="cit_tool_bluetooth_not_on">BlueTooth function is not on !!</string>
      <string name="cit_tool_bluetooth_off">Выключить</string>
      <string name="cit_tool_bluetooth_on">Включить</string>

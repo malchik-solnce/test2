@@ -190,6 +190,10 @@
      <string name="resource_detail_vertical_divider">|</string>
      <string name="resource_detail_window_title">Информация %1$s</string>
      <string name="resource_download">Скачать</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_download_notification_content">Click to check</string>
+     <string name="resource_download_notification_title_many">Download %1$s themes success!</string>
+     <string name="resource_download_notification_title_one">Download theme success!</string>
      <string name="resource_download_trial">Попробовать</string>
      <string name="resource_downloaded_title">Загруженные ресурсы</string>
      <string name="resource_downloading">Загрузка</string>
@@ -305,7 +309,6 @@
      <string name="selected_resource_file_invalid">Выбранный файл неверный</string>
      <string name="settings">Настройки</string>
      <string name="short_ringtone_resource">Короткие</string>
-     <string name="theme_batch_has_update_text">Тем для обновления: %1$d</string>
      <string name="theme_batch_update_all">Обновить все</string>
      <string name="theme_batch_update_dlg_content">Обновить %1$s и %2$d других тем сейчас?</string>
      <string name="theme_batch_update_dlg_content_single">Обновить %1$s сейчас?</string>
@@ -368,6 +371,8 @@
      <string name="theme_user_agreement_content3"> и </string>
      <string name="theme_user_agreement_content4">Политика безопасности</string>
      <string name="theme_user_agreement_content5">. Разрешаешь доступ к сети?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="theme_user_agreement_exit">Exit</string>
      <string name="theme_user_agreement_remind_again">Запрашивать доступ к сети</string>
      <string name="theme_user_agreement_remind_never">Больше не спрашивать</string>
      <string name="theme_user_agreement_remind_summary">Вступит в силу при следующей загрузке</string>

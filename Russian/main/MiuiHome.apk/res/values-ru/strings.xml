@@ -4,6 +4,37 @@
      <string name="activity_not_found">Приложение не найдено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_being_backup_message">App is being backed up.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_category_books">Books</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_category_education">Education</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_category_entertainment">Entertainment</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_category_finance">Finance</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_category_games">Games</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_category_health">Health</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_category_lifestyle">Lifestyle</string>
+     <string name="app_category_music_movie">Music &amp; Video</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_category_news">News</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_category_photos">Photos</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_category_productivity">Productivity</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_category_shopping">Shopping</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_category_social">Social</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_category_sport">Sports</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_category_tools">Tools</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_category_travel">Travel</string>
      <string name="application_name">Рабочий стол</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="apply_action">Apply</string>

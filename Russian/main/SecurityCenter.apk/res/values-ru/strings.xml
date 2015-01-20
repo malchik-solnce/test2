@@ -59,6 +59,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="auto_clean_switch_on">On</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="auto_cleaner_open">Turn on</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="auto_handle_title">Optimize automatically</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="back">Back</string>

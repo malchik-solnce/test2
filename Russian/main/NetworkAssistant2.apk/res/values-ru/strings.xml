@@ -130,6 +130,7 @@ For more info check the message you received from your service provider"</string
      <string name="international_roaming_whitelist_count">%d apps can connect to data services when roaming internationally</string>
      <string name="left_precent">60%</string>
      <string name="list_empty_text">Пусто</string>
+     <string name="lock_screen_traffic_notify_body">Data usage when screen off: %s</string>
      <string name="lock_screen_traffic_warn_title">Предупреждение трафика</string>
      <string name="main_alert_message_no_imsi">SIM-карта не обнаружена</string>
      <string name="main_alert_message_no_mobile_package">Лимит мобильного трафика не установлен</string>
@@ -188,8 +189,6 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="network_assistant_upgraded_title">Обновление завершено</string>
      <string name="network_control">Управление трафиком</string>
      <string name="none_mi_service_app_detail">Пусто</string>
-     <string name="notification_content_title">Использовано %1$s во время блокировки</string>
-     <string name="notification_title">%1$s-%2$s: исполь. около %3$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok_button">OK</string>
      <string name="online_chat">Чаты</string>
@@ -397,6 +396,11 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
      <string name="traffic_correction_start_correction_failed">Ошибка запроса. Проверь настройки оператора.</string>
      <string name="traffic_correction_success">Использование данных обновлено</string>
      <string name="traffic_none">Нет</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_over_purchase_body">Touch to view details.</string>
+     <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.&lt;br/>If you go over your plans data usage limit, your carrier could charge you additional fees.&lt;br/>&lt;br/>&lt;font color='#0000ff'>&lt;U>Top up now and save 50%.&lt;/U>&lt;/font>"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_over_purchase_title">Data limit exceeded</string>
      <string name="traffic_protection_data_usage_summary">Использование мобильного интернета после превышения пакета трафика может вызвать высокие денежные расходы</string>
      <string name="traffic_protection_label">Предупреждение о превышении</string>
      <string name="traffic_protection_next">Далее</string>
@@ -404,6 +408,9 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
      <string name="traffic_protection_text_hint">Лимит использования данных для %s</string>
      <string name="traffic_protection_unknown"><u>Настроить позже</u></string>
      <string name="traffic_protection_use_data">Включить моб. интернет</string>
+     <string name="traffic_purchase_body">Save 50% when you top up now.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_purchse_suggestion">Time to top up</string>
      <string name="traffic_saving_button_sorted">Статистика</string>
      <string name="traffic_saving_button_sorted_chose_simcard">SIM-карта</string>
      <string name="traffic_saving_button_start">Запустить</string>
@@ -437,6 +444,19 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
      <string name="traffic_saving_whitelist_btn_removed">Удалено из списка</string>
      <string name="traffic_saving_whitelist_count">Приложения без ограничения трафика: %d</string>
      <string name="traffic_saving_whitelist_no_app">Нет приложений</string>
+     <string name="traffic_setting_app_count">%d apps</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_setting_completed">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_setting_daily_limit_summary">Set data usage limits</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_setting_extra_pkg_oversea_summary">Adjust data plan and usage limits</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_setting_extra_pkg_summary">Adjust data plan and usage limits</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_setting_extra_pkg_title">Additional settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_setting_extra_traffic_title">Additional settings</string>
      <string name="traffic_setting_fragment_area">Местоположение</string>
      <string name="traffic_setting_fragment_brand">Бренд</string>
      <string name="traffic_setting_fragment_button1_text">Отмена</string>
@@ -452,6 +472,11 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
      <string name="traffic_setting_fragment_sms_content_tips">Напиши сообщение здесь</string>
      <string name="traffic_setting_fragment_template">Шаблон сообщения</string>
      <string name="traffic_setting_fragment_title">Настройки использования данных</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_setting_open">On</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_setting_step_num">Data plan settings</string>
+     <string name="traffic_warning_purchase_title">Remaining balance is less than %d%%</string>
      <string name="usage_sorted_activity_lable">Использование данных</string>
      <string name="usage_sorted_empty_text">Пусто</string>
      <string name="usage_sorted_loading_text">Загрузка…</string>

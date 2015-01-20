@@ -848,10 +848,6 @@ SIM-карта будет заблокирована навсегда при н�
      <string name="simContacts_airplaneMode">Чтобы импортировать контакты с SIM-карты, отключите режим полета</string>
      <string name="simContacts_emptyLoading">Считывание с SIM-карты…</string>
      <string name="simContacts_title">Контакты SIM-карты</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sim_cards_network_mode_changed_summary">Touch to view SMS and call settings.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sim_cards_network_mode_changed_title">New SIM card detected</string>
      <string name="sim_contact_name">Имя</string>
      <string name="sim_contact_number">Номер</string>
      <string name="sim_ndp_dismiss_text">Закрыть</string>

@@ -25,6 +25,8 @@
      <string name="activate_popup_confirm_failed_send_sms">Resend</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="activate_popup_confirm_failed_server">Retry</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_popup_confirm_upload_diagnosis_info">Upload</string>
      <string name="activate_popup_desc_2_intl_sim_cards">2 international SMS will be sent to activate your SIM card in order to enable features like %s (carrier rates apply)</string>
      <string name="activate_popup_desc_2_sim_cards">2 SMSes will be sent to activate your 2 SIM card in order to enable features like %s (carrier rates apply)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -52,6 +54,10 @@
      <string name="activate_popup_desc_register_account_intl">An international SMS will be sent to register your Mi Account</string>
      <string name="activate_popup_desc_sim_card">An SMS will be sent to activate your SIM card in order to enable features like %s (carrier rates apply)</string>
      <string name="activate_popup_desc_sim_card_downlink">Please enter the number for your SIM card, in order to enable features like %s</string>
+     <string name="activate_popup_desc_upload_diagnosis_info">"Couldn't activate SIM card. Please consider uploading dianosis information to help us identity the problem. (Report ID : %s)"</string>
+     <string name="activate_popup_link_diagnosis_detail">What privacy information will be included?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_popup_title_diagnosis_detail">Diagnosis Information</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="activate_popup_title_failed_phone_error">Activation failed</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -76,6 +82,7 @@
      <string name="activate_popup_title_new_sim_card">New SIM Card Activation</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="activate_popup_title_register_account">Register account</string>
+     <string name="activate_popup_title_upload_diagnosis_info">"Couldn't activate SIM card"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="activate_status_desc_acquire_phone_number">Acquiring phone number from server</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

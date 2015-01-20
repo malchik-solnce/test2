@@ -872,6 +872,10 @@
      <string name="resource_detail_vertical_divider">|</string>
      <string name="resource_detail_window_title">%1$s свойства</string>
      <string name="resource_download">Скачать</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_download_notification_content">Click to check</string>
+     <string name="resource_download_notification_title_many">Download %1$s themes success!</string>
+     <string name="resource_download_notification_title_one">Download theme success!</string>
      <string name="resource_download_trial">Попробовать</string>
      <string name="resource_downloaded_title">Скачанные</string>
      <string name="resource_downloading">Загрузка</string>
