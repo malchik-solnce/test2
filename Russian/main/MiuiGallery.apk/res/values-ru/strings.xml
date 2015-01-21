@@ -98,6 +98,8 @@
      <string name="cannot_send_message_reason">Ваше сообщение не имеет получателей</string>
      <string name="cant_delete_cloud_album">Ошибка удаления: %s является системным или альбомом другого пользователя</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="choose_cloud_album">Choose album</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cityname_375">YanCheng</string>
      <string name="cleaning_cache">Очистка кэша…</string>
      <string name="clear_thumbnail_cache">Очистить кэш миниатюр</string>

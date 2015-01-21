@@ -161,6 +161,8 @@
      <string name="festival_continue">OK</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="festival_networking_desc">This feature needs to connect to the internet to function normally.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="festival_networking_title">Notice</string>
      <string name="festival_never_remind">"Don't show again."</string>
      <string name="festival_sms_category_count_format">(%s)</string>
      <string name="festival_sms_loading">Загрузка…</string>

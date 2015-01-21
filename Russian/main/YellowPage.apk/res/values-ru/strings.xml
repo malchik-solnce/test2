@@ -404,6 +404,8 @@ Custom service will contact you in a moment"</string>
      <string name="user_agreement4">Privacy policy</string>
      <string name="user_notice_identify_summary_format">Идентификация неизвестных номеров представляет собой интернет-сервис. Прочитай %1$s и %2$s перед использованием.</string>
      <string name="user_notice_identify_summary_format_cta">Устройство будет использовать сервисы MIUI для блокировки нежелательных звонков при включенном Wi-Fi. Нажимая OK, ты соглашаешься с %1$s и %2$s Xiaomi.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_notice_title">User Notice</string>
      <string name="user_notice_yp_detail_summary_format">Информация этой желтой страницы должна быть обновлена ​​в интернете. Прочитай %1$s и %2$s. Нажимая принимаю, ты соглашаешься с вышеуказанным содержанием, нажми отмена для просмотра кэшированной информации.</string>
      <string name="user_notice_yp_detail_summary_format_cta">Некоторые данные устарели. Обновить их? Нажимая OK, ты соглашаешься с %1$s и %2$s Xiaomi.</string>
      <string name="voicemail">Голосовая почта</string>

@@ -299,6 +299,8 @@
      <string name="topic_event_list_header_label">Предстоящие события</string>
      <string name="topic_list_header_label">订阅列表</string>
      <string name="user_notice_online_agreement">您正在浏览MIUI订阅日历，这是一项在线服务，其页面显示和数据更新需要连接互联网。使用该服务表示您同意并愿意遵守%1$s和%2$s。</string>
+     <string name="user_notice_online_ok">同意并继续</string>
+     <string name="user_notice_online_title">声明与条款</string>
      <string name="view_all_matches">查看所有赛程</string>
      <string name="view_event_calendar_label">Календарь:</string>
      <string name="view_event_organizer_label">Организатор:</string>
