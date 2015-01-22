@@ -328,6 +328,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="set_ringtones_failed">Failed to set ringtones.</string>
      <string name="set_ringtones_successful">Successfully set %s as ringtones.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="similar_songs">Similar songs</string>
      <string name="sleep_mode">Настройки выключения</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sleep_mode_canceled">Sleep mode canceled</string>

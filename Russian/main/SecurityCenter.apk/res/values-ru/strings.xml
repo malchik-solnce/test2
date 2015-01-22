@@ -664,6 +664,7 @@
      <string name="pref_title_open_optimizer_cloud_scan">Use online Cleaner engine</string>
      <string name="preference_category_key_auto_update_cleanup_db">key_category_auto_update_cleanup_db</string>
      <string name="preference_category_key_reference_settings">key_reference_settings</string>
+     <string name="preference_category_key_virus_lib_auto_update">key_category_virus_lib_auto_update</string>
      <string name="preference_key_app_permission_control">key_app_permission_control</string>
      <string name="preference_key_auto_clean_content_ad">key_auto_clean_content_ad</string>
      <string name="preference_key_auto_clean_content_apk">key_auto_clean_content_apk</string>
@@ -686,6 +687,7 @@
      <string name="preference_key_permission_manager">key_permission_manager</string>
      <string name="preference_key_root_manager">key_root_manager</string>
      <string name="preference_key_virus_lib_auto_update">key_virus_lib_auto_update</string>
+     <string name="preference_screen_key_virus_settings">key_screen_virus_settings</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="process_kernel_label">Android OS</string>
      <string name="process_mediaserver_label">Медиасервер</string>

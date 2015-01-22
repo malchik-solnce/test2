@@ -342,6 +342,8 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
      <string name="st_title_settings_other_group">Дополнительные настройки</string>
      <string name="st_title_show_antispamnotification">Уведомление о блокировке</string>
      <string name="st_title_sim_card">%1$s-SIM %2$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="st_title_sim_unknown">Unknown</string>
      <string name="st_title_whitelist_numbers">Номера белого списка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sure">OK</string>

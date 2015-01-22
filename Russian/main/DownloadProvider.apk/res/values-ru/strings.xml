@@ -15,6 +15,12 @@
      <string name="download_running">В процессе</string>
      <string name="download_running_percent">В процессе, %d%%</string>
      <string name="download_unknown_title">&lt;без названия&gt;</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="notif_text_engine_off">Xunlei accelerator is off.</string>
+     <string name="notif_text_engine_on">Accelerating…</string>
+     <string name="notif_title_file_size">共%1$d个文件</string>
+     <string name="notif_title_multiple_downloading">正在下载%1$d个文件</string>
+     <string name="notif_title_single_downloading">正在下载%1$s</string>
      <string name="notification_download_complete">Загрузка завершена</string>
      <string name="notification_download_failed">Не удалось загрузить файл</string>
      <string name="notification_need_wifi_for_size">Загрузка только по Wi-Fi</string>
