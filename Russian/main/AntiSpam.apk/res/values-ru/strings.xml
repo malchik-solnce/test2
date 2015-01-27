@@ -137,6 +137,8 @@
      <string name="fw_blocked_count">Заблокировано</string>
      <string name="fw_blocked_join">" and "</string>
      <string name="hint_antispam_mode_edit">Пользовательский режим</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="info_antispam_close">AntiSpam Off</string>
      <string name="info_antispam_current_mode">%s</string>
      <string name="info_antispam_phone">Блокировать вызовы</string>
      <string name="info_antispam_phone_sms">Блокировать вызовы и сообщения</string>

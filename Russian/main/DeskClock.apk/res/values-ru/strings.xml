@@ -71,6 +71,10 @@
      <string name="menu_desk_clock">Настольные часы</string>
      <string name="menu_edit_timer_item">Редактировать таймер</string>
      <string name="menu_item_dock_settings">Настройки док-станции</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_item_sort_by_gmt_offset">Sort by time</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_item_sort_by_name">Sort by name</string>
      <string name="minute">1 минуту</string>
      <string name="minutes">%s мин.</string>
      <string name="never">Не выбраны</string>

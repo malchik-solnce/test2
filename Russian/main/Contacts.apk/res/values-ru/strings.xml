@@ -1176,6 +1176,8 @@
      <string name="wipe_data">Очистить данные</string>
      <string name="yellowPageNavigationIconLabel">Сервисы</string>
      <string name="yellowPageNavigationLabel">Сервисы</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="yellowpage_navigation_clear_search_history">Clear history</string>
      <string name="yellowpage_navigation_more_items">Еще</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="yellowpage_navigation_more_items_title">More services</string>

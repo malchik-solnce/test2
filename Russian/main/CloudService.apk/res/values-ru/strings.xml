@@ -72,6 +72,8 @@
      <string name="find_device_dspt_provision_3">" to locate, lock, or reset it.
 
 You can turn this feature on and off anytime in Settings."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="find_device_dspt_provision_4">If you switch SIM cards, an SMS message will be sent automatically to reactivate this feature.</string>
      <string name="find_device_enabling">Включение…</string>
      <string name="find_device_error_network">Сеть недоступна</string>
      <string name="find_device_error_server">Ошибка сервера</string>

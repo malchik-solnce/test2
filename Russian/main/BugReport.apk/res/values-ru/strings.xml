@@ -99,7 +99,6 @@
      <string name="refresh">Обновить</string>
      <string name="report_miui">Отправить в MIUI</string>
      <string name="screen_lock">Экран блокировки</string>
-     <string name="screen_orientation_type">-1</string>
      <string name="section_description">Описание</string>
      <string name="section_err_type">Тип проблемы</string>
      <string name="section_screenshot">Скриншот</string>

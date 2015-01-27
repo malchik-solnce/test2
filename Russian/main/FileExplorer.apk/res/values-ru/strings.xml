@@ -137,6 +137,8 @@
      <string name="menu_item_sort_size">По размеру</string>
      <string name="menu_item_sort_type">По типу</string>
      <string name="menu_list_name">Меню</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mi_router_label">Mi Router</string>
      <string name="migrate_announcement_msg">Если у Вас есть аккаунт KuaiPan, Вы можете привязать его в настройках и получить доступ к данным</string>
      <string name="migrate_announcement_title">MiDrive был перенесен в KuaiPan</string>
      <string name="mobile_photo">Фотографии</string>
@@ -299,6 +301,8 @@
      <string name="upload_failed">Ошибка загрузки</string>
      <string name="upload_file_toolarge_message">%1$d файлов размером более 300 Мб не могут быть отправлены. Проверь в управлении передачами.</string>
      <string name="uploading">Загрузка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="usb_label">USB</string>
      <string name="used">Занято:</string>
      <string name="user_guide">Руководство пользователя</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

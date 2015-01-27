@@ -130,8 +130,16 @@ For more info check the message you received from your service provider"</string
      <string name="international_roaming_whitelist_count">%d apps can connect to data services when roaming internationally</string>
      <string name="left_precent">60%</string>
      <string name="list_empty_text">Пусто</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lock_screen_setting_summary">Show notification after 100KB has been used</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 2
+	%s: 1 must: 2
+	%d: 0 must: 0 -->
+     <!-- Original string: Locked for %1$s | Used %2$s of mobile data -->
      <string name="lock_screen_traffic_notify_body">Data usage when screen off: %s</string>
      <string name="lock_screen_traffic_warn_title">Предупреждение трафика</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="main_alert_message_month_limit_error">The data limit you set is incorrect</string>
      <string name="main_alert_message_no_imsi">SIM-карта не обнаружена</string>
      <string name="main_alert_message_no_mobile_package">Лимит мобильного трафика не установлен</string>
      <string name="main_alert_message_slot_no_data_connection">"Слот SIM-карты не поддерживает 
@@ -189,6 +197,14 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="network_assistant_upgraded_title">Обновление завершено</string>
      <string name="network_control">Управление трафиком</string>
      <string name="none_mi_service_app_detail">Пусто</string>
+     <string name="notify_daily_data_usage_body">%s used today. Tap to set limit.</string>
+     <string name="notify_daily_limit_body">%s used this week. Tap to set limit.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="notify_daily_limit_title">Set a daily data limit</string>
+     <string name="notify_month_traffic_body">%s used this month. Tap to set limit.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="notify_setting_pkg_title">Set your monthly data limit</string>
+     <string name="notify_weekly_pkg_body">%s used this week. Tap to set limit.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok_button">OK</string>
      <string name="online_chat">Чаты</string>
@@ -283,7 +299,6 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="privacy_declare_dialog_message">"By using this service, you are agreeing to Opera's &lt;a href=http://max.oupeng.com/eula.html> Terms and Conditions&lt;/a>."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="privacy_declare_dialog_title">Terms and Conditions</string>
-     <string name="privacy_prompt_purchase_history_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers to get your mobile data purchase history."</string>
      <string name="privacy_prompt_tc_sms_report_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers in order to update your data usage info."</string>
      <string name="privacy_prompt_traffic_adjust_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers to update SMS query templates and to check if this feature is available in your area."</string>
      <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers to get more info about data purchasing options."</string>
@@ -370,6 +385,9 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="tc_sms_report_upload_when_net">Thank you for the feedback!</string>
      <string name="ten_percent_total_pkg">%s (10%% of your monthly mobile data)</string>
      <string name="three_percent_total_pkg">%s (3%% of your monthly mobile data)</string>
+     <string name="timeshow_h_m">%1$dh %2$dm</string>
+     <string name="timeshow_m_s">%1$dm %2$ds</string>
+     <string name="timeshow_s">%ds</string>
      <string name="tips_dialog_title">Не знаете свой лимит?</string>
      <string name="tips_message">Более подробно о информации вашего пакета трафика, вы можете узнать набрав %2$s (%1$s)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -395,6 +413,12 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
      <string name="traffic_correction_start_correction">Соединение с оператором услуг…</string>
      <string name="traffic_correction_start_correction_failed">Ошибка запроса. Проверь настройки оператора.</string>
      <string name="traffic_correction_success">Использование данных обновлено</string>
+     <string name="traffic_limit_error_alert_body">"You carrier's accounting shows that you have %1$s remaining this month. That's more than the %2$s limit you've set manually."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_limit_error_alert_iknow">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_limit_error_alert_reset">Reset limit</string>
+     <string name="traffic_limit_error_alert_title">Data limit reminder %s</string>
      <string name="traffic_none">Нет</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="traffic_over_purchase_body">Touch to view details.</string>
@@ -476,6 +500,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
      <string name="traffic_setting_open">On</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="traffic_setting_step_num">Data plan settings</string>
+     <string name="traffic_setting_update_template_falure">"Can't connect to the network"</string>
      <string name="traffic_warning_purchase_title">Remaining balance is less than %d%%</string>
      <string name="usage_sorted_activity_lable">Использование данных</string>
      <string name="usage_sorted_empty_text">Пусто</string>

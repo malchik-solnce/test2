@@ -380,9 +380,13 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="recommendation_app">Recommended</string>
      <string name="recommendation_tag">Все</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="relate_apps">Similar apps</string>
      <string name="remove_package_fail">Ошибка установки</string>
      <string name="result_of_clear_history">История поиска очищена</string>
      <string name="resume">Возобновить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_history_title">History</string>
      <string name="search_local_app_text_hint">Поиск в приложениях: %1$d</string>
      <string name="search_not_found">\"%1$s\" не найдено</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
@@ -390,6 +394,8 @@
 	%d: 0 must: 0 -->
      <!-- Original string: Search from %1$s -->
      <string name="search_other_market">Поискать еще</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_popular_hint_title">Popular</string>
      <string name="search_recommend_hint">Вам понравится</string>
      <string name="search_recommend_ingore">Игнор</string>
      <string name="search_recommend_ingored_text">Не рекомендуемые</string>

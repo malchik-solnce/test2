@@ -384,6 +384,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_title_mms_retrieval_during_roaming">Автозагрузка в роуминге</string>
      <string name="pref_title_notification_body_enabled">Предпросмотр сообщения</string>
      <string name="pref_title_ringtone_repeat">Количество напоминаний</string>
+     <string name="pref_title_ringtone_repeat_summary">Number of notification sounds when SMS message is received while display is off:</string>
      <string name="pref_title_show_recent_contacts">Показать недавние контакты</string>
      <string name="pref_title_sms_delete">Макс. количество SMS</string>
      <string name="pref_title_system_mms_priority">Приоритет для СМС</string>

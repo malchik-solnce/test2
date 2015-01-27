@@ -162,7 +162,9 @@
 d MMMM yyyy"</string>
      <string name="status_bar_network_flow">"Today: %1$s    Remaining: %2$s    Monthly limit: %3$s"</string>
      <string name="status_bar_network_flow_exceed">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Exceeded:&lt;font color=%2$s>%3$s&lt;/font>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Monthly limit: %4$s</string>
+     <string name="status_bar_network_flow_exceed_to_purchase">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Exceeded:&lt;font color=%2$s>%3$s&lt;/font>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Purchase ></string>
      <string name="status_bar_network_flow_today">Today: %1$s</string>
+     <string name="status_bar_network_flow_warning_to_purchase">"Today: %1$s    Remaining: %2$s    Purchase >"</string>
      <string name="status_bar_no_recent_apps">Нет недавних приложений</string>
      <string name="status_bar_notification_inspect_item_title">О приложении</string>
      <string name="status_bar_recent_guide_all">Потяните вверх для закрытия, вниз для блокировки</string>
