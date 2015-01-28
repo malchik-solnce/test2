@@ -456,6 +456,15 @@
      <string name="vp_confirm">confirm</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_content_description">Content description</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vp_datastream_alert_hint">You can turn off data usage notifications any time in Settings.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vp_datastream_alert_negative_button">Cancel</string>
+     <string name="vp_datastream_alert_play">Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vp_datastream_alert_positive_button">Continue</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vp_datastream_alert_title">Data usage warning</string>
      <string name="vp_device_list">Устройства</string>
      <string name="vp_download_connect_fail">"Couldn't find URL. Check your data connection and try again."</string>
      <string name="vp_download_file_fail">"Download failed. Make sure there's enough room on you"</string>

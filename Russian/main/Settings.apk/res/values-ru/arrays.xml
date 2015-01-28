@@ -350,11 +350,6 @@
         <item>Фиолетовый</item>
         <item>Пурпурный</item>
      </string-array>
-     <string-array name="miracast_policies">
-        <item>Маленькая</item>
-        <item>Обычная</item>
-        <item>Большая</item>
-     </string-array>
      <string-array name="msd_pc_system">
         <item>Windows XP или старее</item>
         <item>Windows Vista или новее</item>

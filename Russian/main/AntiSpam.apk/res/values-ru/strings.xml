@@ -66,6 +66,8 @@
      <string name="button_to_setting">Settings</string>
      <string name="call_delete_hint">Удалить все заблокированные вызовы с выбранного номера?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="call_delete_title">Remove Call</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="call_transfer_block">Block forwarded calls</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="call_transfer_block_type">Block forwarded calls</string>
@@ -224,6 +226,8 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_not_ready">SIM card not ready</string>
      <string name="sms_delete_hint">Удалить все заблокированные сообщения, отправленные выбранным номером?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sms_delete_title">Remove Message</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sms_smart_engine_update">Automatically update SMS filter</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
