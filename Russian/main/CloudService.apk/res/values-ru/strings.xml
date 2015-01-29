@@ -72,8 +72,6 @@
      <string name="find_device_dspt_provision_3">" to locate, lock, or reset it.
 
 You can turn this feature on and off anytime in Settings."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="find_device_dspt_provision_4">If you switch SIM cards, an SMS message will be sent automatically to reactivate this feature.</string>
      <string name="find_device_enabling">Включение…</string>
      <string name="find_device_error_network">Сеть недоступна</string>
      <string name="find_device_error_server">Ошибка сервера</string>
@@ -83,8 +81,6 @@ You can turn this feature on and off anytime in Settings."</string>
 При смене SIM-карты, будет отправлено сообщение для включения услуги."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="find_device_send_sms_alert">If you switch SIM cards, another SMS will be sent automatically to reactivate this service.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="find_device_status_ok">Find your device from anywhere at i.mi.com</string>
      <string name="find_device_stop_noise">Нажми OK, чтобы остановить сигнал</string>
      <string name="find_device_success_title">Поиск устройства</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -195,18 +191,6 @@ to your Mi Account to reactivate Mi Cloud."</string>
      <string name="micloud_other_product_price">Other similar products Price:</string>
      <string name="micloud_proceed">Продолжить</string>
      <string name="micloud_sec_dspt">и поделись этим с друзьями</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="micloud_setting_browser_summary">Bookmarks, history, and tags</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="micloud_setting_contact_summary">Contacts info and profile photos</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="micloud_setting_gallery_summary">Photos and videos</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="micloud_setting_music_summary">Playlists and favorites</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="micloud_setting_sms_summary">SMS and MMS messages</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="micloud_setting_wifi_summary">WLAN settings</string>
      <string name="micloud_space_full_influence"><u>Закончилось место в облаке?</u></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_storage_expires_auto_renewal_sum">You need to renew your subscription.</string>
@@ -248,8 +232,6 @@ to your Mi Account to reactivate Mi Cloud."</string>
      <string name="mx_dspt_provision">"Mi Message lets you send messages to other MIUI users without incurring SMS charges.
 
 You can turn this feature on and off anytime in Settings."</string>
-     <string name="mx_dspt_provision_privacy">"This service may require your phone number. Your carrier may charge for an SMS message used to activate this service.
-This feature encrypts and uploads your device's ID to Mi's servers."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mx_sub_dspt_provision">Mi Message</string>
      <string name="next">Далее</string>
@@ -286,10 +268,6 @@ This feature encrypts and uploads your device's ID to Mi's servers."</string>
      <string name="sub_sync_item_sms_title_wifi_only">Только по Wi-Fi</string>
      <string name="success_upgraded_space">%s added</string>
      <string name="sync_dspt">Включить синхронизацию</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sync_dspt_entrance_provision">Sync your photos, contacts, and messages, or locate your device.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sync_dspt_entrance_provision_2">Learn more</string>
      <string name="sync_dspt_provision">"Mi Cloud syncs your photos, SMS, notes, and more across all your Mi devices. You can also access them from any browser at "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sync_dspt_provision2">i.mi.com</string>
@@ -299,8 +277,6 @@ This feature encrypts and uploads your device's ID to Mi's servers."</string>
 You can turn this feature on and off anythime in Settings.
 "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sync_dspt_provision_title">Mi Cloud</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sync_item_calllog_summary">Sync records of calls made and received on this phone</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sync_item_calllog_title">Sync call logs</string>
@@ -308,8 +284,6 @@ You can turn this feature on and off anythime in Settings.
      <string name="sync_item_sms_title">Синхронизация сообщений</string>
      <string name="sync_off">Выкл.</string>
      <string name="sync_on">Вкл.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sync_resend_sms_dspt_provision">. If you switch SIM cards, your carrier may charge for an SMS message used to reactivate this service.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sync_setting">Sync settings</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -342,7 +316,6 @@ You can turn this feature on and off anythime in Settings.
      <string name="user_agreement_p7">"Mi Cloud's Terms of Service"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="user_agreement_p8">.</string>
-     <string name="user_agreement_title">"Mi Cloud's Terms of Service"</string>
      <string name="vcode">Проверочный код</string>
      <string name="verify">Проверить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

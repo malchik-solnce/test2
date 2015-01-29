@@ -37,8 +37,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="device_hongmi">Redmi</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="device_pad">Mi Pad</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="device_xiaomi">Mi Phone</string>
      <string name="double_seventh_day">Танабата</string>
      <string name="easter">復活節</string>
@@ -128,8 +126,6 @@
      <string name="screen_on_proximity_sensor_hint">"Принудительный выход: нажми кнопки 'НАЗАД'+'Громкость +'. Режим защиты датчиком можно отключить в разделе настроек - настройки экрана'."</string>
      <string name="screen_on_proximity_sensor_summary">Не закрывай верхнюю часть экрана</string>
      <string name="screen_on_proximity_sensor_title">Защита датчиком</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="screen_paper_mode_enter_toast">Read mode is on. You can turn this feature on and off anytime in Additional settings > Read mode.</string>
      <string name="screen_rotation_freeze_message">Auto-rotate disabled.</string>
      <string name="select">Выбрать</string>
      <string name="select_all">Выбрать все</string>
@@ -168,9 +164,6 @@
      <string name="status_bar_toggle_mute">Silent</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_toggle_network_type">Network</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_paper_mode">Read mode</string>
-     <string name="status_bar_toggle_paper_mode_action">com.android.settings/.display.ScreenPaperModeActivity</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_toggle_power_mode">Perform</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

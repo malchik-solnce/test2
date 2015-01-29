@@ -168,8 +168,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="fenghuang">iFeng</string>
      <string name="file_error">Ошибка файла</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="file_not_exist">The file does not exist</string>
      <string name="film">电影</string>
      <string name="filter">Фильтр</string>
      <string name="filter_program">Фильтрация программ</string>
@@ -275,8 +273,6 @@
      <string name="ok">OK</string>
      <string name="online_video">Онлайн</string>
      <string name="other_setting">Прочие</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="partner_specials">ad space</string>
      <string name="pause">Пауза</string>
      <string name="percent_status">%.1f%%</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -456,15 +452,6 @@
      <string name="vp_confirm">confirm</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_content_description">Content description</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="vp_datastream_alert_hint">You can turn off data usage notifications any time in Settings.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="vp_datastream_alert_negative_button">Cancel</string>
-     <string name="vp_datastream_alert_play">Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="vp_datastream_alert_positive_button">Continue</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="vp_datastream_alert_title">Data usage warning</string>
      <string name="vp_device_list">Устройства</string>
      <string name="vp_download_connect_fail">"Couldn't find URL. Check your data connection and try again."</string>
      <string name="vp_download_file_fail">"Download failed. Make sure there's enough room on you"</string>
@@ -488,8 +475,6 @@
      <string name="vp_loading">Загрузка…</string>
      <string name="vp_loading_download"><CDATA>downloading </CDATA></string>
      <string name="vp_loading_video">Loading…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="vp_low_definition">LOW</string>
      <string name="vp_maintitlearea">Enjoy the massive high-definition blockbuster, the speed of downloading at any time, there are more new TV show yo! Downloading HD components for you, click OK to enter the home page</string>
      <string name="vp_media_info">Информация</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -527,8 +512,6 @@
      <string name="vp_select_function">Select function</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_select_source">Select source</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="vp_select_video_definition">Select definition</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_select_video_source">Select source</string>
      <string name="vp_skip">跳过片头片尾</string>

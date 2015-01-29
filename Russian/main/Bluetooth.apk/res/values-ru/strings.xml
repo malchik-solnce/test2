@@ -10,16 +10,6 @@
      <string name="auth_notif_ticker">Запрос на аутентификацию Obex</string>
      <string name="auth_notif_title">Ключ сеанса</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="ble_device_address">BLE device MAC</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="ble_device_profile_header_title">Profiles</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="ble_device_profile_title">Connected BLE device</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="ble_device_unbind">Clear settings</string>
-     <string name="ble_profile_1">ble_profile_mi_band</string>
-     <string name="ble_profile_2">ble_profile_mi_key</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="bluetooth_preference_connected_devices">Connected devices</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="bluetooth_preference_found_devices">Available devices</string>
@@ -46,8 +36,6 @@
      <string name="delete_record">Удалить запись</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="device_picker">Bluetooth device chooser</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="disconnect">Disconnect</string>
      <string name="download_cancel">Остановить</string>
      <string name="download_fail_line1">Файл не получен</string>
      <string name="download_fail_line2">Файл: %1$s</string>
@@ -82,29 +70,6 @@
      <string name="incoming_file_toast_msg">Входящий файл с другого устройства. Подтвердите получение этого файла.</string>
      <string name="insert_record">Вставить запись</string>
      <string name="localPhoneName">Мое название</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mi_band_vibrate_alarm">Vibrate when alarm sounds</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mi_band_vibrate_incall">Vibrate when ringing</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mi_band_vibrate_incall_in_contacts">Vibrate when ringing for calls from your contacts</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mi_band_vibrate_incall_no_contacts">Vibrate when ringing for calls from unknown numbers</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mi_band_vibrate_sms">Vibrate when you receive an SMS message</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mi_band_vibrate_sms_in_contacts">Vibrate when you receive an SMS message from your contacts</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mi_band_vibrate_sms_no_contacts">Vibrate when you receive an SMS message from an unknown number</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mi_key_alert_dialog_message">Touch OK to silence alarm.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mi_key_alert_dialog_title">Mi key Alert</string>
-     <string name="mi_key_find_mikey">Find Mi-Key</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mi_key_find_phone">Find phone</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mi_key_take_photo">Take photo</string>
      <string name="miui_transfer_history_title">Bluetooth передачи</string>
      <string name="miui_transfer_inbound_title">Входящие</string>
      <string name="miui_transfer_outbound_title">Исходящие</string>

@@ -31,10 +31,6 @@
         <item>BBC</item>
         <item>http://www.bbc.co.uk/</item>
      </string-array>
-     <string-array name="bookmarks_cu_customization">
-        <item>沃门户</item>
-        <item>http://www.wo.com.cn</item>
-     </string-array>
      <string-array name="google">
         <item>Google</item>
         <item>google.com</item>

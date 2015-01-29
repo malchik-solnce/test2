@@ -6,8 +6,6 @@
      <string name="action_confirm">OK</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="action_submit">OK</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="announcement">Attention</string>
      <string name="app_empty">Нет приложений</string>
      <string name="app_label">Отзывы</string>
      <string name="bluetooth_problem1">Сопряжение не удалось со сторонними устройствами</string>
@@ -15,14 +13,6 @@
      <string name="bluetooth_problem3">Не удается отправить файлы</string>
      <string name="bluetooth_problem4">Не удается принять файлы</string>
      <string name="btn_send">Отправить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bugreport_dump_complete_notification_summary">Tap to view.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bugreport_dump_complete_notification_title">Created bug report</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bugreport_dump_start_notification_summary">Takes about a minute.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bugreport_dump_start_notification_title">Creating bug report</string>
      <string name="bugreport_tool_log_toast">Log saved to %s</string>
      <string name="bugreport_tool_log_toast_generate_bugreport">Creating bug report (takes about a minute)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -49,8 +39,6 @@
      <string name="discard_draft_dialog_title">Отмена отзыва</string>
      <string name="err_type">Тип ошибки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="err_type_app">Apps</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="err_type_bluetooth">Bluetooth</string>
      <string name="err_type_camera">Камера</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -58,7 +46,9 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="err_type_hardware_summary">Buttons, charging, sensors, etc.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="err_type_more">More</string>
+     <string name="err_type_mysuggestion">Suggestions</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="err_type_mysuggestion_summary">Share ideas and feedback with us</string>
      <string name="err_type_nonsystemapp">Другие приложения</string>
      <string name="err_type_power_consuming">Потребление энергии</string>
      <string name="err_type_reboot">Перезагрузка системы</string>
@@ -79,16 +69,14 @@
      <string name="hot_problem_empty">Empty</string>
      <string name="loading_apps">Загрузка списка…</string>
      <string name="loading_hot_problem">Загрузка…</string>
-     <string name="loading_problem_list">Loading list…</string>
      <string name="menu_copy">Копировать</string>
      <string name="network_err">Не удается подключиться к сети. Проверьте подключение и попробуйте обновить.</string>
      <string name="network_unavailable_dialog_content">Ваш отзыв будет отправлен при включенном интернете</string>
      <string name="network_unavailable_dialog_title">Сеть недоступна</string>
      <string name="non_system_app_select">Загруженные приложения</string>
-     <string name="packaging_dialog_content">Создание отчета…</string>
-     <string name="plus_one_submit_dialog_content">"Your selected feedback, along with error logs, will be sent to Mi's servers."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="plus_one_submit_dialog_not_show_again">Remember preference</string>
+     <string name="nonsystemapp_description">Describe the issue</string>
+     <string name="packaging_dialog_content">Создание отчета…</string>
      <string name="power_consuming_problem1">Увеличение потребления питания после обновления</string>
      <string name="power_consuming_problem2">При использовании этого приложения потребляется энергия</string>
      <string name="power_consuming_problem3">Высокое потребление энергии в режиме ожидания</string>
@@ -122,17 +110,11 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_common_problem">Common bugs</string>
      <string name="title_hot_problem">Распространенные ошибки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="title_nonsystem_app">Other apps</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="title_system_app">MIUI apps</string>
      <string name="toast_description_required">Описание не может быть пустым</string>
      <string name="toast_feedback_network_unavailable">"Can't connect to network"</string>
      <string name="toast_feedback_pending_wlan">Твой отзыв будет отправлен позже при включенном Wi-Fi</string>
      <string name="toast_feedback_submitted">Отзыв успешно отправлен</string>
-     <string name="toast_feedback_submitting">Submitting…</string>
      <string name="toast_feedbackservice_in_submit">Отправка предыдущего отзыва…</string>
-     <string name="toast_network_unavailable">"Couldn't send. Can't connect to the network."</string>
      <string name="toast_pending_log_collection">Сбор логов</string>
      <string name="toast_report_copied_to_clipboard">Отчет скопирован в буфер обмена</string>
      <string name="toast_report_sent_failed">Ошибка отправки отчета</string>

@@ -81,10 +81,6 @@
      <string name="call_radio">Радиотелефон</string>
      <string name="call_record_setting_miui">Настройки записи</string>
      <string name="call_settings">Настройки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="call_sim1_menu_title">Dial by Sim1</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="call_sim2_menu_title">Dial by Sim2</string>
      <string name="call_telex">Телекс</string>
      <string name="call_tty_tdd">Телетайп</string>
      <string name="call_work">Рабочий тел.</string>
@@ -760,9 +756,6 @@
      <string name="profile_display_name">Настроить профиль</string>
      <string name="profile_name">Мой профиль</string>
      <string name="profile_name_photo">Я</string>
-     <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
-     <string name="pull_to_refresh_refreshing_label">Loading…</string>
-     <string name="pull_to_refresh_release_label">Release to refresh…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="qr_card_card">My QR Code</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -828,10 +821,6 @@
      <string name="resource_comment_edit_comment_waiting">Проверка истории…</string>
      <string name="resource_comment_edit_text_default">Написать комментарий</string>
      <string name="resource_comment_edit_title">Изменить комментарий: %1$s</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: Comments (%1$s) -->
      <string name="resource_comment_entry_tips">Просмотр комментариев</string>
      <string name="resource_comment_expand_full_text">Развернуть ▼</string>
      <string name="resource_comment_footer">Пустые комментарии не отображаются</string>
@@ -869,13 +858,8 @@
      <string name="resource_detail_recommend_desiner_themes">темы: %1$s</string>
      <string name="resource_detail_recommend_other_themes">Пользователям также понравилось</string>
      <string name="resource_detail_update_log_title">Обновления</string>
-     <string name="resource_detail_vertical_divider">|</string>
      <string name="resource_detail_window_title">%1$s свойства</string>
      <string name="resource_download">Скачать</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_download_notification_content">Click to check</string>
-     <string name="resource_download_notification_title_many">Download %1$s themes success!</string>
-     <string name="resource_download_notification_title_one">Download theme success!</string>
      <string name="resource_download_trial">Попробовать</string>
      <string name="resource_downloaded_title">Скачанные</string>
      <string name="resource_downloading">Загрузка</string>
@@ -899,16 +883,11 @@
      <string name="resource_exchange_wrong_format_by_local">Введен неправильный код</string>
      <string name="resource_exchange_wrong_format_by_server">Код не может быть подтвержден. Проверьте его и попробуйте еще раз.</string>
      <string name="resource_expand_full_text">Раскрыть</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_failed_to_load_list">Failed to load list</string>
      <string name="resource_get_auth_checking">Проверка авторизации…</string>
      <string name="resource_get_auth_exceed_max_limit_tips">Тема не может работать на текущем устройстве с Вашего аккаунта, т.к. ограничение составляет до 10 мобильных устройств каждый год. Пожалуйста, попробуйте другие аккаунты Xiaomi.</string>
      <string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_get_auth_has_been_undercarriaged">This theme is no longer available.</string>
-     <string name="resource_get_auth_not_official">Themes from third-party sources are not supported</string>
+     <string name="resource_get_auth_missing">Themes from third-party sources are not supported</string>
      <string name="resource_get_auth_retrieving">Авторизация…</string>
-     <string name="resource_has_been_downloaded">"You've already downloaded this theme."</string>
      <string name="resource_hint">Внимание</string>
      <string name="resource_import_failed">Ошибка импорта</string>
      <string name="resource_import_successful">Загрузка завершена</string>
@@ -918,17 +897,12 @@
      <string name="resource_menu_refresh">Обновить</string>
      <string name="resource_mute">Без звука</string>
      <string name="resource_my">Локально</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_no_match_app">No app was found to handle this action.</string>
-     <string name="resource_no_network_text">"Can't connect to the network."</string>
      <string name="resource_no_result">Нет результатов</string>
      <string name="resource_notification_default">Уведомления</string>
      <string name="resource_on_trial">Триал: %1$s</string>
      <string name="resource_online">Онлайн %1$s</string>
      <string name="resource_pack_confirm">Вы уже приобрели %1$d элементов. Но текущая цена имеет скидку, чем покупка по отдельности. Продолжить?</string>
      <string name="resource_pack_discount_info">%1$s скидка!</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_pack_get_auth_has_been_undercarriaged">This subject is no longer available.</string>
      <string name="resource_pack_price_info">%1$s обычная</string>
      <string name="resource_pack_warning">Внимание. Вы уже приобрели %1$d элементов. Текущая цена больше не актуальна. Необходимо приобрести их по отдельности.</string>
      <string name="resource_present">Подарок</string>
@@ -945,10 +919,8 @@
      <string name="resource_ringtone_playing_error">Ошибка проигрывания</string>
      <string name="resource_ringtone_volume_mute">Громкость мелодии отключена</string>
      <string name="resource_save_to_note">Сохранить в заметки</string>
-     <string name="resource_search_list_empty">"Coundn't find anything"</string>
      <string name="resource_see_more">Подробнее</string>
      <string name="resource_select">Выбрать</string>
-     <string name="resource_select_ringtone_confirm">Select this sound?</string>
      <string name="resource_selected">Лучшие</string>
      <string name="resource_send">Отправить</string>
      <string name="resource_server_alert_dialog_title">Технические неполадки</string>
@@ -958,19 +930,9 @@
      <string name="resource_share_title">Отправка</string>
      <string name="resource_system_title">Системные компоненты</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_tip_select_none">None selected</string>
+     <string name="resource_tip_select_ringtone">None selected</string>
      <string name="resource_title">Сведения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_title_category">Categories</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_title_hot_subject">Popular</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_title_local">Local</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_title_rank">Top charts</string>
      <string name="resource_title_select_ringtone">Выбери мелодию</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_title_subject">Featured</string>
      <string name="resource_trial_end_message">Пробное время использования %1$s закончилось. Купите, если Вам понравилось :)</string>
      <string name="resource_trial_end_purchase">Купить</string>
      <string name="resource_trial_end_restore">Отмена</string>
@@ -983,6 +945,8 @@
      <string name="resource_trial_fail_message">Make sure your system clock is set to the correct time.</string>
      <string name="resource_trial_fail_title">"Couldn't set up trial session"</string>
      <string name="resource_trial_time">(до окончания %1$d мин.)</string>
+     <string name="resource_unable_to_access">"Unfortunately,
+the content you're looking for is not currently available in your region."</string>
      <string name="resource_unknow_error">Неизвестная ошибка</string>
      <string name="resource_update">Обн.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -1176,8 +1140,6 @@
      <string name="wipe_data">Очистить данные</string>
      <string name="yellowPageNavigationIconLabel">Сервисы</string>
      <string name="yellowPageNavigationLabel">Сервисы</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="yellowpage_navigation_clear_search_history">Clear history</string>
      <string name="yellowpage_navigation_more_items">Еще</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="yellowpage_navigation_more_items_title">More services</string>
@@ -1198,8 +1160,6 @@
      <string name="yellowpage_navigation_send_to_desktop_downloading">Загрузка иконки…</string>
      <string name="yellowpage_navigation_send_to_desktop_failed">Ошибка. Проверь настройки сети.</string>
      <string name="yellowpage_navigation_send_to_desktop_succeeded">Добавлено на рабочий стол</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="yellowpage_search_the_yellowpage">Search the directory</string>
      <string name="yellowpage_user_profile">Профиль</string>
      <string name="zero_items_selected">Выбери контакты</string>
 </resources>

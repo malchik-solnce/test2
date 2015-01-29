@@ -703,12 +703,6 @@
      <string name="sub_sync_item_browser_title_novel_summary">Синхронизировать книги браузера</string>
      <string name="sub_sync_item_browser_title_webapp">Синхронизация веб-приложений</string>
      <string name="sub_sync_item_browser_title_webapp_summary">Синхронизировать добавленные вэб приложения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="suggest_access_appstore">Mi App Store</string>
-     <string name="suggest_access_item_app_size">%.2fMB</string>
-     <string name="suggest_access_item_app_update">Update: %s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="suggest_access_music">Mi Music</string>
      <string name="sync_item_browser_summary">Синхронизировать данные браузера в облако, для легкого использования на разных устройствах</string>
      <string name="sync_item_browser_title">Синхронизация браузера</string>
      <string name="tab_history">История</string>

@@ -62,6 +62,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="betagame_title">Beta Zone</string>
      <string name="button_refresh">Обновить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_search">Search</string>
      <string name="button_text_login">Войти</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_text_recharge">Add MiCredits</string>
@@ -115,8 +117,6 @@
      <string name="confirm">OK</string>
      <string name="confirm_apply_gift">Подарить %s очков?</string>
      <string name="confirm_deduct_integral">Deduct %1d points?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="confirm_feedback">Send</string>
      <string name="connect_fail">%1$s - установка не удалась: ошибка соединения, пожалуйста, проверьте сетевое соединение</string>
      <string name="connect_network_fail">Ошибка соединения</string>
      <string name="connect_network_hint">Game Center требуется доступ к сети. Включите мобильную сеть или Wi-Fi для загрузки данных.</string>
@@ -773,8 +773,6 @@ Please check and refresh"</string>
      <string name="restore">Restore</string>
      <string name="save_photo_fail">Ошибка сохранения фото</string>
      <string name="save_photo_success">Фото успешно сохранено</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sdk_float_setting_tittle">Game float always display</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_game_hint">Search Game</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

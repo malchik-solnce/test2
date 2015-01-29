@@ -147,8 +147,6 @@
      <string name="select_all">Выбрать все</string>
      <string name="select_operation_items">Пожалуйста выберите</string>
      <string name="selected_count">Выбрано %1$d из %2$d</string>
-     <string name="toast_xunlei_engine_open">"迅雷下载引擎已启用
-可在右上角设置中更改配置"</string>
      <string name="turn_off_xunlei_message">После отключения возможна более медленная скорость загрузки</string>
      <string name="turn_off_xunlei_tips">Сервис ускорения Xunlei отключен</string>
      <string name="turn_off_xunlei_title">Отключение движка Xunlei</string>
@@ -161,9 +159,6 @@
      <string name="vip_auto_speedup">Xunlei members to accelerate directly</string>
      <string name="xunlei_brand">При поддержке Xunlei</string>
      <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
-     <string name="xunlei_close_tips_button">立即加速</string>
-     <string name="xunlei_close_tips_content">95%用户已选择</string>
-     <string name="xunlei_close_tips_title">迅雷免费帮您提升下载速度</string>
      <string name="xunlei_gaosu">Высокоскоростной сервис Xunlei</string>
      <string name="xunlei_member_annual_fee">Подписка на год (platinum)</string>
      <string name="xunlei_member_one_month">Подписка на месяц (platinum)</string>

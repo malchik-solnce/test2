@@ -53,7 +53,11 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="audio_effect_settings">Set headphones type</string>
      <string name="battery_low_percent_format">Осталось: %d%%</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="battery_low_subtitle">The battery is getting low.</string>
      <string name="battery_low_title">Подключите зарядное устройство</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="battery_low_why">Battery use</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="battery_profiles">Use battery profiles</string>
      <string name="bluetooth_tethered">Общий модем доступен через Bluetooth</string>
@@ -162,18 +166,14 @@
 d MMMM yyyy"</string>
      <string name="status_bar_network_flow">"Today: %1$s    Remaining: %2$s    Monthly limit: %3$s"</string>
      <string name="status_bar_network_flow_exceed">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Exceeded:&lt;font color=%2$s>%3$s&lt;/font>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Monthly limit: %4$s</string>
-     <string name="status_bar_network_flow_exceed_to_purchase">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Exceeded:&lt;font color=%2$s>%3$s&lt;/font>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Purchase ></string>
      <string name="status_bar_network_flow_today">Today: %1$s</string>
-     <string name="status_bar_network_flow_warning_to_purchase">"Today: %1$s    Remaining: %2$s    Purchase >"</string>
      <string name="status_bar_no_recent_apps">Нет недавних приложений</string>
      <string name="status_bar_notification_inspect_item_title">О приложении</string>
      <string name="status_bar_recent_guide_all">Потяните вверх для закрытия, вниз для блокировки</string>
      <string name="status_bar_recent_guide_bottom">Потяните вниз для блокировки</string>
      <string name="status_bar_recent_guide_top">Потяните вверх для закрытия</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 2
-	%s: 1 must: 2
-	%d: 0 must: 0 -->
-     <!-- Original string: %1$sB of %2$sB available -->
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="status_bar_recent_inspect_item_title">App info</string>
      <string name="status_bar_recent_memory_info1">"%s "</string>
      <string name="status_bar_recent_memory_info2">" %s available"</string>
      <string name="status_bar_recording_back">Назад в диктофон</string>

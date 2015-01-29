@@ -45,8 +45,6 @@
      <string name="clear_search_record_message">Очистить историю поиска?</string>
      <string name="clear_session_message">Очистить сессию?</string>
      <string name="clear_update_record_message">Clear update history?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="collapse_rank_list">We have filter installed applications, click here to set</string>
      <string name="comment_1_star">1 звезда</string>
      <string name="comment_2_star">2 звезды</string>
      <string name="comment_3_star">3 звезды</string>
@@ -327,8 +325,6 @@
      <string name="pref_list_use_online_server">Использовать сервер продукта</string>
      <string name="pref_list_use_staging_server">Использование промежуточного сервера</string>
      <string name="pref_summary_auto_update_via_wifi">Автоматическое обновление по Wi-Fi при заблокированном экране</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_summary_collapse_rank_list">Dont show installed apps in rank list</string>
      <string name="pref_summary_data_save">Не загружать изображения при мобильном интернете</string>
      <string name="pref_summary_delete_package">Удалять пакет после завершения установки</string>
      <string name="pref_summary_feature_intro">Узнай больше о возможностях Xiaomi маркета</string>
@@ -344,14 +340,12 @@
      <string name="pref_title_clear_session">Очистить сессию</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_title_clear_update_record">Clear update records</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_title_collapse_rank_list">Filter rank list</string>
      <string name="pref_title_data_save">Ограничение данных</string>
      <string name="pref_title_delete_package">Автоудаление апк</string>
      <string name="pref_title_feature_intro">Особые возможности</string>
-     <string name="pref_title_network_diagnostics">Диагностика сети</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_title_receive_push_message">Receive push message</string>
+     <string name="pref_title_hotsubjects_notification">Collections</string>
+     <string name="pref_title_network_diagnostics">Диагностика сети</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_title_show_report_data">Show report data</string>
      <string name="pref_title_silent_install">Тихая установка</string>
@@ -380,13 +374,9 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="recommendation_app">Recommended</string>
      <string name="recommendation_tag">Все</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="relate_apps">Similar apps</string>
      <string name="remove_package_fail">Ошибка установки</string>
      <string name="result_of_clear_history">История поиска очищена</string>
      <string name="resume">Возобновить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_history_title">History</string>
      <string name="search_local_app_text_hint">Поиск в приложениях: %1$d</string>
      <string name="search_not_found">\"%1$s\" не найдено</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
@@ -394,8 +384,6 @@
 	%d: 0 must: 0 -->
      <!-- Original string: Search from %1$s -->
      <string name="search_other_market">Поискать еще</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_popular_hint_title">Popular</string>
      <string name="search_recommend_hint">Вам понравится</string>
      <string name="search_recommend_ingore">Игнор</string>
      <string name="search_recommend_ingored_text">Не рекомендуемые</string>

@@ -56,8 +56,6 @@
      <string name="descript_format" formatted="false">%s - %s</string>
      <string name="display_setting">打开系统设置</string>
      <string name="download_failed">Ошибка загрузки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="emergency">Jump to dial pad</string>
      <string name="engine_settings_button">Настройки запуска</string>
      <string name="find_more_restaurant">Посмотреть еще</string>
      <string name="find_restaurant_nearby">Найти рестораны поблизости</string>
@@ -92,6 +90,7 @@
      <string name="music_result_title">Результаты поиска：</string>
      <string name="music_search_cancelled">Поиск музыки отменен</string>
      <string name="music_search_failed">Нет результатов</string>
+     <string name="music_search_unsupport">请打开音乐并同意所弹出的声明与条款后方可使用，若依旧无法使用，可能是MIUI版本过低所致，请更新到最新版本。</string>
      <string name="need_tts_set">Нужно сделать приложение движком по умолчанию. Установить?</string>
      <string name="net_comment">Отзывы</string>
      <string name="net_not_connected">Нет интернет соединения</string>
@@ -126,8 +125,6 @@
      <string name="recognition_failure">"Ничего не найдено
 Пожалуйста, еще раз введите команду"</string>
      <string name="recognition_mess">Пример распознавания речи</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="redirect_dial_panel">Redirecting to dial pad</string>
      <string name="report_method">Голосовой отчет</string>
      <string name="res_client_error">Непредвиденная ошибка</string>
      <string name="res_error">Ошибка идентификации</string>

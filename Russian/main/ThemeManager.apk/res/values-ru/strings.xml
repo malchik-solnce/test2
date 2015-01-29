@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="account_id_not_login">Touch to sign in</string>
      <string name="account_info">Мой аккаунт</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="account_name_not_login">Sign in</string>
      <string name="account_unactivated">Аккаунт не активирован</string>
      <string name="all_resources">Все</string>
      <string name="all_ringtone_resource">Все</string>
@@ -18,10 +14,11 @@
      <string name="backup_preference_title">Сохранить тему</string>
      <string name="backup_theme_dialog_message">Сделать бэкап текущей темы?</string>
      <string name="backup_theme_dialog_ok">Сохранить</string>
-     <string name="backup_theme_fail_trial_rights_message">"Can't backup trial themes"</string>
      <string name="backup_theme_name">Моя тема</string>
      <string name="backup_theme_progress_message">Сохранение темы, подождите…</string>
      <string name="backup_theme_success_message">Бэкап успешно завершен!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="basic_info">Account info</string>
      <string name="change_wallpaper">Обои</string>
      <string name="close">Закрыть</string>
      <string name="component_category_finest_title">ОСНОВНЫЕ КОМПОНЕНТЫ</string>
@@ -40,59 +37,6 @@
      <string name="download_preview_failed">Ошибка загрузки данных</string>
      <string name="download_success">Успешно загружено</string>
      <string name="fail_to_add_account">Ошибка добавления аккаунта</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="favorite_list">Favorites</string>
-     <string name="favorite_list_format">Favorite %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gift_anonymous">Anonymous</string>
-     <string name="gift_count_format">%1$s+</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gift_operation_fail_dlg_abandon">Cancel</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gift_operation_fail_dlg_retry">Try again</string>
-     <string name="gift_operation_waiting">Just a sec…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gift_owned">Local</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gift_present">Give</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gift_present_dlg_anonymous">Anonymous gift</string>
-     <string name="gift_present_dlg_input_hint">Mi Account ID/Phone</string>
-     <string name="gift_present_dlg_no_fee">"You won't be charged by your carrier for sending gifts"</string>
-     <string name="gift_present_dlg_present_max_limit">"This theme has already been gifted %$1s times (that's the limit)."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gift_present_dlg_share">Create code and share gift</string>
-     <string name="gift_present_fail_dlg_content">"Couldn't send this gift. "</string>
-     <string name="gift_present_fail_dlg_title">"Couldn't send gift"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gift_present_success_dlg_content">An SMS message will be sent to this person when the theme is delivered.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gift_present_success_dlg_title">Gift sent</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gift_present_success_no_sms_dlg_content">Gift history is listed in your Account page.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gift_presented">Sent</string>
-     <string name="gift_purchase_success_dlg_content">You purchased %1$s as a gift. To send it, go to your Themes Account page.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gift_purchase_success_dlg_title">Gift purchased</string>
-     <string name="gift_purchased_endnote">To: %1$s</string>
-     <string name="gift_purchased_list_empty">"You haven't given any gifts. :("</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gift_purchased_list_empty_with_received_list_empty">No gifts.</string>
-     <string name="gift_received_endnote">From: %1$s (received %2$s)</string>
-     <string name="gift_received_list_empty">"You haven't received any gifts."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gift_share">Share</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gift_transfer">Transfer</string>
-     <string name="gift_unbind_fail_dlg_title">"Couldn't create code"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gift_use">Give</string>
-     <string name="gift_use_confirmation_dlg_title">Send this gift?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gift_use_fail_dlg_title">Something went wrong</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gift_used">Sent</string>
      <string name="live_wallpaper">Живые</string>
      <string name="loading">Загрузка…</string>
      <string name="loading_resource_detail_fail">Ошибка загрузки</string>
@@ -102,21 +46,10 @@
      <string name="long_ringtone_resource">Длинные</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mi_wallpaper">Mi</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="my_gifts">Gifts</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="my_gifts_purchased">Purchased</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="my_gifts_received">Received</string>
      <string name="online_no_network">Не удается подключиться к сети</string>
      <string name="online_search_hint">Поиск ресурсов</string>
      <string name="payment_info">Мой Mi</string>
      <string name="purchased_list">Список покупок</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: %1$s purchased -->
-     <string name="purchased_list_format">Purchased 1$s</string>
      <string name="resource_account_abnormal_state">Ошибка аккаунта. Попробуйте позже.</string>
      <string name="resource_account_fail_to_add">Ошибка добавления аккаунта!</string>
      <string name="resource_account_login">Войти</string>
@@ -146,10 +79,6 @@
      <string name="resource_comment_edit_comment_waiting">Проверка твоих ответов к этой теме</string>
      <string name="resource_comment_edit_text_default">Напишите комментарий</string>
      <string name="resource_comment_edit_title">Комментарий к: %1$s</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: Comments (%1$s) -->
      <string name="resource_comment_entry_tips">Посмотреть все</string>
      <string name="resource_comment_expand_full_text">Показать весь текст▼</string>
      <string name="resource_comment_footer">Пустые комментарии не отображаются</string>
@@ -187,13 +116,8 @@
      <string name="resource_detail_recommend_desiner_themes">темы: %1$s</string>
      <string name="resource_detail_recommend_other_themes">Пользователям также понравилось</string>
      <string name="resource_detail_update_log_title">Что нового</string>
-     <string name="resource_detail_vertical_divider">|</string>
      <string name="resource_detail_window_title">Информация %1$s</string>
      <string name="resource_download">Скачать</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_download_notification_content">Click to check</string>
-     <string name="resource_download_notification_title_many">Download %1$s themes success!</string>
-     <string name="resource_download_notification_title_one">Download theme success!</string>
      <string name="resource_download_trial">Попробовать</string>
      <string name="resource_downloaded_title">Загруженные ресурсы</string>
      <string name="resource_downloading">Загрузка</string>
@@ -217,16 +141,11 @@
      <string name="resource_exchange_wrong_format_by_local">Введен неправильный код</string>
      <string name="resource_exchange_wrong_format_by_server">Код не может быть подтвержден. Проверь его и попробуй еще раз.</string>
      <string name="resource_expand_full_text">Раскрыть</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_failed_to_load_list">Failed to load list</string>
      <string name="resource_get_auth_checking">Проверка авторизации…</string>
      <string name="resource_get_auth_exceed_max_limit_tips">Тема не может работать на текущем устройстве с Вашего аккаунта, т.к. ограничение составляет до 10 мобильных устройств каждый год. Пожалуйста, попробуйте другие аккаунты Xiaomi.</string>
      <string name="resource_get_auth_exceed_max_limit_title">Превышен лимит</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_get_auth_has_been_undercarriaged">This theme is no longer available.</string>
-     <string name="resource_get_auth_not_official">Themes from third-party sources are not supported</string>
+     <string name="resource_get_auth_missing">Themes from third-party sources are not supported</string>
      <string name="resource_get_auth_retrieving">Получение авторизации…</string>
-     <string name="resource_has_been_downloaded">"You've already downloaded this theme."</string>
      <string name="resource_hint">Внимание</string>
      <string name="resource_import_failed">Ошибка импорта</string>
      <string name="resource_import_successful">Загрузка завершена</string>
@@ -236,17 +155,12 @@
      <string name="resource_menu_refresh">Обновить</string>
      <string name="resource_mute">Нет</string>
      <string name="resource_my">Телефон</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_no_match_app">No app was found to handle this action.</string>
-     <string name="resource_no_network_text">"Can't connect to the network."</string>
      <string name="resource_no_result">Нет результатов</string>
      <string name="resource_notification_default">Уведомл.</string>
      <string name="resource_on_trial">Триал: %1$s</string>
      <string name="resource_online">Онлайн %1$s</string>
      <string name="resource_pack_confirm">Вы уже приобрели %1$d элементов. Но текущая цена имеет скидку, чем покупка по отдельности. Продолжить?</string>
      <string name="resource_pack_discount_info">Скидка: %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_pack_get_auth_has_been_undercarriaged">This subject is no longer available.</string>
      <string name="resource_pack_price_info">Цена: %1$s</string>
      <string name="resource_pack_warning">Внимание. Вы уже приобрели %1$d элементов. Текущая цена больше не актуальна. Необходимо приобрести их по отдельности.</string>
      <string name="resource_present">Подарок</string>
@@ -263,10 +177,8 @@
      <string name="resource_ringtone_playing_error">Ошибка проигрывания</string>
      <string name="resource_ringtone_volume_mute">Громкость мелодии отключена</string>
      <string name="resource_save_to_note">Сохранить в заметки</string>
-     <string name="resource_search_list_empty">"Coundn't find anything"</string>
      <string name="resource_see_more">Еще</string>
      <string name="resource_select">Выбрать</string>
-     <string name="resource_select_ringtone_confirm">Select this sound?</string>
      <string name="resource_selected">Лучшие</string>
      <string name="resource_send">Отправить</string>
      <string name="resource_server_alert_dialog_title">Технические неполадки</string>
@@ -276,19 +188,9 @@
      <string name="resource_share_title">Отправка</string>
      <string name="resource_system_title">Системные ресурсы</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_tip_select_none">None selected</string>
+     <string name="resource_tip_select_ringtone">None selected</string>
      <string name="resource_title">Сведения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_title_category">Categories</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_title_hot_subject">Popular</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_title_local">Local</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_title_rank">Top charts</string>
      <string name="resource_title_select_ringtone">Выберите мелодию</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_title_subject">Featured</string>
      <string name="resource_trial_end_message">Пробное время использования %1$s закончилось. Купите, если понравилось :)</string>
      <string name="resource_trial_end_purchase">Купить</string>
      <string name="resource_trial_end_restore">Отмена</string>
@@ -299,6 +201,8 @@
      <string name="resource_trial_fail_message">Убедитесь, что часы системы установлены на правильно</string>
      <string name="resource_trial_fail_title">Ошибка влючения</string>
      <string name="resource_trial_time">(до окончания %1$d мин.)</string>
+     <string name="resource_unable_to_access">"Unfortunately,
+the content you're looking for is not currently available in your region."</string>
      <string name="resource_unknow_error">Неизвестная ошибка</string>
      <string name="resource_update">Обновить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -309,6 +213,7 @@
      <string name="selected_resource_file_invalid">Выбранный файл неверный</string>
      <string name="settings">Настройки</string>
      <string name="short_ringtone_resource">Короткие</string>
+     <string name="theme_batch_has_update_text">Updates available for %1$d themes.</string>
      <string name="theme_batch_update_all">Обновить все</string>
      <string name="theme_batch_update_dlg_content">Обновить %1$s и %2$d других тем сейчас?</string>
      <string name="theme_batch_update_dlg_content_single">Обновить %1$s сейчас?</string>
@@ -342,27 +247,11 @@
      <string name="theme_current_using_has_update">Текущая тема была обновлена. Нажмите здесь, чтобы применить.</string>
      <string name="theme_description_title_customized">Пользов.</string>
      <string name="theme_description_title_default">По умолчанию</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="theme_empty_redirect">Back to Theme Store</string>
-     <string name="theme_favorite_add_fail">"Can't star theme"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="theme_favorite_add_success">Theme starred</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="theme_favorite_delete">Unstar</string>
-     <string name="theme_favorite_delete_fail">"Can't unstar theme"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="theme_favorite_delete_success">Theme unstarred</string>
-     <string name="theme_favorite_list_empty">"You haven't starred any themes."</string>
-     <string name="theme_favorite_waiting">Just a sec…</string>
      <string name="theme_fresh_man_notifaction">Попробуйте новые темы</string>
      <string name="theme_immediately_apply_tip">Тема обновляется. Применить после обновления?</string>
      <string name="theme_import_from_sdcard">Импортировать с SD-карты</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="theme_multiple_button_title_customize">Customize</string>
      <string name="theme_name">%1$s</string>
      <string name="theme_no">Нет</string>
-     <string name="theme_purchased_list_empty">"You haven't purchased any themes."</string>
-     <string name="theme_purchased_non_local">Non-Local</string>
      <string name="theme_select_others">Другое</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="theme_user_agreement_allow">OK</string>
@@ -371,8 +260,6 @@
      <string name="theme_user_agreement_content3"> и </string>
      <string name="theme_user_agreement_content4">Политика безопасности</string>
      <string name="theme_user_agreement_content5">. Разрешаешь доступ к сети?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="theme_user_agreement_exit">Exit</string>
      <string name="theme_user_agreement_remind_again">Запрашивать доступ к сети</string>
      <string name="theme_user_agreement_remind_never">Больше не спрашивать</string>
      <string name="theme_user_agreement_remind_summary">Вступит в силу при следующей загрузке</string>

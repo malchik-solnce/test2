@@ -59,8 +59,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="auto_clean_switch_on">On</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="auto_cleaner_open">Turn on</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="auto_handle_title">Optimize automatically</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="back">Back</string>
@@ -79,19 +77,6 @@
      <string name="battery_history_minutes">%1$d мин. %2$d с.</string>
      <string name="battery_history_minutes_no_seconds">%1$dм.</string>
      <string name="battery_history_seconds">%1$d с.</string>
-     <string name="boot_day_shutdown_day">Device will power on in %1$dd at %2$s and power off in %3$dd at %4$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="boot_reminder">Power on your device at a scheduled time</string>
-     <string name="boot_reminder_day">Device will power on in %1$dd %2$dh %3$dm</string>
-     <string name="boot_reminder_day_hour">Device will power on in %1$dd %2$dh</string>
-     <string name="boot_reminder_hour">Device will power on in %1$dh %2$dm</string>
-     <string name="boot_reminder_minute">Device will power on in %1$dm</string>
-     <string name="boot_reminder_only_day">Device will power on in %1$dd</string>
-     <string name="boot_reminder_only_hour">Device will power on in %1$dh</string>
-     <string name="boot_shutdown">Device will power on at %1$s and power off at %2$s</string>
-     <string name="boot_shutdown_day">Device will power on at %1$s and power off in %2$dd at %3$s</string>
-     <string name="boot_time">Device will power on at %1$s</string>
-     <string name="boot_time_day">Device will power on in %1$dd at %2$s</string>
      <string name="brightness_auto_adjust_off">Яркость подсветки можно регулировать вручную путем перемещения ползунка. Яркость экрана останется неизменной при любом окружающем освещении.</string>
      <string name="brightness_auto_adjust_on">Эффект автояркости можно регулировать путем перемещения ползунка. Эффект яркости экрана будет меняться в зависимости от света в помещении или на улице.</string>
      <string name="btn_text_cleanup_all">Очистить</string>
@@ -156,8 +141,6 @@
      <string name="clean_content_three">Skip %s</string>
      <string name="clean_content_two">%1$s and %2$s</string>
      <string name="clean_content_zero">"Don't clean anything"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="confirm_auto_cleaner">Confirm</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cta_button_text_agree">OK</string>
      <string name="cta_button_text_cancel">Отмена</string>
@@ -445,11 +428,7 @@
      <string name="permission_with_SMS_and_MMS">Permissions related to SMS and MMS</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permission_with_call_and_contact">Permissions related to phone calls, contact info, and call logs.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="positive_confirm">Confirm</string>
      <string name="power_20s_enter_mode">%1$ds переключиться в режим %2$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="power_20s_shutdown">Device will power off in 20 seconds</string>
      <string name="power_apply_toast">Включен режим %s и сохранено текущеее состояние</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="power_bluetooth">Bluetooth</string>
@@ -457,7 +436,7 @@
      <string name="power_cell">Связь с сетью</string>
      <string name="power_center_auto_shutdown">Переключение</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="power_center_auto_shutdown_summary_default">Power your device on or off at a scheduled time</string>
+     <string name="power_center_auto_shutdown_summary">Power your device on or off at a scheduled time</string>
      <string name="power_center_battery_full">Батарея заряжена</string>
      <string name="power_center_charge_time">До полной зарядки: %1$s</string>
      <string name="power_center_consume_rank">Потребление</string>
@@ -664,7 +643,6 @@
      <string name="pref_title_open_optimizer_cloud_scan">Use online Cleaner engine</string>
      <string name="preference_category_key_auto_update_cleanup_db">key_category_auto_update_cleanup_db</string>
      <string name="preference_category_key_reference_settings">key_reference_settings</string>
-     <string name="preference_category_key_virus_lib_auto_update">key_category_virus_lib_auto_update</string>
      <string name="preference_key_app_permission_control">key_app_permission_control</string>
      <string name="preference_key_auto_clean_content_ad">key_auto_clean_content_ad</string>
      <string name="preference_key_auto_clean_content_apk">key_auto_clean_content_apk</string>
@@ -678,7 +656,6 @@
      <string name="preference_key_garbage_auto_clean_and_alert">key_garbage_auto_clean_and_alert</string>
      <string name="preference_key_garbage_auto_clean_content">key_garbage_auto_clean_content</string>
      <string name="preference_key_garbage_auto_process_mode">key_garbage_auto_process_mode</string>
-     <string name="preference_key_lock_screen_memory_clean">lock_screen_memory_clean</string>
      <string name="preference_key_module_permissions">key_module_permissions</string>
      <string name="preference_key_notification_bar_manager">key_notification_bar_manager</string>
      <string name="preference_key_open_optimizer_cloud_scan">key_open_optimizer_cloud_scan</string>
@@ -687,7 +664,6 @@
      <string name="preference_key_permission_manager">key_permission_manager</string>
      <string name="preference_key_root_manager">key_root_manager</string>
      <string name="preference_key_virus_lib_auto_update">key_virus_lib_auto_update</string>
-     <string name="preference_screen_key_virus_settings">key_screen_virus_settings</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="process_kernel_label">Android OS</string>
      <string name="process_mediaserver_label">Медиасервер</string>
@@ -710,13 +686,6 @@
      <string name="score_pts">%</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="settings_title_permission">Permission settings</string>
-     <string name="shutdown_boot">Device will power off at %1$s and power on at %2$s</string>
-     <string name="shutdown_boot_day">Device will power off at %1$s and power on in %2$dd at %3$s</string>
-     <string name="shutdown_cancel_reminder">"Didn't power off"</string>
-     <string name="shutdown_cancel_reminder_detail">"Device didn't power off because you were in the middle of a call"</string>
-     <string name="shutdown_day_boot_day">Device will power off in %1$dd at %2$s and power on in %3$dd at %4$s</string>
-     <string name="shutdown_time">Device will power off at %1$s</string>
-     <string name="shutdown_time_day">Device will power off in %1$dd at %2$s</string>
      <string name="st_title_mode_choose_group">Выбери режим</string>
      <string name="suffix_virus_count_bottom">всего</string>
      <string name="suffix_virus_count_top">подозрений</string>
@@ -724,7 +693,6 @@
      <string name="summary_antivirus">Upload app names and scan using online virus definitions</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="summary_antivirus_oversea">Update virus definitions automatically</string>
-     <string name="summary_auto_cleaner">Whether to clean automatically? Every three days after opening the default automatic cleaning a garbage can change the frequency and content in settings</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="summary_cleaner_cloudscan">Upload and compare unknown folder names with online definitions</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -732,8 +700,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="summary_cloud_service">Use Mi Cloud to back up your data in case you damage or lose your device.</string>
      <string name="summary_data_flow">"Check your carrier plan's data limits and set a data usage warning or limit to help manage your data usage."</string>
-     <string name="summary_delete_cache">Confirm that you want to delete the selected cache data? Some applications may not be deleted after use, please choose carefully</string>
-     <string name="summary_delete_large_file">Confirm that you want to delete the selected file? After deleting large files may result in offline maps feature is not available, please choose carefully</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="summary_dev">Avoid applications stealing user data</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -746,9 +712,6 @@
      <string name="summary_install_virus">Проверять приложения на вирусы перед установкой</string>
      <string name="summary_miui_update">Update available for %s.</string>
      <string name="summary_mms">Фильтрация нежелательных сообщений (скидки, объявления и т.д.)</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="summary_network_switch">Allow Security app to connect to the internet</string>
-     <string name="summary_never_flow_verify">"This figure hasn't been verified with your carrier"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="summary_optimizer">Upload and compare unknown app names and files with online definitions</string>
      <string name="summary_permission">Защита моей конфиденциальности от сторонних приложений</string>
@@ -779,8 +742,6 @@
      <string name="title_app_update_no">Обновлений: %d</string>
      <string name="title_app_update_yes">Все приложения обновлены!</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="title_auto_cleaner">Clean automatically</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_cleaner_cloudscan">Use online Cleaner engine</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_cloud_account">Sign in to your Mi Account</string>
@@ -790,10 +751,6 @@
      <string name="title_data_flow">Set a data usage warning</string>
      <string name="title_data_flow_no">Контроль трафика отключен</string>
      <string name="title_data_flow_yes">Контроль трафика включен</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="title_delete_cache">Delete cache data</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="title_delete_large_file">Delete large files</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_dev_no">Developer options on</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -813,8 +770,6 @@
      <string name="title_miui_update_yes">MIUI обновлена!</string>
      <string name="title_mms_no">Фильтрация сообщений отключена</string>
      <string name="title_mms_yes">Фильтрация сообщений включена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="title_network_switch">Allow internet connection</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_optimizer">Cleaner</string>
      <string name="title_permission_no">Мониторинг разрешений отключен</string>
@@ -853,8 +808,6 @@
      <string name="toast_garbage_lib">Turned on automatic updates for Cleaner</string>
      <string name="toast_garbage_list_empty">Отличное состояние. Очистка не требуется!</string>
      <string name="toast_network_eror">Ошибка сети!</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="toast_network_switch">This app can connect to the internet</string>
      <string name="toast_removed_from_white_list">Удалено из белого списка</string>
      <string name="toast_root_apply_accept">%s разрешены права суперпользователя</string>
      <string name="toast_root_apply_reject">%s запрещены права суперользователя</string>

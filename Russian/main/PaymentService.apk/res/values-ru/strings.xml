@@ -30,8 +30,6 @@
      <string name="bankcall_province">Провинция</string>
      <string name="bankcall_saved_card_info">%1$s - номер карты %2$s</string>
      <string name="bankcall_xiaomi_company">Корпорация Xiaomi (Пекин)</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bill_record_empty">No records.</string>
      <string name="btn_agree">Согласен</string>
      <string name="btn_back">Назад</string>
      <string name="btn_call">Позвонить</string>
@@ -110,7 +108,6 @@
      <string name="fee_with_mibi_giftcard"> %1$s-Mi Credit gift card</string>
      <string name="fee_with_partner_giftcard"> %1$s-Mi Credit %2$s</string>
      <string name="forget_password"><u>Забыл пароль?</u></string>
-     <string name="format_bill_date">yyyy/M/d</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="format_date">d MMMM yyyy</string>
      <string name="format_time">d MMMM yyyy hh:mmaa</string>
@@ -229,7 +226,12 @@
      <string name="password_error">Неверный пароль</string>
      <string name="password_forget">Забыл пароль?</string>
      <string name="password_hint">Введи пароль от аккаунта</string>
-     <string name="payment_recharge_group_title">Choose top-up method</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pay_record_empty">No payment records.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pay_record_typeall">All</string>
+     <string name="payment_recharge_group_familiar">Choose top-up method</string>
+     <string name="payment_recharge_group_favorite">Top-up methods</string>
      <string name="payment_success_label">"You've paid%1$sMi Credit"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="payment_success_title">Payment received</string>
@@ -293,6 +295,10 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="recharge_grid_item_more">More</string>
      <string name="recharge_grid_picker_hint">Выберите размер пополнения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="recharge_group_familiar">Common methods</string>
+     <string name="recharge_group_favorite">Use previous top-up method</string>
+     <string name="recharge_group_others">Other top-up methods</string>
      <string name="recharge_message_title">Сообщение</string>
      <string name="recharge_notification">Пополнение: %1$s MiCredit</string>
      <string name="recharge_novalid_method">Нет действующего пополнения</string>
@@ -301,6 +307,7 @@
      <string name="recharge_prepaid_title">Карты оплаты</string>
      <string name="recharge_push_notification_prime_title">%1$d добавил %2$s MiCredit на Ваш счет</string>
      <string name="recharge_push_notification_sub_title">Пополнение завершено</string>
+     <string name="recharge_record_empty">No top-up records.</string>
      <string name="recharge_voucher_title">Карта MiCredit</string>
      <string name="scan_prompt_number">Сканировать номер карты предоплаты %1$s</string>
      <string name="scan_prompt_password">Сканировать пароль карты предоплаты %1$s</string>
@@ -315,8 +322,6 @@
      <string name="summary_custom_service_phone">Tel:</string>
      <string name="summary_lockpattern">Защита ключем блокировки</string>
      <string name="summary_sms_code">Чтобы обеспечить безопасность своей учетной записи, введи код подтверждения, полученный на номер %1$s, а затем закончи процедуру.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="title_bill_record">Payment history</string>
      <string name="title_bind_phone">Привзязать номер</string>
      <string name="title_change_lockpattern">Сменить ключ</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -330,7 +335,10 @@
      <string name="title_nopassword_dialog">Суточный лимит</string>
      <string name="title_password">Пароль</string>
      <string name="title_password_threshold">Суточный лимит = %1$s юань</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_pay_record">Payment records</string>
      <string name="title_recharge">Пополнить баланс</string>
+     <string name="title_recharge_record">Top-up records</string>
      <string name="title_sms_code">Введите проверочный код</string>
      <string name="title_transaction">Операции</string>
      <string name="title_visible_pattern">Сделать шаблон видимым</string>

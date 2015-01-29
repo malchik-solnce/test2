@@ -8,8 +8,6 @@
      <string name="action_item_add_to_new_playlist">Новый плейлист</string>
      <string name="action_item_delete">Удалить</string>
      <string name="action_item_download">Скачать</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="action_item_hide">Hide</string>
      <string name="action_item_remove">Удалить</string>
      <string name="action_item_send">Отправить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -33,15 +31,11 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="baidu_music">Baidu Music</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bill_list_fragment_title">Charts</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="bluetooth_device">Bluetooth device</string>
      <string name="buffering">Буферизация…</string>
      <string name="button_add">Добавить</string>
      <string name="can_not_find_resource">"Can't find resources"</string>
      <string name="cancel">Отмена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="channel_list_fragment_title">FM</string>
      <string name="choose_download_quality">Выберите качество скачавания</string>
      <string name="choose_stream_quality">Выберите качество потока</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -51,12 +45,6 @@
      <string name="create_playlist">Создать плейлист</string>
      <string name="data_usage_warning">Мобильный интернет</string>
      <string name="data_usage_warning_summary">Использование мобильного интернета для потоковой передачи более высококачественной музыки может увеличить затраты денежных стредств</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="delete_file_as_well">Delete local file as well</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="delete_file_end">Delete the files completely</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="delete_file_start">Start to delete the selected files</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="device_connected">Connected</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -156,10 +144,6 @@
      <string name="filter_by_duration_prefix">"Minimum Duration: "</string>
      <string name="filter_by_duration_summary">"Don't display short audio files"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="filter_by_folder">By folder</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="filter_by_folder_summary">Choose folders to display</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="filter_by_size">Filter by size</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="filter_by_size_max">2MB</string>
@@ -253,14 +237,10 @@
      <string name="no_online_song_selected">No songs selected</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_results_return">No search results</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no_song">No songs</string>
      <string name="no_song_downloaded">Нет песен для загрузки</string>
      <string name="normal_quality">Хорошее качество</string>
      <string name="not_login">Войти</string>
      <string name="not_selected">Пожалуйста, выберите песню</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="nowplaying_menu_item_delete">Delete</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
      <string name="online_music">Онлайн</string>
@@ -283,11 +263,7 @@
      <string name="priority_storage_summary">Automatically download to external SD card if available</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="project_device">Mi Box</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="project_device_mobile">Mobile device</string>
      <string name="quit_warining">Автоотключение через %d мин.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="recommend_fragment_title">Topic</string>
      <string name="retry">Повтор</string>
      <string name="ringtone_not_support">"The song's format is not supported."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -305,8 +281,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="select_album">Select Album</string>
      <string name="select_device">Выберите устройство</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="select_displayed_folders">Choose folders to display</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="select_local_album">Select Local Album</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -328,8 +302,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="set_ringtones_failed">Failed to set ringtones.</string>
      <string name="set_ringtones_successful">Successfully set %s as ringtones.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="similar_songs">Similar songs</string>
      <string name="sleep_mode">Настройки выключения</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sleep_mode_canceled">Sleep mode canceled</string>

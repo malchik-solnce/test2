@@ -420,8 +420,6 @@
      <string name="incall_default_recording_service_class">com.android.incallui.CallRecordingService</string>
      <string name="incall_error_call_failed">Вызов не осуществляется</string>
      <string name="incall_error_emergency_only">Нет регистрации в сети</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="incall_error_no_active_sim">No sim card is on.</string>
      <string name="incall_error_no_phone_number_supplied">Вызов не осуществляется, действительный номер телефона не указан</string>
      <string name="incall_error_out_of_service">Мобильная сеть недоступна</string>
      <string name="incall_error_power_off">Перед тем как звонить, отключите режим полета</string>
@@ -431,8 +429,6 @@
      <string name="international_disable">International news disabled</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="international_enable">International news enabled</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="international_roaming_setting">International roaming</string>
      <string name="internet_phone">Интернет-вызов</string>
      <string name="invalid_password">Введите пароль из 4 цифр</string>
      <string name="invalid_pin">Введите PIN, содержащий от 4 до 8 цифр</string>
@@ -711,7 +707,6 @@ This can take up to 5 minutes."</string>
      <string name="preferred_network_type_pref_entries_3g_preferred">Предпочтительно 3G</string>
      <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Prefer 3G networks(CDMA)</string>
      <string name="preferred_network_type_pref_entries_4g_preferred">Предпочтительно 4G</string>
-     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Prefer 4G (CDMA)</string>
      <string name="preferred_network_type_pref_entries_auto">Автоматический</string>
      <string name="preferred_network_type_pref_entries_global">Глобальный</string>
      <string name="preferred_network_type_pref_entries_only_2g">Только 2G</string>
@@ -848,6 +843,10 @@ SIM-карта будет заблокирована навсегда при н�
      <string name="simContacts_airplaneMode">Чтобы импортировать контакты с SIM-карты, отключите режим полета</string>
      <string name="simContacts_emptyLoading">Считывание с SIM-карты…</string>
      <string name="simContacts_title">Контакты SIM-карты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sim_cards_network_mode_changed_summary">Touch to view SMS and call settings.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sim_cards_network_mode_changed_title">New SIM card detected</string>
      <string name="sim_contact_name">Имя</string>
      <string name="sim_contact_number">Номер</string>
      <string name="sim_ndp_dismiss_text">Закрыть</string>

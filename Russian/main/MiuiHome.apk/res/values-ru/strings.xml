@@ -4,47 +4,10 @@
      <string name="activity_not_found">Приложение не найдено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_being_backup_message">App is being backed up.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_category_books">Books</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_category_education">Education</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_category_entertainment">Entertainment</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_category_finance">Finance</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_category_games">Games</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_category_health">Health</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_category_lifestyle">Lifestyle</string>
-     <string name="app_category_music_movie">Music &amp; Video</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_category_news">News</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_category_photos">Photos</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_category_productivity">Productivity</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_category_shopping">Shopping</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_category_social">Social</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_category_sport">Sports</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_category_tools">Tools</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_category_travel">Travel</string>
      <string name="application_name">Рабочий стол</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="apply_action">Apply</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="apply_as_lock_screen">Lock screen</string>
+     <string name="apply_as_lock_wallpaper">Apply</string>
      <string name="apply_as_lock_wallpaper_message">Применить также на экран блокировки?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="apply_as_wallpaper">Home screen</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="apply_both">Set both</string>
      <string name="aqi_quality_index_dangerous">Опасное</string>
      <string name="aqi_quality_index_good">Хорошее</string>
      <string name="aqi_quality_index_hazardous">Опасное</string>
@@ -58,13 +21,9 @@
      <string name="cant_remove_folder">Не удалось удалить папку</string>
      <string name="cant_remove_retained_app">Не удалось удалить приложений</string>
      <string name="cant_remove_system_app">Нельзя удалить системное приложение</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="choose_wallpaper">Choose wallpaper</string>
      <string name="chooser_wallpaper">Выбрать обои из</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm_btn_label">OK</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="current_preview">Preview</string>
      <string name="current_wallpaper">Текущие</string>
      <string name="custom_wallpaper_picker">Пользовательские</string>
      <string name="default_folder_title_game">Игры</string>
@@ -73,22 +32,15 @@
      <string name="default_folder_title_tools">Инструменты</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="delete">Delete</string>
-     <string name="delete_wallpaper_message">Delete %1$d selected wallpaper?</string>
-     <string name="delete_wallpapers_message">Delete %1$d selected wallpapers?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="disable_wallpaper_scroll">Turn off wallpaper scroll</string>
      <string name="edit_folder_title">Имя папки</string>
      <string name="editing_add_widget_tips">Добавление виджетов</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="editing_mode_enter_tip_text">Pinch to edit Home screen</string>
-     <string name="editing_mode_title">%1$d selected</string>
      <string name="editing_mode_title_empty">Выберите</string>
      <string name="editing_set_transition_effect_tips">Смена эффекта перехода экранов</string>
      <string name="editing_set_wallpaper_tips">Смена обоев рабочего стола</string>
      <string name="editing_tips">Добавление и редактирование виджетов</string>
      <string name="emptyplaylist">Плейлист пуст</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="enable_wallpaper_scroll">Turn on wallpaper scroll</string>
      <string name="encryption">Шифрование</string>
      <string name="failed_to_delete_temporary">Удаление не удалось</string>
      <string name="failed_to_drop">Перемещение не удалось</string>
@@ -110,10 +62,6 @@
      <string name="free_style_enter_tip">Сдвиньте двумя пальцами вниз, чтобы перейти к свободному рабочему столу</string>
      <string name="free_style_exit_tip">Сдвиньте двумя пальцами вверх, чтобы выйти из свободного рабочего стола</string>
      <string name="free_style_londing_text">Loading…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gadget_calculator_label">Calculator</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gadget_calendar_label">Calendar</string>
      <string name="gadget_clear_button_label">Чистка памяти</string>
      <string name="gadget_clock_12_label">Часы 1х2</string>
      <string name="gadget_clock_22_label">Часы 2х2</string>
@@ -123,8 +71,6 @@
      <string name="gadget_google_search_label">Поиск Google</string>
      <string name="gadget_load_error">Ошибка загрузки виджета…</string>
      <string name="gadget_mtz_label">Mi виджеты</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gadget_notes_label">Notes</string>
      <string name="gadget_photo_22_label">Фоторамка 2х2</string>
      <string name="gadget_photo_24_label">Фоторамка 2х4</string>
      <string name="gadget_photo_44_label">Фоторамка 4х4</string>
@@ -153,11 +99,7 @@
      <string name="guide_tips_editing_mode">Touch &amp; hold to pick up a widget</string>
      <string name="install">Установить</string>
      <string name="invalid_contact_shortcut">Недопустимый ярлык</string>
-     <string name="is_setting_wallpaper_toast">Setting wallpaper…</string>
-     <string name="is_system_wallpaper_message">"Can't delete system resource"</string>
      <string name="loading_desktop">Загрузка…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="local_wallpaper">Local</string>
      <string name="lock_screen_failed_message">Не удалось применить :(</string>
      <string name="lock_screen_success_message">Применено :)</string>
      <string name="menu_add">Добавить</string>
@@ -174,8 +116,6 @@
      <string name="menu_sort">Сортировка</string>
      <string name="menu_wallpaper">Настройки обоев</string>
      <string name="menu_workspace_preview">Просмотр столов</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mi_wallpaper">MIUI wallpaper</string>
      <string name="multi_selecting_tips">Нажмите на иконку</string>
      <string name="online_wallpaper">Онлайн</string>
      <string name="out_of_space">На этом экране нет свободного места</string>
@@ -211,11 +151,7 @@
      <string name="scroll_tip_format_when_announce_accessibility">На странице: %1$d приложений: %2$d</string>
      <string name="select_frame">Рамка</string>
      <string name="select_photo">Фото</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="setting_wallpaper_tip">Move or scale</string>
      <string name="settings_shortcut">Ярлык настроек</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="show_all">Show all</string>
      <string name="sort_by_abc">По имени</string>
      <string name="sort_by_frequency">По использованию</string>
      <string name="sort_by_not_defined">Автоматически</string>
@@ -242,23 +178,9 @@
      <string name="uninstall">OK</string>
      <string name="uninstall_dialog_message">Удалить это приложение?</string>
      <string name="uninstall_dialog_title_format">\"%s\"</string>
-     <string name="uninstall_dialog_title_multi_format" formatted="false">Uninstall %s and %d other apps?</string>
-     <string name="uninstall_result_failed">"Can't uninstall %s"</string>
-     <string name="uninstall_result_multi_succeeded">%1$d apps uninstalled</string>
-     <string name="uninstall_result_other_failed" formatted="false">"Can't uninstall %s and %d other apps"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="uninstall_result_succeeded">App uninstalled</string>
-     <string name="uninstall_result_two_failed">"Can't uninstall %s and 1 other app"</string>
      <string name="unknown_artist_name">Неизвестный исполнитель</string>
      <string name="unnamed_folder_name">Без имени</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="wallpaper">Wallpaper</string>
-     <string name="wallpaper_failed_message">"Can't apply wallpaper"</string>
      <string name="wallpaper_scrolling">все</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="wallpaper_settings">Wallpaper settings</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="wallpaper_success_message">Wallpaper applied successfully</string>
      <string name="widget_favorite_contacts_edit">Редактор</string>
      <string name="widget_favorite_contacts_label">Избранные контакты</string>
      <string name="widget_favorite_contacts_style">Изменить размер</string>
