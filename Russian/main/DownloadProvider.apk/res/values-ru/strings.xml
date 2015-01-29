@@ -25,6 +25,8 @@
      <string name="notification_download_failed">Не удалось загрузить файл</string>
      <string name="notification_need_wifi_for_size">Загрузка только по Wi-Fi</string>
      <string name="notification_paused_in_background">Загрузка приостановлена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="paused_waiting_for_network">Waiting for network</string>
      <string name="permdesc_accessAllDownloads">Приложение сможет открывать и изменять загрузки независимо от того, через какое ПО они были загружены</string>
      <string name="permdesc_downloadCacheNonPurgeable">Приложение сможет загружать файлы в кэш загрузки (который не может быть автоматически очищен), если менеджеру загрузки потребуется больше места</string>
      <string name="permdesc_downloadCompletedIntent">Приложение сможет отправлять оповещения о завершенных загрузках. Вредоносные программы смогут таким образом мешать работе приложений, загружающих файлы</string>

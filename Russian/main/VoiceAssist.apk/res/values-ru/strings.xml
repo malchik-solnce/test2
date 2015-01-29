@@ -56,6 +56,8 @@
      <string name="descript_format" formatted="false">%s - %s</string>
      <string name="display_setting">打开系统设置</string>
      <string name="download_failed">Ошибка загрузки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="emergency">Jump to dial pad</string>
      <string name="engine_settings_button">Настройки запуска</string>
      <string name="find_more_restaurant">Посмотреть еще</string>
      <string name="find_restaurant_nearby">Найти рестораны поблизости</string>
@@ -124,6 +126,8 @@
      <string name="recognition_failure">"Ничего не найдено
 Пожалуйста, еще раз введите команду"</string>
      <string name="recognition_mess">Пример распознавания речи</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="redirect_dial_panel">Redirecting to dial pad</string>
      <string name="report_method">Голосовой отчет</string>
      <string name="res_client_error">Непредвиденная ошибка</string>
      <string name="res_error">Ошибка идентификации</string>

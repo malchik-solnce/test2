@@ -9,13 +9,58 @@
      <string name="account">Аккаунт</string>
      <string name="account_bind_devices">Подключенные устройства</string>
      <string name="account_bind_settings">Привязать аккаунт</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_crop_user_avatar">Crop photo</string>
      <string name="account_dspt_provision">Один аккаунт для всего Xiaomi</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_dspt_provision2">Learn More</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_empty_user_name">Enter your Mi Account username</string>
+     <string name="account_error_longer_user_name">"Name can't exceed 20 characters"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_error_shorter_user_name">Name must be longer than 2 characters</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_error_user_birthday">The birthday you entered is invalid</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_learn_more_title">Create a Mi Account</string>
      <string name="account_name">Аккаунт: %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_no_set">None</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_none">None</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_none_user_name">None</string>
      <string name="account_settings">Настройки аккаунта</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_user_avatar">Profile picture</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_user_avatar_from_album">Choose photo</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_user_avatar_from_camera">Take photo</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_user_birthday">Birthday</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_user_details">User info</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_user_email">Email</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_user_gender">Gender</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_user_gender_female">Female</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_user_gender_male">Male</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_user_id">Mi Account ID</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_user_name">Name</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_user_name_dialog_title">Enter username</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_user_phone">Phone number</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_user_using_qq_avatar">Use QQ profile picture</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_user_using_weibo_avatar">Use Sina Weibo profile picture</string>
      <string name="account_xiaomi_service">Сервисы Xiaomi</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="add_account">Add account</string>
@@ -72,6 +117,8 @@
      <string name="device_trust_info">Trusted device</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="email_or_id_hint_text">Email or Mi Account ID</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="empty_device_list_notice">No devices</string>
      <string name="error_device_id">"Can't get IMEI"</string>
      <string name="error_invalid_dev_id">Неверный ID устройства</string>
      <string name="error_network">Ошибка сети</string>
@@ -111,13 +158,11 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mi_service">Support</string>
      <string name="mibi_balance">%s Mi Credits</string>
-     <string name="micloud_account_details">Сведения об аккаунте</string>
      <string name="micloud_account_name">Mi аккаунт</string>
      <string name="micloud_area_code_title">Код страны</string>
      <string name="micloud_delete_account">Удалить аккаунт</string>
      <string name="micloud_error_empty_captcha_code">Введи код с картинки</string>
      <string name="micloud_error_empty_pwd">Введи пароль</string>
-     <string name="micloud_none">Ничего</string>
      <string name="micloud_reg_new">Новый</string>
      <string name="micloud_space_info">Доступно: %s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -129,11 +174,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_sync_state_syncing">Syncing</string>
      <string name="micloud_user_base_info">Информация о пользователе</string>
-     <string name="micloud_user_email">Почта</string>
-     <string name="micloud_user_id">Mi аккаунт ID</string>
-     <string name="micloud_user_name">Имя</string>
-     <string name="micloud_user_nick_name">Псевдоним</string>
-     <string name="micloud_user_phone">Телефон</string>
      <string name="mili_center">Mой баланс</string>
      <string name="mipay_center">Карты оплаты</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -370,6 +410,8 @@ To activate your account, follow the
      <string name="phone_unactivated">Not activated</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="phone_unknown">Unknown</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="photoPickerNotFoundText">No pictures available.</string>
      <string name="prev">Назад</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="privacy_policy">Privacy Policy</string>

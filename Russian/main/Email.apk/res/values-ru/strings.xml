@@ -942,6 +942,14 @@
      <string name="search_results_header">Результаты поиска</string>
      <string name="search_results_loaded">%1$d</string>
      <string name="search_results_searching_header">Поиск…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_tabs_name_all">All</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_tabs_name_recipient">Recipient</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_tabs_name_sender">Sender</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_tabs_name_subject">Subject</string>
      <string name="search_title">Единые E-mail</string>
      <string name="search_txt_size_limit_prompt">Строка поиска должна быть больше, чем 3</string>
      <string name="search_unsupported">В этом аккаунте не поддерживается поиск</string>
