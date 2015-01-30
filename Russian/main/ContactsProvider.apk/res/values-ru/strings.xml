@@ -18,6 +18,8 @@
      <string name="provider_label">Контакты</string>
      <string name="read_write_all_voicemail_description">Разрешить приложению сохранять и извлекать все голосовые сообщения, к которым есть доступ на этом устройстве</string>
      <string name="read_write_all_voicemail_label">Доступ ко всей голосовой почте</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_the_yellowpage">Search the directory</string>
      <string name="send_sms">Отправить сообщение</string>
      <string name="sharedUserLabel">Приложения ядра Android</string>
      <string name="third_party_delete_contact_info">\"%s\" удаляет твои контакты Xiaomi. Используй приложение контакты для безопасности.</string>

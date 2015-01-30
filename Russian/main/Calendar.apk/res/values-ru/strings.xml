@@ -149,6 +149,7 @@
      <string name="event_full_date_format">d/MM/yyyy</string>
      <string name="event_hide_more">Скрыть</string>
      <string name="event_info_descrip">"Описание: "</string>
+     <string name="event_info_end">End\u0009\u0009\u0009</string>
      <string name="event_info_organizer">"Организатор: "</string>
      <string name="event_info_reminders_label">Напоминание</string>
      <string name="event_info_repeat">"Повторение: "</string>
@@ -213,6 +214,7 @@
      <string name="no_network">Нет сети :)</string>
      <string name="no_syncable_calendars">Нет календарей</string>
      <string name="no_title_label">(нет заголовка)</string>
+     <string name="not_exist_topic_list">无法获取订阅日历列表</string>
      <string name="not_synced">не синхронизирован</string>
      <string name="online_calendar_activity_label">Подписки</string>
      <string name="online_reminder_change_text">Изменить напоминание</string>
@@ -259,6 +261,41 @@
      <string name="quick_response_settings_title">Изменить быстрый ответ</string>
      <string name="refresh">Обновить</string>
      <string name="reminders_label">Добавить напоминание</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="repeat_activity_label">Repeat</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="repeat_custom_activity_label">Custom</string>
+     <string name="repeat_custom_prompt">every %1$s on %2$s</string>
+     <string name="repeat_custom_prompt_daily">every %1$s</string>
+     <string name="repeat_custom_prompt_sentence">Event will repeat %1$s</string>
+     <string name="repeat_custom_prompt_splitter">", "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="repeat_custom_string_prefix">Custom</string>
+     <string name="repeat_custom_string_suffix">" (%1$s)"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="repeat_end_label">Stop repeating after</string>
+     <string name="repeat_end_times_unit">" times"</string>
+     <string name="repeat_interval_dialog_title">Every %1$s</string>
+     <string name="repeat_interval_frequency">%1$d %2$ss</string>
+     <string name="repeat_interval_frequency_single">%1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="repeat_label_choose_day">Choose day</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="repeat_label_choose_month">Choose month</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="repeat_label_choose_time">Choose reminder time</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="repeat_label_choose_week">Choose week</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="repeat_label_day">Day</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="repeat_label_frequency">Frequency</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="repeat_label_interval">Every</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="repeat_label_week">Week</string>
+     <string name="repeat_month_day_splitter">" "</string>
+     <string name="repeat_week_info">" %1$s %2$s"</string>
      <string name="repeats_label">Повторять</string>
      <string name="response_maybe">Может быть</string>
      <string name="response_no">Нет</string>
@@ -298,6 +335,8 @@
      <string name="topic_event_list_header_label">Предстоящие события</string>
      <string name="topic_list_header_label">订阅列表</string>
      <string name="user_notice_online_agreement">您正在浏览MIUI订阅日历，这是一项在线服务，其页面显示和数据更新需要连接互联网。使用该服务表示您同意并愿意遵守%1$s和%2$s。</string>
+     <string name="user_notice_online_ok">同意并继续</string>
+     <string name="user_notice_online_title">声明与条款</string>
      <string name="view_all_matches">查看所有赛程</string>
      <string name="view_event_calendar_label">Календарь:</string>
      <string name="view_event_organizer_label">Организатор:</string>

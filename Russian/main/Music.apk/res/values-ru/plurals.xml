@@ -28,6 +28,10 @@
         <item quantity="other">Найдено треков: %d</item>
         <item quantity="one">Найдено треков: %d</item>
      </plurals>
+     <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d similar songs</item>
+        <item quantity="one">%d similar song</item>
+     </plurals>
      <plurals name="artist_list_fragment_item_count_format">
         <item quantity="other">Треков: %d</item>
         <item quantity="one">Треков: 1</item>

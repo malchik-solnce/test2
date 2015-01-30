@@ -284,6 +284,8 @@
      <string name="pref_camera_recordlocation_entry_on">Вкл.</string>
      <string name="pref_camera_recordlocation_title">Геотеги</string>
      <string name="pref_camera_referenceline_title">Вспомогательная сетка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_saturation_cm_test_default">4</string>
      <string name="pref_camera_saturation_title">Насыщенность</string>
      <string name="pref_camera_scenemode_entry_auto">Авто</string>
      <string name="pref_camera_scenemode_entry_backlight">Подсветка</string>
@@ -425,6 +427,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="simple_mode_button_text_manual">Close Manual Mode</string>
      <string name="simple_mode_button_text_panorama">Выйти</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="simple_mode_button_text_scene">Close scene mode</string>
      <string name="simple_mode_button_text_slow_video">Выйти</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="simple_mode_button_text_ubifocus">Close Refocus Mode</string>

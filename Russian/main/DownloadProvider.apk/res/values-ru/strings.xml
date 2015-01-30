@@ -15,10 +15,18 @@
      <string name="download_running">В процессе</string>
      <string name="download_running_percent">В процессе, %d%%</string>
      <string name="download_unknown_title">&lt;без названия&gt;</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="notif_text_engine_off">Xunlei accelerator is off.</string>
+     <string name="notif_text_engine_on">Accelerating…</string>
+     <string name="notif_title_file_size">共%1$d个文件</string>
+     <string name="notif_title_multiple_downloading">正在下载%1$d个文件</string>
+     <string name="notif_title_single_downloading">正在下载%1$s</string>
      <string name="notification_download_complete">Загрузка завершена</string>
      <string name="notification_download_failed">Не удалось загрузить файл</string>
      <string name="notification_need_wifi_for_size">Загрузка только по Wi-Fi</string>
      <string name="notification_paused_in_background">Загрузка приостановлена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="paused_waiting_for_network">Waiting for network</string>
      <string name="permdesc_accessAllDownloads">Приложение сможет открывать и изменять загрузки независимо от того, через какое ПО они были загружены</string>
      <string name="permdesc_downloadCacheNonPurgeable">Приложение сможет загружать файлы в кэш загрузки (который не может быть автоматически очищен), если менеджеру загрузки потребуется больше места</string>
      <string name="permdesc_downloadCompletedIntent">Приложение сможет отправлять оповещения о завершенных загрузках. Вредоносные программы смогут таким образом мешать работе приложений, загружающих файлы</string>

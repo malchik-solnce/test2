@@ -66,6 +66,8 @@
      <string name="button_to_setting">Settings</string>
      <string name="call_delete_hint">Удалить все заблокированные вызовы с выбранного номера?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="call_delete_title">Remove Call</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="call_transfer_block">Block forwarded calls</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="call_transfer_block_type">Block forwarded calls</string>
@@ -137,6 +139,8 @@
      <string name="fw_blocked_count">Заблокировано</string>
      <string name="fw_blocked_join">" and "</string>
      <string name="hint_antispam_mode_edit">Пользовательский режим</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="info_antispam_close">AntiSpam Off</string>
      <string name="info_antispam_current_mode">%s</string>
      <string name="info_antispam_phone">Блокировать вызовы</string>
      <string name="info_antispam_phone_sms">Блокировать вызовы и сообщения</string>
@@ -145,6 +149,8 @@
      <string name="info_unantispam_phone_sms">Разрешить вызовы и сообщения</string>
      <string name="info_unantispam_sms">Разрешить сообщения</string>
      <string name="label_callwait">Ожидание вызова</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="loding">Loading data</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_agent">Sales agent</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -204,6 +210,8 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
      <string name="open_callwait">Включить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="read_all_sms">Mark as read</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="report">Report</string>
      <string name="report_error">"Couldn't report message"</string>
      <string name="report_error_not_net">"Can't connect to the network"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -212,9 +220,16 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
      <string name="report_sms">Report messages</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="report_success">Message reported</string>
+     <string name="report_warning">"Report %1$s SMS to Mi? These messages and the phone numbers they were sent from will be uploaded to Mi's servers for review. Any personal info associated with these messages is always kept anonymous."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="report_warning_title">Report SMS</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_not_ready">SIM card not ready</string>
      <string name="sms_delete_hint">Удалить все заблокированные сообщения, отправленные выбранным номером?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sms_delete_title">Remove Message</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sms_smart_engine_update">Automatically update SMS filter</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="special_number_group">Block special numbers</string>
      <string name="st_advanced_setting_group">Дополнительно блокировать</string>
@@ -333,6 +348,8 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
      <string name="st_title_settings_other_group">Дополнительные настройки</string>
      <string name="st_title_show_antispamnotification">Уведомление о блокировке</string>
      <string name="st_title_sim_card">%1$s-SIM %2$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="st_title_sim_unknown">Unknown</string>
      <string name="st_title_whitelist_numbers">Номера белого списка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sure">OK</string>

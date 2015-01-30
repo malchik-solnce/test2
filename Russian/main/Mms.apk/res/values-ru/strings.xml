@@ -37,6 +37,8 @@
      <string name="attach_subject">Тема</string>
      <string name="attach_take_photo">Снять фото</string>
      <string name="attach_video">Видео</string>
+     <string name="audio_download_failed">"Can't download audio"</string>
+     <string name="audio_playing_seconds">%d\"</string>
      <string name="back_to_message_list">Вернутся к списку сообщений</string>
      <string name="batch_adding_progress_message">Добавление…</string>
      <string name="batch_delete_confirm_dialog_message">Удалить %1$s сообщения(ий)?</string>
@@ -51,6 +53,7 @@
      <string name="cannot_add_slide_anymore">Добавлено максимальное число слайдов</string>
      <string name="cannot_forward_drm_obj">Нельзя переслать DRM-объект из этого сообщения</string>
      <string name="cannot_get_details">Не удалось загрузить данные</string>
+     <string name="cannot_resend_audio">"Couldn't send recording"</string>
      <string name="cannot_send_message">Не удалось отправить сообщение</string>
      <string name="cannot_send_message_reason">Не указано ни одного реального получателя</string>
      <string name="change_duration_activity">Изменить продолжительность</string>
@@ -121,6 +124,8 @@
      <string name="download">Загрузить</string>
      <string name="download_later">Не удалось загрузить сообщения. Повтори попытку позже.</string>
      <string name="downloading">Загрузка…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="downloading_file_can_not_play">Wait until recording has finished downloading</string>
      <string name="duration_not_a_number">Должно быть указано числовое значение</string>
      <string name="duration_sec">Продолжительность: (%s сек.)</string>
      <string name="duration_selector_title">"Продолжительность показа слайда "</string>
@@ -155,6 +160,8 @@
      <string name="festival_continue">OK</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="festival_networking_desc">This feature needs to connect to the internet to function normally.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="festival_networking_title">Notice</string>
      <string name="festival_never_remind">"Don't show again."</string>
      <string name="festival_sms_category_count_format">(%s)</string>
      <string name="festival_sms_loading">Загрузка…</string>
@@ -176,12 +183,15 @@
      <string name="group_resend_message">Переслать(%d)</string>
      <string name="guild_add_attachments">Нажмите для добавления вложения или смайла в сообщение</string>
      <string name="guild_add_recipients">Нажмите для добавления получателей из адресной книги</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="guild_msim_switcher">Touch to switch SIM cards</string>
      <string name="has_invalid_recipient">Недопустимые получатели: &lt;%1$s></string>
      <string name="hidden_sender_address">Адрес отправителя скрыт</string>
      <string name="hint_search_sms">Сообщений: %d</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hms_add_image_progress_message">Processing. Please wait...</string>
      <string name="hms_first_use_tips">Для приема служебных сообщений, вы должны быть подключены к Wi-Fi сети</string>
+     <string name="hms_uri_param_err">"URL can't be empty"</string>
      <string name="importing_progress_private_message">Импорт сообщений в приватный ящик…</string>
      <string name="in_sms">Сообщение</string>
      <string name="insufficient_drm_rights">Обнаруженных прав DRM недостаточно</string>
@@ -191,6 +201,8 @@
      <string name="invalid_recipient_message">Убедитесь, что все получатели указаны правильно</string>
      <string name="kilobyte">КБ</string>
      <string name="layout_selector_title">"Макет слайд-шоу "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="left_cancel">Swipe left to cancel</string>
      <string name="loading_all_messages">Загрузка всех сообщений…</string>
      <string name="loading_conversations">Загрузка цепочек…</string>
      <string name="loading_mms">Загрузка MMS…</string>
@@ -218,6 +230,8 @@
      <string name="menu_new_manual">Ввести номер вручную</string>
      <string name="menu_pick_from_contact">Выбрать из контактов</string>
      <string name="menu_preferences">Настройки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_send_as_common">Send as SMS</string>
      <string name="menu_unlock">Разблокировать</string>
      <string name="menu_view_contact">Просмотреть контакт</string>
      <string name="menu_yellowpage">View %s</string>
@@ -234,6 +248,8 @@
      <string name="message_saved_as_draft">Черновик сообщения сохранен</string>
      <string name="message_send_failed_title">Сообщение не отправлено</string>
      <string name="message_send_read_report">Будет отправлен отчет о прочтении</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="message_sent">Sent</string>
      <string name="message_size_label">"Размер сообщения: "</string>
      <string name="message_too_big_for_audio">Сообщение слишком велико, чтобы прикрепить аудио</string>
      <string name="message_too_big_for_video">Сообщение слишком велико, чтобы приложить видео</string>
@@ -253,6 +269,7 @@
      <string name="msglist_release_to_more">Release to view more</string>
      <string name="multimedia_message">Мультимедийное сообщение</string>
      <string name="multimedia_notification">Уведомление о MMS</string>
+     <string name="mx2_type_description">[%s]</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mx_activate_dlg_title">Activate Mi Message</string>
      <string name="mx_activate_error_malformed_info">Ваши личные данные повреждены. Необходимо повторить активацию облачных сообщений.</string>
@@ -321,6 +338,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="phrase_list_title">Фразы</string>
      <string name="pick_too_many_recipients">Слишком много получателей</string>
      <string name="play">Воспроизвести</string>
+     <string name="playing_failed">"Can't play"</string>
      <string name="pref_advanced_settings_title">Дополнительные</string>
      <string name="pref_collapse_sp_messages_summary">Собирать сообщения от поставщиков услуг, банков и т.д. в отдельный раздел</string>
      <string name="pref_edit_smsc_address">Номер SMS центра</string>
@@ -365,6 +383,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_title_mms_retrieval_during_roaming">Автозагрузка в роуминге</string>
      <string name="pref_title_notification_body_enabled">Предпросмотр сообщения</string>
      <string name="pref_title_ringtone_repeat">Количество напоминаний</string>
+     <string name="pref_title_ringtone_repeat_summary">Number of notification sounds when SMS message is received while display is off:</string>
      <string name="pref_title_show_recent_contacts">Показать недавние контакты</string>
      <string name="pref_title_sms_delete">Макс. количество SMS</string>
      <string name="pref_title_system_mms_priority">Приоритет для СМС</string>
@@ -372,6 +391,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_title_wake_up_screen">Включение экрана</string>
      <string name="preferences_title">Настройки</string>
      <string name="prepare_send">Подготовка к отправке…</string>
+     <string name="press_recording">Press &amp; hold the Mic icon to record</string>
      <string name="preview">Просмотреть</string>
      <string name="preview_slideshow">Предварительный просмотр</string>
      <string name="priority_high">Высокий</string>
@@ -389,10 +409,13 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="rate_limit_surpassed">Подтвердить</string>
      <string name="received_label">"Полученные: "</string>
      <string name="recipient_label">"Получатель: "</string>
+     <string name="recording_failed">"Can't record"</string>
      <string name="refill_now">Пополнить</string>
      <string name="refresh">Обновить</string>
      <string name="refresh_failed">Обновление не выполнено</string>
      <string name="refreshing">Обновление…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="release_cancel">Release to cancel</string>
      <string name="remove">Удалить</string>
      <string name="remove_music">Удалить музыку</string>
      <string name="remove_picture">Удалить картинку</string>
@@ -403,6 +426,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="replace_image">Заменить картинку</string>
      <string name="resent_message">Повторить</string>
      <string name="resize_image_error_information">Изображение слишком велико для отправки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_price_free">Free</string>
      <string name="restore_all_button_msg">Восстановить все</string>
      <string name="restore_blocked_message">Восстановить</string>
      <string name="restore_to_phone_memory_failed">Не удалось восстановить</string>
@@ -416,6 +441,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="saved_ringtone">Рингтон сохранен</string>
      <string name="saved_ringtone_fail">Рингтон не сохранен</string>
      <string name="saved_to_sim">Сохранено</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sdcard_has_not_enough_space">Not enough space on SD card</string>
      <string name="search">СМС/MMS</string>
      <string name="search_empty">Ничего не найдено</string>
      <string name="search_hint">Поиск сообщений</string>
@@ -472,6 +499,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="sms_full_title">Память для текстовых сообщений переполнена</string>
      <string name="sms_rejected_body">Входящее сообщение отклонено по неизвестной причине</string>
      <string name="sms_rejected_title">Сообщение отклонено</string>
+     <string name="snippet_audio">[audio]</string>
+     <string name="snippet_picture">[picture]</string>
      <string name="sp_category_all">Все сообщения</string>
      <string name="sp_category_bank">Сообщения от банков</string>
      <string name="sp_category_title_prefix">%s</string>
@@ -549,6 +578,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="view_hms_details">Подробнее</string>
      <string name="view_message_details">Подробности</string>
      <string name="wap_push_title">"Push-сообщение "</string>
+     <string name="warning_show">Send in %ds</string>
      <string name="xiaomi_service_number">Сервисный номер</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="yes">OK</string>
