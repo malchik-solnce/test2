@@ -17,6 +17,10 @@
      <string name="account">Аккаунт</string>
      <string name="account_prifix">Аккаунт:</string>
      <string name="action">Войти</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="action_menu_text_bandwidth">Bandwidth</string>
+     <string name="action_menu_text_bandwidth_off">Bandwidth/Off</string>
+     <string name="action_menu_text_bandwidth_on">Bandwidth/On</string>
      <string name="action_menu_text_bookmark">Доб. закладку</string>
      <string name="action_menu_text_exit">Выйти</string>
      <string name="action_menu_text_history">Закладки</string>
@@ -26,7 +30,7 @@
      <string name="action_menu_text_setting">Настройки</string>
      <string name="action_menu_text_share">Поделиться</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="action_menu_text_snapshot">Save page</string>
+     <string name="action_menu_text_video">Video</string>
      <string name="actionbar_share">Поделиться</string>
      <string name="actionbar_web_search">Поиск в интернете</string>
      <string name="adblock_notification">Заблокировано рекламы: %d</string>
@@ -128,7 +132,6 @@
      <string name="choosertitle_sharevia">Способ отправки</string>
      <string name="clear">Очистить</string>
      <string name="clear_history">Очистить историю</string>
-     <string name="clear_history_by_group_alert">Clear history from %s?</string>
      <string name="clear_history_group">Очистить всю историю (%s)</string>
      <string name="clear_search_history">Очистить историю</string>
      <string name="clip_dialog_title">Открыть скопированную ссылку?</string>
@@ -179,9 +182,14 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="common_use_phrase_bottom_bar_point_txt">.</string>
      <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="common_use_phrase_bottom_bar_text_next">Next</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="common_use_phrase_bottom_bar_text_previous">Prev</string>
      <string name="common_use_phrase_bottom_bar_up_analytic_txt">Открыть</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
+     <string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
      <string name="contextmenu_add_contact">Добавить контакт</string>
      <string name="contextmenu_copy">Копировать</string>
      <string name="contextmenu_copylink">Копировать ссылку</string>
@@ -257,8 +265,6 @@
      <string name="empty_history">Пусто</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="empty_history_hint">Empty</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="empty_snapshot_hint">Empty</string>
      <string name="empty_snapshots_folder">Нет сохраненных страниц</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="enter_developer_mode">Enter developer mode</string>
@@ -280,6 +286,8 @@
      <string name="file_picker">Обзор</string>
      <string name="filename_empty_alert_message">Имя файла не может быть пустым</string>
      <string name="filename_illegal_alert_message">Имя файла содержит недопустимые символы. Они были удалены автоматически.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="find_next">Find next</string>
      <string name="find_on_page">Найти на странице</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="find_on_page_cancel">Cancel</string>
@@ -287,6 +295,8 @@
      <string name="find_on_page_next">Next</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="find_on_page_prev">Back</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="find_previous">Find previous</string>
      <string name="folder_name">Имя папки</string>
      <string name="forward">Вперед</string>
      <string name="general_set_default_browser_dialog_close_txt">Отмена</string>
@@ -321,9 +331,21 @@
      <string name="is_last_tab">Это последняя вкладка</string>
      <string name="is_page_bottom">Конец страницы</string>
      <string name="is_page_top">Начало страницы</string>
+     <string name="js_dialog_before_unload">"%s 
+
+Are you sure you want to navigate away from this page?"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="js_dialog_before_unload_negative_button">Stay on this Page</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="js_dialog_before_unload_positive_button">Leave this Page</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="js_dialog_before_unload_title">Confirm Navigation</string>
+     <string name="js_dialog_title">The page at \" %s \" says:</string>
      <string name="js_disable_confirm_message">Отключение JavaScript может привести к неправильному отображению некоторых сайтов. Продолжить?</string>
      <string name="js_disable_confirm_title">Отключение JavaScript</string>
      <string name="js_engine_flags">Установить флаги JS</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="last_month">Last month</string>
      <string name="loading_tips">Потяни, чтобы обновить</string>
      <string name="local_bookmarks">Локальные</string>
      <string name="location">Адрес</string>
@@ -331,6 +353,22 @@
      <string name="max_tabs_warning">Достигнут предел количества вкладок</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="maximum_input_alert">Maximum input 2048 characters</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="media_error_action_refresh">Refresh</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="media_error_action_replace_video_source">Replace Video Source</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="media_error_failure">Video play failure</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="media_error_format">Video format error</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="media_error_nomemory">Mobile phone memory is full</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="media_error_source">Video source error</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="media_error_timeout">Network transmission timeout</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="media_error_video_not_exist">The video does not exist</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="media_player_error_button">OK</string>
      <string name="media_player_error_text_invalid_progressive_playback">Данное видео нельзя проиграть на этом устройстве</string>
@@ -374,6 +412,8 @@
      <string name="miui_bookmark_menu_moveout_group_txt">Move out</string>
      <string name="miui_content_copy">Копировать</string>
      <string name="miui_content_cut">Вырезать</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui_content_open_url">OpenURL</string>
      <string name="miui_content_paste">Вставить</string>
      <string name="miui_content_select">Выбрать</string>
      <string name="miui_content_select_all">Выбрать все</string>
@@ -390,10 +430,6 @@
      <string name="miuichromium_error_page_title">Не удалось найти страницу</string>
      <string name="miuichromium_error_page_url">Проверь ссылку</string>
      <string name="miuichromium_error_page_wlan">Настройки Wi-Fi</string>
-     <string name="miuichromium_save_password_message">Запомнить браузеру этот пароль?</string>
-     <string name="miuichromium_save_password_never">Никогда</string>
-     <string name="miuichromium_save_password_notnow">Не сейчас</string>
-     <string name="miuichromium_save_password_remember">Запомнить</string>
      <string name="modify_download_path_no_sdcard_dlg_msg">Требуется USB накопитель для изменения</string>
      <string name="month_picker_dialog_title">Выбери месяц</string>
      <string name="move_to_up_folder">Наверх</string>
@@ -406,10 +442,14 @@
      <string name="new_folder_name_lable">Group name</string>
      <string name="new_incognito_tab">Новая вкладка (инкогнито)</string>
      <string name="new_tab">Новая вкладка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_matches">No matches</string>
      <string name="not_remind_again">Больше не напоминать</string>
      <string name="notif_install_successful">Загрузка завершена</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="older">Older</string>
      <string name="open_all_bookmarks">Открыть все</string>
      <string name="open_all_in_new_window">Открыть все в новых вкладках</string>
      <string name="open_bookmark">Открыть</string>
@@ -580,6 +620,8 @@
      <string name="pref_webapp_settings_savewidth">Не загружать изображения при мобильном интернете</string>
      <string name="pref_zoom_on_double_tap">Зум при двойном нажатии</string>
      <string name="preview">Предварительный просмотр</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="private_browsing_warning">This functionality is not supported in this version of Android.</string>
      <string name="profiler_error_toast">Не удалось запустить профайлер</string>
      <string name="profiler_no_storage_toast">Не удается запустить профилировщик. Нет SD-карты.</string>
      <string name="profiler_started_toast">Профайлер запущен</string>
@@ -642,6 +684,13 @@
      <string name="save_file_already_exist_alert_title">Внимание</string>
      <string name="save_image_failed">Ошибка сохранения изображения</string>
      <string name="save_image_success">Изображение сохранено</string>
+     <string name="save_password_message">Do you want the browser to remember this password?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="save_password_never">Never</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="save_password_notnow">Not now</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="save_password_remember">Remember</string>
      <string name="save_to_bookmarks">Добавить закладку</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="save_to_camera">save to camera</string>
@@ -676,6 +725,10 @@
      <string name="snapshot_failed">Не удалось сохранить страницу</string>
      <string name="snapshot_go_live">Интерактивная версия</string>
      <string name="snapshot_successed">Успешно сохранено для чтения в офф-лайне</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ssl_certificate">Security certificate</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ssl_certificate_is_valid">This certificate is valid.</string>
      <string name="ssl_continue">Продолжить</string>
      <string name="ssl_date_invalid">Дата этого сертификата недействительна</string>
      <string name="ssl_expired">Срок действия сертификата истек</string>
@@ -705,8 +758,19 @@
      <string name="sub_sync_item_browser_title_webapp_summary">Синхронизировать добавленные вэб приложения</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="suggest_access_appstore">Mi App Store</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="suggest_access_btn_install">Install</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="suggest_access_btn_open">Open</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="suggest_access_btn_play">Play</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="suggest_access_btn_view">View</string>
+     <string name="suggest_access_item_album_songs">%d songs</string>
      <string name="suggest_access_item_app_size">%.2fMB</string>
      <string name="suggest_access_item_app_update">Update: %s</string>
+     <string name="suggest_access_item_singer_albums">%d albums</string>
+     <string name="suggest_access_item_singer_pop">%d popular songs</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="suggest_access_music">Mi Music</string>
      <string name="sync_item_browser_summary">Синхронизировать данные браузера в облако, для легкого использования на разных устройствах</string>
@@ -753,10 +817,40 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="v5_select_all">Select all</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="video_activity_name">Video Collections</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="video_collect_cancel">Cancel Collect</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="video_collect_success">Video Collect Success</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="video_download_downloaded">Downloaded</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="video_download_downloading">Downloading</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="video_download_fail">Fail</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="video_download_pause">Pause</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="video_download_success">Over</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="video_fragment_name_collections">My Collections</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="video_fragment_name_historys">History</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="video_fragment_name_offine">Offline</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="video_group_noupdates_list">NoUpdates</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="video_group_updates_list">Updates</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="video_project_button">Stop</string>
      <string name="video_project_msg">Displaying on %s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="video_project_title">External display</string>
+     <string name="video_push_multi_message">There are %1$d updates</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="video_push_multi_title">There are updates</string>
+     <string name="video_push_single_message">Update to %1$d</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="video_title">Video</string>
      <string name="view_certificate">Просмотреть сертификат</string>
@@ -804,21 +898,8 @@
      <string name="webstorage_origin_summary_mb_stored">Объем занятой памяти телефона (МБ)</string>
      <string name="webstorage_outofspace_notification_text">Нажми, чтобы освободить место</string>
      <string name="webstorage_outofspace_notification_title">Память браузера переполнена</string>
-     <string name="webview_cancel">Отмена</string>
      <string name="webview_find_on_page">Поиск на странице</string>
-     <string name="webview_js_dialog_before_unload">"%s
-
-Покинуть эту страницу?"</string>
-     <string name="webview_js_dialog_before_unload_negative_button">Остаться</string>
-     <string name="webview_js_dialog_before_unload_positive_button">Покинуть</string>
-     <string name="webview_js_dialog_before_unload_title">Подтверждение перехода</string>
-     <string name="webview_js_dialog_title">Страница "%s" сообщает:</string>
-     <string name="webview_last_month">В прошлом месяце</string>
-     <string name="webview_no_matches">Нет совпадений</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="webview_ok">OK</string>
-     <string name="webview_older">Ранее</string>
-     <string name="webview_today">Сегодня</string>
-     <string name="webview_yesterday">Вчера</string>
+     <string name="webviewchromium_private_browsing_warning">This functionality is not supported in this version of Android.</string>
      <string name="week_picker_dialog_title">Установка недели</string>
 </resources>

@@ -71,7 +71,10 @@
      <string name="cancel">Отмена</string>
      <string name="change_security_lock">Изменить блокировку</string>
      <string name="colon">: </string>
-     <string name="denomination_unit">￥</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="denomination_mibi_unit">MI</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="denomination_money_unit">RMB</string>
      <string name="detail_consume_account">ID покупки</string>
      <string name="detail_consume_amount">Количество</string>
      <string name="detail_consume_name">Продукт</string>
@@ -225,6 +228,8 @@
      <string name="msg_telecom_picker_hint_2_2">В ближайшее время Вы получите текстовое подтверждение</string>
      <string name="msg_telecom_sending">Ожидание провайдера сети…</string>
      <string name="order_price">%1$s MiCredit</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="other_denomiantion">Select amount</string>
      <string name="partner_giftcard_payment">%1$sMiCredit (только для %2$s)</string>
      <string name="password_error">Неверный пароль</string>
      <string name="password_forget">Забыл пароль?</string>
@@ -287,12 +292,13 @@
 Служба поддержки в Шеньчжоу: 400-100-5678"</string>
      <string name="progress_warning_waiting">Еще не подтвержден. Повтори попытку позже.</string>
      <string name="recharge_bankcall_title">Банковская карта</string>
-     <string name="recharge_grid_edit_limit">%1$s~%2$s юань</string>
-     <string name="recharge_grid_edit_upper_limit">Не может превышать %1$s юань</string>
      <string name="recharge_grid_error_denomination">Введи правильный размер пополнения между %1$s~%2$s юань</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="recharge_grid_item_more">More</string>
-     <string name="recharge_grid_picker_hint">Выберите размер пополнения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="recharge_grid_mibi_picker_hint">Choose amount</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="recharge_grid_money_picker_hint">Select amount</string>
      <string name="recharge_message_title">Сообщение</string>
      <string name="recharge_notification">Пополнение: %1$s MiCredit</string>
      <string name="recharge_novalid_method">Нет действующего пополнения</string>
@@ -301,6 +307,7 @@
      <string name="recharge_prepaid_title">Карты оплаты</string>
      <string name="recharge_push_notification_prime_title">%1$d добавил %2$s MiCredit на Ваш счет</string>
      <string name="recharge_push_notification_sub_title">Пополнение завершено</string>
+     <string name="recharge_value_money">Recharge RMB %s</string>
      <string name="recharge_voucher_title">Карта MiCredit</string>
      <string name="scan_prompt_number">Сканировать номер карты предоплаты %1$s</string>
      <string name="scan_prompt_password">Сканировать пароль карты предоплаты %1$s</string>
@@ -339,7 +346,6 @@
      <string name="unit_value">%1$s Mi Credit</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="voucher_card_text">Please scratch off the coat</string>
-     <string name="voucher_edit_limit">знаков</string>
      <string name="voucher_error_password">Неверный код!</string>
      <string name="voucher_input_password_prompt">Введите код</string>
 </resources>

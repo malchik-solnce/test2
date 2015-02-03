@@ -282,6 +282,8 @@
      <string name="impunity_declaration">Gallery may connect to network to provide service, including but not only Internet. Confirm to continue?</string>
      <string name="impunity_declaration_ignore">"Don't show again"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="impunity_declaration_positive_text">OK and Continue</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="impunity_declaration_settings">Show network notice</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="impunity_declaration_summary">Show network notice every time when launch Gallery app</string>

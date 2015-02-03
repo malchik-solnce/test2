@@ -241,6 +241,10 @@
      <string name="network_error">Нет подключения к сети. Проверьте сетевые настройки.</string>
      <string name="network_failure">"Can't connect to the network. Check your data connection and try again."</string>
      <string name="network_traffic">Настройки трафика</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_album_info">No album info</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_artist_info">No artist info</string>
      <string name="no_favorites_songs">Пусто</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_file_picker_find">File Manager is not installed on the phone</string>
@@ -292,6 +296,10 @@
      <string name="ringtone_not_support">"The song's format is not supported."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_album">Search Album Online</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_for_album">Album</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_for_artist">Artist</string>
      <string name="search_hint">Поиск музыки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_lyric">Search Lyric Online</string>
@@ -344,6 +352,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="stream_quality">stream quality</string>
      <string name="streamloadingtext">Подключение к %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="support_online_only">Support online only</string>
      <string name="tab_album_list">Альбомы</string>
      <string name="tab_artist_list">Исполнители</string>
      <string name="tab_local_folder_list">Папки</string>

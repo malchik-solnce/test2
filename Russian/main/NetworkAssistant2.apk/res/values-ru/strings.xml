@@ -497,6 +497,10 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="traffic_setting_step_num">Data plan settings</string>
      <string name="traffic_setting_update_template_falure">"Can't connect to the network"</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 0 must: 0
+	%d: 1 must: 0 -->
+     <!-- Original string: Mobile data usage warning -->
      <string name="traffic_warning_purchase_title">Remaining balance is less than %d%%</string>
      <string name="usage_sorted_activity_lable">Использование данных</string>
      <string name="usage_sorted_empty_text">Пусто</string>

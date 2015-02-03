@@ -19,11 +19,11 @@
      <string name="category_apk">Программы</string>
      <string name="category_document">Документы</string>
      <string name="category_favorite">Избранное</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="category_log">Logs</string>
      <string name="category_music">Музыка</string>
      <string name="category_other">Прочее</string>
      <string name="category_picture">Фото</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="category_recent">Recent</string>
      <string name="category_theme">Темы</string>
      <string name="category_type_document">Документы</string>
      <string name="category_type_meida">Мультимедиа</string>

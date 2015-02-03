@@ -2088,11 +2088,21 @@ Are you sure to change?"</string>
      <string name="search_about">о телефоне</string>
      <string name="search_accelerometer">акселерометр</string>
      <string name="search_access_control">управление доступом</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_accessibility">accessibility</string>
      <string name="search_airplane">режим полета</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_battery">battery</string>
      <string name="search_battery_indicator">индикатор батареи</string>
      <string name="search_brightness">подсветка</string>
      <string name="search_date_time">дата и время</string>
      <string name="search_description">Поиск настроек</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_display">display</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_font">font</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_handy_mode">handy mode</string>
      <string name="search_hint">Поиск настроек</string>
      <string name="search_key">кнопки</string>
      <string name="search_label">Настройки</string>
@@ -2100,6 +2110,8 @@ Are you sure to change?"</string>
      <string name="search_led">индикаторы</string>
      <string name="search_network">сеть</string>
      <string name="search_power_mode">режим</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_privacy">privacy</string>
      <string name="search_ring_volume">громкость звонка</string>
      <string name="search_ringtone">рингтон</string>
      <string name="search_screen_timeout">подсветка экрана</string>
@@ -2108,6 +2120,8 @@ Are you sure to change?"</string>
      <string name="search_silent">без звука</string>
      <string name="search_sms_received">получение смс</string>
      <string name="search_status_bar">статус-бар</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_storage">storage</string>
      <string name="search_sync">синхронизация</string>
      <string name="search_tether">модем</string>
      <string name="search_unlock_set">разблокировка</string>
@@ -2115,6 +2129,8 @@ Are you sure to change?"</string>
      <string name="search_vpn">vpn</string>
      <string name="search_wallpaper">обои</string>
      <string name="search_wifi">wi-fi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_wifi_display">wifi display</string>
      <string name="security_enable_widgets_disabled_summary">Отключено администратором</string>
      <string name="security_enable_widgets_title">Включить виджеты</string>
      <string name="security_keyguard_category_name">Блокировка кнопок</string>

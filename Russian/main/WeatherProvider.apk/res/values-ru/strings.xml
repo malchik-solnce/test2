@@ -11,6 +11,4 @@
      <string name="aqi_quality_index_pure">AQI %1$s</string>
      <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
      <string name="view_indexes_wind_unit">km/h</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="view_realtime_clear_substitution">Clear</string>
 </resources>
