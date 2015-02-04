@@ -14,6 +14,8 @@
      <string name="accessibility_review_thumbnail">Недавние фото</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="accessibility_seek_bar_line">SeekBarLine</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="accessibility_setting_button">Additional settings button</string>
      <string name="accessibility_shutter_button">Кнопка затвора</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
@@ -33,6 +35,8 @@
      <string name="cannot_connect_camera_twice">Невозможно подключится к камере. Перезагрузите устройство.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cannot_move_warning_message">Taking picture, keep the device still</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="confirm_location_alert">store location info</string>
      <string name="confirm_location_message">Сохранять информацию о месте съемки фотографий?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm_location_title">Store location info</string>
@@ -65,7 +69,6 @@
      <string name="face_beauty_intelligent_level_3">Высокая</string>
      <string name="find_other_qrcode">Найден код</string>
      <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
-     <string name="no_save">Не сохранять</string>
      <string name="no_storage">Вставьте SD-карту перед использованием камеры</string>
      <string name="not_enough_space">SD-карта заполнена</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -253,9 +256,6 @@
      <string name="pref_camera_multilevel_entry_lowest">Наихудшая</string>
      <string name="pref_camera_multilevel_entry_middle">Средний (по умолчанию)</string>
      <string name="pref_camera_multilevel_entry_normal">Обычная</string>
-     <string name="pref_camera_multiple_face_beauty_entry_off">Одно лицо</string>
-     <string name="pref_camera_multiple_face_beauty_entry_on">Два лица</string>
-     <string name="pref_camera_multiple_face_beauty_title">Режим красивое лицо</string>
      <string name="pref_camera_panoramamode_title">Панорама</string>
      <string name="pref_camera_picturesize_entry_1024x768">0.8 Мпикс.</string>
      <string name="pref_camera_picturesize_entry_1280x720">0.9 Мпикс.</string>
@@ -408,7 +408,6 @@
      <string name="pref_video_time_lapse_frame_interval_title">Замедленная съемка</string>
      <string name="preparing_sd">Подготовка внутреннего хранилища…</string>
      <string name="record_back_pressed_hint">Нажмите снова, чтобы остановить запись</string>
-     <string name="save">Сохранить</string>
      <string name="see_qrcode_detals">Свойства</string>
      <string name="setting_top_text">Настройки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -435,6 +434,8 @@
      <string name="snapshot_lower_than_video">Размер снимка меньше, чем размер видео. Выберите разрешение выше или равное текущему размеру видео.</string>
      <string name="snapshotsize_low_powermode">В режиме пониженного энергопотребления не поддерживается изменение разрешения изображения. Для снимка будет использован размер видео. Выберите режим высокого энергопотребления для изменения размера изображения.</string>
      <string name="spaceIsLow_content">Место на SD-карте заканчивается. Измените настройки качества или удалите ненужные файлы.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="start_capture">Start Capture</string>
      <string name="tap_to_exposure">Нажмите, чтобы настроить экспозицию вручную</string>
      <string name="tap_to_focus">Нажмите для фокусировки</string>
      <string name="time_lapse_error">Невозможно снять видео в режиме замедления при данном разрешении</string>

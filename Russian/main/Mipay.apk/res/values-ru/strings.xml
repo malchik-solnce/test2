@@ -6,6 +6,7 @@
      <string name="mipay_add_bank_card">Банковская карта</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_add_bank_debit_bankcard">Add debit card</string>
+     <string name="mipay_add_bankcard_prompt">"You haven't added any debit cards,Please add one."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_add_debit_bankcard">Add debit card</string>
      <string name="mipay_agreement">Принимаю %1$s</string>
@@ -120,6 +121,8 @@
      <string name="mipay_bill_repay_remind">Repay remind</string>
      <string name="mipay_bill_rmb_bill_value">| ￥%1$s</string>
      <string name="mipay_bill_usd_bill_value">| $%1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_button_call">Call</string>
      <string name="mipay_button_cancel">Отмена</string>
      <string name="mipay_button_close_count_down">Close(%1$s)</string>
      <string name="mipay_button_count_down">Повторно через %1$s сек.</string>
@@ -436,10 +439,15 @@ Please check your local date and try again."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_use_new_card">Use new bank card</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_user_balance_frozen">Frozen</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_wallet_app_name">Bank cards</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_withdraw">Withdraw</string>
-     <string name="mipay_withdraw_add_bankcard_prompt">"You haven't added any debit cards,Please add one."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_withdraw_excede_once_limit_notice">The amount you entered exceeds the single withdrawal limit.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_withdraw_excede_today_limit_notice">The amount you entered exceeds the daily withdrawal limit.</string>
      <string name="mipay_withdraw_failed">"Couldn't withdraw"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_withdraw_notice">Enter withdraw amount</string>

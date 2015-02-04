@@ -563,6 +563,8 @@
      <string name="clear_failed_dlg_text">Не удалось удалить данные</string>
      <string name="clear_failed_dlg_title">Стереть данные</string>
      <string name="clear_user_data_text">Стереть данные</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cmcc_hardware_version">Hardware version</string>
      <string name="color_black">Черный</string>
      <string name="color_blue">Синий</string>
      <string name="color_calibration_none">Натуральный</string>

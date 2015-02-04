@@ -35,6 +35,8 @@
      <string name="all_media">Все медиа</string>
      <string name="app_name">Видео</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_recommend">Featured</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="area_unknown">unknown area</string>
      <string name="authenticated_failed">Ошибка аутентификации</string>
      <string name="authenticating"><CDATA>Идентификация </CDATA></string>
@@ -232,7 +234,6 @@
      <string name="login_tip_title">Авторизация</string>
      <string name="maintitle_prefix">发现新版本</string>
      <string name="media_name_comment">%s комментарий</string>
-     <string name="menu_item_disable_audio_enhance">Отключить усиление звука</string>
      <string name="menu_item_enable_audio_enhance">Включить усиление звука</string>
      <string name="minute"> Minute</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
