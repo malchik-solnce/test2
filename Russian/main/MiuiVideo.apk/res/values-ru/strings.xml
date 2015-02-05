@@ -213,10 +213,10 @@
      <string name="installed">Installed</string>
      <string name="introduce">Описание</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="japank">Japanese TV</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ji">ep</string>
      <string name="key_back_down_toast">Нажми еще раз, чтобы выйти</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="koreak">Korea TV</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lekan">Lekan</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

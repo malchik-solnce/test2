@@ -87,7 +87,6 @@
      <string name="delete">Delete</string>
      <string name="delete_confirm">Удалить выбранные приложения: %1$s?</string>
      <string name="delete_confirm_system_app">Удалить %1$s приложений? %2$s в системном разделе.</string>
-     <string name="delete_download_history_confirm">确定要删除所选的%1$s个下载记录吗</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="delete_download_history_failed">failed to delete download history</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -237,6 +236,14 @@
      <string name="menu_sort_by_size">По размеру</string>
      <string name="menu_sort_by_time">По дате</string>
      <string name="menu_update">Обновить</string>
+     <string name="miui_update_depen_installing">Updating %2$s (required by %1$s).</string>
+     <string name="miui_update_depen_message">You need to update %2$s before you can update %1$s.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui_update_depen_title">Update available</string>
+     <string name="miui_update_reboot_loading">Updating…</string>
+     <string name="miui_update_reboot_message">To finish updating %1$s, reboot your device now.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui_update_reboot_title">Reboot to finish update</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="miuishare_account_activate_confirmation">Activation required</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -397,8 +404,9 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_popular_hint_title">Popular</string>
      <string name="search_recommend_hint">Вам понравится</string>
-     <string name="search_recommend_ingore">Игнор</string>
-     <string name="search_recommend_ingored_text">Не рекомендуемые</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_recommend_ignore">Ignore</string>
+     <string name="search_recommend_ignored_text">"Don't recommend"</string>
      <string name="search_recommend_no_data">Нет приложений</string>
      <string name="search_recommend_no_net">Сеть недоступна. Попробуй еще раз.</string>
      <string name="search_recommend_source">Основан на %1$s</string>
@@ -452,8 +460,14 @@
      <string name="update_history_title">История обновлений</string>
      <string name="update_info">Изменения</string>
      <string name="update_log_hint">Обновлений:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="update_reboot_hint">Reboot required</string>
      <string name="update_source">Update from %1$s</string>
      <string name="update_time">%1$s-%2$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="update_title_miui_app">System app</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="update_title_normal_app">Installed app</string>
      <string name="upgrade_all_description">Обновить %1$s и %2$s?</string>
      <string name="upgrade_all_title">Обновить все</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
