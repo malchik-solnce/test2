@@ -9,6 +9,7 @@
         <item quantity="other">%d matches</item>
         <item quantity="one">%d match</item>
      </plurals>
+     <!-- The size of the array does not match! Now: 2 must: 3 -->
      <plurals name="last_num_days">
         <item quantity="other">Last %d days</item>
      </plurals>

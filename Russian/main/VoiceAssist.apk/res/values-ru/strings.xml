@@ -102,6 +102,8 @@
      <string name="new_feature_desc">Новые возможности</string>
      <string name="new_feature_title">Новинки</string>
      <string name="new_message">Написать сообщение</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="new_remind_tip">New remind</string>
      <string name="next_date">%1$s нед.</string>
      <string name="no_engine">Модуль распознавания речи не установлен</string>
      <string name="not_launch_while_calling">Ассистент недоступен во время вызова</string>

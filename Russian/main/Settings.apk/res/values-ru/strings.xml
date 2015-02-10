@@ -913,7 +913,6 @@
      <string name="enable_mobile_data_when_opening_hotspot">Enable mobile data connection too?</string>
      <string name="enable_opengl_traces_title">Трассировка OpenGL</string>
      <string name="enable_service_title">Использовать %1$s?</string>
-     <string name="enable_snapshot_screenlock">Запуск камеры кнокой назад</string>
      <string name="enable_terminal_summary">Разрешить терминальный доступ к локальной оболочке</string>
      <string name="enable_terminal_title">Локальный терминальный доступ</string>
      <string name="enable_text">Включить</string>
@@ -2257,6 +2256,8 @@ Are you sure to change?"</string>
      <string name="skip_step">Пропустить этот шаг</string>
      <string name="slot_status_title">Информация IMEI</string>
      <string name="small_font">Маленький</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="smartcover_sensitive_title">Smartcover mode</string>
      <string name="sms_application_title">Приложение для обмена SMS</string>
      <string name="sms_change_default_dialog_text" formatted="false">>Использовать приложение для сообщений «%s» вместо «%s»?</string>
      <string name="sms_change_default_dialog_title">Приложение сообщений</string>
@@ -2847,6 +2848,15 @@ Are you sure to change?"</string>
      <string name="wifi_config_info">Настройки Wi-Fi</string>
      <string name="wifi_configured_ap_list">Список точек доступа</string>
      <string name="wifi_connect">Подключить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_connect_cmcc_dialog_cancel">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_connect_cmcc_dialog_confirm">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_connect_cmcc_dialog_content">Connected to CMCC network data services.</string>
+     <string name="wifi_connect_cmcc_dialog_not_remind">"Don't show again"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_connect_cmcc_dialog_title">Data usage notification</string>
      <string name="wifi_connect_failed_message">Устройство не может подключиться к этой Wi-Fi сети</string>
      <string name="wifi_context_menu_change_password">Изменить пароль</string>
      <string name="wifi_context_menu_change_wapi_certificate">Сменить сертификат WAPI</string>
@@ -2926,8 +2936,21 @@ Are you sure to change?"</string>
      <string name="wifi_more">Дополнительно</string>
      <string name="wifi_network_prefix_length">Длина префикса сети</string>
      <string name="wifi_not_in_range">Недоступна</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_notify_cmcc_connected_summary">Show notification when connected to CMCC network</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_notify_cmcc_connected_title">CMCC network notification</string>
      <string name="wifi_notify_open_networks">Уведомления о сетях</string>
      <string name="wifi_notify_open_networks_summary">Сообщать при обнаружении открытой сети</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_off_airplane_on_cancel">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_off_airplane_on_confirm">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_off_airplane_on_content">You can turn WLAN manually when Airplane mode is on.</string>
+     <string name="wifi_off_airplane_on_not_remind">"Don't show again"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_off_airplane_on_title">WLAN in Airplane mode</string>
      <string name="wifi_on_time">Время работы Wi-Fi</string>
      <string name="wifi_other_network">Другая сеть…</string>
      <string name="wifi_p2p_cancel_connect_message">Вы хотите отменить приглашение к соединению с %1$s?</string>
