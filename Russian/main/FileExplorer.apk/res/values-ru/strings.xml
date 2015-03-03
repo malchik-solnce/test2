@@ -66,6 +66,7 @@
      <string name="delete_files">Удалить выбранные файлы? (%1$d)</string>
      <string name="delete_folder">Удалить эту папку?</string>
      <string name="delete_folders">Удалить выбранные папки? (%1$d)</string>
+     <string name="delete_selected_tasks">Delete selected？</string>
      <string name="des_running_trans">%1$d файл(ов) ожидают отправки</string>
      <string name="dialog_select_type">Выбери тип файла</string>
      <string name="dialog_type_audio">Аудио</string>
@@ -99,6 +100,8 @@
      <string name="file_loading">Загрузка…</string>
      <string name="file_not_exist">файл не существует</string>
      <string name="file_too_large">Этот файл слишком большой для загрузки на сервер</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="files">Files</string>
      <string name="finished">Завершено</string>
      <string name="folder_exist">Папка уже существует</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -114,16 +117,46 @@
      <string name="ftp_username_and_passworld">Имя пользователя и пароль</string>
      <string name="ftp_username_hint">Имя пользователя</string>
      <string name="gbk_summary">Если используется кодировка GBK, например, в Windows Explorer, выбери этот тип кодирования, чтобы избежать искажения текста на китайском языке</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="get_cloud_space">Add 500GB</string>
      <string name="gigabyteShort">ГБ</string>
      <string name="instruction">Адрес синхронизации:</string>
      <string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
      <string name="kilobyteShort">КБ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="kp_category_all">Category</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="kp_category_doc">Word</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="kp_category_excel">Excel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="kp_category_pdf">PDF</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="kp_category_ppt">PowerPoint</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="kp_category_txt">Text</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="kuaipan_cloud_photo">KuaiPan photos</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="kuaipan_create_shortcut_success">Shortcut created</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="kuaipan_data_formater_with_year">month M day d year YYYY</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="kuaipan_data_formater_without_year">M month d day</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="kuaipan_delete_success">Photo deleted</string>
      <string name="kuaipan_over_space">В KuaiPan нет больше свободного места</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="kuaipan_photo_folder_divider">,</string>
+     <string name="kuaipan_photo_locate">Located %1$s</string>
+     <string name="kuaipan_photo_more_folder_count">%1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="kuaipan_prompt">KuaiPan</string>
      <string name="kuaipan_prompt_message">"
  Идет обслуживание сервиса, пожалуйста, попробуйте позже…
 "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="kuaipan_root_fooder">Home</string>
      <string name="kuaipan_tech_support">При поддержке Kingsoft Kuaipan</string>
      <string name="load_err">Ошибка загрузки</string>
      <string name="loading">Загрузка</string>
@@ -180,6 +213,7 @@
      <string name="never_notify_network_connect">"Don't show me this again"</string>
      <string name="new_folder_name">Новая папка</string>
      <string name="no">Нет</string>
+     <string name="no_display_file">"Can't display %1$s"</string>
      <string name="no_enough_storage_indication">Не хватает места для вставки файла. Очисти место с помощью очистки или просто удалите большие файлы.</string>
      <string name="no_enough_storage_title">Не хватает места</string>
      <string name="no_file">Нет файлов</string>

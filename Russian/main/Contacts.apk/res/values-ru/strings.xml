@@ -1188,6 +1188,8 @@
      <string name="yellowpage_navigation_network_location_not_enabled_title">Местоположение</string>
      <string name="yellowpage_navigation_no_content">Ничего не найдено</string>
      <string name="yellowpage_navigation_search_city_name_hint">Город</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="yellowpage_navigation_search_history">History</string>
      <string name="yellowpage_navigation_search_offline_hint">Нет доступа в интерент</string>
      <string name="yellowpage_navigation_search_result_average_price">Average %d RMB</string>
      <string name="yellowpage_navigation_search_result_network_error">Ошибка подключения к сети</string>

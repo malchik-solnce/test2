@@ -430,6 +430,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="userdata_alert_title">Data usage</string>
      <string name="variety">综艺</string>
+     <string name="vertical_line"><CDATA> | </CDATA></string>
      <string name="video"> видео</string>
      <string name="video_count">%d 个视频</string>
      <string name="video_declare">Copyright   |   Disclaimer</string>

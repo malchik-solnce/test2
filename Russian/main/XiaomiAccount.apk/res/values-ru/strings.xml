@@ -464,6 +464,9 @@ To activate your account, follow the
      <string name="user_agreement_p4"><u>Политикой безопасности</u></string>
      <string name="user_agreement_p6">"Ты соглашаешься 
  с  "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_avatar_update_title">Update profile picture</string>
+     <string name="user_avatar_uploading">Uploading…</string>
      <string name="vcode">Проверочный код</string>
      <string name="vcode_notification_title">Проверка входа не завершена</string>
      <string name="vcode_prompt_long">Введи код, сгенерированный системой безопасности Mi</string>
