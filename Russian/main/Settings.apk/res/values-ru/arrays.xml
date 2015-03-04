@@ -673,6 +673,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>SIM</item>
         <item>AKA</item>
      </string-array>
+     <string-array name="wifi_eap_method_add_sim_for_cmcc">
+        <item>PEAP</item>
+        <item>SIM</item>
+     </string-array>
      <string-array name="wifi_frequency_band_entries">
         <item>Автоматически</item>
         <item>Только 5 ГГц</item>

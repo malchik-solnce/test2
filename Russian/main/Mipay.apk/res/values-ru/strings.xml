@@ -411,9 +411,9 @@ Please check your local date and try again."</string>
      <string name="mipay_setting_manage_mailbox">Manage bill mailboxes</string>
      <string name="mipay_setting_modify_password">Изменить пароль оплаты</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mipay_setting_passwordless_payment">Band passwordless payment</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_setting_ring_management">Band management</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_setting_ring_payment">Band passwordless payment</string>
      <string name="mipay_setting_title">Настройки безопасности</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_setting_title_bill">Credit card bill</string>

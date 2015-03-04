@@ -348,6 +348,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_mms_settings_title">НАСТРОЙКИ MMS</string>
      <string name="pref_notification_settings_title">Настройки уведомлений</string>
      <string name="pref_other_title">ДРУГИЕ НАСТРОЙКИ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_show_sms_template_summary">Automatically copy and fill in verification codes</string>
      <string name="pref_sms_theme_title">НАСТРОЙКИ ВИДА</string>
      <string name="pref_summary_allow_si_sl_push">Разрешить прием WAP Push сообщений (SI/SL)</string>
      <string name="pref_summary_delete_limit">Сообщений в цепочке: %1$s</string>
@@ -532,6 +534,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="timed_message_to">для</string>
      <string name="title_collapse_sp_messages">Сервисные сообщения</string>
      <string name="title_date_type">Дата</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_show_sms_template">Check SMS for verification codes</string>
      <string name="title_timed_message_dialog">Время отправки сообщения</string>
      <string name="to_address_label">"Получатель: "</string>
      <string name="to_count">Всего: %d</string>

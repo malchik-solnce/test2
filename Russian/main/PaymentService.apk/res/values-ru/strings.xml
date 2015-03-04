@@ -291,6 +291,12 @@
 Мы проверим в течение двух рабочих дней.
 Служба поддержки в Шеньчжоу: 400-100-5678"</string>
      <string name="progress_warning_waiting">Еще не подтвержден. Повтори попытку позже.</string>
+     <string name="prompt_info_button_hint">Attention(%d)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="prompt_info_button_text">OK</string>
+     <string name="prompt_info_for_first_use">"Mi Credit can't be used to buy hardware products on Mi.com."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="prompt_info_title">Tips</string>
      <string name="recharge_bankcall_title">Банковская карта</string>
      <string name="recharge_grid_error_denomination">Введи правильный размер пополнения между %1$s~%2$s юань</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

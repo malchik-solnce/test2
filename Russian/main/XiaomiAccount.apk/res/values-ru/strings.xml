@@ -158,7 +158,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mi_account_dspt_provision">Sign in to Mi Cloud, MIUI Themes Store, and other Mi services with one account.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mi_service">Support</string>
+     <string name="mi_support_service">Support</string>
      <string name="mibi_balance">%s Mi Credits</string>
      <string name="micloud_account_name">Mi аккаунт</string>
      <string name="micloud_area_code_title">Код страны</string>
