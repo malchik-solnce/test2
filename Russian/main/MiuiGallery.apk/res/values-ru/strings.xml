@@ -81,10 +81,16 @@
      <string name="bigscreen_slide_fail_cause_loading">Повторите попытку, чтобы начать слайд-шоу после загрузки изображения</string>
      <string name="bigscreen_slide_playing">Слайд-шоу воспроизводится на устройстве: %s</string>
      <string name="bigscreen_video_quit">Нажмите, чтобы выйти</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="black_white">BlackWhite</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="brannan">EarlyBird</string>
      <string name="browse_category">Настройки просмотра</string>
      <string name="by_email">Почта</string>
      <string name="by_others">Другое</string>
      <string name="by_sms">Сообщение</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="camera_black_white">cameraBlackWhite</string>
      <string name="camera_connected">Камера подключена</string>
      <string name="camera_disconnected">Камера отключена</string>
      <string name="camera_folder_display_name">Фотографии</string>
@@ -144,12 +150,18 @@
      <string name="confirm_download">Вам необходимо скачать %s. Подсказка не будет больше показана.</string>
      <string name="confirm_download_video_message">Необходима загрузка видео. Скачивание возобновится при доступном Wi-Fi соединении.</string>
      <string name="confirm_download_video_title">Загрузка видео</string>
+     <string name="confirm_merge_face_albums">" "<Data> Merge this album to album &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? </Data>" "</string>
      <string name="contact_photo">Фото контакта</string>
      <string name="context_menu_add_contact">Добавить в контакты</string>
      <string name="context_menu_copy">Копировать</string>
      <string name="context_menu_copy_notice">Выделенный текст скопирован в буфер</string>
      <string name="contrast">Контраст</string>
+     <string name="cool">​Cool</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cool_portrait">CoolPortrait</string>
      <string name="create_new_cloud_folder">Создать новую облачную папку</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="create_new_face">New face</string>
      <string name="crop">Кадрировать</string>
      <string name="crop_fail_to_load_image">Ошибка загрузки изображения для кадрирования</string>
      <string name="crop_label">Обрезать фотографию</string>
@@ -194,6 +206,8 @@
      <string name="download_refocus_data">Скачать обновленные данные</string>
      <string name="duotone">Двойной тон</string>
      <string name="duration">Длительность</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="early_bird">Brannan</string>
      <string name="edit">Изменить</string>
      <string name="edited_photo_bucket_name">Измененные</string>
      <string name="email_picker_title">Добавить общий E-mail</string>
@@ -227,6 +241,20 @@
      <string name="external_sdcard_root">External SD card root directory</string>
      <string name="external_usb_device">USB-накопитель</string>
      <string name="external_usb_device_hm">USB-накопитель</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="face_album">Face album</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="face_album_not_named">Not named</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="face_album_rename_hint">Enter a name</string>
+     <string name="face_albumset_detecting_tip">"Detecting faces...
+face albums will be available soon"</string>
+     <string name="face_albumset_empty">"No faces detected
+try to take more pictures"</string>
+     <string name="face_albumset_use_tip">"Help to find those pretty faces，
+making it simple to view and manage pictures"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="face_move_dialog_title">Choose a face album</string>
      <string name="facelift">Сияние</string>
      <string name="facetan">Загар</string>
      <string name="fail_hint">Сбой операции</string>
@@ -271,8 +299,12 @@
      <string name="highlight">Блики</string>
      <string name="home_my_captured_items">фото</string>
      <string name="home_page_tab_cloud">Облако</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="home_page_tab_face">Face</string>
      <string name="home_page_tab_local">Устройство</string>
      <string name="home_page_tab_photo">Фотографии</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ignore_face">Ignore this face</string>
      <string name="image_download_item_title">Загрузка изображения (%s)</string>
      <string name="image_quota_fulfiled">Не удается создать изображение, т.к. количество изображений в альбоме достигло предела</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -337,6 +369,8 @@
      <string name="menu_item_sort_size_asc">По размеру (-)</string>
      <string name="menu_item_sort_size_desc">По размеру (+)</string>
      <string name="menu_view_contact">Просмотр контакта</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="merge_album_positive_button_text">Merge</string>
      <string name="message_no_delete_access">Отказано в доступе. Невозможно удалить файл или папку: %s.</string>
      <string name="messagelist_sender_self">Я</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -366,6 +400,7 @@
      <string name="move_to_cloud_album">Переместить в облако</string>
      <string name="multiface_crop_help">Нажмите на лицо, чтобы начать</string>
      <string name="must_pick_file">Выберите изображение</string>
+     <string name="name_wrong">Not %s</string>
      <string name="negative">Негатив</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
@@ -387,6 +422,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="not_now">Not now</string>
      <string name="not_show_hidden_albums">Скрыть скрытые альбомы</string>
+     <string name="old">​Old</string>
      <string name="only_show_camera_in_first_page">Только фотографии камеры</string>
      <string name="only_show_camera_in_first_page_summary">Если отключено, то фотографии всех облачных альбомов будут показаны на первой странице</string>
      <string name="open">Открыть</string>
@@ -400,6 +436,8 @@
      <string name="operation_failed">Операция не удалась!</string>
      <string name="operation_in_process">Обработка…</string>
      <string name="operation_refresh">Обновить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="operation_remove_from_face_album">Remove face</string>
      <string name="operation_remove_secret">Удалить секрет</string>
      <string name="operation_rename">Переименовать</string>
      <string name="operation_set_as_screensaver">На заставку</string>
@@ -435,7 +473,8 @@
      <string name="photo_paint_crop">Crop</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="photo_paint_effect">effect</string>
-     <string name="photo_saved">Фотография сохранена в альбоме "%s"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="photo_save_succeed">Saved successfully</string>
      <string name="photo_size">Размер</string>
      <string name="photoeditor_name">Фотостудия</string>
      <string name="photos">файлов</string>
@@ -452,6 +491,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pocketcamera">PocketCamera</string>
      <string name="posterize">Постеризация</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="preparing_data">Preparing data...</string>
      <string name="preparing_data_to_delete">Подготовка к удалению данных…</string>
      <string name="priority_storage">Сохранять на SD-карту</string>
      <string name="priority_storage_summary">Автоматически загружать файлы на SD-карту, если она доступна</string>
@@ -474,6 +515,10 @@
      <string name="remove_from_secret_unfinished_message_with_count">%1$s items are not removed from secret</string>
      <string name="remove_hidden_album">Отменить скрытие</string>
      <string name="remove_recent_album">Удалить из последних альбомов</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="rename_face_album">Change name</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="rename_fail_msg">Fail to change name</string>
      <string name="rename_failed">Не удалось переименовать</string>
      <string name="rename_failed_duplicated_name">Имя уже существует</string>
      <string name="request_qr_code_failed">Ошибка получения QR-кода, нажмите для повторения</string>
@@ -482,6 +527,8 @@
      <string name="request_sms_url_title">Совет</string>
      <string name="retry_to_create_album">Повторить</string>
      <string name="retry_to_request_qr_code">Повторить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="rise">Rise</string>
      <string name="rotate">Поворот</string>
      <string name="rotate_tooltip">Чтобы повернуть фото, перетащите его край</string>
      <string name="same_name_album_exists_alert">An album with the same name which has been shared to others already exists, Are you sure to upload photo automatically to that album?</string>
@@ -557,6 +604,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="square">Square</string>
      <string name="start_slide_show">Начать слайд-шоу</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="start_to_use_face_albumset">Start to use face albums</string>
      <string name="storage_all_volumes">Все устройства хранения</string>
      <string name="storage_no_space">Не хватает памяти</string>
      <string name="straighten">Выравнивание</string>
@@ -604,6 +653,8 @@
      <string name="user_alias_self">Я</string>
      <string name="video_err">Не удалось воспроизвести видео</string>
      <string name="video_not_exist">Видео не существует</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="view_face_album">View album</string>
      <string name="view_sharers">Посмотреть поделившихся</string>
      <string name="vignette">Виньетка</string>
      <string name="wallpaper">На рабочий стол</string>
@@ -620,6 +671,7 @@
      <string name="weixin">WeChat</string>
      <string name="where_is_barcode">Где QR код?</string>
      <string name="white_balance">Баланс белого</string>
+     <string name="who_is_this">Who is this?</string>
      <string name="widget_type">Выбор изображений</string>
      <string name="widget_type_album">Выбрать альбом</string>
      <string name="widget_type_photo">Выберите изображение</string>

@@ -2862,6 +2862,7 @@ Are you sure to change?"</string>
      <string name="wifi_context_menu_change_wapi_certificate">Сменить сертификат WAPI</string>
      <string name="wifi_context_menu_connect">Подключиться к сети</string>
      <string name="wifi_context_menu_forget">Удалить сеть</string>
+     <string name="wifi_datanetwork_switch_not_remind">"Don't show again"</string>
      <string name="wifi_disabled_generic">Отключено</string>
      <string name="wifi_disabled_help">Сеть отклонена, так как соединение неустойчивое. Чтобы изменить параметры, выберите \"Настройки > Wi-Fi\" и откройте меню \"Дополнительные функции\".</string>
      <string name="wifi_disabled_network_failure">Включено</string>
