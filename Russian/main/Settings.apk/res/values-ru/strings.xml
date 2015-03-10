@@ -468,6 +468,15 @@
      <string name="bluetooth_unlock_settings_devices_title">Устройство</string>
      <string name="bluetooth_unlock_settings_toggle_title">Применить на</string>
      <string name="bluetooth_unlock_settings_unlock_device">Разблокировать клавиатуру</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bluetooth_unlock_state_disconnected">Disconnected</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bluetooth_unlock_state_key_error">Key error</string>
+     <string name="bluetooth_unlock_state_label">Status:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bluetooth_unlock_state_ok">Succeed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bluetooth_unlock_state_too_far">Not near enough</string>
      <string name="bluetooth_unlock_title">Разблокировка Bluetooth-устройством</string>
      <string name="bluetooth_unlock_turned_off">Отключено</string>
      <string name="bluetooth_unlock_turned_on">Включено</string>
@@ -782,6 +791,8 @@
      <string name="device_name_usage_point">Отображаемое имя Вашего устройства при создании различных точек доступа</string>
      <string name="device_picker">Выбор устройства Bluetooth</string>
      <string name="device_sd_memory">SD-карта:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="device_security_settings_title">Security</string>
      <string name="device_status">Общая информация</string>
      <string name="device_status_activity_title">Общая информация</string>
      <string name="device_status_summary">Номер телефона, уровень сигнала и т.д.</string>
@@ -909,6 +920,8 @@
      <string name="enable_adb">Отладка по USB</string>
      <string name="enable_adb_summary">Включить режим отладки при подключении к компьютеру по USB или по сети</string>
      <string name="enable_compatibility">Масштабировать приложения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="enable_crypt_keeper_encrypt">Enable encryption</string>
      <string name="enable_drive_mode">Включить режим вождения</string>
      <string name="enable_mobile_data_when_opening_hotspot">Enable mobile data connection too?</string>
      <string name="enable_opengl_traces_title">Трассировка OpenGL</string>
@@ -1193,6 +1206,10 @@ Dissatisfied? Try"</string>
      <string name="local_backup_section_summary">Резервное копирование настроек системы, аккаунта и приложений</string>
      <string name="local_backup_section_title">Локальный бэкап</string>
      <string name="locale_default">По умолчанию</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="location_access_off">Off</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="location_access_on">On</string>
      <string name="location_access_summary">Разрешить приложениям использовать данные о Вашем местоположении</string>
      <string name="location_access_title">Доступ к моему местоположению</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -1825,6 +1842,10 @@ Are you sure to change?"</string>
      <string name="privacy_mode_dialog_title">Guest mode</string>
      <string name="privacy_mode_enable_sum">Скрыть журнал вызовов, сообщения и другую информацию для защиты привата</string>
      <string name="privacy_mode_enable_title">Режим защиты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="privacy_mode_summary">Userdata will be hidden from user</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="privacy_mode_title">Permissions</string>
      <string name="privacy_protect_title">Управление доступом</string>
      <string name="privacy_relative">КОНФИДЕНЦИАЛЬНОСТЬ</string>
      <string name="privacy_settings">Бэкап и сброс</string>

@@ -26,6 +26,8 @@
      <string name="add_to_secret_successfully_message">Added to secret album</string>
      <string name="add_to_secret_unfinished_message_with_count">%1$s items are not added to secret</string>
      <string name="adding_recipients">Добавление получателей…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="adjust">Adjust</string>
      <string name="album_member">Альбом пользователя %s</string>
      <string name="album_name">Имя альбома</string>
      <string name="album_quota_fulfiled">Не удалось создать альбом. Количество альбомов достигло предела.</string>
@@ -210,6 +212,8 @@
      <string name="early_bird">Brannan</string>
      <string name="edit">Изменить</string>
      <string name="edited_photo_bucket_name">Измененные</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="effect">Effect</string>
      <string name="email_picker_title">Добавить общий E-mail</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="enable">Turn on</string>
@@ -468,11 +472,7 @@ making it simple to view and manage pictures"</string>
      <string name="photo_page_save_uri_image_fail">Не удалось сохранить фотографию</string>
      <string name="photo_page_save_uri_image_ok">Фотография сохранена в каталог камеры</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="photo_paint_adjust">adjust</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="photo_paint_crop">Crop</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="photo_paint_effect">effect</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="photo_save_succeed">Saved successfully</string>
      <string name="photo_size">Размер</string>
