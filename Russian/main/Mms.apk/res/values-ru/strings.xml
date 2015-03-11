@@ -45,6 +45,8 @@
      <string name="batch_deleting_message_progress_message">Удалить выбранные сообщения</string>
      <string name="batch_deleting_progress_message">Удаление, подождите…</string>
      <string name="bcc_label">"Скрытая копия: "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="block_messaging_entry_title">Blocked SMS</string>
      <string name="bookmark">Избранные</string>
      <string name="bookmark_confirm_delete_message">Удалить из избранного</string>
      <string name="bookmark_empty">Пусто</string>

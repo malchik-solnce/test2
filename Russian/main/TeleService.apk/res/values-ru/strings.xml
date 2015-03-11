@@ -532,6 +532,7 @@
      <string name="msim_default_setting">Настройки по умолчанию</string>
      <string name="msim_enable_sim">Включить</string>
      <string name="msim_general_setting">Основные настройки</string>
+     <string name="msim_has_been_disabled">(Disabled)</string>
      <string name="msim_info_editor_name">Изменить имя SIM-карты</string>
      <string name="msim_info_editor_number">Изменит номер SIM-карты</string>
      <string name="msim_info_editor_set_name_error">Произошла ошибка. Повторите попытку позже.</string>

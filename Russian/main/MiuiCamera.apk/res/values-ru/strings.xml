@@ -257,6 +257,14 @@
      <string name="pref_camera_multilevel_entry_middle">Средний (по умолчанию)</string>
      <string name="pref_camera_multilevel_entry_normal">Обычная</string>
      <string name="pref_camera_panoramamode_title">Панорама</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_peak_default">off</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_peak_entry_off">Off</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_peak_entry_on">On</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_peak_title">Peaking Focus</string>
      <string name="pref_camera_picturesize_entry_1024x768">0.8 Мпикс.</string>
      <string name="pref_camera_picturesize_entry_1280x720">0.9 Мпикс.</string>
      <string name="pref_camera_picturesize_entry_1280x960">1.3M(1280x960)</string>

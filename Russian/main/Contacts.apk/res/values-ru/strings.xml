@@ -872,8 +872,6 @@
      <string name="resource_detail_vertical_divider">|</string>
      <string name="resource_detail_window_title">%1$s свойства</string>
      <string name="resource_download">Скачать</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_download_notification_content">Tap to view.</string>
      <string name="resource_download_notification_title_many">%1$s themes downloaded</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_download_notification_title_one">Theme downloaded</string>
@@ -957,6 +955,8 @@
      <string name="resource_share_text">Вот тема, которая Вам понравится: %1$s! Ссылка: %2$s.</string>
      <string name="resource_share_title">Отправка</string>
      <string name="resource_system_title">Системные компоненты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_tab_to_view">Tap to view.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_tip_select_none">None selected</string>
      <string name="resource_title">Сведения</string>

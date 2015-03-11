@@ -314,6 +314,7 @@
      <string name="recharge_push_notification_prime_title">%1$d добавил %2$s MiCredit на Ваш счет</string>
      <string name="recharge_push_notification_sub_title">Пополнение завершено</string>
      <string name="recharge_value_money">Recharge RMB %s</string>
+     <string name="recharge_value_money_with_tip">"Purchase RMB %s worth of Mi Credits &lt;font color=red>(Can't spend Mi Credits at Mi.com)&lt;/font>"</string>
      <string name="recharge_voucher_title">Карта MiCredit</string>
      <string name="scan_prompt_number">Сканировать номер карты предоплаты %1$s</string>
      <string name="scan_prompt_password">Сканировать пароль карты предоплаты %1$s</string>

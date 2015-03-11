@@ -3130,6 +3130,8 @@ Are you sure to change?"</string>
      <string name="wifi_tether_stopping">Выключение…</string>
      <string name="wifi_type_approval" />
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_type_approval_dialog_title">NTC NO.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wifi_type_approval_title">Type Approval</string>
      <string name="wifi_unchanged">(не изменялось)</string>
      <string name="wifi_unspecified">(не указано)</string>
