@@ -2,6 +2,10 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="account_bind_prompt">Перенос данных пользователя. Подожди…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="action_mode_deselect_all">Deselect all</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="action_mode_select_all">Select all</string>
      <string name="add_task">Добавить задачи</string>
      <string name="adding_upload_tasks">Добавление задач загрузки</string>
      <string name="already_signin_description">Войти можно только один раз в день. Зайди завтра.</string>

@@ -31,6 +31,7 @@
      <string name="add_account">Добавить аккаунт</string>
      <string name="add_calendar">Подписка</string>
      <string name="add_topic_success">Успешно добавлено "%s"</string>
+     <string name="add_topic_unsuccess">订阅\"%s\"失败</string>
      <string name="adding_calendar">正在订阅...</string>
      <string name="agenda_today">Сегодня, %1$s</string>
      <string name="agenda_tomorrow">Завтра, %1$s</string>
@@ -318,6 +319,14 @@
      <string name="snooze_all_label">Напомнить</string>
      <string name="snooze_label">Отложить</string>
      <string name="subscribe_all">Подписаться</string>
+     <string name="sync_notice_cancel_toast_message">"Local Calendar won't be synced with Mi Cloud"</string>
+     <string name="sync_notice_message">You have not synced Mi calendar yet, turn on the switch now?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_notice_ok">Allow</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_notice_ok_toast_message">Local Calendar will be synced with Mi Cloud</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_notice_title">Sync request</string>
      <string name="synced">Синхронизирован</string>
      <string name="tab_category">Категории</string>
      <string name="tab_local">Подписки</string>

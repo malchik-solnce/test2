@@ -41,13 +41,8 @@
      <string name="auto_nickname">Авто</string>
      <string name="auto_set_nickname">Авто</string>
      <string name="batch_delete">Пакетное удаление</string>
-     <string name="batch_delete_msg">"Удалить выбранные контакты: %d?
-
-Если используются сервисы синхронизации, то данные о контакте будут удалены и там."</string>
      <string name="bluetooth_connection_failed_toast">Bluetooth соединение прервано</string>
      <string name="blurbJoinContactDataWith">Выбери контакт, который хочешь объединить с "%s":</string>
-     <string name="btn_delete_multi_contacts">Удалить %d контактов</string>
-     <string name="btn_delete_one_contact">Удалить контакт</string>
      <string name="btn_rotation">Повернуть</string>
      <string name="btn_split_contact">Разъеденить контакт</string>
      <string name="button_cancel_scan">Остановить</string>
@@ -58,7 +53,6 @@
      <string name="callBack">Перезвонить</string>
      <string name="callDetailTitle">Сведения о вызове</string>
      <string name="callDetailsDurationFormat" formatted="false">%s мин. %s сек.</string>
-     <string name="callNoAnswerTimeFormat">Rang %s times</string>
      <string name="callShortcutActivityTitle">Выбери номер для вызова</string>
      <string name="call_assistant">Вызов: %s</string>
      <string name="call_callback">Обратный вызов</string>
@@ -159,7 +153,6 @@
      <string name="composer_not_initialized">Сбой при запуске редактора vCard</string>
      <string name="confirm_delete_contact_all_call_logs">Удалить из журнала вызовов?</string>
      <string name="confirm_delete_selected_all_call_logs">Удалить из журанала вызовов?</string>
-     <string name="confirm_delete_sim_entry_miui">Удалить выбранные контакты с SIM-карты? (%d шт.)</string>
      <string name="confirm_export_message">Список контактов будет экспортирован в файл "%s"</string>
      <string name="confirm_export_title">Экспорт контактов</string>
      <string name="connections">Связи</string>
@@ -349,8 +342,6 @@
      <string name="event_edit_field_hint_text">Дата</string>
      <string name="export_sim_contact_finish">Экспорт на SIM-карту завершен</string>
      <string name="export_sim_contact_finish_failure">Недостаточно места. Скопировано: %1$d , не скопировано: %2$d.</string>
-     <string name="export_sim_contact_finish_success">Скопировано контактов: %d</string>
-     <string name="export_sim_contacts_dialog_message">На SIM-карту можно сохранить %d контактов. Продолжить?</string>
      <string name="export_to_sdcard">Экспорт на SD-карту</string>
      <string name="export_to_sim">Экспорт на SIM-карту</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

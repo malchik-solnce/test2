@@ -7,6 +7,8 @@
      <string name="activating">Активация…</string>
      <string name="alert_notif_title_dspt">Сервис синхронизации не включен</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="antispam_sync">Do Not Disturb settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_name">Mi Cloud</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="apple_10gb">20GB</string>
@@ -31,6 +33,10 @@
      <string name="buy_space_sulotion_renew_title">Select renewals way</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="buy_space_sulotion_title">Cloud storage solution</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="calendar_sync">Calendar</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="click_to_enabled">Touch to sync.</string>
      <string name="cloud_find_device">Поиск устройства</string>
      <string name="cloud_space_upgrade_message">Click to get %s GB free space this month</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -40,6 +46,7 @@
      <string name="cloud_sync_setting_summary_standard">Use your mobile data connection to sync SMS, Contacts info, and call logs. Use WLAN to sync photos, videos, MMS, app data, Contact profile photos, and more.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_sync_setting_summary_wlan">Only sync when connected to WLAN</string>
+     <string name="cloudservice_new_sync">Sync %s with Mi Cloud</string>
      <string name="cmcc_micloud_dspt">Используй Mi Cloud для синхронизации данных, поиска устройства</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="contact">Contacts</string>
@@ -85,6 +92,7 @@ You can turn this feature on and off anytime in Settings."</string>
      <string name="find_device_send_sms_alert">If you switch SIM cards, another SMS will be sent automatically to reactivate this service.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="find_device_status_ok">Find your device from anywhere at i.mi.com</string>
+     <string name="find_device_status_ok_international">Find your device from anywhere at www.mi.com/micloud</string>
      <string name="find_device_stop_noise">Нажми OK, чтобы остановить сигнал</string>
      <string name="find_device_success_title">Поиск устройства</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -105,8 +113,6 @@ You can turn this feature on and off anytime in Settings."</string>
      <string name="header_other_settings">Others</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="i_know">OK</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="less_flow_mode">Data saver</string>
      <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
      <string name="loading">Loading…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -178,6 +184,8 @@ to your Mi Account to reactivate Mi Cloud."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_main_sync_exception">Sync error</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_main_sync_init">Getting info</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_main_sync_now">Sync now</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_main_sync_on_wifi">Use WLAN</string>
@@ -196,6 +204,8 @@ to your Mi Account to reactivate Mi Cloud."</string>
      <string name="micloud_proceed">Продолжить</string>
      <string name="micloud_sec_dspt">и поделись этим с друзьями</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_setting_antispam_summary">Exceptions for Do Not Disturb and blocked phone numbers.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_setting_browser_summary">Bookmarks, history, and tabs</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_setting_contact_summary">Contacts info and profile photos</string>
@@ -207,6 +217,12 @@ to your Mi Account to reactivate Mi Cloud."</string>
      <string name="micloud_setting_sms_summary">SMS and MMS messages</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_setting_wifi_summary">WLAN settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_single_dspt">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_space_duokan_detail">Manage your Duokan content in using the Duokan app.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_space_duokan_title">Duokan</string>
      <string name="micloud_space_full_influence"><u>Закончилось место в облаке?</u></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_storage_expires_auto_renewal_sum">You need to renew your subscription.</string>

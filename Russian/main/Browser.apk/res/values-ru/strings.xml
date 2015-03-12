@@ -23,6 +23,8 @@
      <string name="action_menu_text_bandwidth_on">Bandwidth/On</string>
      <string name="action_menu_text_bookmark">Доб. закладку</string>
      <string name="action_menu_text_exit">Выйти</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="action_menu_text_fullscreen">Full screen</string>
      <string name="action_menu_text_history">Закладки</string>
      <string name="action_menu_text_nightmode">Ночной режим</string>
      <string name="action_menu_text_nightmode_off">Ночной режим</string>

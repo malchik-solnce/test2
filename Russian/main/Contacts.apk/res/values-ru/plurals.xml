@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+     <plurals name="batch_delete_msg">
+        <item quantity="other">Delete %d contacts?</item>
+        <item quantity="one">Delete %d contact?</item>
+     </plurals>
+     <plurals name="btn_delete_multi_contacts">
+        <item quantity="other">Delete %d contacts</item>
+        <item quantity="one">Delete contact</item>
+     </plurals>
+     <plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">Rang %d times</item>
+        <item quantity="one">Rang %d time</item>
+     </plurals>
+     <plurals name="confirm_delete_sim_entry_miui">
+        <item quantity="other">Delete %d contacts from SIM card?</item>
+        <item quantity="one">Delete %d contact from SIM card?</item>
+     </plurals>
      <plurals name="device_import_done_toast">
         <item quantity="other">Добавлено контактов: %1$d</item>
         <item quantity="one">Добавлено контактов: %1$d</item>
+     </plurals>
+     <plurals name="export_sim_contact_finish_success">
+        <item quantity="other">Copied %d contacts</item>
+        <item quantity="one">Copied %d contact</item>
+     </plurals>
+     <plurals name="export_sim_contacts_dialog_message">
+        <item quantity="other">SIM card can store %d contacts.</item>
+        <item quantity="one">SIM card can store %d contact.</item>
      </plurals>
      <plurals name="group_add_success_toast">
         <item quantity="other">Добавлено %1$d контактов</item>

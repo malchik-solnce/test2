@@ -86,6 +86,8 @@
      <string name="account_setup_account_type_headline">Тип аккаунта</string>
      <string name="account_setup_account_type_instructions">Выбери тип аккаунта</string>
      <string name="account_setup_account_type_title">Тип аккаунта</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_setup_address_label">Email</string>
      <string name="account_setup_autodiscover_dlg_authfail_message">Убедись, что имя пользователя, пароль и параметры аккаунта указаны правильно</string>
      <string name="account_setup_autodiscover_dlg_authfail_title">Ошибка</string>
      <string name="account_setup_basics_email_label">Адрес электронной почты</string>
@@ -96,6 +98,8 @@
      <string name="account_setup_check_settings_check_incoming_msg">Проверка настроек сервера входящих сообщений…</string>
      <string name="account_setup_check_settings_check_outgoing_msg">Проверка настроек сервера исходящих сообщений…</string>
      <string name="account_setup_check_settings_retr_info_msg">Получение информации аккаунта…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_setup_correct_address_tips">Enter email address</string>
      <string name="account_setup_creating_account_msg">Создание аккаунта…</string>
      <string name="account_setup_deleting_account_msg">Deleting account…</string>
      <string name="account_setup_exchange_certificate_title">Сертификат клиента</string>
@@ -751,6 +755,8 @@
      <string name="outbox_alert_certificate_error">E-mail certificate excetpion, please update it</string>
      <string name="outbox_alert_description_auth_error">Причина: ошибка авторизации с сервера во время синхрон. исходящих сообщений</string>
      <string name="outbox_alert_description_http_error">Причина: HTTP ошибка с сервера во время синхрон. исходящих сообщений</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="outbox_alert_description_insufficient_storage_error">Insufficient storage in the mail server</string>
      <string name="outbox_alert_description_provision_error">Причина: ошибка предоставления с сервера во время синхрон. исходящих сообщений</string>
      <string name="outbox_alert_description_sent_failed">"Причина: вложение к письму 
 превышает максимальный размер"</string>
@@ -902,6 +908,8 @@
      <string name="recipient_needed_title">Warn</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="recipient_null_dialog_title">Alert</string>
+     <string name="reduce_the_receiving_frequencye_summary">Lower e-mail sync rate in preset time</string>
+     <string name="reduce_the_receiving_frequencye_title">Lower e-mail sync rate</string>
      <string name="refresh">Обновить</string>
      <string name="refreshing">Обновление…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -940,6 +948,10 @@
      <string name="save_draft">Сохранить черновик</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="save_draft_failed">Save draft failed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="save_power_summary">Battery saving in preset time</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="save_power_title">Battery saver</string>
      <string name="saved">Сохранен, %s</string>
      <string name="saving">Сохранение…</string>
      <string name="search_attachment">Поиск</string>
@@ -982,6 +994,8 @@
 \u0009 (Проверь параметр 'автосинхронизации времени')"</string>
      <string name="ser_resp_err_map_nouser">Нет такого пользователя</string>
      <string name="ser_resp_err_map_or">или</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ser_resp_err_map_pserr">Incorrect username or password</string>
      <string name="ser_resp_err_map_serclosed">Сервис закрыт</string>
      <string name="ser_resp_err_map_ssl">"Пожалуйста, попробуй выбрать 'SSL / TLS (принимать все сертификаты)' в 'типе безопасности'"</string>
      <string name="set_network">Настроить сеть</string>
