@@ -222,15 +222,29 @@ Custom service will contact you in a moment"</string>
      <string name="expresss_inquiry_frequently_used_logistics">Частые</string>
      <string name="fraud_number_online_identification">Block telemarketers (requires internet connection)</string>
      <string name="gallery">Галерея</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="general_btn_follow">Follow</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="general_btn_follow_ok">Following</string>
      <string name="general_cancel_favorite_ok">Убрано</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="general_cancel_followed_ok">Unfollowed</string>
      <string name="general_delete_recent_ok">Удалено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="general_favorite_ok">Favorite added</string>
      <string name="general_favorite_title">Избранные</string>
+     <string name="general_follow_hint">"Once followed %1$s, you can receive information from %1$s, and get more service from %1$s.
+
+Confirm to follow this yellow page?"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="general_follow_hint_title">Hint</string>
      <string name="general_menu_delete_recent">Удалить недавние</string>
      <string name="general_menu_unfavorite">Из избранных</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="general_menu_unfollow">Unfollow</string>
      <string name="general_no_yellow_page">Пусто</string>
      <string name="general_recent_title">Недавние</string>
+     <string name="general_unfollow_hint">Sure to unfollow %1$s?</string>
      <string name="general_yellow_page_title">Основные</string>
      <string name="group_name_banner" />
      <string name="group_name_basic" />
@@ -270,11 +284,15 @@ Custom service will contact you in a moment"</string>
      <string name="menu_delete_one">Удалить это из журнала вызовов</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_enroll_in_yellow_page">Sign up for Mi Yellow Pages</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_follow_yellow_page">Follow</string>
      <string name="menu_remove_black_list">Удалить из черного списка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_remove_from_favorite">Remove from favorites</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_save_contact">Save number to contact</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_unfollow_yellow_page">Unfollow</string>
      <string name="minimum_price">From %d RMB</string>
      <string name="mishop_web_payment_title">Оформить заказ MiStore</string>
      <string name="more_coupons">Все купоны</string>
@@ -343,6 +361,8 @@ Custom service will contact you in a moment"</string>
      <string name="recharge_order_pay">Оплатить</string>
      <string name="recharge_pay">Пополнить сейчас</string>
      <string name="recharge_pay_hint_license">соглашение о пополнении</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="recharge_payment_error">Order closed or error occurred, please exit and try again</string>
      <string name="recharge_payment_result_failed_summary">Попробуй еще раз</string>
      <string name="recharge_payment_result_failed_title">Ошибка пополнения</string>
      <string name="recharge_payment_result_ok_summary">Подтверди, что эта сумма есть на счету</string>
@@ -384,6 +404,8 @@ Custom service will contact you in a moment"</string>
      <string name="sina_token_expired_warning">Weibo аккаунт истек: свяжи повторно</string>
      <string name="sina_token_invalid_warning">Weibo аккаунт неверный: свяжи повторно</string>
      <string name="smart_antispam">Идентификация номеров</string>
+     <string name="tag_follow_status">tag_follow_status</string>
+     <string name="tag_follow_yp_id">tag_follow_yp_id</string>
      <string name="toast_finish_delete_call_log">Журнал вызовов был удален</string>
      <string name="toast_text_copied">Текст скопирован</string>
      <string name="try_again">Попробуй еще раз</string>

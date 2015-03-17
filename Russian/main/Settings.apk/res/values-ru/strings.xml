@@ -90,6 +90,10 @@
      <string name="adjust_3d_depth_title">Настройка 3D для игр</string>
      <string name="advanced_settings">Дополнительные настройки</string>
      <string name="advanced_settings_summary">Включить дополнительные настройки</string>
+     <string name="agps_roaming">A-GPS when roaming</string>
+     <string name="agps_roaming_dia">"Using A-GPS while roaming may increase your mobile data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
+     <string name="agps_roaming_dia_title">Use A-GPS when roaming</string>
+     <string name="agps_roaming_summary">Use A-GPS when roaming, may cost of telephone charges</string>
      <string name="airplane_mode">Режим полета</string>
      <string name="alarm_volume_title">Будильник</string>
      <string name="alert_show_screensaver_when_not_charging_msg">В режиме заставки и без зарядки устройства батарея будет садиться намного быстрее. Отключить эту опцию?</string>

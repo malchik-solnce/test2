@@ -377,6 +377,8 @@
      <string name="favorites_list_empty">Нет избранных</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="firewall_setting">Blocklist</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="followed_yellowpage">Followed directories</string>
      <string name="foundTooManyContacts">Найдено более %d</string>
      <string name="frequentList">Часто вызываемые</string>
      <string name="full_name">Имя</string>

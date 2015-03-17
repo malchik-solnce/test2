@@ -530,6 +530,9 @@ Please check your local date and try again."</string>
      <string name="mipay_wait_retry">Waiting for retry…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_wallet_app_name">Bank cards</string>
+     <string name="mipay_web_error_network">"Couldn't connect to network."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_web_error_server">Server error. Please try again later</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_web_login">Login</string>
      <string name="mipay_web_login_description">Login %1$s</string>

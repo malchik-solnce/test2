@@ -470,6 +470,11 @@
      <string name="issu_very_manyi">Очень доволен</string>
      <string name="jifen_text">Очки:</string>
      <string name="kilobytes_unit">%1$s КБ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="king_cloud_text_left">This page powered by</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="king_cloud_text_middle">Ksyun.</string>
+     <string name="king_cloud_text_right" />
      <string name="last_recommend_gift">Подарочные пакеты</string>
      <string name="last_use_plugin">%s ago used plugin function</string>
      <string name="launch">Открыть</string>
@@ -540,6 +545,36 @@
      <string name="mibi_tab_other">other</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="minute_ago">minutes</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_account_activate_confirmation">Activation required</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_account_activate_ok">Activate</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_account_login_cancel">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_account_login_confirmation">Signing in required</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_account_login_ok">Sign in</string>
+     <string name="miuishare_account_need_activate">Weibo share requires your Weibo account is binded to Xiaomi account, which is not activited currently. Activate your account?</string>
+     <string name="miuishare_account_need_login">Weibo share requires your Weibo account is binded to Xiaomi account, which is signed in currently. Sign in to share now?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_app_name">MiuiShare</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_no_network">No network for share</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_publish">Send</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_share_done">Share content is sent.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_share_editor_title">Share</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_title_more">More</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_title_share">Share</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_weibo_title">Weibo</string>
      <string name="modify_nick_name_hint">Введите ник (2-12 символов, букв и цифр)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="month_ago">months</string>
@@ -813,6 +848,10 @@ Please check and refresh"</string>
      <string name="share_button">Отправить другу</string>
      <string name="share_subject">Отправить приложение： %1$s</string>
      <string name="share_text">Посмотри какая прикольная игра с XiaoMi Game Center: %1$s, что то потрясающие! Отправить в: %2$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="share_weibo_endnote">Has been with the game download link</string>
+     <string name="share_weibo_from">From @ xiaomi game %1$s</string>
+     <string name="share_weibo_text">Find a good game “%1$s”，recommend it to everyone 。</string>
      <string name="show_all_local_app">Просмотр всех приложений</string>
      <string name="simple_date_format_MMdd">MM-dd</string>
      <string name="simple_date_format_yyyyM">yyyy-MM</string>
