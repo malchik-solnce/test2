@@ -1096,8 +1096,6 @@
      <string name="splitConfirmation_title">Разделение контакта</string>
      <string name="starredList">Помеченные</string>
      <string name="starred_contacts">Избранные</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="starred_yellowpage">Favorite directories</string>
      <string name="status_available">На месте</string>
      <string name="status_away">Отошел</string>
      <string name="status_busy">Не беспокоить</string>

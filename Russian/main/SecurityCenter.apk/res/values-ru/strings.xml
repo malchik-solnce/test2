@@ -732,6 +732,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="summary_cloud_service">Use Mi Cloud to back up your data in case you damage or lose your device.</string>
      <string name="summary_data_flow">"Check your carrier plan's data limits and set a data usage warning or limit to help manage your data usage."</string>
+     <string name="summary_default_app">"%s isn't set as a default system app"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="summary_delete_cache">Some apps may require this data to work normally.</string>
      <string name="summary_delete_large_file">"Some large files may be useful when you don't have an internet connection (e.g. maps, schedules, etc.). Make sure you don't need this file."</string>
@@ -790,6 +791,7 @@
      <string name="title_data_flow">Set a data usage warning</string>
      <string name="title_data_flow_no">Контроль трафика отключен</string>
      <string name="title_data_flow_yes">Контроль трафика включен</string>
+     <string name="title_default_app">"MIUI %s isn't set as default"</string>
      <string name="title_delete_cache">Delete cached data?</string>
      <string name="title_delete_large_file">Delete this file?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -844,6 +846,7 @@
      <string name="toast_backup_uninstall_success">Резервное копирование и удаление завершено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="toast_cleaner_cloudscan">Cleaner will use online definitions</string>
+     <string name="toast_default_app">"%1$s set as system's default %2$s"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="toast_flow_notification">Turned on data usage notifications</string>
      <string name="toast_garbage_cleanup_success">Очистка завершена</string>

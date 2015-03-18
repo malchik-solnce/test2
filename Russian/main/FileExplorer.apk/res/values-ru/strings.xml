@@ -148,6 +148,7 @@
      <string name="kuaipan_data_formater_with_year">month M day d year YYYY</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="kuaipan_data_formater_without_year">M month d day</string>
+     <string name="kuaipan_delete_guide_des">Delete guide？</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="kuaipan_delete_success">Photo deleted</string>
      <string name="kuaipan_over_space">В KuaiPan нет больше свободного места</string>

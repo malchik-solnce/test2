@@ -427,6 +427,20 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Один микрофон</item>
         <item>Два микрофона</item>
      </string-array>
+     <string-array name="pink_panel_led_color_entries">
+        <item>Lilac</item>
+        <item>Ruby</item>
+        <item>Orange</item>
+        <item>Green</item>
+        <item>Magenta</item>
+     </string-array>
+     <string-array name="pink_panel_led_color_values">
+        <item>blue</item>
+        <item>red</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>\#FFAA00AA</item>
+     </string-array>
      <string-array name="power_mode_entries">
         <item>Производительность</item>
         <item>Сбалансированный</item>

@@ -307,6 +307,9 @@
      <string name="notif_summary_auto_update_on">Xiaomi Market будет обновлять приложения автоматически</string>
      <string name="notif_summary_auto_update_successful">Обновлено приложений: %1$s</string>
      <string name="notif_title_auto_update_on">Автообновление приложений включено</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="notif_title_first_setup">Meet tons of apps at App Store</string>
+     <string name="notif_title_redownload">Redownload: %1$s</string>
      <string name="notif_title_update">Обновление %1$s</string>
      <string name="notif_update_successful">Обновлено</string>
      <string name="notif_update_successful_default">Обновлено</string>
