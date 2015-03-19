@@ -132,7 +132,16 @@ For more info check the message you received from your service provider"</string
      <string name="list_empty_text">Пусто</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lock_screen_setting_summary">Show notification after 100KB has been used</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lock_screen_traffic_guide_notification_summary">Mobile data used during lock screen.</string>
+     <string name="lock_screen_traffic_guide_notification_title">Used %s of mobile data</string>
+     <!-- The count of MNPS does not match! Now: 2 must: 3
+	%s: 2 must: 3
+	%d: 0 must: 0 -->
+     <!-- Original string: Locked for %2$s at %1$s, data used %3$s -->
      <string name="lock_screen_traffic_notify_body">Locked for %1$s | Used %2$s of mobile data</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lock_screen_traffic_purchase_textview">Buy mobile data</string>
      <string name="lock_screen_traffic_warn_title">Предупреждение трафика</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="main_alert_message_month_limit_error">The data limit you set is incorrect</string>
@@ -381,7 +390,10 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="tc_sms_report_upload_when_net">Thank you for the feedback!</string>
      <string name="ten_percent_total_pkg">%s (10%% of your monthly mobile data)</string>
      <string name="three_percent_total_pkg">%s (3%% of your monthly mobile data)</string>
+     <string name="timeshow_h">%.1fh</string>
+     <string name="timeshow_h_int">%dh</string>
      <string name="timeshow_h_m">%1$dh %2$dm</string>
+     <string name="timeshow_m">%dm</string>
      <string name="timeshow_m_s">%1$dm %2$ds</string>
      <string name="timeshow_s">%ds</string>
      <string name="tips_dialog_title">Не знаете свой лимит?</string>

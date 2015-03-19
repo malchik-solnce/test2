@@ -107,6 +107,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="install">Install</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="install_failed">Update failed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="install_local">Install local</string>
      <string name="install_qq">"Get Tencent's Weibo app"</string>
      <string name="internal_build">Внутренняя сборка</string>
@@ -186,6 +188,13 @@
      <string name="progress_title_checking">Checking for updates…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="reboot">Reboot</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="recovery_failed_button">OK</string>
+     <string name="recovery_failed_msg">"Your device doesn't have enough memory to enter Recovery mode and update your system. Try using Mi PC Suite instead:
+http://zhushou.xiaomi.com"</string>
+     <string name="recovery_failed_notification_msg">"Can't enter Recovery mode"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="recovery_failed_title">Use Mi PC Suite to update your system</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="repeat">Retry</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
