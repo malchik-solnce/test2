@@ -1172,11 +1172,6 @@
      <string name="yellowpage_navigation_more_items">Еще</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="yellowpage_navigation_more_items_title">More services</string>
-     <string name="yellowpage_navigation_network_location_enable">Включить</string>
-     <string name="yellowpage_navigation_network_location_enable_later">Отмена</string>
-     <string name="yellowpage_navigation_network_location_enabled">Сервис включен. Ты можешь отключить его в настройках местоположения.</string>
-     <string name="yellowpage_navigation_network_location_not_enabled_summary">Включение отслеживания местоположения может улучшить качество услуг сервесов Xiaomi (сервисные номера банков и т.д.)</string>
-     <string name="yellowpage_navigation_network_location_not_enabled_title">Местоположение</string>
      <string name="yellowpage_navigation_no_content">Ничего не найдено</string>
      <string name="yellowpage_navigation_search_city_name_hint">Город</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

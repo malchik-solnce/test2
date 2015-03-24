@@ -208,6 +208,7 @@
      <string name="mipay_button_update">Обновить</string>
      <string name="mipay_cancel_bind_bank_card">Отменить привязку карты?</string>
      <string name="mipay_cancel_bind_ring">Stop pairing Mi Band?</string>
+     <string name="mipay_cancel_choose_bank_card">Stop choosing bank card?</string>
      <string name="mipay_cancel_forget_password">Give up finding out your payment password?</string>
      <string name="mipay_cancel_modify_password">Отменить изменение пароля оплаты?</string>
      <string name="mipay_cancel_pay">Отменить покупку?</string>

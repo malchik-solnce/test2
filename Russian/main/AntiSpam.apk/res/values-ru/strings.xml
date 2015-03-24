@@ -171,8 +171,24 @@
      <string name="mark_meal">Food delivery</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_meal_block">Marked as food delivery</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_number_agent">Agent</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_number_banking">Insurance sales</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_number_fraud">Fraud</string>
      <string name="mark_number_info">"
 Note that sometimes these calls maybe useful (e.g. when you're actually looking for an apartment). Only block numbers which you never want to receive calls from."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_number_sell">Telemarketer</string>
+     <string name="mark_number_setting_guide_content1">Block calls from reported numbers?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_number_setting_guide_content2">Automatically block calls from numbers that have reported by other users</string>
+     <string name="mark_number_setting_guide_content3">You reported a number as %1$s. Do you want to block calls from numbers reported as %2$s?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_number_setting_guide_forward">Blocklist settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_number_setting_guide_title">Block reported numbers</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_sell">Telemarketer</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

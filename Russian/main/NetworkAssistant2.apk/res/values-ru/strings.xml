@@ -13,18 +13,43 @@
      <string name="adjust_traffic_carrier_summary_yesterday">Обновлено вчера в %s</string>
      <string name="adjust_traffic_data">Настроить трафик</string>
      <string name="alter_dialog_message">Connecting to data services when roaming internationally can result in steep charges from your carrier. Allow apps on exceptions list to connect to data services when roaming internationally?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="apn_exception_summary">Carrier Access point information set abnormalities</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="apn_exception_title">Check APN configurations</string>
      <string name="app_detail">Сведения</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_mobile">3G</string>
      <string name="app_name">Трафик</string>
      <string name="app_version">Версия</string>
      <string name="app_wifi">Wi-Fi</string>
+     <string name="arrearage_exception_summary">"Your carrier's accounting shows you need to top-up now"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="arrearage_exception_title">Your balance is too low</string>
      <string name="background_traffic">Фоновый трафик %s</string>
      <string name="begin_date">Дата начала учета</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="btn_finish_diagnostic">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="btn_start_diagnostic">Start</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="btn_stop_diagnostic">Stop</string>
      <string name="cancel_button">Отмена</string>
      <string name="chat_number">10 часов</string>
      <string name="chat_uint">" часов"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="check_network_state">Check network status</string>
      <string name="checkout_traffic_saving_history">История</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="choose">Choose</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="connect_internet_by_mobiledata">Connect to internet using Mobile data network</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="connect_internet_by_usbshare">Connect to internet using USB</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="connect_internet_by_wifi">Connect to internet using WLAN</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="current_network_state_not_need_diagnose">Normal</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="daily_limit_network_available_body">Touch to view data usage stats.</string>
      <string name="daily_limit_over_message">"You've exceeded your daily data limit."</string>
@@ -98,8 +123,15 @@ For more info check the message you received from your service provider"</string
      <string name="dialog_roaming_message">Apps on exceptions list will be able to connect to data services when roaming internationally. Add this app to exceptions list?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dialog_roaming_title">International roaming</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="disable_air_mode">Turn airplane mode off</string>
+     <string name="dns_exception_summary">"Router's DNS settings are unavailable."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dns_exception_title">Test DNS</string>
      <string name="dual_setting_simcard1">SIM-карта 1</string>
      <string name="dual_setting_simcard2">SIM-карта 2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="enable_network">Turn your Mobile network on</string>
      <string name="firewall_activity_lable">Управление подключениями</string>
      <string name="firewall_applist">Приложения</string>
      <string name="firewall_fragment_nonesys_listempty">Пусто</string>
@@ -121,6 +153,10 @@ For more info check the message you received from your service provider"</string
      <string name="free_time_traffic_settings">Настройки повременного трафика</string>
      <string name="free_time_traffic_title">Введите пакет трафика</string>
      <string name="free_traffic_settings">Включить трафик по времени</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="gateway_exception_summary">Check your router and try again.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="gateway_exception_title">Test router</string>
      <string name="input_aviable_traffic">Настроить лимит трафика</string>
      <string name="input_traffic_pkg">Введите пакет трафика</string>
      <string name="input_used_hint">Введите исполь. трафик</string>
@@ -130,6 +166,7 @@ For more info check the message you received from your service provider"</string
      <string name="international_roaming_whitelist_count">%d apps can connect to data services when roaming internationally</string>
      <string name="left_precent">60%</string>
      <string name="list_empty_text">Пусто</string>
+     <string name="load_fail">"Can't load"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lock_screen_setting_summary">Show notification after 100KB has been used</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -182,6 +219,12 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="main_secondary_message_traffic_used_noleisure">%s peak data used | no off-peak data remaining</string>
      <string name="main_secondary_message_traffic_used_normal">%s peak data used</string>
      <string name="main_toolbar_firewall">Контроль</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="main_toolbar_internet_by_mobiledata">Connect to internet using Mobile data network</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="main_toolbar_internet_by_pc_brige">Connect to internet using USB</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="main_toolbar_internet_by_wifi">Connect to internet using WLAN</string>
      <string name="main_toolbar_purchase">Пополнение</string>
      <string name="main_toolbar_saving">Экономия</string>
      <string name="main_toolbar_statistic">Статистика</string>
@@ -201,6 +244,8 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="network_assistant_upgraded_body">Нажмите, чтобы ограничить использование данных</string>
      <string name="network_assistant_upgraded_title">Обновление завершено</string>
      <string name="network_control">Управление трафиком</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="network_diagnostics">Test network</string>
      <string name="none_mi_service_app_detail">Пусто</string>
      <string name="notify_daily_data_usage_body">%s used today. Tap to set limit.</string>
      <string name="notify_daily_limit_body">%s used this week. Tap to set limit.</string>
@@ -215,6 +260,7 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="online_chat">Чаты</string>
      <string name="online_read">Чтение</string>
      <string name="online_songs">Музыка</string>
+     <string name="pay_charge">Top-up</string>
      <string name="per_month_pkg_traffic_settings">Настройка лимита данных</string>
      <string name="permit_running_network">Разрешить фоновые данные</string>
      <string name="person_hotpot">Мобильные точки доступа</string>
@@ -315,6 +361,10 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="reach_daily_limit_value_title">Daily data limit reached</string>
      <string name="read_number">86 статей</string>
      <string name="read_unit">" статей"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="repair">Repair</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="replace_dns">Auto replacement</string>
      <string name="right_precent">100%</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="roaming_not_start_body">Apps on exceptions list will be able to connect to data services when roaming internationally.</string>
@@ -328,12 +378,17 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="sc_allow_network_dialog_message">You need to allow this app to connect to the internet for it function normally.</string>
      <string name="sc_allow_network_dialog_tiltle">"Can't use data saver"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="see_detail">Details</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="setting_traffic_pkg">Set data package</string>
      <string name="settings">Настройки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="show_traffic_dialog_message">Your data usage info will be displayed in the notification shade. You can turn this feature on or off anytime in Data usage > Settings</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="show_traffic_dialog_title">Show usage in notification shade</string>
+     <string name="signal_exception_summary">"Can't connect to network in this area."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="signal_exception_title">Weak network signal</string>
      <string name="songs_number">18 песен</string>
      <string name="songs_unit">" песен"</string>
      <string name="sorted_button">Сортировка</string>
@@ -514,7 +569,15 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
 	%d: 1 must: 0 -->
      <!-- Original string: Mobile data usage warning -->
      <string name="traffic_warning_purchase_title">Remaining balance is less than %d%%</string>
+     <string name="unable_connect_internet">"Can't connect to the network"</string>
      <string name="usage_sorted_activity_lable">Использование данных</string>
      <string name="usage_sorted_empty_text">Пусто</string>
      <string name="usage_sorted_loading_text">Загрузка…</string>
+     <string name="usbsharenet_exception_summary">"Can't test network being shared by Mi PC Suite."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="usbsharenet_exception_title">Test Usb Sharenet network</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_exception_summary">Test an available WLAN network</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_exception_title">Test WLAN network</string>
 </resources>

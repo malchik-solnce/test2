@@ -68,6 +68,8 @@
      <string name="face_beauty_intelligent_level_2">Средняя</string>
      <string name="face_beauty_intelligent_level_3">Высокая</string>
      <string name="find_other_qrcode">Найден код</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="hide_priority_in_system_settings">0</string>
      <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
      <string name="no_storage">Вставьте SD-карту перед использованием камеры</string>
      <string name="not_enough_space">SD-карта заполнена</string>

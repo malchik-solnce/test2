@@ -23,6 +23,8 @@
      <string name="contact_details">Информация о контакте:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="continue_access_web_url">Secure access</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="continue_to_website">Continue to website</string>
      <string name="copy">Копировать</string>
      <string name="copy_succeed">Скопировано</string>
      <string name="copy_text">Копировать тектс</string>
