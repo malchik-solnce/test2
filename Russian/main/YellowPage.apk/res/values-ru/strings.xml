@@ -13,6 +13,8 @@
      <string name="account_updating_device_failed">Ошибка входа. Повтори позже.</string>
      <string name="account_verify_password">Ты используешь службу сервисов на другом устройстве. В целях безопасности, требуется подтвердить пароль от аккаунта.</string>
      <string name="account_yellowpage_favorite">Мое избранное</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_yellowpage_followed">Verified Accounts</string>
      <string name="account_yellowpage_recent">Посмотреть историю</string>
      <string name="agree">Принимаю</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

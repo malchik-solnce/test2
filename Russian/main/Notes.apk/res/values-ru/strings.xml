@@ -43,7 +43,8 @@
      <string name="login_sync">Вход и синхронизация</string>
      <string name="menu_create_folder">Новая папка</string>
      <string name="menu_delete">Удалить</string>
-     <string name="menu_move">Переместить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_folders">Folders</string>
      <string name="menu_move_parent_folder">Назад</string>
      <string name="menu_send_to_desktop">На рабочий стол</string>
      <string name="menu_send_wechat">Отправить в WeChat</string>

@@ -251,9 +251,11 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="notify_daily_limit_body">%s used this week. Tap to set limit.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="notify_daily_limit_title">Set a daily data limit</string>
+     <string name="notify_daily_limit_title_for_slotnum">Set daily data limit for %s</string>
      <string name="notify_month_traffic_body">%s used this month. Tap to set limit.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="notify_setting_pkg_title">Set your monthly data limit</string>
+     <string name="notify_setting_pkg_title_for_slotnum">Set monthly data limit for %s</string>
      <string name="notify_weekly_pkg_body">%s used this week. Tap to set limit.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok_button">OK</string>

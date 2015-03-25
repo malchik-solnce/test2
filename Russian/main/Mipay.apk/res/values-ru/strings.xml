@@ -537,6 +537,11 @@ Please check your local date and try again."</string>
      <string name="mipay_web_error_server">Server error. Please try again later</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_web_login">Login</string>
+     <string name="mipay_web_login_app_description">Login %1$s</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Login -->
      <string name="mipay_web_login_description">Login %1$s</string>
      <string name="mipay_web_login_waiting">Please wait…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
