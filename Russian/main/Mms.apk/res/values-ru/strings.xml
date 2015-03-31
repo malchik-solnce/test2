@@ -83,6 +83,9 @@
      <string name="confirm_no_block_title">Не блокировать этот номер и восстановить все сообщения?</string>
      <string name="confirm_rate_limit">Отправляется большое количество MMS. Продолжить?</string>
      <string name="confirm_restore_all_title">Восстановить все сообщения от этого номера?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="confirm_restore_checkbox">Unblock Messages send from this number</string>
+     <string name="confirm_restore_message">Restore selected messages?</string>
      <string name="confirm_restore_positive">Восстановить</string>
      <string name="confirm_restore_title">Восстановить все выбранные сообщения?</string>
      <string name="confirm_send_mms">Один из получателей содержит адрес электронной почты. Это сообщение будет отправлено как MMS, что может привести к дополнительным расходам.</string>

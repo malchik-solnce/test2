@@ -2,6 +2,8 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="access_history">История</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="action_item_delete">Delete</string>
      <string name="add_favorite">Избранное</string>
      <string name="app_name">Радио</string>
      <string name="app_to_share">Выберите приложение</string>
@@ -19,6 +21,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="channel_off">The program does not already exist</string>
      <string name="click_to_play">Нажмите для воспроизведения</string>
+     <string name="confirm_delete_history_text">Delete selected items?</string>
      <string name="device_connected">Подключено</string>
      <string name="device_not_connected">Не подключено</string>
      <string name="dialog_title_download_quality">Качество загрузки</string>

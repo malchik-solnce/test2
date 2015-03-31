@@ -21,6 +21,10 @@
      <string name="bad_authentication">Неверный пароль или имя пользователя</string>
      <string name="btn_return">Назад</string>
      <string name="button_cancel">Отмена</string>
+     <string name="buy_more_space_b_class">"Sign in at mi.com/micloud to get more storage space.
+You need a Mainland China bank card to purchase additional storage space."</string>
+     <string name="buy_more_space_c_class">"This feature requires a Mainland China bank card.
+To get more storage space, visit mi.com/micloud."</string>
      <string name="buy_space_expire">Purchased space will expire in %s</string>
      <string name="buy_space_expire_concat">%1$s to %2$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -37,6 +41,25 @@
      <string name="calendar_sync">Calendar</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="click_to_enabled">Touch to sync.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_back_up_button_ok">Force stop</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_back_up_close_info">Tap to back up.</string>
+     <string name="cloud_back_up_dialog_content">"Stop back up in progress? If you stop now, you won't be able to use this backup to restore apps."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_back_up_interval_long">7 days</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_back_up_interval_short">1 hour</string>
+     <string name="cloud_back_up_network_unavailable">"Couldn't remove. Connect to WLAN and try again."</string>
+     <string name="cloud_back_up_open_info">"Back up your Home screen layout and apps every %1$s when connected to WLAN
+Last backup: %2$s"</string>
+     <string name="cloud_back_up_open_info_no_backuptime">Back up your Home screen layout and apps every %1$s when connected to WLAN</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_back_up_remove_success">Backup deleted</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_back_up_title">Back up Home screen</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_backup_dialog_title">Back up with Mi Cloud</string>
      <string name="cloud_find_device">Поиск устройства</string>
      <string name="cloud_space_upgrade_message">Click to get %s GB free space this month</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

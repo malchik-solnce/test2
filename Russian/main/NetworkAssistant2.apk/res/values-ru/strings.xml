@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+     <string name="add_miservice_dialog_content">"%s requires you to add MIUI service framework to the exceptions list. You may receive notifications from MIUI's built-in apps and other third-party apps."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="add_miservice_dialog_title">MIUI service framework</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="add_to_whitelist_button">Manage exceptions</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
