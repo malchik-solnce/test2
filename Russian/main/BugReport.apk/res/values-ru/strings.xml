@@ -113,6 +113,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="submit_dialog_confirm">Submit</string>
      <string name="submit_dialog_content">"Your feedback, along with error logs and attached images, will be sent to Xiaomi's servers."</string>
+     <string name="submit_dialog_not_wifi_content">"Your feedback, along with error logs and attached images, will be sent to Mi's servers when your device is connected to WLAN."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="submit_dialog_title">Send report to Xiaomi</string>
      <string name="suggestion_description">Я надеюсь, что добавите функцию X, потому что…</string>
@@ -127,6 +128,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_system_app">MIUI apps</string>
      <string name="toast_description_required">Описание не может быть пустым</string>
+     <string name="toast_feedback_collect_store">Collecting logs…</string>
      <string name="toast_feedback_network_unavailable">"Can't connect to network"</string>
      <string name="toast_feedback_pending_wlan">Твой отзыв будет отправлен позже при включенном Wi-Fi</string>
      <string name="toast_feedback_submitted">Отзыв успешно отправлен</string>

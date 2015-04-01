@@ -1008,6 +1008,8 @@ SIM-карта будет заблокирована навсегда при н�
      <string name="voicemail_settings_number_hint">Введите номер голосовой почты</string>
      <string name="voicemail_settings_number_label">Номер голосовой почты</string>
      <string name="voicemail_settings_number_title">Номер голосовой почты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="voip_setting">Voip settings</string>
      <string name="wrong_password">Неправильный пароль</string>
      <string name="xdivert_button">Настройки X-переадресации</string>
      <string name="xdivert_setting">Настройки X-переадресации</string>

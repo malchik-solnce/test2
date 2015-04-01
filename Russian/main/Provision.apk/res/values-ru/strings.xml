@@ -12,10 +12,6 @@
      <string name="input_method_category">Выберите метод ввода по умолчанию, который будет использоваться при написании электронных писем, заметок, и т.д.. Сторонние клавиатуры можно установить позже.</string>
      <string name="input_method_setting">Настроить метод ввода</string>
      <string name="install_preinstall_app">Loading apps…</string>
-     <string name="locale_picker_confirm_dialog_desc">Determine select %s as your location?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locale_picker_confirm_dialog_title">Location Setting</string>
-     <string name="locale_picker_desc">"If yout want to change your location later on, you'll need to perform a Factory data reset"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="locale_picker_title">Choose your location</string>
      <string name="miui_privacy_policy_no_network">No network connection. View the Privacy Policy at %s</string>
@@ -65,7 +61,12 @@
      <string name="sim_redetection">Проверить еще раз</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="summary_not_set">Not set</string>
+     <!-- The count of MNPS does not match! Now: 2 must: 1
+	%s: 1 must: 0
+	%d: 1 must: 1 -->
+     <!-- Original string: Card %1$d -->
      <string name="summary_sim_card">Card %1$d%2$s</string>
+     <string name="summary_sim_card_with_operator">Card %1$d, %2$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="terms_of_use">Terms of Service</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
