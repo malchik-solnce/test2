@@ -341,6 +341,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="notification_multiple_title">Новые сообщения</string>
      <string name="number_add_hint">Введи номер, чтобы добавить к приватным контактам</string>
      <string name="open_url_with_web">Whether allow to open url with Web?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="over_max_mms_size">Mms is too big.</string>
      <string name="overwrite_edited_content">Весь отредактированный контент будет перезаписан. Продолжить?</string>
      <string name="phrase_confirm_delete_message">Удалить фразы</string>
      <string name="phrase_empty">Нет фразы</string>
@@ -375,6 +377,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_summary_notification_body_enabled_when_secure">Предварительный просмотр сообщений отключен при гостевом режиме</string>
      <string name="pref_summary_off_system_mms_priority">Другие приложения будут получать сообщения</string>
      <string name="pref_summary_on_system_mms_priority">Приложение будет получать сообщения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_summary_send_delivery_reports">Send delivery report for receive messages</string>
      <string name="pref_summary_show_recent_contacts">Показать список последних контактов при создании нового сообщения</string>
      <string name="pref_summary_wake_up_screen">Включать экран при получении нового сообщения</string>
      <string name="pref_system_title">СИСТЕМНЫЕ НАСТРОЙКИ</string>
@@ -398,6 +402,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_title_notification_body_enabled">Предпросмотр сообщения</string>
      <string name="pref_title_ringtone_repeat">Количество напоминаний</string>
      <string name="pref_title_ringtone_repeat_summary">Number of notification sounds when SMS message is received while display is off:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_title_send_delivery_reports">Send delivery report</string>
      <string name="pref_title_show_recent_contacts">Показать недавние контакты</string>
      <string name="pref_title_sms_delete">Макс. количество SMS</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

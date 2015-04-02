@@ -81,6 +81,8 @@
      <string name="loading_hot_problem">Загрузка…</string>
      <string name="loading_problem_list">Loading list…</string>
      <string name="menu_copy">Копировать</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="network_disconnected">No network</string>
      <string name="network_err">Не удается подключиться к сети. Проверьте подключение и попробуйте обновить.</string>
      <string name="network_unavailable_dialog_content">Ваш отзыв будет отправлен при включенном интернете</string>
      <string name="network_unavailable_dialog_title">Сеть недоступна</string>
@@ -134,6 +136,8 @@
      <string name="toast_feedback_submitted">Отзыв успешно отправлен</string>
      <string name="toast_feedback_submitting">Submitting…</string>
      <string name="toast_feedbackservice_in_submit">Отправка предыдущего отзыва…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="toast_fill_brackets">Please fill in the brackets</string>
      <string name="toast_network_unavailable">"Couldn't send. Can't connect to the network."</string>
      <string name="toast_pending_log_collection">Сбор логов</string>
      <string name="toast_report_copied_to_clipboard">Отчет скопирован в буфер обмена</string>

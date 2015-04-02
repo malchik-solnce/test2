@@ -333,7 +333,7 @@ Confirm to follow this yellow page?"</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Order ID: -->
+     <!-- Original string: "Order #: " -->
      <string name="order_id_label">Id заказа: %s</string>
      <string name="order_merchant_title">Мои заказы</string>
      <string name="order_merchant_title_format">%1$s-%2$s</string>
@@ -341,14 +341,14 @@ Confirm to follow this yellow page?"</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Order price: -->
+     <!-- Original string: "Order price: " -->
      <string name="order_price_label">Стоимость заказа: %s</string>
      <string name="order_product_name_label">Название:</string>
      <string name="order_status">%s</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Order status: -->
+     <!-- Original string: "Order status: " -->
      <string name="order_status_label">Статус заказа: %s</string>
      <string name="order_type_recharge">Top-up</string>
      <string name="packages_no_package">Нет подходящего пакета трафика</string>

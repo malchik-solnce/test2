@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <plurals name="show_dev_countdown">
+     <plurals name="show_dev_countdown">
         <item quantity="other">Вы в %1$d шагах от режима разработчика</item>
         <item quantity="one">Вы в %1$d шаге от режима разработчика</item>
-    </plurals>
-    <plurals name="show_nondev_countdown">
+     </plurals>
+     <plurals name="show_nondev_countdown">
         <item quantity="other">Вы в %1$d шагах от выключения режима разработчика</item>
         <item quantity="one">Вы в %1$d шаге от выключения режима разработчика</item>
-    </plurals>
+     </plurals>
 </resources>
