@@ -64,6 +64,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_restore_title">Pending</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="configure_wallpaper">Settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm_btn_label">OK</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="current_preview">Preview</string>
@@ -94,6 +96,7 @@
      <string name="failed_to_drop">Перемещение не удалось</string>
      <string name="failed_to_drop_widget_invalid">Неверный виджет</string>
      <string name="failed_to_drop_widget_nospace">Нет места на экране</string>
+     <string name="failed_to_load_image">"Can't load image"</string>
      <string name="folder_name">Папка</string>
      <string name="frame_load_failed">Ошибка загрузки рамки</string>
      <string name="free_style_apps_title">Выбери приложения</string>
@@ -178,6 +181,7 @@
      <string name="menu_workspace_preview">Просмотр столов</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mi_wallpaper">MIUI Theme Store</string>
+     <string name="mtzgadget_missing_text">"Isn't provided any longer, please add again"</string>
      <string name="multi_selecting_tips">Нажмите на иконку</string>
      <string name="online_wallpaper">Онлайн</string>
      <string name="out_of_space">На этом экране нет свободного места</string>

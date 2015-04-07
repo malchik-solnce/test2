@@ -368,6 +368,7 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="read_unit">" статей"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="repair">Repair</string>
+     <string name="repair_loading_text">Loading…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="replace_dns">Auto replacement</string>
      <string name="right_precent">100%</string>
