@@ -870,6 +870,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="toast_network_switch">This app can connect to the internet</string>
      <string name="toast_removed_from_white_list">Удалено из белого списка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="toast_resolve_apk_error">Resolve apk error</string>
      <string name="toast_root_apply_accept">%s разрешены права суперпользователя</string>
      <string name="toast_root_apply_reject">%s запрещены права суперользователя</string>
      <string name="toast_shortcut_install">Ярлык создан</string>

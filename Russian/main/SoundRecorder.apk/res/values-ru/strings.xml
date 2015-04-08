@@ -73,6 +73,7 @@
      <string name="record_list_cloud_call">Записи вызовов в облаке</string>
      <string name="record_list_cloud_fm">Записи радио в облаке</string>
      <string name="record_list_fm">Записи радио</string>
+     <string name="record_mark_point">%smark</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="record_picker_title">Choose a recording</string>
      <string name="recording">Запись…</string>
