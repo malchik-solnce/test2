@@ -128,6 +128,8 @@
      <string name="credit_center">Кредит-центр</string>
      <string name="cue_title_data_save_mode">Reduce mobile data usage，image not loaded</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="customer_service_staff_info">Staff information</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="day_ago">days</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_nick_name">KDev Group</string>
@@ -546,6 +548,15 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="minute_ago">minutes</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui_recommend_btn_install_gamecenter">Install Xiaomi genuine</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui_recommend_btn_install_system">Install the original</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui_recommend_title">Recommendation for installation of Xiaomi genuine</string>
+     <string name="miui_recommend_title_game">%1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui_recommend_title_static">The benefit of installation of Xiaomi genuine</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="miuishare_account_activate_confirmation">Activation required</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="miuishare_account_activate_ok">Activate</string>
@@ -732,14 +743,12 @@ Please check and refresh"</string>
      <string name="pref_summary_auto_update_setting">Напомнить скачать</string>
      <string name="pref_summary_clear_search_record">Очистить данные о поиске</string>
      <string name="pref_summary_data_check_update">Нажми, для проверки версии</string>
-     <string name="pref_summary_data_save_mode">Не загружить иконки и скриншоты</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_summary_reserve_apk">Reserve APKs after install</string>
      <string name="pref_summary_update_notification">Сообщение об обновлении для приложений</string>
      <string name="pref_title_auto_update_setting">Настройки автоматического обновления</string>
      <string name="pref_title_clear_search_record">Очистить историю поиска</string>
      <string name="pref_title_data_check_update">Проверить обновление</string>
-     <string name="pref_title_data_save_mode">Сохранение трафика</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_title_push_activity_notification">Promotions Reminder</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -845,6 +854,8 @@ Please check and refresh"</string>
      <string name="service_of_quarter_gift">Quarterly GamePacks</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="setting_push_notify">Notification Settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="setting_value">0</string>
      <string name="share_button">Отправить другу</string>
      <string name="share_subject">Отправить приложение： %1$s</string>
      <string name="share_text">Посмотри какая прикольная игра с XiaoMi Game Center: %1$s, что то потрясающие! Отправить в: %2$s</string>

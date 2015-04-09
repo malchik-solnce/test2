@@ -120,9 +120,6 @@
      <string name="replace">Заменить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_select">Select</string>
-     <string name="screen_button_disabled_message">Navigation buttons disabled. To re-enable them, touch Home and the Power button simultaneously.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="screen_button_enabled_message">Navigation buttons enabled.</string>
      <string name="screen_button_notification_text">"Нажмите 'Home'+'Power' для включения"</string>
      <string name="screen_button_notification_title">Кнопки на дисплее отключены</string>
      <string name="screen_on_proximity_sensor_hint">"Принудительный выход: нажми кнопки 'НАЗАД'+'Громкость +'. Режим защиты датчиком можно отключить в разделе настроек - настройки экрана'."</string>
@@ -130,7 +127,6 @@
      <string name="screen_on_proximity_sensor_title">Защита датчиком</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="screen_paper_mode_enter_toast">Read mode is on. You can turn this feature on and off anytime in Additional settings > Read mode.</string>
-     <string name="screen_rotation_freeze_message">Auto-rotate disabled.</string>
      <string name="select">Выбрать</string>
      <string name="select_all">Выбрать все</string>
      <string name="shutdown_confirm_title">Выключить устройство?</string>
@@ -143,67 +139,6 @@
      <string name="softap_notifif_title">Модем \"%s\" включен</string>
      <string name="solar_calendar">Григорианский календарь</string>
      <string name="spring_begins">Весна</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_ac">Access</string>
-     <string name="status_bar_toggle_ac_action">com.android.settings/.Settings$AccessControlActivity</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_auto_brightness">Auto</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_brightness">Brightness</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_data">Data</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_divider">More</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_drive_mode">Car</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_flight_mode">Airplane</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_gps">GPS</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_lock">Lock</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_mute">Silent</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_network_type">Network</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_paper_mode">Read mode</string>
-     <string name="status_bar_toggle_paper_mode_action">com.android.settings/.display.ScreenPaperModeActivity</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_power_mode">Perform</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_privacy_mode">Guest</string>
-     <string name="status_bar_toggle_privacy_mode_action">com.android.settings/.Settings$AccessControlActivity</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_quiet_mode">DND</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_reboot">Reboot</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_rotate">Rotation</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_screen_button">Disable</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_screenshot">Screenshot</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_shutdown">Power</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_sync">Sync</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_sync_auto">Sync</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_sync_manual">Sync</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_syncing">Syncing</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_torch">Torch</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_vibrate">Vibrate</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_wifi">WLAN</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_wifi_ap">WLAN</string>
      <string name="stopping_the_heat">Прохладно</string>
      <string name="summer_begins">Начало лета</string>
      <string name="summer_solstice">Летнее солнцестояние</string>

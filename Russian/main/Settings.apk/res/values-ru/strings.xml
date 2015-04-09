@@ -607,6 +607,7 @@
      <string name="controls_label">Элементы управления</string>
      <string name="controls_subtitle">Режим энергопотребления</string>
      <string name="copyright_title">Авторские права</string>
+     <string name="country_name">%s (system)</string>
      <string name="create">Создать</string>
      <string name="credential_storage_type">Тип памяти</string>
      <string name="credential_storage_type_hardware">Оборудование</string>
@@ -1131,6 +1132,7 @@ Dissatisfied? Try"</string>
      <string name="input_settings">НАСТРОЙКИ ВВОДА</string>
      <string name="install_all_warning">Ваши личные данные и данные телефона более уязвимы для атак приложений из неизвестных источников. Вы соглашаетесь с тем, что несете полную ответственность за любой ущерб, нанесенный телефону, и потерю данных, связанные с использованием этих приложений.</string>
      <string name="install_applications">Неизвестные источники</string>
+     <string name="install_preinstall_app">Loading apps…</string>
      <string name="install_text">Установить</string>
      <string name="install_unknown_applications">Разрешить установку приложений, полученных не из маркета</string>
      <string name="install_whole_rom">Download ROM (standard)</string>
@@ -1210,6 +1212,8 @@ Dissatisfied? Try"</string>
      <string name="local_backup_section_summary">Резервное копирование настроек системы, аккаунта и приложений</string>
      <string name="local_backup_section_title">Локальный бэкап</string>
      <string name="locale_default">По умолчанию</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locale_settings">Locale</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="location_access_off">Off</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -2068,8 +2072,21 @@ Are you sure to change?"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="screen_optimize">Contrast</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="screen_paper_mode_adjust_level">Adjust reading mode effect</string>
+     <string name="screen_paper_mode_apps_loading">Loading…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="screen_paper_mode_apps_title">Use Reading mode for these apps</string>
+     <string name="screen_paper_mode_global_summary">Use reading mode globally，not custom</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="screen_paper_mode_global_title">Global</string>
+     <string name="screen_paper_mode_local_summary">Use reading mode locally，click right arrow to custom</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="screen_paper_mode_local_title">Local</string>
      <string name="screen_paper_mode_off_apps_title">"Don't use Read mode for the following apps"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="screen_paper_mode_range_title">Range</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="screen_paper_mode_set_apps_title">Custom reading mode</string>
      <string name="screen_paper_mode_summary">"Reduce screen's background glare"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="screen_paper_mode_title">Reading mode</string>
@@ -2077,6 +2094,17 @@ Are you sure to change?"</string>
      <string name="screen_paper_mode_turn_off">Off</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="screen_paper_mode_turn_on">On</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Do not prompt</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Agree and Continue</string>
+     <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">In order to update the list of applications can use reading mode, need to connect the network.Do you agree?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Terms and Conditions</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="screen_paper_mode_update_white_pkg_list_summary">Update list of applications using reading mode over the network</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="screen_paper_mode_update_white_pkg_list_title">Network update list</string>
      <string name="screen_saturation">Насыщенность цвета</string>
      <string name="screen_timeout">Спящий режим</string>
      <string name="screen_timeout_summary">После %1$s бездействия</string>
@@ -2286,6 +2314,7 @@ Are you sure to change?"</string>
      <string name="sim_reenter_new">Введите новый PIN повторно</string>
      <string name="sim_status_title">Статус SIM</string>
      <string name="skip_label">Далее</string>
+     <string name="skip_lock_screen_confirm_msg">The following features will be disabled for lockscreen: notifications, music player controls, swipe left to access Camera, and swipe right access Mi Home.</string>
      <string name="skip_step">Пропустить этот шаг</string>
      <string name="slot_status_title">Информация IMEI</string>
      <string name="small_font">Маленький</string>

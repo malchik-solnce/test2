@@ -114,6 +114,11 @@ Last backup: %2$s"</string>
      <string name="find_device_disabled_title">Поиск устройства отключен</string>
      <string name="find_device_disabling">Выключение…</string>
      <string name="find_device_dspt">Немедленная блокировка или очистка устройства</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: "If you lose your device, you can go to %s to locate, lock, or reset it. You can turn this feature on and off anytime in Settings.
+" -->
      <string name="find_device_dspt_provision">"If you lose your device, you can go to "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="find_device_dspt_provision_2">i.mi.com</string>
@@ -365,9 +370,19 @@ This feature encrypts and uploads your device's ID to Mi's servers."</string>
      <string name="sub_sync_item_sms_title_wifi_only">Только по Wi-Fi</string>
      <string name="success_upgraded_space">%s added</string>
      <string name="sync_dspt">Включить синхронизацию</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: "Sync your photos, contacts, call history, and messages across all your devices. Access the things you sync from any browser at %s. " -->
      <string name="sync_dspt_entrance_provision">"Sync your photos, contacts, and messages, or locate your device. "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sync_dspt_entrance_provision_2">Learn more</string>
+     <string name="sync_dspt_entrance_provision_confirm_close">"Don't use"</string>
+     <string name="sync_dspt_entrance_provision_confirm_content">"MIUI's built-in apps need Mi Cloud to back up your photos, contacts, notes, and more. Mi Cloud is free and ready to use out of the box."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_dspt_entrance_provision_confirm_open">Use Mi Cloud</string>
+     <string name="sync_dspt_entrance_provision_confirm_title">"Don't use Mi Cloud?"</string>
+     <string name="sync_dspt_entrance_provision_skip"><u>Skip this step</u></string>
      <string name="sync_dspt_provision">"Mi Cloud syncs your photos, SMS, notes, and more across all your Mi devices. You can also access them from any browser at "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sync_dspt_provision2">i.mi.com</string>

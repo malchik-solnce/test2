@@ -225,4 +225,10 @@ d MMMM yyyy"</string>
      <string name="user_guide_for_notification">При получении нового уведомления, можно раскрыть строку состояния для получения дополнительных сведений</string>
      <string name="user_guide_for_toggle">Список переключателей можно прокручивать по горизонтали</string>
      <string name="user_guide_for_toggle_list">Нажмите, чтобы настроить список переключателей</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vpn_text">Touch to view settings.</string>
+     <string name="vpn_text_long">Connected to %s. Tap to view details.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vpn_title">VPN activated</string>
+     <string name="vpn_title_long">Connecting to VPN using %s</string>
 </resources>
