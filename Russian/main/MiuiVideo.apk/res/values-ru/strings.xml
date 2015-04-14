@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="about">About</string>
      <string name="about_app_name">Видеоплеер</string>
      <string name="about_title">О приложении</string>
      <string name="about_version_label">Версия</string>
@@ -12,15 +10,15 @@
      <string name="add_favorite_success">Добавлено</string>
      <string name="add_more_addons">добавить другие специальные</string>
      <string name="addon" />
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="addon_all">All</string>
      <string name="addon_category">Специальное</string>
      <string name="addon_install_complete_disc">Нажми, чтобы установить %s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="addon_installed_empty_hint">Empty</string>
      <string name="addon_update_desc">Найдена новая версия. Обновить?</string>
      <string name="adjust_position_next_media_notice">Далее</string>
      <string name="adjust_position_prev_media_notice">Назад</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ads_control">Advertise Control</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ads_control_desc">Checked, display advertise when start application</string>
      <string name="airkan_control_device_des">Управляй воспроизведением видео с помощью кнопки в нижней части</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="airkan_device_xiaomi_phone">Xiaomi</string>
@@ -30,53 +28,36 @@
 на Xiaomi TV Box"</string>
      <string name="airkan_video_playing">播放</string>
      <string name="airkan_video_playing_in">Видео</string>
-     <string name="all">Все</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="alert_dialog_download_btn_hide">Hide</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="alert_dialog_download_dup_task">Downloading in progress, please wait...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="alert_dialog_download_error">Download Error</string>
      <string name="all_ep">Все эп.</string>
-     <string name="all_media">Все медиа</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="all_episode">All Episodes</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_latest_version">The Application is already latest version</string>
      <string name="app_name">Видео</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_recommend">Featured</string>
+     <string name="app_upgrade_version">New version</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="area_unknown">unknown area</string>
+     <string name="app_version">Application Version</string>
      <string name="authenticated_failed">Ошибка аутентификации</string>
      <string name="authenticating"><CDATA>Идентификация </CDATA></string>
      <string name="authenticating_manually">Ошибка аутентификации</string>
      <string name="average_score">Средняя оценка</string>
      <string name="avg_score">%.1f</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="baodian">Pointer</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="bestv">Bestv</string>
      <string name="buffering">Буферизация…</string>
      <string name="buffering_video_netplay_label_v5">Буферизация…</string>
      <string name="cancel">Отмена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cancel_button">Cancel</string>
      <string name="cancel_favorite_success">Удалено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="category">Category</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="catoon">Cartoons</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="channel_choice">Selected</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="channel_hot">Hot</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="channel_latest">New</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="channel_new">New</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="channel_ok">OK</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="channel_recommend">Recommend</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="channel_score">Praise</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="channel_variety_choice">Selected</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="channel_variety_hot">Hot</string>
+     <string name="check_app_version">Checking latest version...</string>
      <string name="check_network">"Can't connect to the network. Check your data connection and try again."</string>
-     <string name="choice">Топ</string>
      <string name="clarity_high">Высокое</string>
      <string name="clarity_standard">Стандартное</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -96,14 +77,14 @@
      <string name="cnlive">cnlive</string>
      <string name="comment">Комментарии</string>
      <!-- The count of MNPS does not match! Now: 1 must: 1
-	%s: 0 must: 0
-	%d: 0 must: 1 -->
-     <!-- Original string: Comment must be at least %d characters -->
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Comment must be at least %1$s characters -->
      <string name="comment_count_less_tip">Comment must be at least d% characters</string>
      <!-- The count of MNPS does not match! Now: 1 must: 1
-	%s: 0 must: 0
-	%d: 0 must: 1 -->
-     <!-- Original string: "Comment can't exceed %d characters" -->
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: "Comment can't exceed %1$s characters" -->
      <string name="comment_count_much_tip">"Comment can't exceed d% characters"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="comment_edit_et_hint">Enter a comment</string>
@@ -116,9 +97,10 @@
      <string name="count_comment_wan">%.2f0 оценок</string>
      <string name="count_ge">Файлов: %d</string>
      <string name="count_ge_media">%d видео</string>
-     <string name="count_ge_result">Результатов: %d</string>
      <string name="count_ji_quan">Все %d эп.</string>
      <string name="count_qi">Ep. %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="data_buffering">Buffering</string>
      <string name="datastream_alert_download">You are download video with the 2G/3G/4G network, may result in higher flow cost</string>
      <string name="datastream_alert_hint">You may be in the Settings-system application-Video, close the tip</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -129,6 +111,9 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="datastream_alert_title">Traffic tips</string>
      <string name="day" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="debug_mode">Debug Mode</string>
+     <string name="debug_mode_desc">Checked, show video id in left-top corner and display advertise when application startup</string>
      <string name="declaration">Условия использования</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="declaration_allow">Agree</string>
@@ -143,6 +128,10 @@
      <string name="delete_with">删除（%d）</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="detail_comment_empty">Empty</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="develop_version">Developing application</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="development_setting">Development Settings</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="device_empty_hint">Empty</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -159,14 +148,27 @@
      <string name="download_add_success">Загрузка добавлена</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="download_error">Offline error</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="download_fail">Fail</string>
      <string name="download_file_fail">Нет даступа к файлу. Возможно нехватает места на SD-карте.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="download_finished">Finished</string>
      <string name="download_geturl_fail">Не удалось получить URL. Проверь сеть.</string>
      <string name="download_is_in_tasklist">В списке загрузок</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="download_paused">Paused</string>
      <string name="download_percent_hint">Загрузка %d%%</string>
+     <string name="download_progress_0p">0%</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="download_queue">Fetching address</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="download_running">Running</string>
      <string name="download_task_with">%d个任务正在离线</string>
      <string name="download_with">Downloaded %1$s / %2$s</string>
      <string name="edit">Изменить</string>
      <string name="edit_comment">Добавить комментарий</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="empty_data">Load error</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="error_empty_filter_title">No Result</string>
      <string name="error_empty_title">"Sorry, it's wrong"</string>
@@ -176,9 +178,7 @@
      <string name="file_error">Ошибка файла</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="file_not_exist">The file does not exist</string>
-     <string name="film">电影</string>
      <string name="filter">Фильтр</string>
-     <string name="filter_program">Фильтрация программ</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="forecast">Forecast</string>
      <string name="forecast_empty_hint">Нет программ</string>
@@ -188,35 +188,29 @@
      <string name="fullscreen">Fullscreen</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="funshion">Funshion</string>
-     <string name="gong_count_bu">%d total</string>
      <string name="gong_count_dlna">DLNA: %d</string>
      <string name="gong_count_ge">%d total</string>
      <string name="gong_count_ji">Всего эп.: %d</string>
      <string name="gong_count_xiang">Файлов: %d</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="good">OK</string>
+     <string name="hint_apk_download">Click \"%1$s\" to download and install this application</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="hollywood">Hollywood</string>
+     <string name="hint_apk_install">Application download</string>
+     <string name="hint_apk_text_update">App new version available, do you want to download and install?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="hot">Hot</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="hot_recommend">Trending</string>
+     <string name="hint_apk_title_update">New Version</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="icntv">iCNTV</string>
-     <string name="info_channel_title">资讯频道</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="info_video_loading">Loading...</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="init">Init</string>
      <string name="install_comfirm">Нажми, чтобы установить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="installed">Installed</string>
+     <string name="install_plugin">Install Plug-in</string>
      <string name="introduce">Описание</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="ji">ep</string>
      <string name="key_back_down_toast">Нажми еще раз, чтобы выйти</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="koreak">Korea TV</string>
+     <string name="lastrefresh">Recent update:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lekan">Lekan</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -232,20 +226,18 @@
      <string name="local_video">Телефон</string>
      <string name="login_tip_content">Войди в аккаунт для синхронизации и обновления шоу которые смотришь</string>
      <string name="login_tip_title">Авторизация</string>
-     <string name="maintitle_prefix">发现新版本</string>
      <string name="media_name_comment">%s комментарий</string>
      <string name="menu_item_enable_audio_enhance">Включить усиление звука</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_name">Menu</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mine_info_account_summary_none">Not login</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mine_info_account_title">Account information</string>
      <string name="minute"> Minute</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipush_setting">Xiaomi push</string>
      <string name="month" />
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: Go to %s -->
-     <string name="more">Еще</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="my">My</string>
      <string name="my_favorite">Избранное</string>
      <string name="my_offline">Офлайн</string>
      <string name="mycamera">Мое видео</string>
@@ -257,18 +249,22 @@
      <string name="no_login_xiaomi_account">Войди в Xiaomi аккаунт прежде чем комментировать</string>
      <string name="no_longer_tips">"Don't show again"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_sdcard_no_download">No enough storage, fail to request download.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="not_login">Not signed in</string>
      <string name="nowifi_alert_dialog_continue">Да</string>
      <string name="nowifi_alert_dialog_exit">Нет</string>
      <string name="nowifi_alert_dialog_message">Вы собираетесь смотреть видео через мобильную сеть. Возможны денежные затраты. Продолжить?</string>
      <string name="nowifi_alert_dialog_title">Внимание!</string>
      <string name="offline">Офлайн</string>
+     <string name="offline_add_queue_fail">Fail to download \"%1$s\", please retry later</string>
      <string name="offline_alert_title">Уведомление загрузки</string>
      <string name="offline_alert_wifi">Вы используете мобильный интернет. Загрузки будут приостановлены и загружены при подключении к сети Wi-Fi.</string>
+     <string name="offline_already_in">\"%1$s\" exists in download queue</string>
+     <string name="offline_created_order">Added \"%1$s\" into download queue, order: %2$s</string>
      <string name="offline_loaded">离线视频</string>
      <string name="offline_loading">正在离线</string>
      <string name="offline_max_promote">Ожидание. Дуступно 2 загрузки одновременно.</string>
-     <string name="offline_media">离线视频</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="offline_media_empty_title">Empty</string>
      <string name="offline_no_selected_item_hint">请选择要下载的集数</string>
@@ -283,9 +279,15 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
      <string name="online_video">Онлайн</string>
-     <string name="other_setting">Прочие</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="partner_specials">ad space</string>
+     <string name="online_video_oneweek">During last week</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="online_video_oneweek_ago">One week ago</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="operator_test">Operator Settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="operator_test_summary">If checked, enter operator mode</string>
+     <string name="other_setting">Прочие</string>
      <string name="pause">Пауза</string>
      <string name="percent_status">%.1f%%</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -293,10 +295,13 @@
      <string name="pick_addon_to_delete">Выбери для удаления</string>
      <string name="place_at">No.%d</string>
      <string name="play">Смотреть</string>
-     <string name="play_count_ci">%d played</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="play_fail">Fail to play, please try later.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="play_his_empty_title">Empty</string>
      <string name="play_history">Недавнее</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="play_source_fetching">Connecting</string>
      <string name="positive_comment">Положительные</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pps">PPS</string>
@@ -308,17 +313,21 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="priority_storage_summary">Automatically save to external SD card if available</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pulltorefresh">Pull to refresh</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="qiyi">iQiyi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="rank_title_movie">Movie</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="receive_develop_summary">Receive application update when new develop version is available</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="receive_mipush">Receive xiaomi push</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="receive_mipush_summary">Receive notifications about new and updated online content</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 0 must: 0
-	%d: 1 must: 0 -->
-     <!-- Original string: Recently watched -->
-     <string name="recent_play">Recently played: Ep.%d</string>
      <string name="recentplay">Недавние</string>
+     <string name="refreshing">Loading…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="releasetorefresh">Release and refresh</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="reload_sub_title">Click screen retry</string>
      <string name="reload_title">"Couldn't connect to the network"</string>
@@ -331,12 +340,7 @@
      <string name="search">Поиск</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_hint">Search online video</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_recommend_media_hint">Recommended for you</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_recommend_word_hint">Trending</string>
      <string name="search_result_empty_text">"Didn't find anything"</string>
-     <string name="search_result_input_hint">Поиск</string>
      <string name="second"> Second</string>
      <string name="see_all_count_comment">%d more comments</string>
      <string name="select_all">Выбрать все</string>
@@ -348,8 +352,13 @@
      <string name="select_tv_empty_hint">Нет каналов</string>
      <string name="select_tvs">Выбери tv</string>
      <string name="send">Отправить</string>
-     <string name="series_ep">第%d集</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="server_summary">Choose Service Server</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="server_switch">Server</string>
      <string name="setting">Настройки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="share">Share</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="share_device">Shared device</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -374,11 +383,11 @@
      <string name="start_addon">start addon</string>
      <string name="storage_remain">剩余空间：</string>
      <string name="storage_total">总空间：</string>
-     <string name="subtitle_prefix">当前版本</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="suffix_countdown">seconds</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="system_setting">System Settings</string>
+     <string name="tab_loading"><CDATA>...</CDATA></string>
      <string name="temp_play_history_button_label">История просмотров</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tencent">Tencent</string>
@@ -388,33 +397,29 @@
      <string name="toast_message_continue_play_hour">ч. </string>
      <string name="toast_message_continue_play_minute">м. </string>
      <string name="toast_message_continue_play_second_and_play">с.</string>
-     <string name="today">Сегодня </string>
      <string name="top_status_local_media">Локально</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="top_status_offline_media">Offline</string>
      <string name="top_status_online_media">Онлайн</string>
+     <string name="total_episode">%1$s Episodes</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tudou">Tudou</string>
-     <string name="tv">电视直播</string>
      <string name="tv_channel_empty_hint">Нет каналов</string>
-     <string name="tv_series">电视剧</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ui_style">UI Style</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ui_style_summary">Default is list view</string>
      <string name="unfavorite">Из избранного</string>
      <string name="unknown_source">Неизвестный источник</string>
      <string name="update">Обновлено</string>
-     <string name="update_apk_statusbar">Downloading…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="update_button">Update</string>
-     <string name="update_size_prefix"><CDATA>Size:</CDATA></string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="update_title">Update available</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 1
+	%s: 0 must: 1
+	%d: 1 must: 0 -->
+     <!-- Original string: Updated to Ep. %1$s -->
      <string name="update_to_count_ji">Добавлена %d серия</string>
      <string name="update_to_count_qi">Updated to %s</string>
-     <string name="update_version_prefix"><CDATA>Update to version:</CDATA></string>
-     <string name="updateapk_intro">更新日志</string>
      <string name="updatedalready">Обновлено</string>
      <string name="upgrade">Обновить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="usa">US TV</string>
      <string name="use_cellular_network">Мобильный интернет</string>
      <string name="use_cellular_network_summary">Использовать мобильный интернет для загрузки видео. Возможны денежные затраты.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -424,16 +429,19 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="use_cellular_play_summary">In order to save the cost of open flow, suggestions</string>
      <string name="use_cellular_play_title">2G/3G/4G network broadcast video tips</string>
-     <string name="userdata_alert_content">You are currently using data network, may produce a lot of traffic fees, sure you want to continue?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="userdata_alert_ok">Continue</string>
+     <string name="user_tab">My App</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="userdata_alert_title">Data usage</string>
-     <string name="variety">综艺</string>
+     <string name="version_select">Version Select</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="version_select_summary">Select alpha, developing, stable version</string>
      <string name="vertical_line"><CDATA> | </CDATA></string>
      <string name="video"> видео</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="video_bbs">Join Us</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="video_bbs_url">Join us and help develop this video application</string>
      <string name="video_count">%d 个视频</string>
-     <string name="video_declare">Copyright   |   Disclaimer</string>
      <string name="video_info_audio_bitrate_label">Аудио битрейт:</string>
      <string name="video_info_audio_coding_label">Аудио кодек:</string>
      <string name="video_info_audio_null">Нет</string>
@@ -441,9 +449,10 @@
      <string name="video_info_length_label">Длина:</string>
      <string name="video_info_resolution_label">Разрешение:</string>
      <string name="video_info_video_coding_label">Видео кодек:</string>
-     <string name="video_version">Version %s</string>
+     <string name="video_plugin">Video Plug-in</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="video_xiaomi">Xiaomi video</string>
+     <string name="video_plugin_downloading">Downloading...</string>
+     <string name="video_plugin_prepare">Preparing video plug-in, please wait a while.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_VideoView_error_button">OK</string>
      <string name="vp_VideoView_error_network_not_available">Сеть не доступна</string>
@@ -553,14 +562,16 @@
      <string name="vp_unknown_source">Unknown source</string>
      <string name="vp_using_16_9">Force 16:9</string>
      <string name="vp_using_4_3">Force 4:3</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vp_video_bad_network_condition">Bad network condition, retry later</string>
      <string name="vp_video_loading"><CDATA>视频加载中..</CDATA></string>
+     <string name="vp_video_plugin_installation">Installing %1$s plugin for best picture quality...</string>
      <string name="waiting_to_download">Ожидание</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wasu">Wasu</string>
      <string name="write_comment">Добавить</string>
      <string name="xiaomi_account_type_unsupported">Система не поддерживает аккаунт Xiaomi</string>
      <string name="xiaomi_user">Аккаунт Xiaomi</string>
-     <string name="yesterday">Вчера</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="yinyuetai">YinYueTai</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

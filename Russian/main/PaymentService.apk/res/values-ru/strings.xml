@@ -165,6 +165,7 @@
      <string name="label_giftcard">Подарочная карта:</string>
      <string name="label_order_name">Продукт:</string>
      <string name="label_order_price">Цена:</string>
+     <string name="list_item_bottom_hint">"You've reached the bottom of this list"</string>
      <string name="lockpassword_choose_your_pattern_header">Выбери шаблон</string>
      <string name="lockpassword_confirm_your_pattern_header">Подтверди шаблон</string>
      <string name="lockpassword_input_your_pattern_header">Подтверди шаблон</string>
@@ -189,6 +190,12 @@
      <string name="lockscreen_forgot_pattern_button_text"><u>Забыли пароль?</u></string>
      <string name="login">Войти</string>
      <string name="memu_refresh">Обновить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_lock">Pattern lock</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_qa">FAQ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_shotcut">Send to desktop</string>
      <string name="mibi_license_message">"Прежде чем воспользоваться этой услугой, ты должен согласиться с условиями предоставления услуг, указанными в %1$s.
 Нажми OK, если согласен с %1$s."</string>
      <string name="mibi_license_message_span">MiCredit пользовательское соглашение</string>
@@ -322,6 +329,8 @@
      <string name="scan_prompt_voucher">Сканировать пароль MiCredit</string>
      <string name="security_setting">Настройки безопасности</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="shurtcut_create_success">Shortcut created</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sms_code_empty">Enter the verification code sent to your phone.</string>
      <string name="sms_code_error">Ошибка проверочного кода. Повтори еще раз.</string>
      <string name="sms_code_hint">Проверочный код</string>
@@ -337,7 +346,6 @@
      <string name="title_custom_service_phone">Contact customer support</string>
      <string name="title_discounts">Акции и скидки</string>
      <string name="title_gesture">Графический ключ</string>
-     <string name="title_giftcard">Подарочные карты</string>
      <string name="title_lockpattern">Включить блокировку</string>
      <string name="title_mili_center">Мои кредиты</string>
      <string name="title_nopassword">Не требовать для мелких платежей</string>
@@ -346,7 +354,6 @@
      <string name="title_password_threshold">Суточный лимит = %1$s юань</string>
      <string name="title_recharge">Пополнить баланс</string>
      <string name="title_sms_code">Введите проверочный код</string>
-     <string name="title_transaction">Операции</string>
      <string name="title_visible_pattern">Сделать шаблон видимым</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="unit">Mi Credit</string>
