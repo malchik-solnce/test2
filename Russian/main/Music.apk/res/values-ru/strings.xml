@@ -56,6 +56,8 @@
      <string name="data_usage_warning">Мобильный интернет</string>
      <string name="data_usage_warning_summary">Использование мобильного интернета для потоковой передачи более высококачественной музыки может увеличить затраты денежных стредств</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="delete">Delete</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="delete_file_as_well">Delete local file as well</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="delete_file_end">Delete permanently</string>
@@ -286,6 +288,8 @@
      <string name="ok">OK</string>
      <string name="online_music">Онлайн</string>
      <string name="online_playlist_is_empty">Плейлист пуст</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="only_online_can_select_quality">Only online song can select quality</string>
      <string name="order_process_fail">"Couldn't authorize your account. Wait a few minutes and try again."</string>
      <string name="payment_fail">Платеж не удался</string>
      <string name="payment_success">Успешно оплачено</string>
@@ -311,6 +315,8 @@
      <string name="quit_warining">Автоотключение через %d мин.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="recommend_fragment_title">Featured</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="remove">Remove</string>
      <string name="retry">Повтор</string>
      <string name="ringtone_not_support">"The song's format is not supported."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -367,6 +373,12 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="song_name">Song</string>
      <string name="song_not_find">"Network is not allowed or song isn't on shelf. Unable to get resources currently"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sort_by_language">Lang</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sort_by_name">Name</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sort_by_time">Date</string>
      <string name="source_from">Источник: %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="start_to_play">Play</string>
@@ -383,8 +395,6 @@
      <string name="tab_local_track_list">Песни</string>
      <string name="tab_track_list">Песни</string>
      <string name="take_effect_afater_restart">Перезапусти приложение, чтобы новые настройки вступили в силу</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="today_update">Music updated</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="track_list_control_download">Download</string>
      <string name="track_list_control_edit_add_tracks">Добавить треки</string>

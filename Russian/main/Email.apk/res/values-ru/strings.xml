@@ -3,6 +3,12 @@
 <resources>
      <string name="ApplicationIconMore99">99+</string>
      <string name="Folders">Папки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="SMTP_independent_verification_text">SMTP independent verification</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="SMTP_password_text">Password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="SMTP_username_text">Username</string>
      <string name="abc_action_bar_home_description">Перейти на главный экран</string>
      <string name="abc_action_bar_up_description">Перейти вверх</string>
      <string name="abc_action_menu_overflow_description">Другие параметры</string>
@@ -512,6 +518,8 @@
      <string name="folder_sent_name_en3">Sent Items</string>
      <string name="folder_sent_name_en4">[Gmail]/Sent Mail</string>
      <string name="folder_shortcut_widget_label">Папка почты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="folder_synchronization_mail_settings">Folder synchronization mail settings</string>
      <string name="folder_trash_name_cn0">已删除</string>
      <string name="folder_trash_name_cn1">已删除邮件</string>
      <string name="folder_trash_name_cn2">[Gmail]/已删除邮件</string>
@@ -915,11 +923,6 @@
      <string name="quote_divider_ks_web">________________________________________</string>
      <string name="quote_divider_qq_en">------------------ Original ------------------</string>
      <string name="quote_divider_qq_zh">------------------ 原始邮件 ------------------</string>
-     <string name="quote_divider_wps_zh">发自WPS Mail</string>
-     <string name="quote_divider_wps_zh_hk">發自WPS Mail</string>
-     <string name="quote_divider_xm_rsh">Отправлено с MiPhone</string>
-     <string name="quote_divider_xm_zh">发自我的小米手机</string>
-     <string name="quote_divider_xm_zh_hk">發自我的小米手機</string>
      <string name="quoted_text">Включить цитируемый текст</string>
      <string name="quoted_text_label">Цитировать</string>
      <string name="read_string">прочитано</string>
