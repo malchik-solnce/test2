@@ -41,6 +41,8 @@
      <string name="app_latest_version">The Application is already latest version</string>
      <string name="app_name">Видео</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_update_background">Upgrade your application in background</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_upgrade_version">New version</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_version">Application Version</string>
@@ -171,6 +173,7 @@
      <string name="empty_data">Load error</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="empty_keyword_hint">Keyword cannot be empty</string>
+     <string name="episode_name_format">第%1$s集</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="error_empty_filter_title">No Result</string>
      <string name="error_empty_title">"Sorry, it's wrong"</string>

@@ -1558,6 +1558,12 @@ Dissatisfied? Try"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_dirac_mode_piston_basic">Basic Edition</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="music_dolby_mode_movie">Video</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="music_dolby_mode_music">Music</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="music_dolby_mode_off">Off</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_equalizer">Equalizer</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_equalizer_summary">Adjust individual levels for different types of music</string>
@@ -1601,6 +1607,8 @@ Dissatisfied? Try"</string>
      <string name="music_mi_effect_summary">Always use MiSound enhancer when using speakers</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_mi_effect_title">Use MiSound enhancer</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="music_title_dolby_control">Dolby digital plus</string>
      <string name="musicfx_title">Эквалайзер</string>
      <string name="mvno_match_data">Значение MVNO</string>
      <string name="mvno_type">Тип MVNO</string>

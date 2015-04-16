@@ -124,6 +124,7 @@
      <string name="menu_title_pick_rom_file">Select update package</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_title_recovery">Reboot to Recovery mode</string>
+     <string name="miui_BBS">" "<a href="http://bbs.miui.com">Go to MIUI forum</a>" "</string>
      <string name="miui_summary_has_new_version">"  An update is available  "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="miui_summary_no_new_version">No updates available</string>
@@ -303,6 +304,30 @@ But you can take part next Tuesday"</string>
      <string name="validate_pkg_failed_title">"Can't verify update"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="view_upgrade_tutorial">View</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vote_beta">Beta Feedback Program</string>
+     <string name="vote_error1">"Look's like you're not a member
+of the Beta Feedback Program"</string>
+     <string name="vote_error2">"Couldn't submit feedback.
+Update your device and try again"</string>
+     <string name="vote_error3">"Couldn't sign in.
+Try signing in your Mi Account again."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vote_error4">You already submitted feedback</string>
+     <string name="vote_error5">"Something went wrong
+Couldn't submit feedback"</string>
+     <string name="vote_error_nonetwork">"Can't connect to the network"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vote_experience">Forum experience</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vote_hint">Get 20 experience points for the MIUI forum when you vote</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vote_join">Voted</string>
+     <string name="vote_not_recommend">"Don't recommend"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vote_recommend">Recommend this update</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vote_submit">Submit</string>
      <string name="weekly_build">еженедельная сборка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="worst_update">Worst update so far</string>
