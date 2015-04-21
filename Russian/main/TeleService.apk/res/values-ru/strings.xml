@@ -381,6 +381,10 @@
      <string name="fdn_enabled">Разрешенные номера включены</string>
      <string name="fdn_invalid_number">Номер ограниченного набора не обновлен: он не должен содержать больше 20 цифр</string>
      <string name="fdn_summary">Ограничение исходящих звонков кроме разрешенных</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="flash_when_ring_summary">Flash notification light for incoming calls</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="flash_when_ring_title">Flash when ringing</string>
      <string name="fw_change_failed">"Не удалось изменить номер переадресации вызовов.
 Если проблема не будет решена, свяжись со своим оператором."</string>
      <string name="fw_get_in_vm_failed">"Не удалось сохранить текущие настройки переадресации.
