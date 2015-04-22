@@ -2362,6 +2362,12 @@ Are you sure to change?"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="status_bar_app_disable_notification">Empty</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Lock screen, notification shade</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="status_bar_app_enable_on_notificationBar">Notification shade</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_key_position_custom">Custom key position</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_screen_button_key">Screen virtual keys</string>
@@ -2523,11 +2529,17 @@ Are you sure to change?"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_font">Font</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_font2">Font</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_font_current">Using</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_font_current2">Choose system font</string>
      <string name="title_font_size">Размер шрифта</string>
      <string name="title_hdmi_color_calibration">Предустановки цвета</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_layout_current">Using layout</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_layout_current2">Choose font size</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_local_resource">Local resources</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

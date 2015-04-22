@@ -18,6 +18,7 @@
      <string name="add_2sec_pause">Добавить 2-сек. паузу</string>
      <string name="add_account">Добавить аккаунт</string>
      <string name="add_blacklist">В черный список</string>
+     <string name="add_blacklist_dialog_title">Block this number?</string>
      <string name="add_connection_button">Добавить соц. сеть</string>
      <string name="add_contact_dlg_message_fmt">Добавить "%s" в контакты?</string>
      <string name="add_field">Добавить поле</string>
@@ -41,6 +42,8 @@
      <string name="auto_nickname">Авто</string>
      <string name="auto_set_nickname">Авто</string>
      <string name="batch_delete">Пакетное удаление</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="blacklist">Block</string>
      <string name="bluetooth_connection_failed_toast">Bluetooth соединение прервано</string>
      <string name="blurbJoinContactDataWith">Выбери контакт, который хочешь объединить с "%s":</string>
      <string name="btn_rotation">Повернуть</string>
@@ -316,8 +319,6 @@
      <string name="display_sim_contacts">Контакты SIM-карты</string>
      <string name="display_ungrouped">Все остальные контакты</string>
      <string name="display_warn_remove_ungrouped">Удаление "%s" из синхронизации так же удалит все контакты, не добавленные в группы</string>
-     <string name="dlg_add_blacklist">Добавить выбранный номер в черный список?</string>
-     <string name="dlg_remove_blacklist">Удалить выбранный номер из черного списка?</string>
      <string name="download_failed">Ошибка загрузки</string>
      <string name="download_preview_failed">Не удалось загрузить превью</string>
      <string name="duplicate_group_name">Группа уже существует</string>
@@ -790,6 +791,7 @@
      <string name="relationLabelsGroup">Отношения</string>
      <string name="removePhoto">Удалить фото</string>
      <string name="remove_blacklist">Удалить из черного списка</string>
+     <string name="remove_blacklist_dialog_title">Unblock this numbers?</string>
      <string name="remove_duplicate">"MIUI поможет тебе найти и объединить повторяющиеся контакты. Они не будут объединены автоматически. Пожалуйста, объедини их вручную.
 
 Нажми на объединение и немного подожди, пока автоматическое объединение не завершится."</string>
@@ -942,6 +944,7 @@
      <string name="resource_see_more">Подробнее</string>
      <string name="resource_select">Выбрать</string>
      <string name="resource_select_ringtone_confirm">Select this sound?</string>
+     <string name="resource_select_ringtone_confirm_picker">Select this sound?</string>
      <string name="resource_selected">Лучшие</string>
      <string name="resource_send">Отправить</string>
      <string name="resource_server_alert_dialog_title">Технические неполадки</string>

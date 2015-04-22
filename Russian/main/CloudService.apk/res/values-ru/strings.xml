@@ -66,6 +66,7 @@ To get more storage space, visit mi.com/micloud."</string>
      <string name="cloud_back_up_button_ok">Force stop</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_back_up_close_info">Tap to back up.</string>
+     <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
      <string name="cloud_back_up_dialog_content">"Stop back up in progress? If you stop now, you won't be able to use this backup to restore apps."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_back_up_interval_long">7 days</string>
