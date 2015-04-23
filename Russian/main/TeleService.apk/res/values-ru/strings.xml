@@ -166,6 +166,9 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cb_sms_settings">Cell Broadcast SMS settings</string>
      <string name="cdma_activate_device">Активировать устройство</string>
+     <string name="cdma_alert_message">"If you select another card as your default for mobile data, you won't be able to use your China Telecom UIM card."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cdma_alert_title">UIM card must be default</string>
      <string name="cdma_display_precise_call_state_message">Если Ваш оператор не поддерживает это, состояние вызова может быть показано неправильно</string>
      <string name="cdma_display_precise_call_state_summary">Если поддерживается оператором</string>
      <string name="cdma_display_precise_call_state_title">Показывать состояние вызова</string>
@@ -188,6 +191,11 @@
      <string name="cfnrc_title_cta">Forward when unreachable</string>
      <string name="cfnry_title">Если нет ответа</string>
      <string name="cfu_title">Всегда переадресовать</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="change_default_data">Change</string>
+     <string name="change_default_data_alert_message">"You won't be able to use your China Telecom UIM card."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="change_default_data_alert_title">UIM card must be default</string>
      <string name="change_num">Обновить</string>
      <string name="change_password">Изменить парль запрета</string>
      <string name="change_pin">Изменить PIN SIM-карты</string>
@@ -201,6 +209,8 @@
      <string name="cloud_antispam_title">Настройки идентификации</string>
      <string name="command_error_fdn_failure">Сначала отключите разрешенные номера</string>
      <string name="config_dialing_emergency_number_suffix" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="confirm_change_default_data">Change</string>
      <string name="confirm_password_label">Подтвердите пароль</string>
      <string name="confirm_pin2_label">Подтвердите новый PIN2</string>
      <string name="confirm_pin_label">Подтвердите новый PIN</string>
@@ -606,6 +616,7 @@
      <string name="no_wifi_available_title">Отсутствует подключение Wi-Fi</string>
      <string name="not_a_valid_port">Номер порта должен быть от 1000 до 65534</string>
      <string name="not_allowed">Установленная SIM-карта не может подключиться к этой сети</string>
+     <string name="not_change_default_data">"Don't change"</string>
      <string name="not_voice_capable">Голосовые вызовы не поддерживаются</string>
      <string name="notification_missedCallTicker">Пропущенные вызовы от абонента %s</string>
      <string name="notification_missedCall_call_back">Перезвонить</string>
@@ -768,6 +779,7 @@ SIM-карта будет заблокирована навсегда при н�
      <string name="reject_via_sms_summary">Выберите сообщение для отправки</string>
      <string name="reject_via_sms_title">Отклонить сообщением</string>
      <string name="remember_my_choice">Использовать для всех интернет-вызовов</string>
+     <string name="remind_another_time">"Don't show again"</string>
      <string name="remove">Удалить</string>
      <string name="remove_ims_account">Удалить аккаунт</string>
      <string name="remove_sip_account">Удалить аккаунт</string>
