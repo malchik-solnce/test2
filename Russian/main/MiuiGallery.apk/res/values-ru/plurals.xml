@@ -41,6 +41,10 @@
         <item quantity="other">"You don't have permission to delete these %d files."</item>
         <item quantity="one">"You don't have permission to delete these %d file."</item>
      </plurals>
+     <plurals name="more_face">
+        <item quantity="other">%1$s new faces may also belong to %2$s >></item>
+        <item quantity="one">%1$s new face may also belong to %2$s >></item>
+     </plurals>
      <plurals name="number_of_images">
         <item quantity="other">Изображений: %1$d</item>
         <item quantity="zero">Изображений: %1$d</item>

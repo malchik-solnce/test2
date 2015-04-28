@@ -27,6 +27,7 @@
      <string name="activity_find_city_dialog_set">Setting</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="activity_find_city_dialog_title">Location service</string>
+     <string name="activity_main_refresh_fail">"Couldn't connect to network"</string>
      <string name="activity_main_refresh_time">Last updated %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="activity_main_refresh_timeout">Refresh timeout</string>

@@ -10,7 +10,13 @@
      <string name="calibrate_failed">Calibrating altitude failed</string>
      <string name="calibrate_failed_no_location">Ошибка калибрации: невозможно получить данные</string>
      <string name="calibrate_failed_timeout">Ошибка калибрации: сервер не отвечает</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="calibrate_rotate_again">Try again</string>
      <string name="calibrate_success">Калибрация завершена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="calibrate_tip">Tilt your device to roll the ball around the circle</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="calibrate_title">Calibrate compass</string>
      <string name="dialog_calibrat_altitude">Калибрация через интеренет подключение</string>
      <string name="dialog_title_no_network">Сетей не найдено. Подключись через Wi-Fi или включи мобильный интернет.</string>
      <string name="direction_east">В</string>

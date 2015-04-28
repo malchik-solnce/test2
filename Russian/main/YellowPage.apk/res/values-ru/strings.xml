@@ -268,6 +268,7 @@ Confirm to follow this yellow page?"</string>
      <string name="hms_no_subject_view">(No subject)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hms_notification">Messages</string>
+     <string name="info_divider">|</string>
      <string name="locating_fail">Не удалось обнаружить. Проверь настройки местоположения и повтори.</string>
      <string name="login_before_use">Перед использованием войди в аккаунт</string>
      <string name="login_ok">Войти</string>

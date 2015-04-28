@@ -195,6 +195,8 @@
      <string name="higher_quality_music_summary">Слушай и скачивай в высоком качестве</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="i_know">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="i_know_it">OK</string>
      <string name="impunity_declaration">Онлайн музыка предоставляется сервисом Baidu Online Music. Нажми принимаю, чтобы принять <a href="http://music.baidu.com/doc/agreement">Условия использования</a>.</string>
      <string name="impunity_declaration_ignore">Не спрашивать</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -351,6 +353,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="server_error">Server error. Please try again later</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="service_stop">Service discontinued</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="set_album_successful">Set album successfully</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="set_as_ring">Set To Ring</string>
@@ -416,6 +420,14 @@
      <string name="ultra_high_quality">Наилучшее качество</string>
      <string name="unknown_album_name">Неизвестный альбом</string>
      <string name="unknown_artist_name">Неизвестный исполнитель</string>
+     <string name="upgrade_force">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="upgrade_immediate">Update now</string>
+     <string name="upgrade_nobeta">"We're discontinuing our current streaming service while we resolve copyright issues. Sorry for the inconvenience :("</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="upgrade_remind">Update available</string>
+     <string name="upgrade_suggest">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
+     <string name="upgrade_waringing">"You'll only be able to listen to music stored offline."</string>
      <string name="valid_period">"Действительно : "</string>
      <string name="vip_recommend_title">Высококачественная музыка</string>
 </resources>

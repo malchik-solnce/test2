@@ -235,6 +235,10 @@
      <string name="install_comfirm">Нажми, чтобы установить</string>
      <string name="install_plugin">Install Plug-in</string>
      <string name="introduce">Описание</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="join_alert_title">Join internal test</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="join_hint">Input the invite code</string>
      <string name="key_back_down_toast">Нажми еще раз, чтобы выйти</string>
      <string name="lastrefresh">Recent update:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

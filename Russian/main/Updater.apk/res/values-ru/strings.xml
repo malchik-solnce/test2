@@ -330,5 +330,10 @@ Couldn't submit feedback"</string>
      <string name="vote_submit">Submit</string>
      <string name="weekly_build">еженедельная сборка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="welcom_button">OK</string>
+     <string name="welcom_message">"You're ready to rock"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="welcom_title">Welcome to MIUI 6</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="worst_update">Worst update so far</string>
 </resources>
