@@ -238,6 +238,12 @@
      <string name="pref_camera_jpegquality_entry_normal">Обычное</string>
      <string name="pref_camera_jpegquality_title">Качество изображения</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_jpegquality_value_high">high</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_jpegquality_value_low">low</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_jpegquality_value_normal">normal</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_long_press_shutter_feature_default">burst</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_long_press_shutter_feature_title">Long press Shutter button</string>

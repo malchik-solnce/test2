@@ -978,6 +978,17 @@
      <string name="firmware_version">Версия Android:</string>
      <string name="floating_window_switch_label">Всплывающие окна</string>
      <string name="floating_window_switch_label_disable">Скрывать всплывающие окна</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="fluency_mode">Optimize system performance</string>
+     <string name="fluency_mode_confirm_title">Reboot now?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="fluency_mode_confirm_will_fluency_mode_text">Your device needs to reboot to apply these settings.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="fluency_mode_confirm_will_normal_mode_text">Turning on animations and using additional memory may cause slower performance on some devices.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="fluency_mode_enabled_name">Optimize system performance</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="fluency_mode_summary">Turn off system animations and reduce memory usage</string>
      <string name="font_size_huge">Огромный</string>
      <string name="font_size_large">Большой</string>
      <string name="font_size_medium">Средний</string>
@@ -1046,6 +1057,8 @@ Dissatisfied? Try"</string>
      <string name="gadget_toggle_wifi">Обновление настроек Wi-Fi</string>
      <string name="gadget_wifi">Wi-Fi</string>
      <string name="game_controller_settings_category">Игровой контроллер</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="gesture_wakeup_title">Double tap screen to wake</string>
      <string name="global_change_warning">Настройки будут изменены для всех пользователей устройства</string>
      <string name="global_font_change_title">Изменить размер шрифта</string>
      <string name="global_locale_change_title">Сменить язык</string>
@@ -2161,6 +2174,8 @@ Are you sure to change?"</string>
      <string name="search_description">Поиск настроек</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_display">display</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_fluency_mode">fluency mode</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_font">font</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
