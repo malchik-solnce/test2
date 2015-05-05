@@ -155,15 +155,6 @@
      <string name="pref_camera_coloreffect_title">Эффекты</string>
      <string name="pref_camera_contrast_title">Контрастность</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_countdown_default">3</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_countdown_entry_10s">10s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_countdown_entry_3s">3s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_countdown_entry_5s">5s</string>
-     <string name="pref_camera_countdown_title">Таймер</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_delay_capture_default">3</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_delay_capture_entry_10s">10s</string>
@@ -209,6 +200,8 @@
      <string name="pref_camera_focusmode_entry_manual">Ручной</string>
      <string name="pref_camera_focusmode_entry_normal">Обычный</string>
      <string name="pref_camera_focusmode_title">Режим фокусировки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_gradienter_title">Gradient</string>
      <string name="pref_camera_hand_night_title">Сумерки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_hdr_entry_auto">Auto</string>
@@ -237,6 +230,12 @@
      <string name="pref_camera_jpegquality_entry_low">Низкое</string>
      <string name="pref_camera_jpegquality_entry_normal">Обычное</string>
      <string name="pref_camera_jpegquality_title">Качество изображения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_jpegquality_value_high">high</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_jpegquality_value_low">low</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_jpegquality_value_normal">normal</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_long_press_shutter_feature_default">burst</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -424,13 +423,13 @@
      <string name="simple_mode_button_asd_flash">Close Flash capture</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="simple_mode_button_asd_hdr">Close HDR capture</string>
-     <string name="simple_mode_button_text_audio_capture">Выйти</string>
      <string name="simple_mode_button_text_color_effect">Выйти</string>
-     <string name="simple_mode_button_text_countdown">Выйти</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="simple_mode_button_text_delay_capture">Close countdown</string>
      <string name="simple_mode_button_text_face_beauty">Выйти</string>
      <string name="simple_mode_button_text_fast_video">Close slow-motion camera</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="simple_mode_button_text_gradienter">Turn off Gradient</string>
      <string name="simple_mode_button_text_hand_night">Выйти</string>
      <string name="simple_mode_button_text_hdr">Выйти</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

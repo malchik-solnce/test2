@@ -40,9 +40,10 @@
      <string name="msg_noantenna_message">Подключите наушники</string>
      <string name="new_frequency">Новая станция</string>
      <string name="next_station">Следующая станция</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="notification_rec_title">Tap to view recording</string>
      <string name="pre_station">Предыдущая станция</string>
      <string name="record_completed">Запись завершена</string>
-     <string name="record_file_location_format">Сохранено в %s</string>
      <string name="search_dialog_title">Сканировать станции</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="set">OK</string>

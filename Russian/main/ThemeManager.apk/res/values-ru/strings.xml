@@ -262,6 +262,7 @@
      <string name="resource_see_more">Еще</string>
      <string name="resource_select">Выбрать</string>
      <string name="resource_select_ringtone_confirm">Select this sound?</string>
+     <string name="resource_select_ringtone_confirm_picker">Select this sound?</string>
      <string name="resource_selected">Лучшие</string>
      <string name="resource_send">Отправить</string>
      <string name="resource_server_alert_dialog_title">Технические неполадки</string>

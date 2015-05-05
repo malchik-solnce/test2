@@ -59,6 +59,8 @@
      <string name="mx_btn_enable_now">Включить</string>
      <string name="mx_dspt_provision">MIUI VoIP позволяет совершать бесплатные звонки другим пользователям MIUI. Может взиматься оплата оператором за использование мобильного интернета.</string>
      <string name="mx_dspt_provision_2">MIUI VoIP позволяет совершать бесплатные звонки другим пользователям MIUI. Может взиматься оплата оператором за использование мобильного интернета. Одно сообщение может быть отправлено для проверка Вашего номера телефона.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mx_dspt_provision_3">MIUI Voip lets you call or video call other MIUI users by free. Your carrier may charge for your network traffic. We may need send an SMS message to verify your phone number.</string>
      <string name="net_connect_fails">Не удается подключиться к интернету</string>
      <string name="net_singal_tips">Сигнал сети %1$s</string>
      <string name="next">Далее</string>
@@ -66,6 +68,10 @@
      <string name="note_list_none">Список пуст</string>
      <string name="notification_dialing">Вызов…</string>
      <string name="notification_incoming_call">Входящий вызов</string>
+     <string name="notification_missedCallTicker">Missed call from %s</string>
+     <string name="notification_missedCallsMsg">%s missed calls</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="notification_missedCallsTitle">Missed calls</string>
      <string name="notification_ongoing_call">Исходящий вызов</string>
      <string name="one_address_choose_hint">%s1</string>
      <string name="phone_switch_tip">Обычный звонок</string>
@@ -107,6 +113,8 @@
      <string name="statusbar_notification_ongoning_call">Исходящий вызов</string>
      <string name="tab_block_log_unKnowNumber">Скрытый номер</string>
      <string name="two_address_choose_hint">%1$s и %2$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="unkown">Unknown</string>
      <string name="unread_calls">Пропущенные вызовы</string>
      <string name="unread_calls_count">Пропущенных вызовов: %d</string>
      <string name="user_agreement1">"Используя этот сервис, Вы соглашаетесь с MIUI VoIP "</string>
@@ -115,6 +123,8 @@
      <string name="user_agreement4">политикой конфиденциальности</string>
      <string name="voip_btn_mute">Микрофон</string>
      <string name="voip_btn_speaker">Динамик</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="voip_btn_switch_camera">Switch camera</string>
      <string name="voip_call_failed_common_call_title">Обычный звонок</string>
      <string name="voip_call_failed_hang_up_title">Отмена</string>
      <string name="voip_call_failed_message">"Абонент не отвечает или не подключен к интернету.
@@ -137,7 +147,10 @@
      <string name="voip_droped_call">Вызов завершен %1$s</string>
      <string name="voip_droping_call">Завершение %1$s</string>
      <string name="voip_ending_call">"Интернет вызов завершен "</string>
-     <string name="voip_free_tip">Бесплатный интернет звонок</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="voip_free_video_tip">Free voip video call</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="voip_free_voice_tip">Free voip call</string>
      <string name="voip_gsm_online">Невозможно совершить интернет звонок во время обычного вызова</string>
      <string name="voip_hang_up_mic_failed">Микрофон недоступен. Убедитесь, что он не используется другим приложением.</string>
      <string name="voip_incoming_from_friend">Входящий интернет вызов %1$s</string>

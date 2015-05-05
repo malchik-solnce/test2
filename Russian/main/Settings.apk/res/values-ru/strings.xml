@@ -978,6 +978,17 @@
      <string name="firmware_version">Версия Android:</string>
      <string name="floating_window_switch_label">Всплывающие окна</string>
      <string name="floating_window_switch_label_disable">Скрывать всплывающие окна</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="fluency_mode">Optimize system performance</string>
+     <string name="fluency_mode_confirm_title">Reboot now?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="fluency_mode_confirm_will_fluency_mode_text">Your device needs to reboot to apply these settings.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="fluency_mode_confirm_will_normal_mode_text">Turning on animations and using additional memory may cause slower performance on some devices.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="fluency_mode_enabled_name">Optimize system performance</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="fluency_mode_summary">Turn off system animations and reduce memory usage</string>
      <string name="font_size_huge">Огромный</string>
      <string name="font_size_large">Большой</string>
      <string name="font_size_medium">Средний</string>
@@ -1046,6 +1057,8 @@ Dissatisfied? Try"</string>
      <string name="gadget_toggle_wifi">Обновление настроек Wi-Fi</string>
      <string name="gadget_wifi">Wi-Fi</string>
      <string name="game_controller_settings_category">Игровой контроллер</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="gesture_wakeup_title">Double tap screen to wake</string>
      <string name="global_change_warning">Настройки будут изменены для всех пользователей устройства</string>
      <string name="global_font_change_title">Изменить размер шрифта</string>
      <string name="global_locale_change_title">Сменить язык</string>
@@ -1558,6 +1571,12 @@ Dissatisfied? Try"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_dirac_mode_piston_basic">Basic Edition</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="music_dolby_mode_movie">Video</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="music_dolby_mode_music">Music</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="music_dolby_mode_off">Off</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_equalizer">Equalizer</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_equalizer_summary">Adjust individual levels for different types of music</string>
@@ -1601,6 +1620,8 @@ Dissatisfied? Try"</string>
      <string name="music_mi_effect_summary">Always use MiSound enhancer when using speakers</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_mi_effect_title">Use MiSound enhancer</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="music_title_dolby_control">Dolby digital plus</string>
      <string name="musicfx_title">Эквалайзер</string>
      <string name="mvno_match_data">Значение MVNO</string>
      <string name="mvno_type">Тип MVNO</string>
@@ -2154,6 +2175,8 @@ Are you sure to change?"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_display">display</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_fluency_mode">optimize system performance</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_font">font</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_handy_mode">handy mode</string>
@@ -2354,6 +2377,12 @@ Are you sure to change?"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="status_bar_app_disable_notification">Empty</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Lock screen, notification shade</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="status_bar_app_enable_on_notificationBar">Notification shade</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_key_position_custom">Custom key position</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_screen_button_key">Screen virtual keys</string>
@@ -2371,6 +2400,7 @@ Are you sure to change?"</string>
      <string name="status_bar_settings_all_app_display_loading">Loading…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_settings_basic_settings">Basic settings</string>
+     <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_settings_custom_carrier">Edit service provider name</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -2515,11 +2545,17 @@ Are you sure to change?"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_font">Font</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_font2">Font</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_font_current">Using</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_font_current2">Choose system font</string>
      <string name="title_font_size">Размер шрифта</string>
      <string name="title_hdmi_color_calibration">Предустановки цвета</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_layout_current">Using layout</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_layout_current2">Choose font size</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_local_resource">Local resources</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

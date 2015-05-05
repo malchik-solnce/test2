@@ -4,6 +4,8 @@
      <string name="access_denied">Доступ запрещен</string>
      <string name="account">Аккаунт</string>
      <string name="activate">Активировать</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_number_change_dialog_message">Choose a phone number that will be visible to other devices when you call using VoIP.</string>
      <string name="activating">Активация…</string>
      <string name="alert_notif_title_dspt">Сервис синхронизации не включен</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -42,28 +44,10 @@ To get more storage space, visit mi.com/micloud."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="click_to_enabled">Touch to sync.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="close_cloud_app_backup_cancel">Cancel</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="close_cloud_app_backup_close">Close</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="close_cloud_app_backup_local_backup">Back up</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="close_cloud_app_backup_message">Cloud App Backup service will be stoped and data will be deleted May 1, 2015, please back up your data as soon as possible.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="close_cloud_app_backup_notification_message">Click to see details</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="close_cloud_app_backup_notification_title">Micloud service adjust notice</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="close_cloud_app_backup_title">Close notice</string>
-     <string name="cloud_app_back_up_quit_notification_content1">"Mi Cloud's App Backup service will be discontinued for non-MIUI apps. Related data for third-party apps will be deleted as of May 1, 2015. To avoid losing important info, back up your app data locally now."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cloud_app_back_up_quit_notification_content2">Contacts, Messaging, Gallery, and other MIUI system apps will not be affected.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cloud_app_back_up_quit_notification_content3">Back up app data</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_back_up_button_ok">Force stop</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_back_up_close_info">Tap to back up.</string>
+     <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
      <string name="cloud_back_up_dialog_content">"Stop back up in progress? If you stop now, you won't be able to use this backup to restore apps."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_back_up_interval_long">7 days</string>
@@ -315,7 +299,11 @@ You can turn this feature on and off anytime in Settings."</string>
 
 This feature encrypts and uploads your device's ID to Mi's servers."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mx_dspt_provision_with_voip">Call other MIUI users for free using your internet connection. You can turn this feature on or off anytime in Settings.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mx_sub_dspt_provision">Mi Message</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mx_sub_dspt_provision_with_voip">Internet calling</string>
      <string name="next">Далее</string>
      <string name="noRemind">Не напоминать</string>
      <string name="no_sim">SIM-карта не обнаружена</string>
@@ -439,6 +427,10 @@ You can turn this feature on and off anythime in Settings.
      <string name="verify">Проверить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="view_storage_title">View cloud space</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="voip_choose_sim">Choose phone number to activate Mi Voice</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="voip_dspt">Mi Voice</string>
      <string name="wipe_data_dialog_msg_separator">, </string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="xiaomi_cloud_service">Mi Cloud</string>

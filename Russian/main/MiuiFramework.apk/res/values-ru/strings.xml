@@ -2,9 +2,6 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="alwaysUsePrompt">Использовать по умолчанию</string>
-     <string name="app_no_notification">Ничего</string>
-     <string name="app_notificaiton_on_notificationBar">Панель уведомлений</string>
-     <string name="app_notificaiton_on_statusBar_and_notificationBar">Строка состояния, панель уведомлений</string>
      <string name="arbor_day">День древонасаждения</string>
      <string name="auto_start_warning_allow">Разрешить</string>
      <string name="auto_start_warning_deny">Запретить</string>

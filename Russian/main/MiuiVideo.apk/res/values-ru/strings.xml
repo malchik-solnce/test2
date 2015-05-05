@@ -34,12 +34,17 @@
      <string name="alert_dialog_download_dup_task">Downloading in progress, please wait...</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="alert_dialog_download_error">Download Error</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="all">all</string>
      <string name="all_ep">Все эп.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="all_episode">All Episodes</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_latest_version">The Application is already latest version</string>
      <string name="app_name">Видео</string>
+     <string name="app_plugin_ready">%1$s component is ready</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_update_background">Upgrade your application in background</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_upgrade_version">New version</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -163,14 +168,19 @@
      <string name="download_queue">Fetching address</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="download_running">Running</string>
+     <string name="download_start_message">%1$s component will be downloaded and install</string>
      <string name="download_task_with">%d个任务正在离线</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="download_url_waiting">Waiting to fetch url</string>
      <string name="download_with">Downloaded %1$s / %2$s</string>
+     <string name="downloading_app_plugin">Downloading %1$s component</string>
      <string name="edit">Изменить</string>
      <string name="edit_comment">Добавить комментарий</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="empty_data">Load error</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="empty_keyword_hint">Keyword cannot be empty</string>
+     <string name="episode_name_format">第%1$s集</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="error_empty_filter_title">No Result</string>
      <string name="error_empty_title">"Sorry, it's wrong"</string>
@@ -196,11 +206,23 @@
      <string name="gong_count_xiang">Файлов: %d</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="good">OK</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Install this application -->
      <string name="hint_apk_download">Click \"%1$s\" to download and install this application</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hint_apk_install">Application download</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: %1$s new version available, do you want to update? -->
      <string name="hint_apk_text_update">App new version available, do you want to download and install?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: %1$s New Version -->
      <string name="hint_apk_title_update">New Version</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="icntv">iCNTV</string>
@@ -208,9 +230,15 @@
      <string name="info_video_loading">Loading...</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="init">Init</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="install_apk">Install</string>
      <string name="install_comfirm">Нажми, чтобы установить</string>
      <string name="install_plugin">Install Plug-in</string>
      <string name="introduce">Описание</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="join_alert_title">Join internal test</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="join_hint">Input the invite code</string>
      <string name="key_back_down_toast">Нажми еще раз, чтобы выйти</string>
      <string name="lastrefresh">Recent update:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -229,6 +257,8 @@
      <string name="login_tip_content">Войди в аккаунт для синхронизации и обновления шоу которые смотришь</string>
      <string name="login_tip_title">Авторизация</string>
      <string name="media_name_comment">%s комментарий</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="memory_mode_desc">Save memory usage</string>
      <string name="menu_item_enable_audio_enhance">Включить усиление звука</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_name">Menu</string>
@@ -241,6 +271,8 @@
      <string name="mipush_setting">Xiaomi push</string>
      <string name="month" />
      <string name="my_favorite">Избранное</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="my_local_favorite">Local tarred</string>
      <string name="my_offline">Офлайн</string>
      <string name="mycamera">Мое видео</string>
      <string name="myfavorite"> Избранное</string>
@@ -292,6 +324,10 @@
      <string name="other_setting">Прочие</string>
      <string name="pause">Пауза</string>
      <string name="percent_status">%.1f%%</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="performance_mode">Run Mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="performance_mode_desc">Performance priority</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="personal_center">Personal Center</string>
      <string name="pick_addon_to_delete">Выбери для удаления</string>
@@ -439,6 +475,8 @@
      <string name="version_select_summary">Select alpha, developing, stable version</string>
      <string name="vertical_line"><CDATA> | </CDATA></string>
      <string name="video"> видео</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="video_app_update">Update</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="video_bbs">Join Us</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

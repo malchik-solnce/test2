@@ -429,6 +429,8 @@ Are you sure you want to navigate away from this page?"</string>
      <string name="miui_quicksearch_enable_pref_title">Поиск в уведомлениях</string>
      <string name="miui_search_notification_message">Нажми, чтобы открыть</string>
      <string name="miui_search_notification_title">Быстрый поиск</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuichromium_error_page_diagnostic">Network diagnostic</string>
      <string name="miuichromium_error_page_mobile">Мобильная сеть</string>
      <string name="miuichromium_error_page_reason_network">Проверь адрес</string>
      <string name="miuichromium_error_page_reason_server">Не удалось загрузить страницу</string>
@@ -760,6 +762,12 @@ Are you sure you want to navigate away from this page?"</string>
      <string name="sub_sync_item_browser_title_history_summary">Синхронизировать историю просмотров</string>
      <string name="sub_sync_item_browser_title_novel">Синхронизация книг</string>
      <string name="sub_sync_item_browser_title_novel_summary">Синхронизировать книги браузера</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sub_sync_item_browser_title_useful">Sync start page</string>
+     <string name="sub_sync_item_browser_title_useful_summary">"Sync sites you've added to the start page"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sub_sync_item_browser_title_video">Sync video history</string>
+     <string name="sub_sync_item_browser_title_video_summary">"Sync the list of videos you've recently watched across your devices"</string>
      <string name="sub_sync_item_browser_title_webapp">Синхронизация веб-приложений</string>
      <string name="sub_sync_item_browser_title_webapp_summary">Синхронизировать добавленные вэб приложения</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

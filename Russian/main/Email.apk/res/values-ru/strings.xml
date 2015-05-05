@@ -2,7 +2,6 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="ApplicationIconMore99">99+</string>
-     <string name="Folders">Папки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="SMTP_independent_verification_text">SMTP independent verification</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -90,6 +89,8 @@
      <string name="account_settings_sync_email_summary">Синхронизировать почту этого аккаунта</string>
      <string name="account_settings_unsupported_label">Неподдерживаемые политику</string>
      <string name="account_settings_unsupported_summary">Нет</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_settings_using_ringtone">Ringtone</string>
      <string name="account_settings_vibrate_when_label">Вибрация</string>
      <string name="account_setup_account_type_headline">Тип аккаунта</string>
      <string name="account_setup_account_type_instructions">Выбери тип аккаунта</string>
@@ -505,6 +506,10 @@
      <string name="folder_junk_name_en0">Junk</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="folder_junk_name_en1">Bulk Mail</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="folder_list_display_all">Display all folders</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="folder_list_display_only_import">Only display important folders</string>
      <string name="folder_picker_title">Выбери папку</string>
      <string name="folder_removed">Удалено из папки %1$s</string>
      <string name="folder_sent_name_cn0">已发送</string>
@@ -584,6 +589,8 @@
      <string name="hierarchical_folder_top">%1$s∕</string>
      <string name="hint_quick_reply_all">Ответить на все здесь</string>
      <string name="ignore_spam_warning">Я доверяю отправителю</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="imap_password_error">The password of incoming mail server is error</string>
      <string name="inbox_folders_heading">Входящие</string>
      <string name="info">Детали</string>
      <string name="inline_picture_deleted">"Can't find this picture,downloading…"</string>
@@ -783,12 +790,16 @@
      <string name="outbox_alert_button_resend">Отправить</string>
      <string name="outbox_alert_certificate_error">E-mail certificate excetpion, please update it</string>
      <string name="outbox_alert_description_auth_error">Причина: ошибка авторизации с сервера во время синхрон. исходящих сообщений</string>
+     <string name="outbox_alert_description_cannot_authenticate">%s Mail system failure</string>
      <string name="outbox_alert_description_http_error">Причина: HTTP ошибка с сервера во время синхрон. исходящих сообщений</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="outbox_alert_description_insufficient_storage_error">Insufficient storage in the mail server</string>
      <string name="outbox_alert_description_provision_error">Причина: ошибка предоставления с сервера во время синхрон. исходящих сообщений</string>
+     <string name="outbox_alert_description_reject_by_server">Rejected by %s</string>
      <string name="outbox_alert_description_sent_failed">"Причина: вложение к письму 
 превышает максимальный размер"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="outbox_alert_description_time_out">Network connection failure</string>
      <string name="outbox_alert_duplicate_click">"Don't duplicate click, mail is synchronizing"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="outbox_alert_edit_resend">Edit and resend</string>
@@ -1037,6 +1048,8 @@
      <string name="signin">Войти</string>
      <string name="silent_ringtone">Без звука</string>
      <string name="single_new_message_notification_title">%1$s: %2$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="smtp_password_error">The password of outcoming mail server is error</string>
      <string name="sort_attachment">Сортировка</string>
      <string name="spaceChar">" "</string>
      <string name="special_text_1">写道:</string>

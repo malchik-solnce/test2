@@ -99,6 +99,8 @@
      <string name="new_alarm">Новое напоминание</string>
      <string name="new_clock">Добавить время</string>
      <string name="new_clock_tip">Новый будильник</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="new_contact">New contact</string>
      <string name="new_feature_desc">Новые возможности</string>
      <string name="new_feature_title">Новинки</string>
      <string name="new_message">Написать сообщение</string>

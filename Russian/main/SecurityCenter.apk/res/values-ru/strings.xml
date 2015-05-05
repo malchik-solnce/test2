@@ -8,21 +8,14 @@
      <string name="Settings_title_garbage_cleanup">Настройки очистки</string>
      <string name="Settings_title_network_assistants">Настройки монитора</string>
      <string name="Settings_title_power_center">Настройки питания</string>
-     <string name="activity_title_ad">Реклама</string>
      <string name="activity_title_antispam">Антиспам</string>
      <string name="activity_title_antivirus">Антивирус</string>
-     <string name="activity_title_apk">Файлы</string>
      <string name="activity_title_apps_manager">Приложения</string>
      <string name="activity_title_auto_start_manager">Управление автозапуском</string>
-     <string name="activity_title_cache">Кэш</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="activity_title_cache_data">Cache</string>
      <string name="activity_title_create_shortcut">Управление ярлыками</string>
-     <string name="activity_title_deep_clean">Расширенная очистка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="activity_title_default_apps_manager">Default apps management</string>
      <string name="activity_title_garbage_cleanup">Очистка</string>
-     <string name="activity_title_large_file">Большие файлы</string>
      <string name="activity_title_license_manager">Разрешения</string>
      <string name="activity_title_memory">Память</string>
      <string name="activity_title_networkassistants">Трафик</string>
@@ -32,34 +25,17 @@
      <string name="activity_title_permission_manager">Разрешения</string>
      <string name="activity_title_permissions_manager">Разрешения</string>
      <string name="activity_title_power_manager">Батарея</string>
-     <string name="activity_title_residual">Мусор</string>
      <string name="activity_title_risk">Подозрительные</string>
      <string name="activity_title_risk_detail">Подробнее о рисках</string>
      <string name="activity_title_root_manager">Управление правами суперпользователя</string>
      <string name="activity_title_settings">Настройки</string>
      <string name="activity_title_system">Система</string>
      <string name="activity_title_trash">Кэш</string>
-     <string name="activity_title_uninstall_apps">Приложения</string>
      <string name="activity_title_virus">Вирусы</string>
      <string name="activity_title_virus_detail">Подробнее о вирусах</string>
      <string name="activity_title_virus_settings">Настройки</string>
-     <string name="activity_title_white_list">Белый список</string>
      <string name="antivirus_sec_support">При поддержке Tencent</string>
-     <string name="apk_status_damage">Повреждено</string>
-     <string name="apk_status_duplicate">Дубликат</string>
-     <string name="apk_status_install">Установлено</string>
-     <string name="apk_status_installed_old">Старая версия</string>
-     <string name="apk_status_uninstalled">Не установлено</string>
      <string name="app_name_securitycenter">Безопасность</string>
-     <string name="apps_sort_type_item_size">По размеру</string>
-     <string name="apps_sort_type_item_time">По использованию</string>
-     <string name="apps_sort_type_title">Сортировка</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="auto_clean_switch_off">Off</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="auto_clean_switch_on">On</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="auto_cleaner_open">Turn on</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="auto_handle_title">Optimize automatically</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -104,24 +80,18 @@
      <string name="btn_text_virus_scan">Сканировать</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_antivirus">OK</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="button_optimizer">OK</string>
      <string name="button_text_accept">Разрешить</string>
      <string name="button_text_accept_timer">Разрешить (%d)</string>
-     <string name="button_text_add_to_white_list">В белый список</string>
-     <string name="button_text_backup_uninstall">Бэкап и удалить</string>
      <string name="button_text_cancel">Отмена</string>
      <string name="button_text_cancel_clean">Отмена</string>
      <string name="button_text_cancel_optimize">Отмена</string>
      <string name="button_text_cleanup">Удалить</string>
      <string name="button_text_clear">Удалить</string>
      <string name="button_text_create_shortcut">Добавить ярлык</string>
-     <string name="button_text_delete_from_white_list">Удалить из списка</string>
      <string name="button_text_fix">Исправить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_text_ignore">Ignore</string>
      <string name="button_text_ignore_alert_title">Ignore this alert?</string>
-     <string name="button_text_install">Устан.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_text_known">OK</string>
      <string name="button_text_next_step">Далее</string>
@@ -131,31 +101,14 @@
      <string name="button_text_reject_timer">Отклонить (%d)</string>
      <string name="button_text_security">Безопасно</string>
      <string name="button_text_start_optimize">Проверить</string>
-     <string name="button_text_uninstall">Удалить</string>
-     <string name="button_text_uninstall_only">Удалить</string>
      <string name="button_text_uninstall_shortcut">Удалить ярлык</string>
      <string name="button_text_view">Посмотреть</string>
-     <string name="button_text_view_detail">Информция</string>
-     <string name="button_text_view_file">Файл</string>
      <string name="button_text_view_power">Посмотреть</string>
      <string name="cache_check_content">%1$d прил., кэш %2$s</string>
      <string name="cache_header_title">К очистке: %1$d Освободится: %2$s памяти</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cache_sort_type_item_name">Sort by name</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cache_sort_type_item_size">Sort by size</string>
-     <string name="cache_title_empty_folder">Пустые папки (%d)</string>
-     <string name="cache_title_empty_folder2">Пустые папки</string>
-     <string name="cache_title_system_cache">Системный кэш</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="call_and_contact">Calls and Contacts</string>
      <string name="cancel">Отмена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="clean_content_all">Everything</string>
-     <string name="clean_content_one">%s</string>
-     <string name="clean_content_three">Skip %s</string>
-     <string name="clean_content_two">%1$s and %2$s</string>
-     <string name="clean_content_zero">"Don't clean anything"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cmcc_app_check_dialog_message">Restart your device to complete repair.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -165,15 +118,12 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cmcc_app_check_dialog_title">System repaired</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="confirm_auto_cleaner">OK</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cta_button_text_agree">OK</string>
      <string name="cta_button_text_cancel">Отмена</string>
      <string name="cta_checkbox_title">Больше не спрашивать</string>
      <string name="cta_dialog_msg">Для обеспечения нормальной работы центра безопасности и обновления вирусной базы данных, требуется подключение к сети. Предоставить доступ к сети?</string>
      <string name="cta_dialog_title">Предупреждение</string>
      <string name="cta_settings">Доступ к сети</string>
-     <string name="deepclean_cache_header_left">Файлы кэша: %d</string>
      <string name="delete">Удалить</string>
      <string name="delete_from_manual_item_white_list">Remove from exceptions list?</string>
      <string name="descx_cleanuping_item">Optimizing %s</string>
@@ -202,30 +152,15 @@
      <string name="descx_start_scan_system">Starting system protection scan</string>
      <string name="details_subtitle">Расход батареи</string>
      <string name="dialog_msg_auto_start_declare">Некоторые приложения, работающие в фоне, могут вести себя некорректно без автозапуска. Чтобы посмотреть индивидуальные разрешения для них, перейди в настройки > приложения.</string>
-     <string name="dialog_msg_backup_and_uninstall_apps">Создать резервную копию и удалить выбранные приложения?</string>
-     <string name="dialog_msg_check_all">Выбрать %1$s, содержащий %2$d элемен.?</string>
-     <string name="dialog_msg_load_cleanup_engine_error">Ошибка запуска очистки. Повтори позже.</string>
      <string name="dialog_msg_stop_virus_scan">Are you sure?</string>
-     <string name="dialog_msg_uninstall_apps">Uninstall these apps?</string>
      <string name="dialog_title_auto_start_declare">Информация о автозапуске</string>
-     <string name="dialog_title_backup_and_uninstall_apps">Бэкап и удаление</string>
-     <string name="dialog_title_check_all">Выбрать все</string>
-     <string name="dialog_title_load_cleanup_engine_error">Ошибка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dialog_title_stop_virus_scan">Stop virus scan</string>
-     <string name="dialog_title_uninstall_apps">Удалить</string>
-     <string name="empty_title_ad">Реклама не найдена</string>
-     <string name="empty_title_apk">Нет файлов</string>
      <string name="empty_title_auto_start_list">Пусто</string>
-     <string name="empty_title_garbage_cache">Кэш не найден</string>
-     <string name="empty_title_garbage_white_list">Пусто</string>
-     <string name="empty_title_installed_apps">Нет приложений</string>
-     <string name="empty_title_large_files">Нет файлов</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="empty_title_manual_item_white_list">Empty</string>
      <string name="empty_title_perm_apps">Нет приложений</string>
      <string name="empty_title_permission_apps_list">Нет приложений</string>
-     <string name="empty_title_residual">Нет файлов</string>
      <string name="empty_title_risk_list">Пусто</string>
      <string name="empty_title_root_apps">Пусто</string>
      <string name="empty_title_system_cache_list">Пусто</string>
@@ -247,38 +182,12 @@
 	%d: 0 must: 0 -->
      <!-- Original string: "This feature encrypts and uploads your device's ID to Tencent's servers (%s)." -->
      <string name="header_antivirus">""By using this feature, you agree to Tencent's "<a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7">Terms of Service</a>"</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: By using this feature, you are agreeing to %s. -->
-     <string name="header_optimizer">""By using this feature, you agree to Clean Master's "<a href="http://www.cmcm.com/about/privacy_zh.html?p=cm">Terms of Service</a>"</string>
-     <string name="hints_ad_header_left">Файлы рекламы: %d</string>
-     <string name="hints_apk_header_left">Файлы апк: %d</string>
-     <string name="hints_apk_version">Версия: %s</string>
-     <string name="hints_app_uninstall_residual">Удалить остаточные файлы?</string>
      <string name="hints_auto_start_warning_info">Forbid auto-start will not receive any message</string>
-     <string name="hints_cache_header_left">Файлы кэша: %d</string>
      <string name="hints_cleanning_text">Очистка…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="hints_finish_quick_cleanup">Finish cleaning up</string>
-     <string name="hints_finish_quick_cleanup_title">Finish cleaning up %s trash</string>
-     <string name="hints_finish_quick_scan">Сканирование завершено</string>
-     <string name="hints_garbage_cleanup_result_danger">Опасные</string>
-     <string name="hints_garbage_cleanup_result_risk">Подозрительные</string>
-     <string name="hints_garbage_cleanup_result_safe">Безопасные</string>
-     <string name="hints_garbage_handle_item_content">файлов: %1$d - %2$s</string>
-     <string name="hints_garbage_handle_item_empty_content">Пусто</string>
      <string name="hints_handle_item_text_risk">Risks: %d</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hints_handle_item_text_safe">Safe</string>
      <string name="hints_handle_item_text_virus">Viruses: %d</string>
-     <string name="hints_install_apps_interval">исполь. %d дн. назад</string>
-     <string name="hints_install_apps_new">не использовалось</string>
-     <string name="hints_install_apps_risk">обнаружен риск</string>
-     <string name="hints_install_apps_today">исполь. сегодня</string>
-     <string name="hints_install_apps_virus">обнаружен вирус</string>
-     <string name="hints_installed_apps_header_left">Установ. приложения: %d</string>
-     <string name="hints_large_file_header_left">Большие файлы: %d</string>
      <string name="hints_last_virus_scan_none">Не проверялось</string>
      <string name="hints_last_virus_scan_risk">Scanned %d days before: Suspicious</string>
      <string name="hints_last_virus_scan_safe">Scanned %d days before: Safe</string>
@@ -289,21 +198,11 @@
      <string name="hints_last_virus_scan_yesterday_risk">Проверялось вчера: Suspicious</string>
      <string name="hints_last_virus_scan_yesterday_safe">Проверялось вчера: безопасно</string>
      <string name="hints_last_virus_scan_yesterday_virus">Проверялось вчера: Dangerous</string>
-     <string name="hints_latest_garbage_cleanup_date">Последняя очистка: %d дн. назад</string>
-     <string name="hints_latest_garbage_cleanup_never">Не было очистки (первый раз)</string>
-     <string name="hints_latest_garbage_cleanup_today">Последняя очистка: сегодня</string>
-     <string name="hints_latest_garbage_cleanup_yesterday">Последняя очистка: вчера</string>
      <string name="hints_loading_text">Загрузка…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hints_need_quick_scan">Recommended quick scan</string>
-     <string name="hints_no_info">Нет информации</string>
      <string name="hints_power_percent_title">заряда</string>
-     <string name="hints_quick_cleanning">Очистка…</string>
-     <string name="hints_quick_cleanuping">Оптимизация…</string>
-     <string name="hints_quick_scanning">Сканирование…</string>
      <string name="hints_remember_choice">Запомнить мой выбор</string>
-     <string name="hints_residual_header_left">Мусор: %d</string>
-     <string name="hints_residual_tips">Найдено остаточных файлов на SD-карте: %s</string>
      <string name="hints_risk_apk_list_item_summary">подозрение (apk)</string>
      <string name="hints_risk_app_list_item_summary">подозрение (прил.)</string>
      <string name="hints_risk_descx_title">Описание:</string>
@@ -316,14 +215,6 @@
      <string name="hints_scan_result_virus">Viruses detected</string>
      <string name="hints_scanning_text">Scanning…</string>
      <string name="hints_scanning_virus_by_cloud">Ongoing cloud scanning…</string>
-     <string name="hints_storage_free">Свободно</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: %s available -->
-     <string name="hints_storage_free_size">Free Memory</string>
-     <string name="hints_title_garbage">Мусор</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hints_unknown_virus_name">Unknown</string>
      <string name="hints_virus_apk_list_item_summary">вирус (apk)</string>
@@ -341,15 +232,9 @@
      <string name="item_dev_mode">Developer options</string>
      <string name="item_install_monitor">Установить мониторинг</string>
      <string name="item_mms">Фильтр сообщений</string>
-     <string name="item_title_garbage_size">Размер мусора</string>
-     <string name="item_title_garbage_time">Период уведомлений</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="item_title_process_mode">Choose an action</string>
      <string name="item_usb_debug">USB отладка</string>
      <string name="item_virus">Вирус</string>
      <string name="item_virus_lib">Обновлять базу данных автоматически</string>
-     <string name="large_file_sort_type_name">По названию</string>
-     <string name="large_file_sort_type_size">По размеру</string>
      <string name="last_check_canceled">Предыдущая проверка отменена</string>
      <string name="last_check_date_today">"Последняя проверка: сегодня в "</string>
      <string name="last_check_date_yesterday">"Последняя проверка: вчера в "</string>
@@ -414,29 +299,15 @@
      <string name="menu_text_networkassistants_remain">Трафик</string>
      <string name="menu_text_power_manager">Управление питанием</string>
      <string name="menu_text_power_percent">Питание %s</string>
-     <string name="msg_cleanup_db_update_checking">Проверка…</string>
-     <string name="msg_cleanup_db_update_time_unknown">Обновлено: неизвестно</string>
-     <string name="msg_update_error_code_already_running">Обновление</string>
-     <string name="msg_update_error_code_network_error">Ошибка сети. Повтори позже.</string>
-     <string name="msg_update_error_code_no_newer_db">Обновление не требуется</string>
-     <string name="msg_update_error_code_success">Обновлено</string>
-     <string name="msg_update_error_code_unknown_error">Неизвестная ошибка. Повтори позже.</string>
      <string name="name_antivirus">"Tencent's Privacy Policy"</string>
-     <string name="name_optimizer">"Cheetah Mobile's Privacy Policy"</string>
      <string name="never">Один раз</string>
      <string name="notification_button_text_of_low_memory">Очистить</string>
-     <string name="notification_summary_after_auto_cleanup">Cleaned %s.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="notification_summary_cmcc_app_check">Touch to view details.</string>
-     <string name="notification_summary_of_garbage_cleanup">Эй ты! Обнаружено мусора %s. Не забудь очистить!</string>
-     <string name="notification_summary_of_low_memory">Отключать установку новых приложений при нехватке памяти</string>
      <string name="notification_title_cmcc_app_check">%d days since last check-up</string>
      <string name="notification_title_firewall_blocked">Заблокировано</string>
-     <string name="notification_title_of_garbage_cleanup">Уведомление о мусоре</string>
-     <string name="notification_title_of_low_memory">Использовано системной памяти: %s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
-     <string name="optimizecenter_data_support">При поддержке Clean Master</string>
      <string name="packages_subtitle">Вложенные пакеты</string>
      <string name="permission_action_accept">Разрешить</string>
      <string name="permission_action_prompt">Спрашивать</string>
@@ -456,8 +327,6 @@
      <string name="permission_with_SMS_and_MMS">Permissions related to SMS and MMS</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permission_with_call_and_contact">Permissions related to phone calls, contact info, and call logs.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="positive_confirm">OK</string>
      <string name="power_20s_enter_mode">%1$ds переключиться в режим %2$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="power_20s_shutdown">Device will power off in 20 seconds</string>
@@ -626,73 +495,25 @@
      <string name="power_subtitle_ontime">Энергосбережение по времени</string>
      <string name="power_wifi">Wi-Fi</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_category_title_auto_clean_settings">Clean automatically</string>
-     <string name="pref_category_title_auto_update_cleanup_db">Настройки обновления</string>
-     <string name="pref_category_title_cleanup_white_list">Настройки белого списка</string>
-     <string name="pref_category_title_garbage_cleanup_check">Настройки очистки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_category_title_lock_screen_memory_clean">Clean at lock screen</string>
      <string name="pref_category_title_module_settings">Настройки модулей</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_category_title_other_clean_settings">Additional settings</string>
      <string name="pref_category_title_reference_settings">Настройки защиты</string>
      <string name="pref_category_title_securitycenter_settings">Настройки безопасности</string>
      <string name="pref_category_title_virus_lib_auto_update">Настройки базы данных</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_content_cleanup_white_list_none">None</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_summary_auto_clean_and_alert">Set cleaner to run automatically</string>
-     <string name="pref_summary_auto_update_cleanup_db">Обновлено: %s</string>
-     <string name="pref_summary_cleanup_white_list">Мусор из белого списка не будет удаляться</string>
-     <string name="pref_summary_expand_cache_group">Группы в списке кэша будут по умолчанию развернуты</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_summary_garbage_auto_clean_content">Choose which items to clean automatically</string>
-     <string name="pref_summary_garbage_cleanup_check_size">Уведомлять, когда мусор достигает заданного размера</string>
-     <string name="pref_summary_garbage_cleanup_check_time">Уведомлять, когда время достигает заданного интервала</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_summary_garbage_process_mode">Set notifications for when cleaner runs</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_summary_lock_screen_memory_clean">Clean automatically when your device is locked</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_summary_open_optimizer_cloud_scan">Upload and compare unknown file names with online definitions</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_title_auto_clean_and_alert">Clean automatically</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_title_auto_clean_content_choose">Choose items to clean</string>
-     <string name="pref_title_auto_update_cleanup_db">Автообновление</string>
-     <string name="pref_title_cleanup_white_list">Белый список очистки</string>
-     <string name="pref_title_expand_cache_group">Разворачивать кэш</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_title_garbage_auto_clean_content">Choose items to clean</string>
-     <string name="pref_title_garbage_cleanup_check_size">Размер мусора</string>
-     <string name="pref_title_garbage_cleanup_check_time">Уведомление о мусоре</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_title_garbage_process_mode">Notifications</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_title_lock_screen_memory_clean">Clean at lock screen</string>
-     <string name="pref_title_manual_check_cleanup_db_update">Обновить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_title_open_optimizer_cloud_scan">Use online Cleaner engine</string>
-     <string name="preference_category_key_auto_update_cleanup_db">key_category_auto_update_cleanup_db</string>
      <string name="preference_category_key_reference_settings">key_reference_settings</string>
      <string name="preference_category_key_virus_lib_auto_update">key_category_virus_lib_auto_update</string>
      <string name="preference_key_app_permission_control">key_app_permission_control</string>
-     <string name="preference_key_auto_clean_content_ad">key_auto_clean_content_ad</string>
-     <string name="preference_key_auto_clean_content_apk">key_auto_clean_content_apk</string>
-     <string name="preference_key_auto_clean_content_cache">key_auto_clean_content_cache</string>
-     <string name="preference_key_auto_clean_content_residual">key_auto_clean_content_residual</string>
      <string name="preference_key_auto_start_manager">key_auto_start_manager</string>
      <string name="preference_key_category_title_module_settings">key_category_title_module_settings</string>
-     <string name="preference_key_checkbox_garbage_auto_clean_and_alert">key_checkbox_garbage_auto_clean_content</string>
      <string name="preference_key_cta_settings">key_cta_settings</string>
      <string name="preference_key_default_apps_manager">key_default_apps_manager</string>
-     <string name="preference_key_garbage_auto_clean_and_alert">key_garbage_auto_clean_and_alert</string>
-     <string name="preference_key_garbage_auto_clean_content">key_garbage_auto_clean_content</string>
-     <string name="preference_key_garbage_auto_process_mode">key_garbage_auto_process_mode</string>
      <string name="preference_key_lock_screen_memory_clean">lock_screen_memory_clean</string>
      <string name="preference_key_module_permissions">key_module_permissions</string>
      <string name="preference_key_notification_bar_manager">key_notification_bar_manager</string>
-     <string name="preference_key_open_optimizer_cloud_scan">key_open_optimizer_cloud_scan</string>
      <string name="preference_key_open_virus_cloud_scan">key_open_virus_cloud_scan</string>
      <string name="preference_key_open_virus_install_monitor">key_open_virus_install_monitor</string>
      <string name="preference_key_permission_manager">key_permission_manager</string>
@@ -735,7 +556,6 @@
      <string name="summary_antivirus">Upload app names and scan using online virus definitions</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="summary_antivirus_oversea">Update virus definitions automatically</string>
-     <string name="summary_auto_cleaner">Clean your system automatically every 3 days?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="summary_cleaner_cloudscan">Upload and compare unknown folder names with online definitions</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -745,9 +565,6 @@
      <string name="summary_cmcc_app_check">"Some apps couldn't be verified"</string>
      <string name="summary_data_flow">"Check your carrier plan's data limits and set a data usage warning or limit to help manage your data usage."</string>
      <string name="summary_default_app">"%s isn't set as a default system app"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="summary_delete_cache">Some apps may require this data to work normally.</string>
-     <string name="summary_delete_large_file">"Some large files may be useful when you don't have an internet connection (e.g. maps, schedules, etc.). Make sure you don't need this file."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="summary_dev">Avoid applications stealing user data</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -763,8 +580,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="summary_network_switch">Allow Security app to connect to the internet</string>
      <string name="summary_never_flow_verify">"This figure hasn't been verified with your carrier"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="summary_optimizer">Upload and compare unknown app names and files with online definitions</string>
      <string name="summary_permission">Защита моей конфиденциальности от сторонних приложений</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="summary_permission_root">Your phone and personal data are more vulnerable to attack from apps that have root access.</string>
@@ -785,14 +600,9 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="text_antivirus_oversea">Update virus definitions</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="text_optimizer">Use online Cleaner engine</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_antivirus">Virus scan</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_app_update">Updates available</string>
-     <string name="title_app_update_no">Обновлений: %d</string>
-     <string name="title_app_update_yes">Все приложения обновлены!</string>
-     <string name="title_auto_cleaner">Clean automatically?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_cleaner_cloudscan">Use online Cleaner engine</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -802,11 +612,7 @@
      <string name="title_cmcc_app_check">"Verification isn't complete"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_data_flow">Set a data usage warning</string>
-     <string name="title_data_flow_no">Контроль трафика отключен</string>
-     <string name="title_data_flow_yes">Контроль трафика включен</string>
      <string name="title_default_app">"MIUI %s isn't set as default"</string>
-     <string name="title_delete_cache">Delete cached data?</string>
-     <string name="title_delete_large_file">Delete this file?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_dev_no">Developer options on</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -822,14 +628,10 @@
      <string name="title_install_virus_yes">Защита включена</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_miui_update">Update available</string>
-     <string name="title_miui_update_no">Найдено обновление MIUI: %s</string>
-     <string name="title_miui_update_yes">MIUI обновлена!</string>
      <string name="title_mms_no">Фильтрация сообщений отключена</string>
      <string name="title_mms_yes">Фильтрация сообщений включена</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_network_switch">Allow internet connection</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="title_optimizer">Cleaner</string>
      <string name="title_permission_no">Мониторинг разрешений отключен</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_permission_root">Root access warning</string>
@@ -840,8 +642,6 @@
      <string name="title_saving_switch">Data saver is off</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_show_notification">Notification shade controls are off</string>
-     <string name="title_show_notification_no">Скрыть с панели уведомлений</string>
-     <string name="title_show_notification_yes">В панеле уведомлений</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_telecom_operator">Get data usage stats from carrier</string>
      <string name="title_usb_no">USB отладка включена</string>
@@ -852,38 +652,25 @@
      <string name="title_virus_update_no">Автообновление вирусной базы данных отключено</string>
      <string name="title_virus_update_yes">Автообновление вирусной базы данных включено</string>
      <string name="title_virus_yes">Вирусы не найдены</string>
-     <string name="toast_add_white_list_success">Добавлено в белый список</string>
-     <string name="toast_app_no_residual_on_sdcard">Приложение не имеет других остаточных файлов на SD-карте</string>
-     <string name="toast_backup_is_running">Выполняется резервное копирование. Повтори попытку позже.</string>
-     <string name="toast_backup_uninstall_failed">Не удалось создать резервную копию приложений %d. Повтори попытку позже.</string>
-     <string name="toast_backup_uninstall_success">Резервное копирование и удаление завершено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="toast_cleaner_cloudscan">Cleaner will use online definitions</string>
      <string name="toast_default_app">"%1$s set as system's default %2$s"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="toast_flow_notification">Turned on data usage notifications</string>
-     <string name="toast_garbage_cleanup_success">Очистка завершена</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="toast_garbage_lib">Turned on automatic updates for Cleaner</string>
-     <string name="toast_garbage_list_empty">Отличное состояние. Очистка не требуется!</string>
-     <string name="toast_network_eror">Ошибка сети!</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="toast_network_switch">This app can connect to the internet</string>
-     <string name="toast_removed_from_white_list">Удалено из белого списка</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="toast_resolve_apk_error">Resolve apk error</string>
      <string name="toast_root_apply_accept">%s разрешены права суперпользователя</string>
      <string name="toast_root_apply_reject">%s запрещены права суперользователя</string>
      <string name="toast_shortcut_install">Ярлык создан</string>
      <string name="toast_shortcut_uninstall">Ярлык удален</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="toast_show_notification">Pinned to notification shade</string>
-     <string name="toast_uninstall_success">Удаление завершено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="toast_virus_cloudscan">Virus scan will use online definitions</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="toast_virus_in_cloud_scanning">Can not stop virus scan in cloud scanning</string>
-     <string name="uninstall_confirm_title">Удалить приложения</string>
      <string name="usage_type_audio">Аудио</string>
      <string name="usage_type_cpu">ЦП – всего</string>
      <string name="usage_type_cpu_foreground">ЦП – активный режим</string>
@@ -900,10 +687,4 @@
      <string name="usage_type_wake_lock">Активный режим</string>
      <string name="usage_type_wifi_running">Wi-Fi</string>
      <string name="virus_list_header_title">Найдено вирусов: %d</string>
-     <string name="white_list_ad_header">Рекламные файлы: %d</string>
-     <string name="white_list_apk_header">Апк файлов: %d</string>
-     <string name="white_list_cache_header">Кэш. файлы: %d</string>
-     <string name="white_list_large_file_header">Большие файлы: %d</string>
-     <string name="white_list_residual_header">Остаточные файлы: %d</string>
-     <string name="white_list_title">Белый список</string>
 </resources>

@@ -53,6 +53,8 @@
      <string name="alert_secret_album_set_pattern">Set unlock pattern</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="alert_secret_album_title">Secret Album</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="all_video_album_display_name">All videos</string>
      <string name="already_apply_album">Открыть %1$s?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="always_rotate_alert_msg">Disable it in Gallery Settings</string>
@@ -146,6 +148,7 @@
      <string name="comfirm_delete_current_album">Удалить текущий альбом?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
+     <string name="confirm_all_photo_not_this_people_face">No matches?</string>
      <string name="confirm_delete">Удалить выбранные файлы? (%s)</string>
      <string name="confirm_delete_album" formatted="false">Удалить альбомы (%s) (включая %s файлов)?</string>
      <string name="confirm_delete_has_cloud_image_video">Удалить изображения и видео в облаке? (%s)</string>
@@ -157,7 +160,13 @@
      <string name="confirm_download">Вам необходимо скачать %s. Подсказка не будет больше показана.</string>
      <string name="confirm_download_video_message">Необходима загрузка видео. Скачивание возобновится при доступном Wi-Fi соединении.</string>
      <string name="confirm_download_video_title">Загрузка видео</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="confirm_face">Match</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="confirm_left_photo_will_move_out">Photos on the left will be removed from this album.</string>
      <string name="confirm_merge_face_albums">" "<Data> Merge this album to album &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? </Data>" "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="confirm_not_face">Not this person</string>
      <string name="contact_photo">Фото контакта</string>
      <string name="context_menu_add_contact">Добавить в контакты</string>
      <string name="context_menu_copy">Копировать</string>
@@ -225,6 +234,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="enable">Turn on</string>
      <string name="enable_cloud_for_sharing">Включить общие альбомы</string>
+     <string name="enabling_face_feature">Turning on…</string>
      <string name="enter_email_hint">Введите адрес E-mail</string>
      <string name="error_album_not_exist">Альбом не существует</string>
      <string name="error_cloud_not_active">Облачный альбом не используется</string>
@@ -262,6 +272,8 @@
 face albums will be available soon"</string>
      <string name="face_albumset_empty">"No faces detected
 try to take more pictures"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="face_albumset_pending_enable_tip">Will sort photos when device is connected to WLAN</string>
      <string name="face_albumset_use_tip">"Help to find those pretty faces，
 making it simple to view and manage pictures"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -317,6 +329,8 @@ making it simple to view and manage pictures"</string>
      <string name="home_page_tab_local">Устройство</string>
      <string name="home_page_tab_photo">Фотографии</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ignore_album">Ignore</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ignore_face">Ignore this face</string>
      <string name="image_download_item_title">Загрузка изображения (%s)</string>
      <string name="image_quota_fulfiled">Не удается создать изображение, т.к. количество изображений в альбоме достигло предела</string>
@@ -334,6 +348,7 @@ making it simple to view and manage pictures"</string>
      <string name="impunity_declaration_summary">Show network notice every time when launch Gallery app</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="impunity_declaration_title">Network notice</string>
+     <string name="in_home_page_long_press_photo_setting_secret_photo">To hide a photo, press &amp; hold it, then select \"Add to hidden album\" from the menu in the lower left corner.</string>
      <string name="initial_cloud_button_text">Попробовать</string>
      <string name="initial_cloud_text">Организовывайте и просматривайте свои фотографии</string>
      <string name="initializing_cloud">Запуск облачного альбома…</string>
@@ -354,6 +369,14 @@ making it simple to view and manage pictures"</string>
      <string name="kick_sharer">Удалить получателя</string>
      <string name="kick_sharer_failed">Ошибка удаления получателя</string>
      <string name="kick_sharer_successfully">Получатель удален</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="last_chinese_new_year">Last Chinese New Year</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="last_new_year">Last New Years</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="last_valentine_day">Last Valentine Day</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="last_year_today">1 year ago</string>
      <string name="loading">Загрузка…</string>
      <string name="loading_failure">Не удалось загрузить фото</string>
      <string name="loading_image">Загрузка изображения…</string>
@@ -409,6 +432,8 @@ making it simple to view and manage pictures"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="moman_camera_picture">Moman Camera pictures</string>
      <string name="more">Дополнительно</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mosaic">Mosaic</string>
      <string name="move">Переместить</string>
      <string name="move_to_cloud_album">Переместить в облако</string>
      <string name="multiface_crop_help">Нажмите на лицо, чтобы начать</string>
@@ -417,6 +442,8 @@ making it simple to view and manage pictures"</string>
      <string name="negative">Негатив</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="network_connected_rescan">Connect to the internet and try again</string>
      <string name="new_device_tips">Найдено новое устройство. Нажмите, чтобы посмотреть.</string>
      <string name="no">Нет</string>
      <string name="no_albums_alert">Нет доступных альбомов</string>
@@ -425,6 +452,8 @@ making it simple to view and manage pictures"</string>
      <string name="no_map_app">Нет приложений с картами</string>
      <string name="no_network_connected">Нет подключения к сети</string>
      <string name="no_picture_or_video">Нет фото или видео</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_secret_photo">No hidden photos</string>
      <string name="no_storage_disable_cloud_albums">Облачные альбомы запрещены, повтори когда хранилище будет доступно</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_such_album">Album not found</string>
@@ -465,6 +494,8 @@ making it simple to view and manage pictures"</string>
      <string name="original_scale">Original scale</string>
      <string name="other_category">ДРУГИЕ НАСТРОЙКИ</string>
      <string name="owner_album_subtitle">Общий с %1$s пользов.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="paint_brush">Paint brush</string>
      <string name="paint_cancel_context">"Abandon the changes you've made to this image?"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="paint_cancel_title">Abandon changes</string>
@@ -473,6 +504,8 @@ making it simple to view and manage pictures"</string>
      <string name="paint_crop_cancel_title">Abandon changes</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="paint_crop_tips">To get a better image, please try to place its interest parts on grid points by resizing and moving.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="paint_highlight">Highlight</string>
      <string name="path">Путь</string>
      <string name="people">Люди</string>
      <string name="photo_page_always_rotate">Автоповорот изображений</string>
@@ -480,8 +513,6 @@ making it simple to view and manage pictures"</string>
      <string name="photo_page_save_image">Сохранить</string>
      <string name="photo_page_save_uri_image_fail">Не удалось сохранить фотографию</string>
      <string name="photo_page_save_uri_image_ok">Фотография сохранена в каталог камеры</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="photo_paint_crop">Crop</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="photo_save_succeed">Saved successfully</string>
      <string name="photo_size">Размер</string>
@@ -505,6 +536,8 @@ making it simple to view and manage pictures"</string>
      <string name="preparing_data_to_delete">Подготовка к удалению данных…</string>
      <string name="priority_storage">Сохранять на SD-карту</string>
      <string name="priority_storage_summary">Автоматически загружать файлы на SD-карту, если она доступна</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="project_available_tip">Display detected</string>
      <string name="projection">Проекция</string>
      <string name="public_url_descript">Любой человек может получить доступ к альбому с помощью этой ссылки</string>
      <string name="publish_failed">Ошибка публикации</string>
@@ -536,6 +569,7 @@ making it simple to view and manage pictures"</string>
      <string name="request_sms_url_title">Совет</string>
      <string name="retry_to_create_album">Повторить</string>
      <string name="retry_to_request_qr_code">Повторить</string>
+     <string name="return_to_top">Touch \"Photo\" to return to top</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="rise">Rise</string>
      <string name="rotate">Поворот</string>
@@ -555,6 +589,8 @@ making it simple to view and manage pictures"</string>
      <string name="scan_qr_code_failure">Не удалось отсканировать QR-код</string>
      <string name="screensaver_activate_mode">Включить заставку</string>
      <string name="screensaver_activate_only_charging">Только при зарядке</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="script">Script</string>
      <string name="sd_not_available">SD-карта размонтирована или недоступна</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sdcard_root">SD card root directory</string>
@@ -601,6 +637,9 @@ making it simple to view and manage pictures"</string>
      <string name="show_images_only">Только изображения</string>
      <string name="show_on_map">На карте</string>
      <string name="show_videos_only">Только видео</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="single_device_project_dialog_checkbox_text">Remember this display</string>
+     <string name="single_device_project_dialog_title">Cast to %s</string>
      <string name="size_above">%1$s или более</string>
      <string name="size_below">%1$s или менее</string>
      <string name="size_between">%1$s – %2$s</string>
@@ -650,12 +689,12 @@ making it simple to view and manage pictures"</string>
      <string name="to_count">%d во всех</string>
      <string name="too_many_recipients">Сообщение имеет слишком много получателей (%1$s). Существует предел на %2$s получателей.</string>
      <string name="try_to_send">Отправить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ubifocus_data_invalid">Some of the data for this image is invalid</string>
      <string name="ubifocus_data_missing">Некоторые данные потеряны</string>
      <string name="ubifocus_guide_text">Нажмите и удерживате для обновления</string>
-     <string name="ubifocus_map_error">Некоторые данные неверны</string>
-     <string name="ubifocus_refocus_data_missing">Не удалось обновить из-за некоторых отсутствующих данных</string>
+     <string name="ubifocus_refocus_data_invalid">"Can't refocus because some of this image's data is invalid"</string>
      <string name="ubifocus_refocus_download_tip">Скачайте обновленные данные перед обновлением</string>
-     <string name="ubifocus_refocus_map_error">Не удалось обновить из-за некоторых неверных данных</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="uc">UC</string>
      <string name="unit_mm">мм</string>
@@ -666,6 +705,8 @@ making it simple to view and manage pictures"</string>
      <string name="user_alias_self">Я</string>
      <string name="video_err">Не удалось воспроизвести видео</string>
      <string name="video_not_exist">Видео не существует</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="videos">Videos</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="view_face_album">View album</string>
      <string name="view_sharers">Посмотреть поделившихся</string>
