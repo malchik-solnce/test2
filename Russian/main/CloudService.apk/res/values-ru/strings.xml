@@ -5,7 +5,7 @@
      <string name="account">Аккаунт</string>
      <string name="activate">Активировать</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="activate_number_change_dialog_message">Choose a phone number that will be visible to other devices when you call using VoIP.</string>
+     <string name="activate_number_change_dialog_message">Choose major number which need activate, when voip calling, the called party will see this number</string>
      <string name="activating">Активация…</string>
      <string name="alert_notif_title_dspt">Сервис синхронизации не включен</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

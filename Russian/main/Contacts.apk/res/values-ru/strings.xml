@@ -18,8 +18,7 @@
      <string name="add_2sec_pause">Добавить 2-сек. паузу</string>
      <string name="add_account">Добавить аккаунт</string>
      <string name="add_blacklist">В черный список</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="add_blacklist_dialog_title">Add to blocklist</string>
+     <string name="add_blacklist_dialog_title">Block this number?</string>
      <string name="add_connection_button">Добавить соц. сеть</string>
      <string name="add_contact_dlg_message_fmt">Добавить "%s" в контакты?</string>
      <string name="add_field">Добавить поле</string>
@@ -792,8 +791,7 @@
      <string name="relationLabelsGroup">Отношения</string>
      <string name="removePhoto">Удалить фото</string>
      <string name="remove_blacklist">Удалить из черного списка</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="remove_blacklist_dialog_title">Remove from blocklist</string>
+     <string name="remove_blacklist_dialog_title">Unblock this numbers?</string>
      <string name="remove_duplicate">"MIUI поможет тебе найти и объединить повторяющиеся контакты. Они не будут объединены автоматически. Пожалуйста, объедини их вручную.
 
 Нажми на объединение и немного подожди, пока автоматическое объединение не завершится."</string>

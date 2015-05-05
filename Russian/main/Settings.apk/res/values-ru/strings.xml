@@ -2175,7 +2175,7 @@ Are you sure to change?"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_display">display</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_fluency_mode">optimize system performance</string>
+     <string name="search_fluency_mode">fluency mode</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_font">font</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -2400,7 +2400,7 @@ Are you sure to change?"</string>
      <string name="status_bar_settings_all_app_display_loading">Loading…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_settings_basic_settings">Basic settings</string>
-     <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
+     <string name="status_bar_settings_carrier_sim">SIM %1$s:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_settings_custom_carrier">Edit service provider name</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
