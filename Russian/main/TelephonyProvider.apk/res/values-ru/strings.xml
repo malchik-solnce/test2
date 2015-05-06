@@ -3,5 +3,6 @@
 <resources>
      <string name="app_label">Хранилище сообщений и журналов</string>
      <string name="mms_sms_provider_label">Сообщения</string>
+     <string name="siminfo_default_name">SIM %d</string>
      <string name="sms_provider_label">Сообщения</string>
 </resources>

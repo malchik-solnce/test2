@@ -719,6 +719,8 @@
      <string name="preference_contacts_display">Отображение контактов</string>
      <string name="preference_contacts_filter">Контакты для отображения</string>
      <string name="preference_contacts_more">Другие настройки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="preference_contacts_recovery_introduction">Recover contacts</string>
      <string name="preference_dial_pad_touch_tone_default">По умолчанию</string>
      <string name="preference_dial_pad_touch_tone_human">Голос человека</string>
      <string name="preference_dial_pad_touch_tone_piano">Фортепианный звук</string>

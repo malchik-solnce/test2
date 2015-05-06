@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="activity_title_ad">Реклама</string>
-	 <string name="hints_garbage_handle_item_content">Файлов: %1$d | %2$s</string>
-     <string name="hints_garbage_handle_item_empty_content">Файлов: 0</string>
-     <string name="msg_cleanup_db_update_checking">Проверка обновлений…</string>
      <string name="activity_title_apk">Файлы</string>
      <string name="activity_title_cache">Кэш</string>
      <string name="activity_title_cache_data">Кэш</string>
@@ -30,6 +27,7 @@
      <string name="btn_text_quick_cleanup">Очистить</string>
      <string name="btn_text_quick_scan">Сканировать</string>
      <string name="btn_text_stop">Остановить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_optimizer">OK</string>
      <string name="button_text_add_to_white_list">В белый список</string>
      <string name="button_text_backup_uninstall">Бэкап</string>
@@ -37,6 +35,7 @@
      <string name="button_text_cleanup">Удалить</string>
      <string name="button_text_delete_from_white_list">Удалить</string>
      <string name="button_text_install">Устан.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_text_known">OK</string>
      <string name="button_text_uninstall">Удалить</string>
      <string name="button_text_uninstall_only">Удалить</string>
@@ -51,6 +50,7 @@
      <string name="clean_content_three">Все, кроме %s</string>
      <string name="clean_content_two">%1$s и %2$s</string>
      <string name="clean_content_zero">Ничего</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm_auto_cleaner">OK</string>
      <string name="deepclean_cache_header_left">Файлы кэша: %d</string>
      <string name="dialog_msg_backup_and_uninstall_apps">Создать резервную копию и удалить выбранные приложения?</string>
@@ -80,6 +80,8 @@
      <string name="hints_garbage_cleanup_result_danger">Опасно</string>
      <string name="hints_garbage_cleanup_result_risk">Подозрительно</string>
      <string name="hints_garbage_cleanup_result_safe">Безопасно</string>
+     <string name="hints_garbage_handle_item_content">Файлов: %1$d | %2$s</string>
+     <string name="hints_garbage_handle_item_empty_content">Файлов: 0</string>
      <string name="hints_install_apps_interval">исполь. %d дн. назад</string>
      <string name="hints_install_apps_new">не использовалось</string>
      <string name="hints_install_apps_risk">обнаружен риск</string>
@@ -111,8 +113,10 @@
      <string name="notification_summary_after_auto_cleanup">Очищено мусора %s</string>
      <string name="notification_summary_of_garbage_cleanup">Обнаружено мусора %s. Не забудьте очистить!</string>
      <string name="notification_title_of_garbage_cleanup">Уведомление о мусоре</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
      <string name="optimizecenter_data_support">При поддержке Clean Master</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="positive_confirm">OK</string>
      <string name="pref_category_title_auto_clean_settings">Настройки автоочистки</string>
      <string name="pref_category_title_auto_update_cleanup_db">Дополнительные настройки</string>
@@ -140,6 +144,16 @@
      <string name="pref_title_garbage_process_mode">Уведомление</string>
      <string name="pref_title_manual_check_cleanup_db_update">Обновить</string>
      <string name="pref_title_open_optimizer_cloud_scan">Онлайн очистка</string>
+     <string name="preference_category_key_auto_update_cleanup_db">key_category_auto_update_cleanup_db</string>
+     <string name="preference_key_auto_clean_content_ad">key_auto_clean_content_ad</string>
+     <string name="preference_key_auto_clean_content_apk">key_auto_clean_content_apk</string>
+     <string name="preference_key_auto_clean_content_cache">key_auto_clean_content_cache</string>
+     <string name="preference_key_auto_clean_content_residual">key_auto_clean_content_residual</string>
+     <string name="preference_key_checkbox_garbage_auto_clean_and_alert">key_checkbox_garbage_auto_clean_content</string>
+     <string name="preference_key_garbage_auto_clean_and_alert">key_garbage_auto_clean_and_alert</string>
+     <string name="preference_key_garbage_auto_clean_content">key_garbage_auto_clean_content</string>
+     <string name="preference_key_garbage_auto_process_mode">key_garbage_auto_process_mode</string>
+     <string name="preference_key_open_optimizer_cloud_scan">key_open_optimizer_cloud_scan</string>
      <string name="summary_auto_cleaner">Включить автоматическую очистку системы каждые 3 дня?</string>
      <string name="summary_delete_cache">Удалить файлы кэша? После удаления, некоторые приложения могут быть удалены или не работать должным образом. Будьте внимательны!</string>
      <string name="summary_delete_large_file">Удалить большие файлы? После удаления, некоторые приложения могут не работать должным образом. Будьте внимательны!</string>
