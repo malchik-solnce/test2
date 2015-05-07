@@ -19,6 +19,7 @@
      <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) заменит установленную версию (%3$s). Все данные будут сохранены. 
 Продолжить установку?"</string>
      <string name="dlg_app_replacement_title">Замена приложения</string>
+     <string name="dlg_appstore_notice">Get this app from our official &lt;u>&lt;font color=#91c727>App Store&lt;/font>&lt;/u></string>
      <string name="dlg_ok">ОК</string>
      <string name="dlg_sys_app_replacement_statement">"Это системное приложение. Заменить?
 
@@ -41,6 +42,8 @@
      <string name="installing">Установка, подождите…</string>
      <string name="launch">Открыть</string>
      <string name="lift_ban">Снять запрет</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lift_ban_once">Allow once</string>
      <string name="low_risk_perms">Разрешения низкого риска</string>
      <string name="manage_applications">Управление приложениями</string>
      <string name="manage_device_administrators">Настройки администрирования</string>

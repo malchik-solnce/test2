@@ -302,6 +302,14 @@
         <item>Проверять только для DRM содержимого</item>
         <item>Проверять всегда</item>
      </string-array>
+     <string-array name="install_non_market_app_contents">
+        <item>Ask permission</item>
+        <item>Allow</item>
+     </string-array>
+     <string-array name="install_non_market_app_entries">
+        <item>Ask permission for risky apps</item>
+        <item>Allow</item>
+     </string-array>
      <string-array name="led_color_entries">
         <item>Синий</item>
         <item>Красный</item>

@@ -439,6 +439,8 @@
      <string name="incall_error_no_phone_number_supplied">Вызов не осуществляется, действительный номер телефона не указан</string>
      <string name="incall_error_out_of_service">Мобильная сеть недоступна</string>
      <string name="incall_error_power_off">Перед тем как звонить, отключите режим полета</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="incall_error_sim_deactive">SIM card inactive</string>
      <string name="incall_error_turn_off_airplane_mode">Отключите режим полета</string>
      <string name="incall_status_dialed_mmi">Запуск последовательности MMI…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

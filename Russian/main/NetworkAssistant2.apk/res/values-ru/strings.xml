@@ -142,6 +142,9 @@ For more info check the message you received from your service provider"</string
      <string name="firewall_fragment_tab_title_nonsys">Пользов.</string>
      <string name="firewall_fragment_tab_title_sys">Системные</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="firewall_network_restrict_notify_message">Tap to change settings.</string>
+     <string name="firewall_network_restrict_notify_title">"%1$s isn't allowed to connect to %2$s."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="firewall_rule_group_title_mobile">3G</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="firewall_rule_group_title_roaming">International roaming</string>
@@ -484,6 +487,8 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
      <string name="traffic_correction_start_correction">Соединение с оператором услуг…</string>
      <string name="traffic_correction_start_correction_failed">Ошибка запроса. Проверь настройки оператора.</string>
      <string name="traffic_correction_success">Использование данных обновлено</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_correction_success_notify_message">Tap to view details.</string>
      <string name="traffic_limit_error_alert_body">"Your carrier's accounting shows that you have %1$s remaining this month. That's more than the %2$s limit you've set manually."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="traffic_limit_error_alert_iknow">OK</string>
