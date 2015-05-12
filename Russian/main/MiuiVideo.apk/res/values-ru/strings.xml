@@ -225,6 +225,8 @@
      <!-- Original string: %1$s New Version -->
      <string name="hint_apk_title_update">New Version</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="i_will_write_comments">I will write comments ...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="icntv">iCNTV</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="info_video_loading">Loading...</string>

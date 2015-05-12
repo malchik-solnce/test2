@@ -28,6 +28,9 @@
      <string name="direction_south_west">ЮЗ</string>
      <string name="direction_west">З</string>
      <string name="do_not_show_next_time">"Don't show again"</string>
+     <string name="first_using_dialog_message">"Compass needs to use your device's network connection, camera, and location services to work normally."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="first_using_dialog_title">Access permission</string>
      <string name="getting_location">Поиск местоположения…</string>
      <string name="guide_toast">Откалибруй компас жестом, как показано на рисунке</string>
      <string name="latitude">ШИР</string>
@@ -57,9 +60,5 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="using_camera_confirm_cancel">Exit</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="using_camera_confirm_message">We are using camera device while in the Compass application.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="using_camera_confirm_ok">Agree and continue</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="using_camera_confirm_title">Terms and Agreements</string>
 </resources>
