@@ -342,6 +342,8 @@
      <string name="play_history">Недавнее</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="play_source_fetching">Connecting</string>
+     <string name="player_plugin_des">View available video player plug-ins</string>
+     <string name="player_plugin_title">Video player plug-ins</string>
      <string name="positive_comment">Положительные</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pps">PPS</string>
@@ -452,10 +454,6 @@
      <string name="unfavorite">Из избранного</string>
      <string name="unknown_source">Неизвестный источник</string>
      <string name="update">Обновлено</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 1
-	%s: 0 must: 1
-	%d: 1 must: 0 -->
-     <!-- Original string: Updated to Ep. %1$s -->
      <string name="update_to_count_ji">Добавлена %d серия</string>
      <string name="update_to_count_qi">Updated to %s</string>
      <string name="updatedalready">Обновлено</string>
@@ -505,6 +503,8 @@
      <string name="vp_adapt_height">Fit height</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_adapt_width">Fit width</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vp_app_name">Video Player</string>
      <string name="vp_audio">音量</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_auto_select">Auto select</string>
@@ -559,6 +559,12 @@
      <string name="vp_milink">MiLink</string>
      <string name="vp_milink_function">投屏</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vp_mobile_network_using_negative">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vp_mobile_network_using_positive">Continue</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vp_mobile_network_using_warning">Playing online video on mobile network may result in cost for data usage.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_newest_ep">Newest now</string>
      <string name="vp_next_ci">След.</string>
      <string name="vp_offline">Офлайн</string>
@@ -577,6 +583,12 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_offline_title">Offline Download</string>
      <string name="vp_offline_title_name">Episode %d</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vp_player_plugin_dlg_neg_btn">Close</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vp_player_plugin_dlg_no_content">No Video Player Plugin</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vp_player_plugin_dlg_title">Video Player Plugin</string>
      <string name="vp_plugin_message">Enjoy HD audition, we will install HD plug-in for you, do you agree?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_retry">retry</string>

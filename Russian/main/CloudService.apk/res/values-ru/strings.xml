@@ -76,6 +76,8 @@ Last backup: %2$s"</string>
      <string name="cmcc_micloud_dspt">Используй Mi Cloud для синхронизации данных, поиска устройства</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="contact">Contacts</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="deskclock_backup">Clocks Back up</string>
      <string name="disable_find_device_error">%1$s, ошибка отключения обнаружения устройства</string>
      <string name="enableAll">Включить все</string>
      <string name="enable_cloud_service_notification">"You haven't enabled Mi Cloud"</string>
@@ -210,6 +212,8 @@ to your Mi Account to reactivate Mi Cloud."</string>
      <string name="micloud_main_space_risk">You have %d data to be synced. Please update storage space.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_main_stop_sync">Stop sync</string>
+     <string name="micloud_main_suggest_setting">"Waiting for WLAN connection to sync
+Tap the Settings button to view more options"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_main_suggest_sync">Some items need to be synced with your Mi Cloud.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -223,13 +227,24 @@ to your Mi Account to reactivate Mi Cloud."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_main_sync_pause">Pause sync</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_main_sync_setting">Sync settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_main_sync_stop">Stop sync</string>
      <string name="micloud_main_synced_data_count">%d data have been synced</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_main_syncing">data is syncing...</string>
+     <string name="micloud_main_title_sync_fail">"Can't sync"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_main_title_sync_off">Sync off</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_main_title_sync_on_wifi">Use WLAN</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_main_update_space">update space</string>
      <string name="micloud_main_wlan_sync_data_count">%d data will sync on WLAN</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_member">Premium</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_member_advantage">Get more storage space.</string>
      <string name="micloud_more">Узнать больше</string>
      <string name="micloud_other_product_price">Other similar products Price:</string>
      <string name="micloud_proceed">Продолжить</string>
@@ -240,6 +255,8 @@ to your Mi Account to reactivate Mi Cloud."</string>
      <string name="micloud_setting_browser_summary">Bookmarks, history, and tabs</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_setting_contact_summary">Contacts info and profile photos</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_setting_deskclock_summary">Clocks settings</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_setting_gallery_summary">Photos and videos</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -256,6 +273,8 @@ to your Mi Account to reactivate Mi Cloud."</string>
      <string name="micloud_space_duokan_title">Duokan</string>
      <string name="micloud_space_full_influence"><u>Закончилось место в облаке?</u></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_storage">Storage</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_storage_expires_auto_renewal_sum">You need to renew your subscription.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_storage_expires_manually_renewal_sum">You need to renew your subscription.</string>
@@ -264,6 +283,14 @@ to your Mi Account to reactivate Mi Cloud."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_storage_expires_very_soon_title">Mi Cloud storage expires soon</string>
      <string name="micloud_storage_usage" formatted="false">Used %s/Total space %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_sync_alert_dialog_message">Sync your photos, contacts, notes, and more across all your devices.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_sync_alert_dialog_negative">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_sync_alert_dialog_positive">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_sync_alert_dialog_title">Use Mi Cloud</string>
      <string name="micloud_title_dspt" formatted="false">"Всего: %s 
 занято: %s | свободно: %s"</string>
      <string name="micloud_title_dspt_remain">Осталось %s</string>
@@ -326,6 +353,8 @@ This feature encrypts and uploads your device's ID to Mi's servers."</string>
      <string name="restoreSync">Восстановить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="setting">Settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="settings_backup_title">Back up system settings</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="share_cancel">share canceled</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

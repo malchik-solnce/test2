@@ -79,6 +79,12 @@
      <string name="category_header">Все (%1$s)</string>
      <string name="category_info_invalid">Неверная информация о категории</string>
      <string name="category_tag">Категории</string>
+     <string name="charge_game_buy_success_should_download">Buy success!Will download game?</string>
+     <string name="charge_game_buy_success_should_open">Buy success!Will launch game?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="charge_game_download_need_login_alert">Need to login to download paid game</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="charge_game_lunch_need_login_alert">Need to login to launch paid game</string>
      <string name="check_sd_card">Проверьте свой телефон или вставьте SD-карту</string>
      <string name="check_update">Проверка обновления…</string>
      <string name="choose_use_app">Использовать с помощью</string>
@@ -239,6 +245,13 @@
      <string name="game_accelerated_failure">Game accelerated failure</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="game_category">Category</string>
+     <string name="game_check_purchase__failed">"Couldn't complete purchase"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="game_check_purchase__failed_network_error">please check your network status</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="game_check_purchase__failed_unknown_error">check failed.Try it again later</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="game_check_purchase__status">checking purchase status</string>
      <string name="game_comments_tab">Комментарии</string>
      <string name="game_date_version_name">%1$d-%2$d- релиз v%3$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -256,6 +269,9 @@
      <string name="game_detail_title">Подробнее об игре</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="game_editor_choice">Editor Choice</string>
+     <string name="game_exchange_confirm">Decide to buy %1$s？</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="game_exchange_status">purchasing</string>
      <string name="game_honor_wall">Стена почета</string>
      <string name="game_install">Install:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -1025,25 +1041,20 @@ Please check and refresh"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vip_home_all_privilege">View all VIP benefits</string>
      <string name="vip_home_birthday">Birthday: %s</string>
-     <string name="vip_home_birthday_none">Birthday:</string>
      <string name="vip_home_grade">VIP%d</string>
      <string name="vip_home_level">Уровень</string>
      <string name="vip_home_level_distant_pre">&lt;font color=\"#2a2a2a\">Очков необходимо до VIP%d&lt;/font></string>
      <string name="vip_home_level_distant_suf">&lt;font color=#fd8000>RMB%d&lt;/font></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vip_home_level_rule">VIP membership</string>
-     <string name="vip_home_miliao">MiTalk: %s</string>
-     <string name="vip_home_miliao_none">MiTalk: none</string>
      <string name="vip_home_need_exp">&lt;font color=\"#2a2a2a\">&lt;/font>&lt;font color=#fd8000>%d&lt;/font>&lt;font color=\"#2a2a2a\"> pts to upgrade.&lt;/font></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vip_home_privilege">VIP benefits</string>
      <string name="vip_home_qq">QQ: %s</string>
-     <string name="vip_home_qq_none">QQ: none</string>
      <string name="vip_home_retain_level">&lt;font color=#2a2a2a>Fees due:&lt;/font>&lt;font color=#fd8000>%d&lt;/font>&lt;font color=#2a2a2a>RMB to upgrade.&lt;/font></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vip_home_status">VIP Status</string>
      <string name="vip_home_tel">Телефон: %s</string>
-     <string name="vip_home_tel_none">Phone: none</string>
      <string name="vip_home_update_level">&lt;font color=#2a2a2a>Points needed to level up&lt;/font>&lt;font color=#fd8000>%d&lt;/font>&lt;font color=#2a2a2a>RMB&lt;/font></string>
      <string name="vip_home_valid_end_pre">&lt;font color=#2a2a2a>Expires in: &lt;/font>%s</string>
      <string name="vip_home_valid_end_suf">&lt;font color=#767676>(%d days remaining)&lt;/font></string>

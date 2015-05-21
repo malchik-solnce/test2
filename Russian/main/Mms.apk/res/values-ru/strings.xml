@@ -476,6 +476,10 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="search_setting_description">Текст в сообщениях</string>
      <string name="search_show_more_results">Больше</string>
      <string name="secs">с.</string>
+     <string name="security_alert_desc">""The sender isn't in your contacts. "<u><font color="red">Report this number</font></u>"</string>
+     <string name="security_alert_dialog_desc">Report this number (%s) and message by sending it to Xiaomi for review.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="security_alert_dialog_title">Report</string>
      <string name="select_audio">Выбор аудио</string>
      <string name="select_bottom_text">Текст внизу</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -527,6 +531,9 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="sms_full_title">Память для текстовых сообщений переполнена</string>
      <string name="sms_rejected_body">Входящее сообщение отклонено по неизвестной причине</string>
      <string name="sms_rejected_title">Сообщение отклонено</string>
+     <string name="sms_report_failed">"Couldn't send report"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sms_report_success">Report sent</string>
      <string name="snippet_audio">[audio]</string>
      <string name="snippet_picture">[picture]</string>
      <string name="sp_category_all">Все сообщения</string>

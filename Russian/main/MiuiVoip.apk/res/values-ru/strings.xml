@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="activate_failed">Ошибка активации. Проверьте интернет.</string>
      <string name="activate_voip_call">Интернет звонок</string>
      <string name="activate_voip_description">Включите сервис VoIP для бесплатных звонков</string>
      <string name="address_choose_hint">%1$s, %2$s, и %3$d другие</string>
@@ -33,6 +32,7 @@
      <string name="dlg_no_block_ok">OK</string>
      <string name="dlg_remove_address_blacklist">Удалить из черного списка?</string>
      <string name="dlg_remove_blacklist">Удалить эти вызовы из черного списка и восстановить в журнал вызовов?</string>
+     <string name="dlg_remove_blacklist_ing">Removing…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlg_remove_blacklist_ok">OK</string>
      <string name="dlg_white_antispam_hint">Белый список</string>
@@ -63,6 +63,7 @@
      <string name="mx_dspt_provision_3">MIUI Voip lets you call or video call other MIUI users by free. Your carrier may charge for your network traffic. We may need send an SMS message to verify your phone number.</string>
      <string name="net_connect_fails">Не удается подключиться к интернету</string>
      <string name="net_singal_tips">Сигнал сети %1$s</string>
+     <string name="network_unavailable">"Can't connect to the network."</string>
      <string name="next">Далее</string>
      <string name="no_sim_found">SIM-карта недоступна</string>
      <string name="note_list_none">Список пуст</string>

@@ -139,6 +139,25 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="privacy_tip_ok">OK</string>
      <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="recommend_downloading">Downloading</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="recommend_failed">Failed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="recommend_install">Install</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="recommend_installing">Installing</string>
+     <string name="recommend_loading">Loading…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="recommend_open">Open</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="recommend_other_downloads">Hot</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="recommend_paused">Paused</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="recommend_prepare">Wait</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="recommend_show_other_downloads">Show hot</string>
      <string name="remove_download">Удалить</string>
      <string name="restart_download">Заново</string>
      <string name="resume_download">Далее</string>

@@ -455,6 +455,31 @@
      <string name="invalid_pin2">Введите PIN2, содержащий от 4 до 8 цифр</string>
      <string name="invalid_puk">Неверный PUK-код. Введите PUK2, состоящий из 8 цифр.</string>
      <string name="invalid_puk2">Введите 8ми значный код PUK2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ivr_mo_area_code_settings">Current area code</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ivr_mo_area_code_settings_hint">Please input current area code</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ivr_parameter_settings">IVR parameters settings</string>
+     <string name="ivr_type_cm_1">M-Zone</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ivr_type_cm_2">GoTone</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ivr_type_cm_3">Easy own</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ivr_type_ct_1">China Telecom VIP</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ivr_type_ct_2">China Telecom customer</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ivr_type_cu_1">China Unicom 3G</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ivr_type_cu_2">China Unicom 4G</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ivr_type_cu_3">China Unicom 2G</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ivr_type_settings">Data plan settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ivr_type_settings_hint">Input your data plan code</string>
      <string name="labelCDMAMore">Настройки вызовов CDMA</string>
      <string name="labelCF">Переадресация вызова</string>
      <string name="labelCFB">Если занято</string>
