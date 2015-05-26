@@ -62,7 +62,6 @@
      <string name="cancel_favorite_success">Удалено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="check_app_version">Checking latest version...</string>
-     <string name="check_network">"Can't connect to the network. Check your data connection and try again."</string>
      <string name="clarity_high">Высокое</string>
      <string name="clarity_standard">Стандартное</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -124,8 +123,6 @@
      <string name="declaration_allow">Agree</string>
      <string name="declaration_content">Принимаешь условия использования предусмотренные Sohu Video, iQiyi и других провайдеров видео?</string>
      <string name="declaration_content_td_custom">Will you agree to connect the internet when you use video?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="defaults">Default</string>
      <string name="delete">Удалить</string>
      <string name="delete_action_text">删除 （%d）</string>
      <string name="delete_addon">Удалить</string>
@@ -192,13 +189,6 @@
      <string name="file_not_exist">The file does not exist</string>
      <string name="filter">Фильтр</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="forecast">Forecast</string>
-     <string name="forecast_empty_hint">Нет программ</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="forecasts">Forecast</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="fullscreen">Fullscreen</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="funshion">Funshion</string>
      <string name="gong_count_dlna">DLNA: %d</string>
      <string name="gong_count_ge">%d total</string>
@@ -241,7 +231,6 @@
      <string name="join_alert_title">Join internal test</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="join_hint">Input the invite code</string>
-     <string name="key_back_down_toast">Нажми еще раз, чтобы выйти</string>
      <string name="lastrefresh">Recent update:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lekan">Lekan</string>
@@ -303,6 +292,8 @@
      <string name="offline_max_promote">Ожидание. Дуступно 2 загрузки одновременно.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="offline_media_empty_title">Empty</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="offline_no_avail_item_hint">No available downloadable episodes</string>
      <string name="offline_no_selected_item_hint">请选择要下载的集数</string>
      <string name="offline_no_source">Нет источника</string>
      <string name="offline_setting">Оффлайн медиа</string>
@@ -376,6 +367,9 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="reload_title_ep">Unable to obtain the full series</string>
      <string name="retry">Повторить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="router">Mi Router</string>
+     <string name="router_download_task_with">%d tasks</string>
      <string name="score">Score  </string>
      <string name="score_by">Score: %s</string>
      <string name="sdcard_storage">Внутренняя память</string>
@@ -389,10 +383,6 @@
      <string name="select_count_xiang">Выбрано: %d</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="select_none">Deselect all</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="select_tv">Select channel</string>
-     <string name="select_tv_empty_hint">Нет каналов</string>
-     <string name="select_tvs">Выбери tv</string>
      <string name="send">Отправить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="server_summary">Choose Service Server</string>
@@ -446,7 +436,6 @@
      <string name="total_episode">%1$s Episodes</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tudou">Tudou</string>
-     <string name="tv_channel_empty_hint">Нет каналов</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ui_style">UI Style</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -454,6 +443,10 @@
      <string name="unfavorite">Из избранного</string>
      <string name="unknown_source">Неизвестный источник</string>
      <string name="update">Обновлено</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 1
+	%s: 0 must: 1
+	%d: 1 must: 0 -->
+     <!-- Original string: Updated to Ep. %1$s -->
      <string name="update_to_count_ji">Добавлена %d серия</string>
      <string name="update_to_count_qi">Updated to %s</string>
      <string name="updatedalready">Обновлено</string>
@@ -618,6 +611,8 @@
      <string name="vp_using_4_3">Force 4:3</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_video_bad_network_condition">Bad network condition, retry later</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vp_video_invalid_cp_info">Invalid information of video provider, please restart application</string>
      <string name="vp_video_loading"><CDATA>视频加载中..</CDATA></string>
      <string name="vp_video_plugin_installation">Installing %1$s plugin for best picture quality...</string>
      <string name="waiting_to_download">Ожидание</string>

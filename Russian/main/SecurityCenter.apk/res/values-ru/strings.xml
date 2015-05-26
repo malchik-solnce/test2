@@ -36,6 +36,7 @@
      <string name="activity_title_virus_settings">Настройки</string>
      <string name="antivirus_sec_support">При поддержке Tencent</string>
      <string name="app_name_securitycenter">Безопасность</string>
+     <string name="app_not_installed_toast">"App isn't installed on your device."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="auto_handle_title">Optimize automatically</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
