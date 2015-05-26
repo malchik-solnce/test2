@@ -80,6 +80,8 @@
      <string name="delete_wallpaper_message">Delete %1$d wallpaper?</string>
      <string name="delete_wallpapers_message">Delete %1$d wallpapers?</string>
      <string name="disable_wallpaper_scroll">Turn side-scrolling off</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="download_action">Download</string>
      <string name="edit_folder_title">Имя папки</string>
      <string name="editing_add_widget_tips">Добавление виджетов</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -161,6 +163,7 @@
      <string name="is_setting_wallpaper_toast">Setting wallpaper…</string>
      <string name="is_system_wallpaper_message">"Can't delete system resources"</string>
      <string name="loading_desktop">Загрузка…</string>
+     <string name="loading_wallpaper">Just a sec…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="local_wallpaper">Downloaded</string>
      <string name="lock_screen_failed_message">Не удалось применить :(</string>

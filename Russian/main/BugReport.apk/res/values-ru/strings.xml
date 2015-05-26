@@ -23,6 +23,8 @@
      <string name="bugreport_dump_start_notification_summary">Takes about a minute.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="bugreport_dump_start_notification_title">Creating bug report</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bugreport_tool_log">Create bug report</string>
      <string name="bugreport_tool_log_toast">Log saved to %s</string>
      <string name="bugreport_tool_log_toast_generate_bugreport">Creating bug report (takes about a minute)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -81,6 +83,14 @@
      <string name="loading_hot_problem">Загрузка…</string>
      <string name="loading_problem_list">Loading list…</string>
      <string name="menu_copy">Копировать</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="modem_tool_log">Capture modem logs</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="modem_tool_log_start">Start</string>
+     <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="modem_tool_log_stop">Stop</string>
+     <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="network_disconnected">No network</string>
      <string name="network_err">Не удается подключиться к сети. Проверьте подключение и попробуйте обновить.</string>

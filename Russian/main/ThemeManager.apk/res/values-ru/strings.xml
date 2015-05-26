@@ -356,6 +356,10 @@
      <string name="theme_immediately_apply_tip">Тема обновляется. Применить после обновления?</string>
      <string name="theme_import_from_sdcard">Импортировать с SD-карты</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="theme_is_external_priority_storage">Save to SD card</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="theme_is_external_priority_storage_summary">Themes app will restart immediatelly to take effect</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="theme_multiple_button_title_customize">Customize</string>
      <string name="theme_name">%1$s</string>
      <string name="theme_no">Нет</string>

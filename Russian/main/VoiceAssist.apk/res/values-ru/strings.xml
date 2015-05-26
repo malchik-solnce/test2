@@ -108,6 +108,8 @@
      <string name="new_remind_tip">New remind</string>
      <string name="next_date">%1$s нед.</string>
      <string name="no_engine">Модуль распознавания речи не установлен</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_sim">Insert SIM card now</string>
      <string name="not_launch_while_calling">Ассистент недоступен во время вызова</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="not_remind">Do not remind again</string>

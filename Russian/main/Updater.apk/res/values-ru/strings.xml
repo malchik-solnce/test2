@@ -75,6 +75,8 @@
      <string name="download_error">Download error. Wait a minute or two and try again.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="download_full">Download full</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="download_success_reboot_immediately">Reboot to apply update</string>
      <string name="download_title">Downloading (%s)</string>
      <string name="download_title_first">Getting update info…</string>
      <string name="download_title_full_download">Getting package info…</string>
@@ -150,6 +152,8 @@
      <string name="no_wifi_title">Data usage warning</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="not_open">Not open</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="notification_auto_reboot_seccess_title">Device updated automatically</string>
      <string name="notification_downloading">Downloading update…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="notification_load_body_alpha">Sign in to your Mi Account to update your device.</string>
@@ -281,6 +285,8 @@ But you can take part next Tuesday"</string>
      <string name="update_sad">Meh (not good)</string>
      <string name="update_success">Поздравляем, обновление успешно</string>
      <string name="update_success_body">Current version: %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="update_success_reboot_immediately">Device updated</string>
      <string name="update_success_title">Update complete!</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="updater_nolog">There are no log</string>
@@ -288,6 +294,7 @@ But you can take part next Tuesday"</string>
      <string name="updater_nonetwork">Connect to the network to get log</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="updater_nonetwork_clause">Connect to network to view updated Privacy Policy</string>
+     <string name="updater_wait_for_unzip">Unpacking update…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="upgrade_close">Close</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

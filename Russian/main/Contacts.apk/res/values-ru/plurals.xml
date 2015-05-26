@@ -29,10 +29,6 @@
         <item quantity="other">Unblock these %1$d numbers?</item>
         <item quantity="one">Unblock this number?</item>
      </plurals>
-     <plurals name="export_sim_contact_finish_success">
-        <item quantity="other">Copied %d contacts</item>
-        <item quantity="one">Copied %d contact</item>
-     </plurals>
      <plurals name="export_sim_contacts_dialog_message">
         <item quantity="other">SIM card can store %d contacts.</item>
         <item quantity="one">SIM card can store %d contact.</item>

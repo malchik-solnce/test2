@@ -305,6 +305,8 @@
      <string name="please_download_first">Please download first.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="please_search_or_select">Please do search or select</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="preset_music_playlist">Mi Music playlist</string>
      <string name="presonal_center">Настройки аакунта</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="priority_storage">Use external SD card</string>
@@ -360,6 +362,8 @@
      <string name="set_as_ring">Set To Ring</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="set_id3_failed">Set song information failed</string>
+     <string name="set_id3_not_have_read_or_write_permission">"You don't have permission to edit this file"</string>
+     <string name="set_id3_not_support_format">"Can't edit this file format"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="set_id3_successful">Set song information successfully</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

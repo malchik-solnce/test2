@@ -16,7 +16,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ble_device_profile_title">Connected BLE device</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="ble_device_unbind">Clear settings</string>
+     <string name="ble_device_rename">Rename</string>
      <string name="ble_profile_1">ble_profile_mi_band</string>
      <string name="ble_profile_2">ble_profile_mi_key</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

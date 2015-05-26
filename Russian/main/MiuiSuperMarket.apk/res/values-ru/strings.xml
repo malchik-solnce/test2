@@ -39,6 +39,8 @@
      <string name="cate_game">Games</string>
      <string name="category_recommend_tag">Реком.</string>
      <string name="category_tag">Категории</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="choose_using_application">Complete action using</string>
      <string name="clear_cache_failed">Ошибка очистки. Попробуй еще раз.</string>
      <string name="clear_cache_message">Очистить кеш?</string>
      <string name="clear_cache_succeed">Кеш очищен</string>
@@ -122,6 +124,8 @@
      <string name="diagnostics_local_ip">1. Локальный IP адрес</string>
      <string name="diagnostics_test_download">5. Входящая скорость</string>
      <string name="diagnostics_title">Диагностика сети</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dialog_title_install_tip">Install tip</string>
      <string name="download_fail">Загрузка не завершена. Ошибка загрузки.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="download_history">Download history</string>
@@ -283,6 +287,9 @@
      <string name="my_app">Мои приложения</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="my_favorites">My favorites</string>
+     <string name="need_system_library_1">%1$s installed failed because miui lack some library (may be google service framework), you can use</string>
+     <string name="need_system_library_2"> Feedback </string>
+     <string name="need_system_library_3">to report this probleam!</string>
      <string name="new_app_tag">Новые</string>
      <string name="no_average_score">Нет данных</string>
      <string name="no_change_log">Журнал пуст</string>
@@ -295,6 +302,9 @@
      <string name="no_local_apps">Нет установленных приложений</string>
      <string name="no_network">Нет доступа в интернет. Проверьте настройки и попробуйте еще раз.</string>
      <string name="no_search">Приложений не найдено</string>
+     <string name="no_search_result_for_third_market">No app found in %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_search_result_tip">App not found</string>
      <string name="no_update">Обновлений нет</string>
      <string name="no_update_records">История пуста</string>
      <string name="notif_auto_update_failed">Некоторые приложения не были обновлены</string>
@@ -307,6 +317,8 @@
      <string name="notif_install_successful">Успешно установлено</string>
      <string name="notif_install_successful_default">Установлено</string>
      <string name="notif_installing">Установка “%1$s”…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="notif_message_stop_by_space_not_enough">Storage is Full, Click here to release</string>
      <string name="notif_summary_auto_update_failed">Ошибка автообновления</string>
      <string name="notif_summary_auto_update_on">Xiaomi Market будет обновлять приложения автоматически</string>
      <string name="notif_summary_auto_update_successful">Обновлено приложений: %1$s</string>
@@ -314,6 +326,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="notif_title_first_setup">Meet tons of apps at App Store</string>
      <string name="notif_title_redownload">Redownload: %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="notif_title_stop_by_space_not_enough">Installation has been suspended</string>
      <string name="notif_title_update">Обновление %1$s</string>
      <string name="notif_update_successful">Обновлено</string>
      <string name="notif_update_successful_default">Обновлено</string>

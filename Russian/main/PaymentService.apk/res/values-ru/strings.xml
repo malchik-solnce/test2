@@ -109,6 +109,8 @@
      <string name="error_network_summary">Ошибка сети. Попробуй еще раз.</string>
      <string name="error_server_summary">Ошибка сервера. Попробуй позже.</string>
      <string name="error_user_id_mismatch_summary">Пожалуйста, проверь настройки аккаунта и попробуй снова</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_web_summary">Server error</string>
      <string name="fee_with_giftcard"> (Include%1$s)</string>
      <string name="fee_with_mibi_giftcard"> %1$s-Mi Credit gift card</string>
      <string name="fee_with_partner_giftcard"> %1$s-Mi Credit %2$s</string>

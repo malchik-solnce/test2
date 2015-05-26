@@ -277,6 +277,18 @@
         <item>Крупный</item>
         <item>Огромный</item>
      </string-array>
+     <string-array name="fluency_mode_confirms">
+        <item>Reboot your device to apply this setting?</item>
+        <item>Reboot your device to apply this setting?</item>
+     </string-array>
+     <string-array name="fluency_mode_entries">
+        <item>Hide system animations</item>
+        <item>Show system animations</item>
+     </string-array>
+     <string-array name="fluency_mode_summaries">
+        <item>"To speed up device's performance, hide system animations"</item>
+        <item>"Showing system animations may slow down device's performance"</item>
+     </string-array>
      <string-array name="handy_mode_size_text_entries">
         <item>4.5 inches</item>
         <item>4.0 inches</item>
@@ -301,6 +313,14 @@
         <item>Никогда не проверять</item>
         <item>Проверять только для DRM содержимого</item>
         <item>Проверять всегда</item>
+     </string-array>
+     <string-array name="install_non_market_app_contents">
+        <item>Ask permission</item>
+        <item>Allow</item>
+     </string-array>
+     <string-array name="install_non_market_app_entries">
+        <item>Ask permission for risky apps</item>
+        <item>Allow</item>
      </string-array>
      <string-array name="led_color_entries">
         <item>Синий</item>
@@ -331,6 +351,22 @@
         <item>5 минут</item>
         <item>10 минут</item>
         <item>30 минут</item>
+     </string-array>
+     <string-array name="lock_screen_secure_after_timeout_entries">
+        <item>Immediately</item>
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>5 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+     </string-array>
+     <string-array name="lock_screen_secure_after_timeout_values">
+        <item>0</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>900000</item>
+        <item>1800000</item>
      </string-array>
      <string-array name="long_press_timeout_selector_titles">
         <item>Маленькая</item>

@@ -558,6 +558,8 @@
      <string name="carrier_enabled_summaryOn">APN включен</string>
      <string name="cdma_security_settings_summary">Настройка функции мое местоположение, разблокировка экрана и блокировка хранилища регистрационных данных</string>
      <string name="cell_broadcast_settings">Широковещательные сообщения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cell_broadcast_settings_summary">Select the types of emergency alerts to display</string>
      <string name="change_password">Сменить пароль</string>
      <string name="change_security_lock">Другие способы блокировки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -980,15 +982,8 @@
      <string name="floating_window_switch_label_disable">Скрывать всплывающие окна</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="fluency_mode">Optimize system performance</string>
-     <string name="fluency_mode_confirm_title">Reboot now?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="fluency_mode_confirm_will_fluency_mode_text">Your device needs to reboot to apply these settings.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="fluency_mode_confirm_will_normal_mode_text">Turning on animations and using additional memory may cause slower performance on some devices.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="fluency_mode_enabled_name">Optimize system performance</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="fluency_mode_summary">Turn off system animations and reduce memory usage</string>
+     <string name="fluency_mode_confirm_and_reboot">Reboot now</string>
      <string name="font_size_huge">Огромный</string>
      <string name="font_size_large">Большой</string>
      <string name="font_size_medium">Средний</string>
@@ -1145,6 +1140,10 @@ Dissatisfied? Try"</string>
      <string name="input_settings">НАСТРОЙКИ ВВОДА</string>
      <string name="install_all_warning">Ваши личные данные и данные телефона более уязвимы для атак приложений из неизвестных источников. Вы соглашаетесь с тем, что несете полную ответственность за любой ущерб, нанесенный телефону, и потерю данных, связанные с использованием этих приложений.</string>
      <string name="install_applications">Неизвестные источники</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="install_no_market_app_summary">Allow installation of apps from sources other than the App Store</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="install_no_market_app_title">Unknown sources</string>
      <string name="install_preinstall_app">Loading apps…</string>
      <string name="install_text">Установить</string>
      <string name="install_unknown_applications">Разрешить установку приложений, полученных не из маркета</string>
@@ -1310,6 +1309,11 @@ Dissatisfied? Try"</string>
      <string name="lock_after_timeout">Автоблокировка</string>
      <string name="lock_after_timeout_summary">После %1$s спящего режима</string>
      <string name="lock_intro_message">Lock_intro_message</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lock_screen_secure_after_timeout_immediately_summary">Password required immediately</string>
+     <string name="lock_screen_secure_after_timeout_summary">Password required in %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lock_screen_secure_after_timeout_title">Password required</string>
      <string name="lock_screen_unlock_show">Интерфейс ввода пароля</string>
      <string name="lock_screen_unlock_show_summary">Не используйте другие локскрины после включения, достаточно зайти в интерфейс для разблокировки экрана</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -1762,6 +1766,8 @@ Are you sure to change?"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="passwordIncorrect">The password you entered is incorrect</string>
      <string name="password_guard">Защита</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="performance_category">Performance</string>
      <string name="permission_detail_info">Сведения о разрешениях</string>
      <string name="permission_detail_info_summary">Разрешения: безопасности %1$d, конфид. %2$d, другие %3$d</string>
      <string name="permission_manage">Управление разрешениями</string>
@@ -2174,8 +2180,6 @@ Are you sure to change?"</string>
      <string name="search_description">Поиск настроек</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_display">display</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_fluency_mode">fluency mode</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_font">font</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

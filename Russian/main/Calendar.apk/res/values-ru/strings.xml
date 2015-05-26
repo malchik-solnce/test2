@@ -57,6 +57,7 @@
 	%d: 0 must: 0 -->
      <!-- Original string: 3 days until %3$s (%4$s) -->
      <string name="birthday_notification_text_three_days_later">3 дня до дня рождения (%3$s)</string>
+     <string name="birthday_notification_text_three_days_later_with_activity">现在可为TA预定蛋糕、鲜花</string>
      <string name="birthday_notification_text_today">Не забудь поздравить с днем рождения!</string>
      <!-- The count of MNPS does not match! Now: 1 must: 2
 	%s: 1 must: 2
@@ -308,6 +309,8 @@
      <string name="search">Поиск</string>
      <string name="search_history_cleared">История поиска удалена</string>
      <string name="search_title">Поиск в моих календарях</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="select_date">Select date</string>
      <string name="select_synced_calendars_button">Синхронизировать</string>
      <string name="select_synced_calendars_title">Синхронизировать календари</string>
      <string name="select_visible_calendars_title">Отображать календари</string>

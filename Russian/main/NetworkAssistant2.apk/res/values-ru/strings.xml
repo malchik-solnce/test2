@@ -26,9 +26,6 @@
      <string name="app_name">Трафик</string>
      <string name="app_version">Версия</string>
      <string name="app_wifi">Wi-Fi</string>
-     <string name="arrearage_exception_summary">"Your carrier's accounting shows you need to top-up now"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="arrearage_exception_title">Your balance is too low</string>
      <string name="background_traffic">Фоновый трафик %s</string>
      <string name="begin_date">Дата начала учета</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -38,6 +35,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="btn_stop_diagnostic">Stop</string>
      <string name="cancel_button">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="captive_portal_exception_title">Connect to public network</string>
      <string name="chat_number">10 часов</string>
      <string name="chat_uint">" часов"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -57,6 +56,8 @@
      <string name="daily_limit_network_available_body">Touch to view data usage stats.</string>
      <string name="daily_limit_over_message">"You've exceeded your daily data limit."</string>
      <string name="daily_pkg_traffic">Предел трафика</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="data_network_blocked_notification_title">No internet connection</string>
      <string name="data_usage_correction_timeout_body">Нажмите для ручного обновления</string>
      <string name="data_usage_correction_timeout_title">Ошибка синхронизации данных</string>
      <string name="data_usage_disabled_dialog">"Достигнут предел использованного трафика. 
@@ -123,6 +124,8 @@ For more info check the message you received from your service provider"</string
      <string name="detail_app_button">О приложении</string>
      <string name="dialog_app_roaming_message">"When you're roaming internationally, only apps you've added to the exceptions list can use data services. %1$s hasn't been added to the exceptions list. View exceptions list now?"</string>
      <string name="dialog_app_roaming_title">"International roaming isn't enabled for %1$s"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dialog_roaming_apps_sorted_title">Sort by</string>
      <string name="dialog_roaming_message">Apps on exceptions list will be able to connect to data services when roaming internationally. Add this app to exceptions list?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dialog_roaming_title">International roaming</string>
@@ -142,6 +145,9 @@ For more info check the message you received from your service provider"</string
      <string name="firewall_fragment_tab_title_nonsys">Пользов.</string>
      <string name="firewall_fragment_tab_title_sys">Системные</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="firewall_network_restrict_notify_message">Tap to change settings.</string>
+     <string name="firewall_network_restrict_notify_title">"%1$s isn't allowed to connect to %2$s."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="firewall_rule_group_title_mobile">3G</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="firewall_rule_group_title_roaming">International roaming</string>
@@ -160,6 +166,12 @@ For more info check the message you received from your service provider"</string
      <string name="gateway_exception_summary">Check your router and try again.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gateway_exception_title">Test router</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="hints_input_roaming_daily_limit">Enter data usage limit</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="hints_install_apps_new">Never used</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="hints_install_apps_today">Used today</string>
      <string name="input_aviable_traffic">Настроить лимит трафика</string>
      <string name="input_traffic_pkg">Введите пакет трафика</string>
      <string name="input_used_hint">Введите исполь. трафик</string>
@@ -167,9 +179,11 @@ For more info check the message you received from your service provider"</string
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="international_roaming_setting">International roaming</string>
      <string name="international_roaming_whitelist_count">%d apps can connect to data services when roaming internationally</string>
+     <string name="ip_address_exception_summary">"Couldn't get IP address. If you run into this issue again, try using a static IP address."</string>
      <string name="left_precent">60%</string>
      <string name="list_empty_text">Пусто</string>
      <string name="load_fail">"Can't load"</string>
+     <string name="local_ip_exception_summary">"Couldn't get local IP address. To report this issue to MIUI, go to the Report Bug app and send a log from your device."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lock_screen_setting_summary">Show notification after 100KB has been used</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -244,11 +258,45 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
      <string name="mi_service_traffic_detail">Информация</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mian_page_primary_txt">Internationally roaming</string>
      <string name="network_assistant_upgraded_body">Нажмите, чтобы ограничить использование данных</string>
      <string name="network_assistant_upgraded_title">Обновление завершено</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="network_blocked_connected_open_wifi">Connected to public network</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="network_blocked_notification_summary">Tap to view details.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="network_blocked_switch_wifi">Switch networks</string>
      <string name="network_control">Управление трафиком</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="network_diagnostics">Test network</string>
+     <string name="network_mobile_exception_detail">"Your device can't connect to the internet:
+
+ 1. Make sure you haven't exceeded your carrier's plan's mobile data limit.
+ 2. If you just topped up your device's balance, reboot your device and try again.
+ 3. Your carrier's network's signal may be weak in your current location."</string>
+     <string name="network_operator_exception_summary">"Couldn't activate SIM card. Make sure your SIM card is inserted properly and that your mobile plan has been activated by your carrier."</string>
+     <string name="network_permission_exception_tips">"Can't use mobile data to connect to the network"</string>
+     <string name="network_roaming_exception_tips">"Can't using mobile data while roaming to connect to the network."</string>
+     <string name="network_route_exception_detail">"There may be a problem with the router you're connected to:
+
+
+"<b>"1. Public WLAN network issues
+"</b>"If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
+ 2."<b>" Internet service provider issues
+M"</b>"ake sure that your account is in good standing with your Internet Service Provider.
+ 3."<b>" Router hardware issues
+T"</b>"ry rebooting your router or checking the admin settings for your router.
+ 4."<b>" Other router issues
+R"</b>"ead the instructions that came with your router and restore your router to its factory settings.
+ 5."<b>" Make sure your router is connected properly
+T"</b>"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet Service Provider."</string>
+     <string name="network_sim_exception_detail">"There may be a problem with your SIM card:
+
+ 1. Make sure your account is in good standing with your carrier. Try using a friend's SIM card and see if you're able to connect normally.
+ 2. If you're using two SIM cards, try switching to the other card and see if you're able to connect normally.
+ 3. Make sure your SIM card and your device's SIM slot aren't damaged. Confirm that the SIM card you're using is properly inserted in your device's SIM tray."</string>
      <string name="none_mi_service_app_detail">Пусто</string>
      <string name="notify_daily_data_usage_body">%s used today. Tap to set limit.</string>
      <string name="notify_daily_limit_body">%s used this week. Tap to set limit.</string>
@@ -265,6 +313,11 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="online_chat">Чаты</string>
      <string name="online_read">Чтение</string>
      <string name="online_songs">Музыка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="open_now">Allow app to use mobile data</string>
+     <string name="other_exception_summary">"You don't have an internet connection"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="other_exception_title">Checking for other issues</string>
      <string name="pay_charge">Top-up</string>
      <string name="per_month_pkg_traffic_settings">Настройка лимита данных</string>
      <string name="permit_running_network">Разрешить фоновые данные</string>
@@ -320,6 +373,8 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="pref_package_traffic_overlay">%1$s | Дополнительно: %2$s </string>
      <string name="pref_package_traffic_settings">Лимит мобильного трафика</string>
      <string name="pref_pkg_begin_date">Дата начала учета</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_roaming_daily_limit_setting">Daily data limit for roaming</string>
      <string name="pref_setting_operators_message">Измененное сообщение устройство отправит оператору, чтобы синхронизировать статистику использования данных</string>
      <string name="pref_show_mobile_traffic">Показывать статистику использования данных при разблокировке устройсва, за период его блокировки (более 3 минут)</string>
      <string name="pref_special_traffic_exceed_limit">Сообщить, когда использование данных достигнет предела</string>
@@ -361,17 +416,31 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="privacy_prompt_upload">Privacy notification</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="protocol_exception_title">Network protocol diagnostics</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="protocol_loop_back_exception_summary">Local loop back test failed. To report this issue to MIUI, go to the Report Bug app and send a log from your device.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="reach_daily_limit_value_body">Reduce your mobile data usage.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="reach_daily_limit_value_title">Daily data limit reached</string>
      <string name="read_number">86 статей</string>
      <string name="read_unit">" статей"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="renew_ip">Retry</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="repair">Repair</string>
      <string name="repair_loading_text">Loading…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="replace_dns">Auto replacement</string>
      <string name="right_precent">100%</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="roaming_limit_dialog_message">Reached daily roaming data limit.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="roaming_limit_network_notification_body">Tap to view available data networks</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="roaming_limit_notification_title">Reached daily roaming data limit</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="roaming_limit_warning_notification_body">Tap to view data usage.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="roaming_not_start_body">Apps on exceptions list will be able to connect to data services when roaming internationally.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -385,6 +454,7 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sc_allow_network_dialog_message">You need to allow this app to connect to the internet for it function normally.</string>
      <string name="sc_allow_network_dialog_tiltle">"Can't use data saver"</string>
+     <string name="search_input_txt">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="see_detail">Details</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -397,6 +467,8 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="signal_exception_summary">"Can't connect to network in this area."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="signal_exception_title">Weak network signal</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sim_state_exception_summary">SIM status indicates something may be wrong with your SIM card.</string>
      <string name="songs_number">18 песен</string>
      <string name="songs_unit">" песен"</string>
      <string name="sorted_button">Сортировка</string>
@@ -484,6 +556,8 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
      <string name="traffic_correction_start_correction">Соединение с оператором услуг…</string>
      <string name="traffic_correction_start_correction_failed">Ошибка запроса. Проверь настройки оператора.</string>
      <string name="traffic_correction_success">Использование данных обновлено</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_correction_success_notify_message">Tap to view details.</string>
      <string name="traffic_limit_error_alert_body">"Your carrier's accounting shows that you have %1$s remaining this month. That's more than the %2$s limit you've set manually."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="traffic_limit_error_alert_iknow">OK</string>
@@ -584,8 +658,11 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
      <string name="usbsharenet_exception_summary">"Can't test network being shared by Mi PC Suite."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="usbsharenet_exception_title">Test Usb Sharenet network</string>
+     <string name="usbsharenet_pc_exception_summary">"Can't connect to to the internet using shared connection. Check your computer's internet connection."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wifi_exception_summary">Test an available WLAN network</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wifi_exception_title">Test WLAN network</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_network_blocked_notification_title">No internet connection</string>
 </resources>

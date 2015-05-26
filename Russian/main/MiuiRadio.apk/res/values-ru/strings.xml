@@ -9,6 +9,8 @@
      <string name="app_to_share">Выберите приложение</string>
      <string name="avoid_to_use_traffic_summary">Показывать предупреждение, когда используется мобильный интернет</string>
      <string name="avoid_to_use_traffic_title">Предупреждение трафика</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="batch_download_start_toast">Prepare downloading</string>
      <string name="bluetooth_device">Устройства Bluetooth</string>
      <string name="broadcasting">"Трансляция: "</string>
      <string name="buffering">Буферизация…</string>
@@ -25,12 +27,13 @@
      <string name="device_connected">Подключено</string>
      <string name="device_not_connected">Не подключено</string>
      <string name="dialog_title_download_quality">Качество загрузки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dialog_title_listen_quality">Choose listen quality</string>
      <string name="dialog_title_tone_quality">Выберите качество потока</string>
      <string name="download_completed">Загружено</string>
      <string name="download_invalid">Нет источника</string>
      <string name="download_network_is_not_available">Не удалось загрузить: нет сети</string>
      <string name="download_progress_toast">%1$d%%</string>
-     <string name="download_quality_toast">Выберите качество загрузки</string>
      <string name="download_start_toast">Подготовка загрузки %1$s(%2$d бит)</string>
      <string name="download_successful">Загружено</string>
      <string name="favorite">В избранное</string>
