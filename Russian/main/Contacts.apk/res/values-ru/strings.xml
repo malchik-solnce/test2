@@ -221,6 +221,7 @@
      <string name="delete_unknown_contact_calllog_title">Удалить журнал вызовов неизвестных контактов?</string>
      <string name="deleting">Удаление…</string>
      <string name="deleting_sim_entry_miui">Удаление контактов с SIM-карты</string>
+     <string name="deleting_sim_entry_miui_prepare">Prepare for the delete…</string>
      <string name="description_add_contact">Добавить контакт</string>
      <string name="description_author">Автор:</string>
      <string name="description_call">Позвонить %1$s</string>
@@ -444,6 +445,7 @@
      <string name="import_weibo_notification_title_done">Импортирование контактов sina weibo: %s</string>
      <string name="import_weibo_progress_name">Совпадение "%1$s"…</string>
      <string name="importing_sim_contacts_miui">Импорт контактов с SIM-карты…</string>
+     <string name="importing_sim_contacts_miui_prepare">Prepare for the import…</string>
      <string name="importing_vcard_canceled_title">Импорт "%s" отменен</string>
      <string name="importing_vcard_description">Импорт: %s</string>
      <string name="importing_vcard_finished_title">Импорт vCard %s завершен</string>
@@ -472,6 +474,8 @@
      <string name="list_filter_phones">Все контакты с номерами телефонов</string>
      <string name="list_filter_single">Контакт</string>
      <string name="loading">Загрузка…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="loading_accounts">Loading SIM info...</string>
      <string name="loading_group_members">Загрузка контактов…</string>
      <string name="loading_groups">Загрузка групп…</string>
      <string name="loading_recent">Загрузка последних контактов…</string>

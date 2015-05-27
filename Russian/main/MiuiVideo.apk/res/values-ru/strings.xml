@@ -206,13 +206,13 @@
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: %1$s new version available, do you want to update? -->
+     <!-- Original string: Install update (%1$s) now? -->
      <string name="hint_apk_text_update">App new version available, do you want to download and install?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: %1$s New Version -->
+     <!-- Original string: Update available (%1$s) -->
      <string name="hint_apk_title_update">New Version</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="i_will_write_comments">I will write comments ...</string>
@@ -370,6 +370,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="router">Mi Router</string>
      <string name="router_download_task_with">%d tasks</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="router_update">You need Upgrade Xiaomi router application.</string>
      <string name="score">Score  </string>
      <string name="score_by">Score: %s</string>
      <string name="sdcard_storage">Внутренняя память</string>

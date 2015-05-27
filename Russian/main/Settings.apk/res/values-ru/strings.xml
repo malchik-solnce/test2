@@ -2408,8 +2408,6 @@ Are you sure to change?"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_settings_custom_carrier">Edit service provider name</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_settings_custom_notification">Manage notifications</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_settings_custom_wifi_name">Edit WLAN name</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_settings_enable_notification">Allow notifications</string>
@@ -2417,6 +2415,8 @@ Are you sure to change?"</string>
      <string name="status_bar_settings_expandable_under_keyguard">Enable on lock screen</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_settings_long_click_sort">Long click to sort</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="status_bar_settings_manage_notification">Manage notifications</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_settings_no_carrier">None</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -2449,16 +2449,7 @@ Are you sure to change?"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_settings_toggle_collapse_after_clicked">Collapse after touch</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_settings_toggle_layout_style">Toggle layout style</string>
-     <string name="status_bar_settings_toggle_layout_style_applying">Changing style…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_settings_toggle_layout_style_compact">Bar</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_settings_toggle_layout_style_single_page">Page</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_settings_toggle_position">Toggle position</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_style_settings">Notifications</string>
      <string name="status_bt_address">Адрес Bluetooth</string>
      <string name="status_data_state">Передача данных в моб. сети</string>
      <string name="status_network_type">Тип мобильной сети</string>
@@ -2802,6 +2793,12 @@ Are you sure to change?"</string>
      <string name="vibrate_input_devices">Использовать вибро</string>
      <string name="vibrate_input_devices_summary">Перенаправить вибро на подключенный игровой контроллер</string>
      <string name="vibrate_when_ringing_title">В режиме звонок</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="virtual_sim_category_title">Virtual Sim</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="virtual_sim_description">Reliable international roaming service</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="virtual_sim_title">Roaming data network</string>
      <string name="virus_scan">Антивирус</string>
      <string name="virus_scan_app_continue">Продолжить</string>
      <string name="virus_scan_app_find_risk">Возможных опасностей: %d</string>
