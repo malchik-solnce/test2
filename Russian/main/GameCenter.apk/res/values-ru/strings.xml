@@ -700,26 +700,6 @@ Please check and refresh"</string>
      <string name="permissions_title">%1$s - разрешения</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pic_upload_error">Error uploading photo</string>
-     <string name="played_game_account_count">Game ID of %d</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="played_game_account_default">default login</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="played_game_account_empty">Not Data</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="played_game_account_new">Create ID</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="played_game_account_save_open">Start the game after saving</string>
-     <string name="played_game_account_set_name">Game ID:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="played_game_account_update">Successfully modified</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="played_game_item_name">Game ID Management</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="played_game_item_set_name">Game ID Setting</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="played_game_view_title">Playing games</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="played_game_view_title_played">Played games</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="playing_games">local</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

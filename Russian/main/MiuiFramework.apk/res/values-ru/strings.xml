@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="alwaysUsePrompt">Использовать по умолчанию</string>
+     <string name="android_ringtone_default_with_actual">Default ringtone (%1$s)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="android_ringtone_silent">None</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="android_ringtone_unknown">Unknown ringtone</string>
      <string name="arbor_day">День древонасаждения</string>
-     <string name="auto_start_warning_allow">Разрешить</string>
-     <string name="auto_start_warning_deny">Запретить</string>
-     <string name="auto_start_warning_title">Разрешить %s автозапуск в дальшейшем?</string>
      <string name="autumn_begins">Осень</string>
      <string name="autumn_equinox">Точка осеннего равноденствия</string>
-     <string name="call_record_or"> или </string>
-     <string name="call_record_sample_prefix_miui">Запись</string>
-     <string name="caller_info_name_delimiter">или</string>
      <string name="childrens_day">День детей</string>
      <string name="chinese_youth_day">День молодежи</string>
      <string name="christmas_day">Рождество</string>
      <string name="clear_and_bright">Чинг Минг</string>
      <string name="cold_dews">Холодные росы</string>
-     <string name="copy">Копировать</string>
-     <string name="cut">Вырезать</string>
      <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
      <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
      <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
@@ -39,16 +35,7 @@
      <string name="device_xiaomi">Mi Phone</string>
      <string name="double_seventh_day">Танабата</string>
      <string name="easter">復活節</string>
-     <string name="first_back_long_press_message">"Чтобы принудительно закрывать приложения удержанием кнопки НАЗАД, зайди в
-
-настройки -> система -> кнопки"</string>
      <string name="fools_day">День дураков</string>
-     <string name="force_exit_message">Приложение %1$s закрыто</string>
-     <string name="force_exit_skip_message">%1$s is system key component, can not be force quited.</string>
-     <string name="global_actions_airplane_mode">Режим полета</string>
-     <string name="global_actions_reboot">Перезагрузка</string>
-     <string name="global_actions_shutdown">Выключение</string>
-     <string name="global_actions_silent_mode">Режим без звука</string>
      <string name="grain_buds" />
      <string name="grain_in_ear" />
      <string name="grain_rain">Дожди</string>
@@ -62,17 +49,9 @@
      <string name="hoar_frost_falls">Заморозки</string>
      <string name="insects_awaken">Пробуждение насекомых</string>
      <string name="international_womens_day">Международный женский день</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="key_btn_ok">OK</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="key_btn_space">Space</string>
      <string name="labour_day">Первомайские</string>
      <string name="lantern_festival">Фестиваль фонарей</string>
      <string name="light_snow">Легкий снег</string>
-     <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
-     <string name="lockscreen_access_pattern_cleared">Шаблон очищен</string>
-     <string name="lockscreen_access_pattern_detected">Шаблон распознан</string>
-     <string name="lockscreen_access_pattern_start">Шаблон начат</string>
      <string name="lunar_ba" />
      <string name="lunar_calendar">Лунный календарь</string>
      <string name="lunar_chu" />
@@ -98,42 +77,21 @@
      <string name="lunar_zheng" />
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="maml_component_customization_title">Settings</string>
-     <string name="memory_clear_nothing_result">Нет памяти для очистки</string>
-     <string name="memory_clear_result">Очищено %1$s | Доступно %2$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="miui_device_name">MIUI v6 MS</string>
      <string name="national_day">День нации</string>
      <string name="new_years_day">Новый год</string>
      <string name="no_notification_tips">Нет уведомлений</string>
      <string name="partys_day">День веселья</string>
-     <string name="paste">Вставить</string>
      <string name="perm_send_push_dspt">Разрешить отправлять push-сообщения в Xiaomi</string>
      <string name="perm_send_push_lab">Отправка push-сообщений</string>
      <string name="presentation_payphone">Таксофон</string>
      <string name="presentation_private">Скрытый номер</string>
      <string name="presentation_unknown">Неизвестный номер</string>
-     <string name="reboot_confirm_title">Перезагрузить устройство?</string>
-     <string name="reboot_progress">Перезагрузка…</string>
-     <string name="replace">Заменить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_select">Select</string>
-     <string name="screen_button_notification_text">"Нажмите 'Home'+'Power' для включения"</string>
-     <string name="screen_button_notification_title">Кнопки на дисплее отключены</string>
-     <string name="screen_on_proximity_sensor_hint">"Принудительный выход: нажми кнопки 'НАЗАД'+'Громкость +'. Режим защиты датчиком можно отключить в разделе настроек - настройки экрана'."</string>
-     <string name="screen_on_proximity_sensor_summary">Не закрывай верхнюю часть экрана</string>
-     <string name="screen_on_proximity_sensor_title">Защита датчиком</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="screen_paper_mode_enter_toast">Read mode is on. You can turn this feature on and off anytime in Additional settings > Read mode.</string>
-     <string name="select">Выбрать</string>
-     <string name="select_all">Выбрать все</string>
-     <string name="shutdown_confirm_title">Выключить устройство?</string>
-     <string name="shutdown_progress">Выключение…</string>
-     <string name="sim_added_reboot_confirm">Перезагрузить</string>
-     <string name="sim_added_reboot_title">SIM-карта будет активирована после перезагрузки устройства</string>
      <string name="slight_cold">Осаму</string>
      <string name="slight_heat">Тепло</string>
-     <string name="softap_notifif_summary">%d подключен</string>
-     <string name="softap_notifif_title">Модем \"%s\" включен</string>
      <string name="solar_calendar">Григорианский календарь</string>
      <string name="spring_begins">Весна</string>
      <string name="stopping_the_heat">Прохладно</string>
@@ -147,7 +105,6 @@
      <string name="the_mid_autumn_festival">Праздник середины осени</string>
      <string name="the_rains">Дожди</string>
      <string name="the_spring_festival">Китайский Новый год</string>
-     <string name="unknown_caller">Неизвестный абонент</string>
      <string name="valentines_day">День Святого Валентина</string>
      <string name="vernal_equinox">Весеннее равноденствие</string>
      <string name="white_dews">Белые росы</string>

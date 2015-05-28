@@ -5,10 +5,14 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="action_item_delete">Delete</string>
      <string name="add_favorite">Избранное</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="all">all</string>
      <string name="app_name">Радио</string>
      <string name="app_to_share">Выберите приложение</string>
      <string name="avoid_to_use_traffic_summary">Показывать предупреждение, когда используется мобильный интернет</string>
      <string name="avoid_to_use_traffic_title">Предупреждение трафика</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="batch_download">Batch Download</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="batch_download_start_toast">Prepare downloading</string>
      <string name="bluetooth_device">Устройства Bluetooth</string>
@@ -24,6 +28,8 @@
      <string name="channel_off">The program does not already exist</string>
      <string name="click_to_play">Нажмите для воспроизведения</string>
      <string name="confirm_delete_history_text">Delete selected items?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="continue_play">play</string>
      <string name="device_connected">Подключено</string>
      <string name="device_not_connected">Не подключено</string>
      <string name="dialog_title_download_quality">Качество загрузки</string>
@@ -39,6 +45,8 @@
      <string name="favorite">В избранное</string>
      <string name="find_program">Онлайн</string>
      <string name="first_program">Первая программа</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="get_channel_failed">get channel detail failed</string>
      <string name="has_no_program_now">Этот канал не транслируется сейчас</string>
      <string name="high_quality">Хорошее (48 бит)</string>
      <string name="hotlist_name">Популярное</string>
@@ -98,12 +106,16 @@
      <string name="qingting_logo"> | Qingting FM</string>
      <string name="remaining_time">"Оставшееся время: "</string>
      <string name="search_hint">Поиск</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="section">selection</string>
      <string name="select_device">Выберите устройсво</string>
      <string name="share">Поделиться</string>
      <string name="share_button">Поделиться</string>
      <string name="share_in_development" />
      <string name="share_text">с радио</string>
      <string name="share_text_other">Послушай %1$s на %2$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="similar_programs">Similar programs</string>
      <string name="sleep_mode_canceled">Таймер сна отключен</string>
      <string name="still_in_dev">В разработке</string>
      <string name="summary_download">Автоматически загружать радио из списка избранных по Wi-Fi</string>

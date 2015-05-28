@@ -12,6 +12,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ble_device_address">BLE device MAC</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ble_device_profile">Bluetooth device profile</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ble_device_profile_header_title">Profiles</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ble_device_profile_title">Connected BLE device</string>
@@ -72,6 +74,7 @@
      <string name="enabling_progress_content">Включение Bluetooth…</string>
      <string name="enabling_progress_title">Подождите…</string>
      <string name="format_progress_text">%1$d%%</string>
+     <string name="goto_package">Open %1$s</string>
      <string name="hello">Hello, World! (проверка связи)</string>
      <string name="inbound_history_title">Входящие передачи</string>
      <string name="inbound_noti_title">Bluetooth: полученные файлы</string>
@@ -87,6 +90,7 @@
      <string name="incoming_file_confirm_title">Передача файла</string>
      <string name="incoming_file_toast_msg">Входящий файл с другого устройства. Подтвердите получение этого файла.</string>
      <string name="insert_record">Вставить запись</string>
+     <string name="install_package">Install %1$s for more functions</string>
      <string name="localPhoneName">Мое название</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mi_band_vibrate_alarm">Vibrate when alarm sounds</string>
@@ -109,6 +113,11 @@
      <string name="mi_key_find_mikey">Find Mi-Key</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mi_key_find_phone">Find phone</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mi_key_open_camera">Open Camera</string>
+     <string name="mi_key_summary_find_phone">Press &amp; hold Mi-Key to sound ringer</string>
+     <string name="mi_key_summary_open_camera">Double click Mi-Key to open camera</string>
+     <string name="mi_key_summary_take_photo">Click Mi-Key to take a photo</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mi_key_take_photo">Take photo</string>
      <string name="miui_transfer_history_title">Bluetooth передачи</string>
@@ -142,6 +151,8 @@
      <string name="permlab_handoverStatus">Получать информацию о статусе передачи через BT</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="progress_scanning">Searching</string>
+     <string name="reset_function_msg">Reopen the function will cause it invalid in %1$s</string>
+     <string name="some_app_taking">(%1$s is already using this feature…)</string>
      <string name="start_server">Запустить TCP-сервер</string>
      <string name="status_canceled">Передача отменена пользователем</string>
      <string name="status_connection_error">Ошибка подключения</string>

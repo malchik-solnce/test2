@@ -8,7 +8,16 @@
      <string name="access_token_invalid_warning">Неверный аккаунт Weibo. Пожалуйста, переподключи.</string>
      <string name="account">Аккаунт</string>
      <string name="account_bind_devices">Подключенные устройства</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_bind_new_phone">Add new phone</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_bind_phone_notice">Use this phone number to sign in to your account, reset your password, or change security settings.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_bind_secure_email_title">Add recovery email</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_bind_secure_phone_title">Add recovery phone</string>
      <string name="account_bind_settings">Привязать аккаунт</string>
+     <string name="account_binded_phone">Phone %d</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_crop_user_avatar">Crop photo</string>
      <string name="account_dspt_provision">Один аккаунт для всего Xiaomi</string>
@@ -29,6 +38,10 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_none">None</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_none_binded_info">None</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_none_binded_secure_phone">No recovery phone</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_none_user_name">None</string>
      <string name="account_settings">Настройки аккаунта</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -37,6 +50,8 @@
      <string name="account_user_avatar_from_album">Choose photo</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_user_avatar_from_camera">Take photo</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_user_base_info">User info</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_user_birthday">Birthday</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -57,6 +72,10 @@
      <string name="account_user_name_dialog_title">Enter username</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_user_phone">Phone number</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_user_recovery_phone">Recovery phone</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_user_secure_info">Security info</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_user_using_facebook_avatar">Use Facebook profile picture</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -87,9 +106,14 @@
      <string name="button_cancel">Отмена</string>
      <string name="button_unbind"><u>Отвязать</u></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="change_email_address">Change email address</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="change_password">Change password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="change_phone_number">Change phone number</string>
      <string name="checking_account">Проверка пароля…</string>
      <string name="checking_input">Проверка…</string>
+     <string name="checking_phone_num_availible">Verifying phone…</string>
      <string name="cloud_messaging">Облачные сообщения</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_service">Mi Cloud</string>
@@ -98,11 +122,21 @@
      <string name="completed">Готово</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
+     <string name="confirm_email_address_dialog_message">Verification code will be sent to: %s.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="confirm_email_address_dialog_title">Confirm email address</string>
+     <string name="confirm_phone_number_dialog_message">Verification code will be sent to: %s.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="confirm_phone_number_dialog_title">Confirm phone number</string>
      <string name="confirm_unbind">confirm unbind?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="continue_action">Continue</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="data_keep_in_device">Keep on this device</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="data_wipe_from_device">Delete from this device</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="delete_action">Delete</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="delete_device_btn">Remove</string>
      <string name="delete_device_failed">"Can't remove device"</string>
@@ -119,9 +153,15 @@
      <string name="device_trust_info">Trusted device</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="email_or_id_hint_text">Email or Mi Account ID</string>
+     <string name="email_send_verify_code_prompt">"Send an email to %s
+Please input the verification code in the email"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="empty_device_list_notice">No devices</string>
      <string name="error_device_id">"Can't get IMEI"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_dup_binded_email">This email address is already associated with another Mi Account.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_invalid_bind_address">The email address you entered is invalid.</string>
      <string name="error_invalid_dev_id">Неверный ID устройства</string>
      <string name="error_network">Ошибка сети</string>
      <string name="error_no_sms_service">Мобильная сеть недоступена</string>
@@ -132,17 +172,24 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="facebook">facebook</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="failed_dup_secure_phone_number">This phone number is already associated with another Mi Account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="failed_get_mibi_info">Failed to get the mi credit</string>
      <string name="find_password_on_web_msg">Посети account.mi.com для получения пароля</string>
      <string name="forget_password"><u>Забыл пароль?</u></string>
      <string name="get_back_pwd">Получить пароль</string>
      <string name="get_device_list_failed">"Can't get devices"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="get_email_verifycode_exceed_limit">Too many verification codes have been sent to this email address. Wait 24 hours and try again.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hide_mibi_info">Mi credit info has been hidden</string>
      <string name="input_captcha_hint">Введи код</string>
      <string name="input_password_hint">Введи пароль</string>
      <string name="input_vcode_hint">Введи проверочный код</string>
      <string name="internet_comm">Сервис сообщений</string>
+     <string name="just_a_second">Just a sec…</string>
      <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
      <string name="loading">Loading…</string>
      <string name="loading_micloud_sync_data">Loading…</string>
@@ -157,6 +204,8 @@
      <string name="logout_failed">"Can't sign out"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mi_account_dspt_provision">Sign in to Mi Cloud, MIUI Themes Store, and other Mi services with one account.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mi_account_identity_title">Verify your identity</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mi_support_service">Support</string>
      <string name="mibi_balance">%s Mi Credits</string>
@@ -177,7 +226,6 @@
      <string name="micloud_sync_state_synced">Synced</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_sync_state_syncing">Syncing</string>
-     <string name="micloud_user_base_info">Информация о пользователе</string>
      <string name="mili_center">Mой баланс</string>
      <string name="mipay_center">Карты оплаты</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -410,6 +458,7 @@ To activate your account, follow the
      <string name="passport_xiaomi_account_sec_dspt2" />
      <string name="password">Введи пароль</string>
      <string name="phone_activated">%s activated</string>
+     <string name="phone_send_verify_code_prompt">Send verification code to %s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="phone_unactivated">Not activated</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -442,6 +491,16 @@ To activate your account, follow the
      <string name="removing_account">Удаление аккаунта…</string>
      <string name="rename_current_device">"Change device's name"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="replace_binded_phone">Replace phone</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="restart_action">Restart</string>
+     <string name="restart_email_bind_message">It takes some time to receive email, make sure that change recovery email？</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="restart_email_bind_title">Change recovery email</string>
+     <string name="restart_phone_bind_message">It takes some time to receive sms, make sure that change recovery phone？</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="restart_phone_bind_title">Change recovery phone</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="scan_barcode_title">Login safely Xiaomi Account, by scanning the QR code from the web page or TV</string>
      <string name="service_error">Ошибка сервиса</string>
      <string name="skip_register">Пропустить регистрацию</string>
@@ -454,10 +513,13 @@ To activate your account, follow the
      <string name="timeout_retry">Request timeout, please retry.</string>
      <string name="title_reg">Создать аккаунт</string>
      <string name="trust_device">Доверять этому устройству</string>
+     <string name="trying_read_verify_code_sms">Getting verification code…</string>
      <string name="unbind_sns_description">After unbinding，you will not log in your Mi Account using %s</string>
      <string name="unbind_weibo_description">After unbinding，you will not sync your contacts, and also not log in your Mi Account using Sina Weibo</string>
      <string name="update_contacts">Обновление адресной книги</string>
      <string name="update_contacts_description">Sina micro Fair обновит информацию контактов</string>
+     <string name="update_recovery_info_dialog_message">You need to verify your identity before you can update %s.</string>
+     <string name="update_recovery_info_dialog_title">Update %s</string>
      <string name="updated_nothing">Нет обновлений</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="user_agreement">User Agreement</string>
