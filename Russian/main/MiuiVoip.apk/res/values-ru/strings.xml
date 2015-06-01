@@ -154,6 +154,7 @@
      <string name="voip_free_voice_tip">Free voip call</string>
      <string name="voip_gsm_online">Невозможно совершить интернет звонок во время обычного вызова</string>
      <string name="voip_hang_up_mic_failed">Микрофон недоступен. Убедитесь, что он не используется другим приложением.</string>
+     <string name="voip_incall">"Voip call can't be set up while Voip is incall, please call later"</string>
      <string name="voip_incoming_from_friend">Входящий интернет вызов %1$s</string>
      <string name="voip_network_not_online">Интернет недоступен</string>
      <string name="voip_network_operators">Подключен интернет по сети %1$sG. Может взиматься плата оператором за трафик.</string>

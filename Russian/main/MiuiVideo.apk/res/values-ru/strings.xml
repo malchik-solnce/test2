@@ -260,6 +260,10 @@
      <string name="minute"> Minute</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipush_setting">Xiaomi push</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miwifi_app_update_button">Update</string>
+     <string name="miwifi_app_update_content">note:this feature requires a router with version 2.0 or higher</string>
+     <string name="miwifi_app_update_title">You need to update router app to use this feature. Update now?</string>
      <string name="month" />
      <string name="my_favorite">Избранное</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

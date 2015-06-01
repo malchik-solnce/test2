@@ -370,6 +370,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_front_mirror_entryvalue_on">on</string>
      <string name="pref_front_mirror_title">Передняя камера</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_hm_front_video_quality_default">110</string>
      <string name="pref_manual_exposure_title">Ручная выдержка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_mi_front_video_quality_default">6</string>

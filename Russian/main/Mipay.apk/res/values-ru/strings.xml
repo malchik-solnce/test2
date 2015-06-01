@@ -226,6 +226,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_bill_record_empty">No records</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_bill_record_no_more">No more records</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_bill_record_title">Records</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_bill_repay_date">Repay date</string>
@@ -285,6 +287,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_button_ok">OK</string>
      <string name="mipay_button_pay">Оплатить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_button_transfer">Transfer</string>
      <string name="mipay_button_unbind_bank_card">Отвязать</string>
      <string name="mipay_button_update">Обновить</string>
      <string name="mipay_cancel_bind_bank_card">Отменить привязку карты?</string>
@@ -294,6 +298,7 @@
      <string name="mipay_cancel_modify_password">Отменить изменение пароля оплаты?</string>
      <string name="mipay_cancel_pay">Отменить покупку?</string>
      <string name="mipay_cancel_recharge">Give up topping-up?</string>
+     <string name="mipay_cancel_transfer">Stop transferring?</string>
      <string name="mipay_cancel_unbind_bank_card">Отменить отвязку карты?</string>
      <string name="mipay_cancel_unbind_ring">Stop unpairing Mi Band?</string>
      <string name="mipay_cancel_withdraw">Give up withdrawing?</string>
@@ -329,6 +334,10 @@
      <string name="mipay_choose_bank_card">Please choose bank cards</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_choose_expiration_date">Choose expiration date</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_choose_pay_type">Please choose pay methods</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_choose_transfer_type">Please choose transfer methods</string>
      <string name="mipay_common_license">Пользовательское соглашение</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_continue">Continue</string>
@@ -451,17 +460,13 @@ Please check your local date and try again."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_pay_check_withdraw_title">Please confirm withdraw information</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mipay_pay_choose_pay_type">Please choose pay methods</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_pay_cvv2_edit_hint">Please input CVV2</string>
      <string name="mipay_pay_cvv2_error">Проверьте CVV2</string>
      <string name="mipay_pay_order_denom_summary">Цена: ￥%1$s</string>
-     <string name="mipay_pay_record">История покупок</string>
      <string name="mipay_pay_record_empty">Пусто</string>
      <string name="mipay_pay_record_money_flow_in">+</string>
      <string name="mipay_pay_record_money_flow_out">-</string>
      <string name="mipay_pay_record_money_flow_price">%1$s%2$s</string>
-     <string name="mipay_pay_record_title">История покупок</string>
      <string name="mipay_pay_sms_captcha_summary">Проверочный код отправлен на %1$s</string>
      <string name="mipay_process_bind_bank_card">Привязать карту</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -484,8 +489,8 @@ Please check your local date and try again."</string>
      <string name="mipay_query_success">Оплата не удалась</string>
      <string name="mipay_query_success_summary">￥%1$ssuccessfully paid</string>
      <string name="mipay_query_timeout">Тайм-аут оплаты</string>
-     <string name="mipay_query_timeout_contact">Пожалуйста, свяжитесь с нашей справочной службой</string>
-     <string name="mipay_query_wait">Оплата</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_query_timeout_summary">Paying</string>
      <string name="mipay_recharge">Top-up</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_recharge_exceed_limit">Amount exceeds limit</string>
@@ -497,11 +502,13 @@ Please check your local date and try again."</string>
      <string name="mipay_recharge_query_success">Top-up complete</string>
      <string name="mipay_recharge_query_success_summary">￥%1$ssuccessfully Topped-up</string>
      <string name="mipay_recharge_query_timeout">Top-up timeout</string>
-     <string name="mipay_recharge_query_wait">Topping-up</string>
-     <string name="mipay_recharge_result_title">Top-up</string>
+     <string name="mipay_recharge_query_timeout_summary">Topping-up</string>
      <string name="mipay_recharge_title">"Top-up: "</string>
+     <string name="mipay_recv_message">Receive a message. Content is \"%1$s\"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mipay_result_title">Payment</string>
+     <string name="mipay_register_fail">Register push fail.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_register_success">Register push success.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_retry">Retry</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -566,6 +573,10 @@ Please check your local date and try again."</string>
      <string name="mipay_ring_unbind_title">Passwordless payment is activate</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_safe_keyboard">Xiaomi Safe Keyboard</string>
+     <string name="mipay_set_accept_time_fail">Set accept time fail for %1$s.</string>
+     <string name="mipay_set_accept_time_success">Set accept time %1$s - %2$s success.</string>
+     <string name="mipay_set_alias_fail">Set alias fail for %1$s.</string>
+     <string name="mipay_set_alias_success">Set alias \"%1$s\" success.</string>
      <string name="mipay_set_password_first_summary">Установите пароль оплаты, чтобы защитить свой аккаунт</string>
      <string name="mipay_set_password_hint">Введите шесть цифр</string>
      <string name="mipay_set_password_modify_summary">Введите новый пароль оплаты</string>
@@ -587,6 +598,8 @@ Please check your local date and try again."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_sms_captcha_code_error">Please check your verification code</string>
      <string name="mipay_sms_captcha_error">Проверьте проверочный код</string>
+     <string name="mipay_subscribe_topic_fail">Subscribe topic fail for %1$s.</string>
+     <string name="mipay_subscribe_topic_success">Subscribe topic \"%1$s\" success.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_trade_type_consume">Purchase</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -598,7 +611,55 @@ Please check your local date and try again."</string>
      <string name="mipay_trade_type_query_balance">Check balance</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_trade_type_recharge">Top up</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_transfer_account_frozen">Current Xiaomi account has been frozen, please try later</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_transfer_amount_hint">Please input transfer amount</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_transfer_amount_notice">Please input transfer amount</string>
+     <string name="mipay_transfer_amount_title">Transfer to %1$s</string>
+     <string name="mipay_transfer_amount_unit">Amount(RMB)</string>
+     <string name="mipay_transfer_confirm_desc">Transfer to %1$s</string>
+     <string name="mipay_transfer_confirm_sub_title">Transfer:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_transfer_confirm_title">Confirm transfer information</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_transfer_failed">Transfer failed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_transfer_history_empty">Transfer record is empty</string>
+     <string name="mipay_transfer_history_item_account">Xiaomi Account:%1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_transfer_history_title">Transfer Record</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_transfer_intro_sub_title">Transfer use Mi phone</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_transfer_intro_summary">Support transfer to Xiaomi account, contract</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_transfer_intro_title">Transfer to friends</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_transfer_intro_transfer_now">Transfer</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_transfer_new_person">Transfer to new friends</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_transfer_query_timeout">Transfer timeout</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_transfer_query_timeout_summary">Transferring</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_transfer_recent_friends">Recent transfer friends</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_transfer_success">Transfer success</string>
+     <string name="mipay_transfer_success_summary">￥%1$ssuccessfully transferred</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_transfer_title">Transfer</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_transfer_verify_input_error">Please check input phone number or Xiaomi account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_transfer_verify_input_hint">Please input beneficiary Xiaomi account or phone number</string>
      <string name="mipay_unit_yuan">¥ %1$s</string>
+     <string name="mipay_unset_alias_fail">Unset alias fail for %1$s.</string>
+     <string name="mipay_unset_alias_success">Unset alias \"%1$s\" success.</string>
+     <string name="mipay_unsubscribe_topic_fail">Unsubscribe topic fail for %1$s.</string>
+     <string name="mipay_unsubscribe_topic_success">Unsubscribe topic \"%1$s\" success.</string>
      <string name="mipay_update_title">Есть обновление Mipay!</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_use_new_card">Use new bank card</string>
@@ -623,20 +684,14 @@ Please check your local date and try again."</string>
      <string name="mipay_withdraw">Withdraw</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_withdraw_exceed_once_limit_notice">The amount you entered exceeds the single withdrawal limit.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mipay_withdraw_exceed_today_limit_notice">The amount you entered exceeds the daily withdrawal limit.</string>
      <string name="mipay_withdraw_failed">"Couldn't withdraw"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_withdraw_notice">Enter withdraw amount</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mipay_withdraw_result_title">Withdraw</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_withdraw_success">Withdrew complete</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_withdraw_success_summary">Withdraw request has been submitted</string>
      <string name="mipay_withdraw_title">Withdraw:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mipay_withdraw_wait">Withdrawing</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="remove">Remove</string>
 </resources>
