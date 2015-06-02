@@ -501,8 +501,6 @@
      <string name="bt_trace_log_summary">Включить журнал трассировки Bluetooth</string>
      <string name="bugreport_in_power">Отчеты об ошибках</string>
      <string name="bugreport_in_power_summary">Показывать в меню опцию отправки отчета об ошибке</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bugreport_tool_log">Capture Bugreport</string>
      <string name="bugreport_tool_log_toast">Лог сохранен в %s</string>
      <string name="bugreport_tool_log_toast_generate_bugreport">Создание отчета об ошибке</string>
      <string name="build_number">Номер сборки:</string>
@@ -1503,14 +1501,6 @@ Dissatisfied? Try"</string>
      <string name="mobile_no_provisioning_url">%1$s не имеет известных сайт продовольствования</string>
      <string name="mobile_unknown_sim_operator">Неизвестный оператор</string>
      <string name="model_number">Модель:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="modem_tool_log">Capture Modem Logs</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="modem_tool_log_start">Start Capturing</string>
-     <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="modem_tool_log_stop">Stop Capturing</string>
-     <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
      <string name="move_app">Переместить</string>
      <string name="move_app_failed_dlg_text">Не удалось переместить приложение %1$s</string>
      <string name="move_app_to_internal">На телефон</string>

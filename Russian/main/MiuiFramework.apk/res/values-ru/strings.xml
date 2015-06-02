@@ -83,8 +83,6 @@
      <string name="new_years_day">Новый год</string>
      <string name="no_notification_tips">Нет уведомлений</string>
      <string name="partys_day">День веселья</string>
-     <string name="perm_send_push_dspt">Разрешить отправлять push-сообщения в Xiaomi</string>
-     <string name="perm_send_push_lab">Отправка push-сообщений</string>
      <string name="presentation_payphone">Таксофон</string>
      <string name="presentation_private">Скрытый номер</string>
      <string name="presentation_unknown">Неизвестный номер</string>

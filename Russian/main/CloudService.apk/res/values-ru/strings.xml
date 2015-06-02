@@ -146,6 +146,8 @@ You can turn this feature on and off anytime in Settings."</string>
      <string name="header_other_settings">Others</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="i_know">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="internet_access_dspt">This app needs to connect to the internet to work normally.</string>
      <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
      <string name="loading">Loading…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
