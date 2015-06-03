@@ -33,6 +33,10 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="miui">miui</string>
      <string name="paste">Вставить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="perm_send_push_dspt">Allow Mi push messages</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="perm_send_push_lab">Send push message</string>
      <string name="reboot_confirm_title">Перезагрузить устройство?</string>
      <string name="reboot_progress">Перезагрузка…</string>
      <string name="replace">Заменить</string>

@@ -270,6 +270,7 @@
      <string name="external_usb_device_hm">USB-накопитель</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="face_album">Face album</string>
+     <string name="face_album_long_tap_tip">To select multiple people or change group settings, press &amp; hold a profile picture</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="face_album_not_named">Not named</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -337,6 +338,7 @@ making it simple to view and manage pictures"</string>
      <string name="home_page_tab_photo">Фотографии</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ignore_album">Ignore</string>
+     <string name="ignore_alert_title">"When ignored, won't be displayed any more, go on?"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ignore_face">Ignore this face</string>
      <string name="image_download_item_title">Загрузка изображения (%s)</string>
