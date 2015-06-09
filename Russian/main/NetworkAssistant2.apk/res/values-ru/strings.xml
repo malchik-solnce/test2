@@ -162,6 +162,7 @@ For more info check the message you received from your service provider"</string
      <string name="free_traffic_settings">Включить трафик по времени</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gateway_exception_summary">Check your router and try again.</string>
+     <string name="gateway_exception_summary2">"Can't connect to the server"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gateway_exception_title">Test router</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -400,6 +401,8 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
      <string name="pref_specified_adjust">Предел трафика</string>
      <string name="pref_specified_traffic_settings">Настроить трафик</string>
      <string name="pref_title_declaration">Информация о услуге</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_title_diagnostics_dont_show_float_notification">Show alerts in notification shade</string>
      <string name="pref_title_mobile_traffic">Показывать использование трафика при заблокированном экране</string>
      <string name="pref_title_network_diagnostics">Диагностика сети</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

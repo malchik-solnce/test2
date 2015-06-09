@@ -140,6 +140,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="callind_multi_sim">SUBS Settings</string>
      <string name="callwait_open_hint">Услуга ожидание вызова предоставляется оператором. Если Вы видите ошибку MMI кода, свяжитесь с оператором сети, чтобы подключить услугу ожидания вызова.</string>
+     <string name="can_not_use_for_not_data_sim">"(Can't use: Must be set as default data SIM)"</string>
      <string name="cancel">Отмена</string>
      <string name="cancel_call">Отмена</string>
      <string name="card_title_MOcall_forwarding">Переадресация исходящих</string>
@@ -191,11 +192,6 @@
      <string name="cfnrc_title_cta">Forward when unreachable</string>
      <string name="cfnry_title">Если нет ответа</string>
      <string name="cfu_title">Всегда переадресовать</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="change_default_data">Change</string>
-     <string name="change_default_data_alert_message">"You won't be able to use your China Telecom UIM card."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="change_default_data_alert_title">UIM card must be default</string>
      <string name="change_num">Обновить</string>
      <string name="change_password">Изменить парль запрета</string>
      <string name="change_pin">Изменить PIN SIM-карты</string>
@@ -208,9 +204,9 @@
      <string name="close_profile">Закрыть</string>
      <string name="cloud_antispam_title">Настройки идентификации</string>
      <string name="command_error_fdn_failure">Сначала отключите разрешенные номера</string>
-     <string name="config_dialing_emergency_number_suffix" />
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="confirm_change_default_data">Change</string>
+     <string name="config_default_data_sim">Settings</string>
+     <string name="config_dialing_emergency_number_suffix" />
      <string name="confirm_password_label">Подтвердите пароль</string>
      <string name="confirm_pin2_label">Подтвердите новый PIN2</string>
      <string name="confirm_pin_label">Подтвердите новый PIN</string>
@@ -405,6 +401,8 @@
      <string name="get_pin2">Введите PIN2</string>
      <string name="get_smsc_address_error">Не удается подключиться к сети</string>
      <string name="get_smsc_address_timeout">Тайм-аут подключения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="got_it">OK</string>
      <string name="gsm_umts_network_preferences_dialogtitle">Режим сети</string>
      <string name="gsm_umts_network_preferences_title">Режим сети</string>
      <string name="gsm_umts_options">Параметры GSM/UMTS</string>
@@ -643,7 +641,6 @@
      <string name="no_wifi_available_title">Отсутствует подключение Wi-Fi</string>
      <string name="not_a_valid_port">Номер порта должен быть от 1000 до 65534</string>
      <string name="not_allowed">Установленная SIM-карта не может подключиться к этой сети</string>
-     <string name="not_change_default_data">"Don't change"</string>
      <string name="not_voice_capable">Голосовые вызовы не поддерживаются</string>
      <string name="notification_missedCallTicker">Пропущенные вызовы от абонента %s</string>
      <string name="notification_missedCall_call_back">Перезвонить</string>
@@ -806,7 +803,6 @@ SIM-карта будет заблокирована навсегда при н�
      <string name="reject_via_sms_summary">Выберите сообщение для отправки</string>
      <string name="reject_via_sms_title">Отклонить сообщением</string>
      <string name="remember_my_choice">Использовать для всех интернет-вызовов</string>
-     <string name="remind_another_time">"Don't show again"</string>
      <string name="remove">Удалить</string>
      <string name="remove_ims_account">Удалить аккаунт</string>
      <string name="remove_sip_account">Удалить аккаунт</string>
