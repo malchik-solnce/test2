@@ -62,6 +62,8 @@
      <string name="cancel_favorite_success">Удалено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="check_app_version">Checking latest version...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="check_network">Network is not connected, please check your connection</string>
      <string name="clarity_high">Высокое</string>
      <string name="clarity_standard">Стандартное</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -123,6 +125,8 @@
      <string name="declaration_allow">Agree</string>
      <string name="declaration_content">Принимаешь условия использования предусмотренные Sohu Video, iQiyi и других провайдеров видео?</string>
      <string name="declaration_content_td_custom">Will you agree to connect the internet when you use video?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="defaults">Default</string>
      <string name="delete">Удалить</string>
      <string name="delete_action_text">删除 （%d）</string>
      <string name="delete_addon">Удалить</string>
@@ -189,6 +193,14 @@
      <string name="file_not_exist">The file does not exist</string>
      <string name="filter">Фильтр</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="forecast">Forecast</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="forecast_empty_hint">No Epg</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="forecasts">EPG</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="fullscreen">Full Screen</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="funshion">Funshion</string>
      <string name="gong_count_dlna">DLNA: %d</string>
      <string name="gong_count_ge">%d total</string>
@@ -231,6 +243,8 @@
      <string name="join_alert_title">Join internal test</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="join_hint">Input the invite code</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="key_back_down_toast">Press back key again to exit</string>
      <string name="lastrefresh">Recent update:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lekan">Lekan</string>
@@ -393,6 +407,12 @@
      <string name="select_count_xiang">Выбрано: %d</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="select_none">Deselect all</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="select_tv">Channels</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="select_tv_empty_hint">No Channel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="select_tvs">Channels</string>
      <string name="send">Отправить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="server_summary">Choose Service Server</string>
@@ -446,6 +466,8 @@
      <string name="total_episode">%1$s Episodes</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tudou">Tudou</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="tv_channel_empty_hint">No Channel</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ui_style">UI Style</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
