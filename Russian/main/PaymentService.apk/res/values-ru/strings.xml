@@ -5,52 +5,22 @@
      <string name="balance_payment">%1$s MiCredit</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="balance_title">Balance</string>
-     <string name="bankcall_bank_account">Банковская карта</string>
-     <string name="bankcall_call_hint">Вы получите звонок от UnionPay (020-96585) в ближайшее время</string>
-     <string name="bankcall_card">Банковская карта</string>
-     <string name="bankcall_card_hint">Номер банковской карты</string>
-     <string name="bankcall_card_type">%1$s-%2$s</string>
-     <string name="bankcall_card_type_tailnum">%1$s-%2$s (номер карты %3$s)</string>
-     <string name="bankcall_city">Город</string>
-     <string name="bankcall_credit_card">Кредитная карта</string>
-     <string name="bankcall_debit_card">Дебитовая карта</string>
-     <string name="bankcall_denom">Платеж:</string>
-     <string name="bankcall_denom_number">%1$s￥</string>
-     <string name="bankcall_error_card">Введите правильный номер банковской карты</string>
-     <string name="bankcall_error_card_info">Пожалуйста, введите правильные данные банковского счета</string>
-     <string name="bankcall_hint">Этот сервис авторизован UnionPay и имеет шифрование для финансовой безопасности</string>
-     <string name="bankcall_id_card">ID карты</string>
-     <string name="bankcall_id_card_hint">ID на банковской карте</string>
-     <string name="bankcall_merchant">Получатель:</string>
-     <string name="bankcall_name">Имя</string>
-     <string name="bankcall_name_hint">Имя на банковской карте</string>
-     <string name="bankcall_phone">Телефон</string>
-     <string name="bankcall_phone_credit_hint">Телефон на банковской карте</string>
-     <string name="bankcall_phone_debit_hint">Убедитесь, что у Вас хорошее соединение с интернет</string>
-     <string name="bankcall_province">Провинция</string>
-     <string name="bankcall_saved_card_info">%1$s - номер карты %2$s</string>
-     <string name="bankcall_xiaomi_company">Корпорация Xiaomi (Пекин)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="bill_record_empty">No records.</string>
      <string name="btn_agree">Согласен</string>
      <string name="btn_back">Назад</string>
-     <string name="btn_call">Позвонить</string>
      <string name="btn_count_down_auto">Запрос через %1$s секунд</string>
-     <string name="btn_delete_record">Удалить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="btn_finish">finish</string>
      <string name="btn_mili_center_recharge">Пополнить баланс</string>
      <string name="btn_net_connection_retry">Повторить</string>
      <string name="btn_next">Далее</string>
-     <string name="btn_other_bankcard">Другая банковская карта</string>
      <string name="btn_prev">Назад</string>
      <string name="btn_query">Запросить</string>
      <string name="btn_recharge_confirm">Подтвердить покупку</string>
      <string name="btn_recharge_large">Пополнить</string>
      <string name="btn_recharge_other">Другие методы пополнения</string>
      <string name="btn_recharge_success_quick">Пополнение завершено</string>
-     <string name="btn_wait_call">Ожидание…</string>
-     <string name="btn_wait_call_count">Ожидание (%1$s)</string>
      <string name="btn_wait_confirm">Ожидание</string>
      <string name="btn_wait_confirm_count">Ожидание (%1$s)</string>
      <string name="button_bind_phone">Привязать сейчас</string>
@@ -128,8 +98,6 @@
      <string name="giftcard_denom_frozen">MiCredit заморожено</string>
      <string name="giftcard_empty">Нет подарочных карт</string>
      <string name="giftcard_expire">%1$s истекло</string>
-     <string name="giftcard_expire_notification_prime_title">Code is about to expire…</string>
-     <string name="giftcard_expire_notification_sub_title">Mi Credit Gift Card expires on %1$s</string>
      <string name="giftcard_hint">На подарочную карту будут переведены MiCredit. Через определенный срок они будут недействительны.</string>
      <string name="giftcard_payment">%1$s MiCredit</string>
      <string name="giftcard_push_notification_prime_title">Вы получили подарочный сертификат</string>
@@ -273,8 +241,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="prepaid_picker_title_selected">amount</string>
      <string name="process_expired">"Where'd you go? This operation has timed out."</string>
-     <string name="progress_bankcall_card_creating">Создание заказа…</string>
-     <string name="progress_bankcall_card_querying">Определение типа банковского счета…</string>
      <string name="progress_creating">Проверка покупки…</string>
      <string name="progress_downloading">Загрузка…</string>
      <string name="progress_error_pay_summary">Добавлено %1$s MiCredit. Но платеж не удался! Попробуй позже.</string>
@@ -306,7 +272,16 @@
      <string name="prompt_info_for_first_use">"Mi Credit can't be used to buy hardware products on Mi.com."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="prompt_info_title">Tips</string>
-     <string name="recharge_bankcall_title">Банковская карта</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="push_register_fail">Register push fail.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="push_register_success">Register push success.</string>
+     <string name="push_set_accept_time_fail">Set accept time fail for %1$s.</string>
+     <string name="push_set_accept_time_success">Set accept time %1$s - %2$s success.</string>
+     <string name="push_set_alias_fail">Set alias fail for %1$s.</string>
+     <string name="push_set_alias_success">Set alias \"%1$s\" success.</string>
+     <string name="push_unset_alias_fail">Unset alias fail for %1$s.</string>
+     <string name="push_unset_alias_success">Unset alias \"%1$s\" success.</string>
      <string name="recharge_grid_error_denomination">Введи правильный размер пополнения между %1$s~%2$s юань</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="recharge_grid_item_more">More</string>
@@ -364,4 +339,10 @@
      <string name="voucher_card_text">Please scratch off the coat</string>
      <string name="voucher_error_password">Неверный код!</string>
      <string name="voucher_input_password_prompt">Введите код</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="web_login">Login</string>
+     <string name="web_login_app_description">Login %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="web_login_description">Login</string>
+     <string name="web_login_waiting">Please wait…</string>
 </resources>

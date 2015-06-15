@@ -438,6 +438,36 @@ Are you sure you want to navigate away from this page?"</string>
      <string name="miuichromium_error_page_title">Не удалось найти страницу</string>
      <string name="miuichromium_error_page_url">Проверь ссылку</string>
      <string name="miuichromium_error_page_wlan">Настройки Wi-Fi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_account_activate_confirmation">Activation required</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_account_activate_ok">Activate</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_account_login_cancel">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_account_login_confirmation">Signing in required</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_account_login_ok">Sign in</string>
+     <string name="miuishare_account_need_activate">Weibo share requires your Weibo account is binded to Xiaomi account, which is not activited currently. Activate your account?</string>
+     <string name="miuishare_account_need_login">Weibo share requires your Weibo account is binded to Xiaomi account, which is signed in currently. Sign in to share now?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_app_name">MiuiShare</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_no_network">No network for share</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_publish">Send</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_share_done">Share content is sent.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_share_editor_title">Share</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_title_more">More</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_title_share">Share</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuishare_weibo_title">Weibo</string>
      <string name="modify_download_path_no_sdcard_dlg_msg">Требуется USB накопитель для изменения</string>
      <string name="month_picker_dialog_title">Выбери месяц</string>
      <string name="move_to_up_folder">Наверх</string>

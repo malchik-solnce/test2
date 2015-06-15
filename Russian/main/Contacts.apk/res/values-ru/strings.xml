@@ -151,6 +151,8 @@
      <string name="close_dial_pad">закрыть клавиатуру</string>
      <string name="cloud_antispam_mark">Пометить</string>
      <string name="cloud_antispam_title">Идентификация номеров</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_recommend_msg">Tap to sync contacts with Mi Cloud.</string>
      <string name="composer_failed_to_get_database_infomation">База данных недоступна</string>
      <string name="composer_has_no_exportable_contact">Не найдены контакты для экспорта. Возможно, экспорт контактов с телефона не поддерживается поставщиком услуг передачи данных.</string>
      <string name="composer_not_initialized">Сбой при запуске редактора vCard</string>

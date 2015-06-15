@@ -34,6 +34,7 @@
      <string name="chooser">Выберите</string>
      <string name="click_download">Нажмите, чтобы скачать</string>
      <string name="clocking">Будильник добавлен, Нажмите, чтобы посмотреть.</string>
+     <string name="closing_toggle">closing %1$s</string>
      <string name="confirm">ОК</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm_and_continue">continue</string>
@@ -76,6 +77,8 @@
      <string name="init_ok">Инициализация идентификации будет завершена</string>
      <string name="invert_stop_report">Переверните, чтобы остановить отчет</string>
      <string name="local_category">ТЕЛЕФОН</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locking_screen">locking sreenc</string>
      <string name="menu_long_press_launch">Долго нажати МЕНЮ, чтобы запустить</string>
      <string name="model_name">张若涵</string>
      <string name="month">月</string>
@@ -116,6 +119,9 @@
      <string name="not_understand">Ошибка распознания, повторите попытку</string>
      <string name="not_uninstall_system_app">系统应用不能卸载</string>
      <string name="online_category">ОНЛАЙН</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="open_music">Open Music</string>
+     <string name="opening_toggle">opening %1$s</string>
      <string name="over_24h_clock_operation">Вы не можете установить будильник более 24 часов, следует создать заметку в календарь</string>
      <string name="password_guard">Защита</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -126,6 +132,7 @@
      <string name="permission_switch">Let VoiceAssist read your contacts, access the internet, and use GPS</string>
      <string name="phone_by_ear_launch">Поднесите телефон к уху</string>
      <string name="phone_report">Отчет вызовов</string>
+     <string name="playing">Playing: %1$s</string>
      <string name="quick_launch_settings">Быстрый запуск</string>
      <string name="quit">Выйти</string>
      <string name="recognition_again">Повторить</string>
@@ -160,6 +167,9 @@
      <string name="ring_silent">设置为静音模式</string>
      <string name="screen_rotation_off">关闭旋转</string>
      <string name="screen_rotation_on">打开旋转</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="screen_shot">screen shot</string>
+     <string name="search_music_fail">"Didn't find anything"</string>
      <string name="security_center">Безопасность</string>
      <string name="security_setting">进行安全设置</string>
      <string name="sending">Отправить СМС на %1$s</string>
@@ -201,11 +211,16 @@
      <string name="title_speech_timeout">Голос тайм-аут</string>
      <string name="to_degree">到</string>
      <string name="today_date">%1$s, %2$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="toggle_has_closed">toggle has closed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="toggle_has_opened">toggle has opened</string>
      <string name="tts_voice_effect">Голосовой эффект</string>
      <string name="unknown_artist">Неизвестный исполнитель</string>
      <string name="unknown_location">Не могу найти местоположение</string>
      <string name="unknown_num">Неизвестный номер</string>
      <string name="unknown_website">Не могу найти адрес веб-сайта</string>
+     <string name="upload_recognition">raw_text=%1$s&amp;parsed_text=%2$s&amp;empty_resp=true</string>
      <string name="user_upload_success">Адресная книга успешно загружена</string>
      <string name="view_forecast_item_yesterday">昨天</string>
      <string name="view_indexes_item_today">今天</string>

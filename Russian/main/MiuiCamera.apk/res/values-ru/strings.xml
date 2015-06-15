@@ -391,6 +391,9 @@
      <string name="pref_video_captrue_ability_title">Фото при съемке</string>
      <string name="pref_video_focusmode_entry_auto">Нажатие</string>
      <string name="pref_video_focusmode_entry_continuous">Непрерывный</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_video_focusmode_entryvalue_auto">auto</string>
+     <string name="pref_video_focusmode_entryvalue_continuous">continuous-video</string>
      <string name="pref_video_focusmode_title">Режим фокусировки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_video_quality_entry_4kuhd">4K</string>

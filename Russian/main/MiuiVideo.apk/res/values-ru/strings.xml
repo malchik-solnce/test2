@@ -56,6 +56,10 @@
      <string name="avg_score">%.1f</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="bestv">Bestv</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bmp_quality_mode">Picture Quality mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bmp_quality_mode_desc">Checked, high quality show mode.</string>
      <string name="buffering">Буферизация…</string>
      <string name="buffering_video_netplay_label_v5">Буферизация…</string>
      <string name="cancel">Отмена</string>
