@@ -9,6 +9,8 @@
      <string name="mipay_add_bankcard_prompt">"You haven't added any debit cards,Please add one."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_add_debit_bankcard">Add debit card</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_agree">Agree</string>
      <string name="mipay_agreement">Принимаю %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_alipay">Alipay</string>
@@ -364,6 +366,11 @@ Please check your local date and try again."</string>
      <string name="mipay_i_know">I know it</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_key_text_x">x</string>
+     <string name="mipay_license_message">"You're about to use Mi Wallet, which is a service provided by Xiaomi Inc. Before you can use this service, you must agree to the Terms of Service stated in %1$s. You need an internet connection, location and reading contact to use Mi Wallet."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_license_message_span">Mi Wallet User Agreement</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_license_title">Terms and conditions</string>
      <string name="mipay_loading">Загрузка…</string>
      <string name="mipay_login_password_error">Проверьте пароль аккаунта Xiaomi</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -467,7 +474,6 @@ Please check your local date and try again."</string>
      <string name="mipay_pay_record_money_flow_in">+</string>
      <string name="mipay_pay_record_money_flow_out">-</string>
      <string name="mipay_pay_record_money_flow_price">%1$s%2$s</string>
-     <string name="mipay_pay_sms_captcha_summary">Проверочный код отправлен на %1$s</string>
      <string name="mipay_process_bind_bank_card">Привязать карту</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_process_bind_credit_card">Add credit card</string>

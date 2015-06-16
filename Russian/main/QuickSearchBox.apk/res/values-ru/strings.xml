@@ -44,6 +44,20 @@
      <string name="search_sources_summary">Выберите что искать в телефоне</string>
      <string name="search_widget">Поиск</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="searchable_lable_app">app</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="searchable_lable_browser">browser</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="searchable_lable_duokan">duokan</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="searchable_lable_music">music</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="searchable_lable_o2o">o2o</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="searchable_lable_video">video</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="searchable_sources">Online searchable sources</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="send_secret_code">Send secret code</string>
      <string name="system_search_category_title">Телефон</string>
      <string name="voice_search_hint_title">Попробуйте сказать:</string>

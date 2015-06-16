@@ -180,7 +180,10 @@
      <string name="found_old_messages">"Найдено сообщений от предыдущего аккаунта: %1$s.
 Вы хотите загрузить их в текущий аккаунт %2$s?"</string>
      <string name="found_old_messages_title">Загрузка сообщений</string>
-     <string name="found_wild_messages">В облаке найдены сообщения с других SIM-карт. %s Хочешь загрузить их?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="found_wild_messages_guide_cloud_desc">To sync messages from Mi Cloud, sign in to your Mi Account and turn on sync SMS.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="found_wild_messages_guide_settings_desc">Sync SMS messages from Mi Could in Messaging Settings.</string>
      <string name="found_wild_messages_title">Загрузка сообщений</string>
      <string name="from_label">"От: "</string>
      <string name="group_message">Групповое сообщение</string>
@@ -361,6 +364,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_notification_settings_title">Настройки уведомлений</string>
      <string name="pref_other_title">ДРУГИЕ НАСТРОЙКИ</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_show_blocked_messages_summary">Show blocked SMS in conversations</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_show_sms_template_summary">Automatically copy and fill in verification codes</string>
      <string name="pref_sms_theme_title">НАСТРОЙКИ ВИДА</string>
      <string name="pref_summary_allow_si_sl_push">Разрешить прием WAP Push сообщений (SI/SL)</string>
@@ -450,6 +455,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="remove_video">Удалить видео</string>
      <string name="replace">Заменить</string>
      <string name="replace_image">Заменить картинку</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="reply_button_msg">Reply</string>
      <string name="resent_message">Повторить</string>
      <string name="resize_image_error_information">Изображение слишком велико для отправки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -575,6 +582,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="timed_message_to">для</string>
      <string name="title_collapse_sp_messages">Сервисные сообщения</string>
      <string name="title_date_type">Дата</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_show_blocked_messages">show blocked SMS</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_show_sms_template">Check SMS for verification codes</string>
      <string name="title_timed_message_dialog">Время отправки сообщения</string>

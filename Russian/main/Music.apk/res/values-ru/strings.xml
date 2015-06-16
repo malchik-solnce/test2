@@ -27,6 +27,8 @@
      <string name="artist_search_title">Artist</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="artist_view">Artist</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="atmd_music">Ultimate</string>
      <string name="audio_picker_title">Выберите трек</string>
      <string name="auto_download_in_wifi">Нет подключения к интернету</string>
      <string name="available_playlist_name_format">Новый плейлист %d</string>
