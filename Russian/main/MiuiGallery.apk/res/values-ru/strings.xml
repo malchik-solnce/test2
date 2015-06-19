@@ -152,7 +152,15 @@
      <string name="comfirm_delete_current_album">Удалить текущий альбом?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Associate all photos with %s? -->
      <string name="confirm_all_photo_are_this_people_face">All matche？</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: No matches for %s? -->
      <string name="confirm_all_photo_not_this_people_face">No matches?</string>
      <string name="confirm_delete">Удалить выбранные файлы? (%s)</string>
      <string name="confirm_delete_has_cloud_image_video">Удалить изображения и видео в облаке? (%s)</string>
@@ -165,7 +173,12 @@
      <string name="confirm_download_video_title">Загрузка видео</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm_face">Match</string>
+     <string name="confirm_left_photo_will_move_in">%s is in all of the remaining photos?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: "%s isn't in any of the remaining photos?" -->
      <string name="confirm_left_photo_will_move_out">Photos on the left will be removed from this album.</string>
      <string name="confirm_merge_face_albums">" "<Data> Merge this album to album &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? </Data>" "</string>
      <string name="confirm_merge_many_face_albums">" "<Data> Merge these albums with &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? </Data>" "</string>
@@ -255,6 +268,7 @@
      <string name="error_title">Ошибка синхронизации</string>
      <string name="error_unauthorized">Слишком много попыток входа. Синхронизация отключена.</string>
      <string name="error_unknown_host">Сеть не обнаружена</string>
+     <string name="event_create_long_photo">Creating photo…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="event_manage_photos">Manage photos</string>
      <string name="exit">Выйти</string>
@@ -370,6 +384,7 @@ making it simple to view and manage pictures"</string>
      <string name="internal_sdcard_root">Internal SD card root directory</string>
      <string name="invalid_invition_url">Неверная ссылка приглашения</string>
      <string name="invalid_recipient_message">Исправь получателя (получателей) или они не будут получать сообщения</string>
+     <string name="is">Is this %s?</string>
      <string name="item_not_sync_for_origin_image">Это изображение не было синхронизировано в облако и оригинальное изображение не может быть загружено</string>
      <string name="item_not_sync_for_origin_video">Это видео не синхронизировано с облаком и не может быть загружено</string>
      <string name="item_not_sync_for_refocus_data">Это изображение не было синхронизировано в облако и его данные не могут быть загружены</string>
@@ -416,8 +431,6 @@ making it simple to view and manage pictures"</string>
      <string name="menu_view_contact">Просмотр контакта</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="merge_album">Merge</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="merge_album_positive_button_text">Merge</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="merge_album_title">Merge albums</string>
      <string name="message_no_delete_access">Отказано в доступе. Невозможно удалить файл или папку: %s.</string>
@@ -474,6 +487,7 @@ making it simple to view and manage pictures"</string>
      <string name="no_thumbnail">Нет уменьшенного изображения</string>
      <string name="none_picture">Нет фотографий в галерее</string>
      <string name="not_auto_create_recent_album">Неавтоматическое создание последних альбомов</string>
+     <string name="not_is">Not %s?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="not_now">Not now</string>
      <string name="not_show_hidden_albums">Скрыть скрытые альбомы</string>
@@ -576,6 +590,8 @@ making it simple to view and manage pictures"</string>
      <string name="remove_hidden_album">Отменить скрытие</string>
      <string name="remove_recent_album">Удалить из последних альбомов</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="rename_event">Rename event</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="rename_face_album">Change name</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="rename_fail_msg">Fail to change name</string>
@@ -619,6 +635,7 @@ making it simple to view and manage pictures"</string>
      <string name="select_auto_upload_albums">Choose albums to upload to cloud</string>
      <string name="select_image">Выбрать фото</string>
      <string name="select_item">Выбрать файлы</string>
+     <string name="select_item_face">"Photos may be '%s'"</string>
      <string name="select_too_much_to_send_tips">Выбранных фотографий слишком много, чтобы отправить. Максимум: %d.</string>
      <string name="select_video">Выбрать видео</string>
      <string name="send">Отправить</string>
@@ -647,6 +664,8 @@ making it simple to view and manage pictures"</string>
      <string name="share_by_email_successfully">Вы поделились через E-Mail %1$s</string>
      <string name="share_current_album">Отправить текущий альбом</string>
      <string name="share_public_url_text">Я поделился альбомом %1$s. Посмотрите тут %2$s.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="share_title_more">More</string>
      <string name="sharer_quota_fulfiled">Невозможно добавить пользователя, т.к. количество пользователей в этом альбоме достигло предела</string>
      <string name="sharpen">Резкость</string>
      <string name="show_all">Изображения и видео</string>
@@ -735,6 +754,8 @@ making it simple to view and manage pictures"</string>
      <string name="warn">Внимание</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wechat">WeChat</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wechat_timeline_title">WeChat timeline</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="weibo">Weibo</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

@@ -185,6 +185,8 @@
      <string name="empty_data">Load error</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="empty_keyword_hint">Keyword cannot be empty</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="empty_tv_exiting">Exiting ...</string>
      <string name="episode_name_format">第%1$s集</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="error_empty_filter_title">No Result</string>

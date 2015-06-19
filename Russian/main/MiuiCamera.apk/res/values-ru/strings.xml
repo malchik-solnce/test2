@@ -396,6 +396,8 @@
      <string name="pref_video_focusmode_entryvalue_continuous">continuous-video</string>
      <string name="pref_video_focusmode_title">Режим фокусировки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_video_quality_default_cmcc_test">4</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_video_quality_entry_4kuhd">4K</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_video_quality_entry_value_4kuhd">12</string>
