@@ -569,6 +569,12 @@
      <string name="mobile_networks">Настройки мобильной сети</string>
      <string name="msim_apn_not_set">Не выбрано</string>
      <string name="msim_default_setting">Настройки по умолчанию</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="msim_disable_sim_card_btn_text">OK</string>
+     <string name="msim_disable_sim_card_summary_default_card">"This card is currently set as your default SIM. If you stop using it, you won't be able to make calls or use your mobile data connection. You can stop this SIM card after setting another SIM as your default card."</string>
+     <string name="msim_disable_sim_card_summary_non_default_card">You may not be able to make calls or use your mobile data connection. Stop using %s SIM card?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="msim_disable_sim_card_title">Stop using SIM card</string>
      <string name="msim_enable_sim">Включить</string>
      <string name="msim_general_setting">Основные настройки</string>
      <string name="msim_has_been_disabled">(Disabled)</string>

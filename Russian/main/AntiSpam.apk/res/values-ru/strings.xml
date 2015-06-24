@@ -164,27 +164,19 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_agent_block">Marked as agent</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mark_banking_insurance">Insurance sales</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mark_banking_insurance_block">Reported as insurance sales</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mark_express">Courier</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mark_express_block">Marked as courier</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_fraud">Fraud</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_fraud_block">Marked as fraud</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mark_meal">Food delivery</string>
+     <string name="mark_harass">Harassment</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mark_meal_block">Marked as food delivery</string>
+     <string name="mark_harass_block">Reported as harassment</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_number_agent">Agent</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mark_number_banking">Insurance sales</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_number_fraud">Fraud</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_number_harass">Harassment</string>
      <string name="mark_number_info">"
 Note that sometimes these calls maybe useful (e.g. when you're actually looking for an apartment). Only block numbers which you never want to receive calls from."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
