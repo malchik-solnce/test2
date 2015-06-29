@@ -43,6 +43,10 @@
      <string name="accessibility_wimax_signal_full">Надежный сигнал WiMAX</string>
      <string name="accessibility_wimax_three_bars">Сигнал WiMAX: три деления</string>
      <string name="accessibility_wimax_two_bars">Сигнал WiMAX: два деления</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_usb_message">Insert the SIM card to activate the USB function</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_usb_title">activate USB</string>
      <string name="always_use_accessory">Использовать по умолчанию для этого USB-аксессуара</string>
      <string name="always_use_device">Использовать по умолчанию для этого USB-устройства</string>
      <string name="app_label">Графический интерфейс системы</string>
@@ -209,6 +213,8 @@ d MMMM yyyy"</string>
      <string name="usb_debugging_title">Включить отладку по USB?</string>
      <string name="usb_device_confirm_prompt">Запускать %1$s при подключении этого USB-устройства?</string>
      <string name="usb_device_permission_prompt">Открыть приложению \"%1$s\" доступ к USB-устройству?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="usb_function_charging_text">Connected in charging mode</string>
      <string name="usb_mode_dont_ask">Запомнить мой выбор</string>
      <string name="usb_mode_mount_storage_title">Подключить USB накопитель?</string>
      <string name="usb_mode_notification">Режим накопителя</string>

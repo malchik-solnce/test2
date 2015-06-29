@@ -597,6 +597,8 @@
      <string name="common_settings">Частые</string>
      <string name="complete_settings">Полные</string>
      <string name="computing_size">Вычисление…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="config_charging_function_name">charging</string>
      <string name="config_list_label">Настроенные сети</string>
      <string name="configure_input_method">Настройка методов ввода</string>
      <string name="confirm_download_cancelation_dialog_message">Cancel download?</string>
@@ -2686,6 +2688,10 @@ Are you sure to change?"</string>
      <string name="usage_type_video">Видео</string>
      <string name="usage_type_wake_lock">Активный режим</string>
      <string name="usage_type_wifi_running">Wi-Fi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="usb_charging_summary">Turn off all other USB connection features to speed up charging.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="usb_charging_title">Speed up charge</string>
      <string name="usb_connection_category">Подключить как</string>
      <string name="usb_host_mode_subtext">Для использования игровых контроллеров и других устройств с USB портом. Может уменьшиться время работы батареи.</string>
      <string name="usb_host_mode_text">Включить режим USB хоста</string>

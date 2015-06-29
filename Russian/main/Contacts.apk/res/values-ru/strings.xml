@@ -1141,6 +1141,8 @@
      <string name="type_mx_msg">Облачные сообщения</string>
      <string name="type_outgoing">Исходящий вызов</string>
      <string name="type_voicemail">Голосовая почта</string>
+     <string name="unknow_phone_number_call_failed">"Can't call unknown number"</string>
+     <string name="unknow_phone_number_mms_failed">"Can't send message to unknown number"</string>
      <string name="unknown">Неизвестно</string>
      <string name="unknown_contact_name">Неизвестный контакт</string>
      <string name="upgrade_in_progress">Обновление списка контактов…</string>

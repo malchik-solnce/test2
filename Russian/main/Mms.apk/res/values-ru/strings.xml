@@ -63,6 +63,13 @@
      <string name="chenghu_disable_mms">Недопустимый адрес MMS</string>
      <string name="class_0_message_activity">Сообщение класса 0</string>
      <string name="close">Закрыть</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_recommend_msg">Tap to sync messages with Mi Cloud.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_state_disabled">Sync with Mi Cloud is off</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_state_sync_finished">Synced with Mi Cloud</string>
+     <string name="cloud_state_syncing">Syncing with Mi Cloud…</string>
      <string name="compressing">Картинка слишком большая. Выполняется сжатие…</string>
      <string name="confirm">Подтвердить</string>
      <string name="confirm_add_blacklist_dialog_dspt">Добавить номер в черный список?</string>

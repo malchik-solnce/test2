@@ -5,6 +5,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_being_backup_message">App is being backed up.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_being_restored_message">App is being restored</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_category_books">Books</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_category_education">Education</string>
