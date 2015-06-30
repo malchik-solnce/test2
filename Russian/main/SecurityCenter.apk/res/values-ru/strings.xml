@@ -300,6 +300,29 @@
      <string name="menu_text_networkassistants_remain">Трафик</string>
      <string name="menu_text_power_manager">Управление питанием</string>
      <string name="menu_text_power_percent">Питание %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_report_activity_label">Monthly report</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_report_click_reconnect_network">Try again</string>
+     <string name="month_report_disconnect_tip">"Can't connect to the network"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_report_history_activity_label">Report history</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_report_month_report_switch">Show monthly report</string>
+     <string name="month_report_network_dialog_description">Allow Security app to connect to the internet to get news?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_report_network_dialog_positive">Allow</string>
+     <string name="month_report_network_dialog_title">"Can't get security news"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_report_result_share">Share</string>
+     <string name="month_report_share_img_fail">"Couldn't share"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_report_share_loading">Loading</string>
+     <string name="month_report_warning_dialog_description">"To view monthly report, turn this feature on in Security app's Settings."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_report_warning_dialog_positive">Turn on</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_report_warning_dialog_title">Monthly security report</string>
      <string name="name_antivirus">"Tencent's Privacy Policy"</string>
      <string name="never">Один раз</string>
      <string name="notification_button_text_of_low_memory">Очистить</string>
@@ -514,6 +537,7 @@
      <string name="preference_key_default_apps_manager">key_default_apps_manager</string>
      <string name="preference_key_lock_screen_memory_clean">lock_screen_memory_clean</string>
      <string name="preference_key_module_permissions">key_module_permissions</string>
+     <string name="preference_key_month_report_switch">key_month_report_switch</string>
      <string name="preference_key_notification_bar_manager">key_notification_bar_manager</string>
      <string name="preference_key_open_virus_cloud_scan">key_open_virus_cloud_scan</string>
      <string name="preference_key_open_virus_install_monitor">key_open_virus_install_monitor</string>
