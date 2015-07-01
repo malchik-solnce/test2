@@ -81,6 +81,8 @@
      <string name="delete">Delete</string>
      <string name="delete_wallpaper_message">Delete %1$d wallpaper?</string>
      <string name="delete_wallpapers_message">Delete %1$d wallpapers?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="deselect_all">Deselect all</string>
      <string name="disable_wallpaper_scroll">Turn side-scrolling off</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="download_action">Download</string>
@@ -220,6 +222,8 @@
      <string name="preferences_title">Настройки рабочего стола</string>
      <string name="reset_scene_prompt">Экран будет сброшен в стандартное расположение</string>
      <string name="scroll_tip_format_when_announce_accessibility">На странице: %1$d приложений: %2$d</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="select_all">Select all</string>
      <string name="select_frame">Рамка</string>
      <string name="select_photo">Фото</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

@@ -152,16 +152,6 @@
      <string name="comfirm_delete_current_album">Удалить текущий альбом?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: Associate all photos with %s? -->
-     <string name="confirm_all_photo_are_this_people_face">All matche？</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: No matches for %s? -->
-     <string name="confirm_all_photo_not_this_people_face">No matches?</string>
      <string name="confirm_delete">Удалить выбранные файлы? (%s)</string>
      <string name="confirm_delete_has_cloud_image_video">Удалить изображения и видео в облаке? (%s)</string>
      <string name="confirm_delete_has_cloud_local_image_video">Удалить изображения и видео с устройства и облака? (%s)</string>
@@ -173,13 +163,6 @@
      <string name="confirm_download_video_title">Загрузка видео</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm_face">Match</string>
-     <string name="confirm_left_photo_will_move_in">%s is in all of the remaining photos?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: "%s isn't in any of the remaining photos?" -->
-     <string name="confirm_left_photo_will_move_out">Photos on the left will be removed from this album.</string>
      <string name="confirm_merge_face_albums">" "<Data> Merge this album to album &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? </Data>" "</string>
      <string name="confirm_merge_many_face_albums">" "<Data> Merge these albums with &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? </Data>" "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -580,6 +563,9 @@ making it simple to view and manage pictures"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="qzone">QZone</string>
      <string name="recognizing_image">Определение изображения…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="recommanded_face_abandon_tip">Removed from recommandation</string>
+     <string name="recommanded_face_added_tip">Added to \"%s\"</string>
      <string name="redeye">Красные глаза</string>
      <string name="redeye_tooltip">Нажми для устранения эффекта красных глаз</string>
      <string name="refocus_data_downloading">Загрузка данных…</string>
