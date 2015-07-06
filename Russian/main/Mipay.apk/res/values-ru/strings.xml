@@ -349,6 +349,8 @@
      <string name="mipay_date_picker_label_year" />
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_denom_unit">RMB</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_enter_failed">Open failed</string>
      <string name="mipay_error_account_changed">"Your account info has changed.
 Please log in again."</string>
      <string name="mipay_error_auth">Ошибка входа в аккаунт. Повторите еще раз.</string>
@@ -474,6 +476,8 @@ Please check your local date and try again."</string>
      <string name="mipay_pay_record_money_flow_in">+</string>
      <string name="mipay_pay_record_money_flow_out">-</string>
      <string name="mipay_pay_record_money_flow_price">%1$s%2$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_pay_record_title">Payment record</string>
      <string name="mipay_process_bind_bank_card">Привязать карту</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipay_process_bind_credit_card">Add credit card</string>

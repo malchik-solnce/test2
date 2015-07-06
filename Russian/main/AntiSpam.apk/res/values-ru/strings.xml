@@ -225,6 +225,14 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
      <string name="one_address_choose_hint">Регион: %s1</string>
      <string name="open_callwait">Включить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="quiet">Quiet</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="quiet_important_interruptions_mode">Silent mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="quiet_mode">Quiet mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="quiet_off_mode">All can disturb mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="read_all_sms">Mark as read</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="report">Report</string>

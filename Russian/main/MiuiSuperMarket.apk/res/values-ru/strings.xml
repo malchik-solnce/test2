@@ -65,6 +65,8 @@
      <string name="comment_publish">Отправить</string>
      <string name="comment_score_count">Людей: %1$s</string>
      <string name="comment_sending">Отправка…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_unit">w</string>
      <string name="comment_upload_account_need_activitied">Ваш аккаунт не активирован. Включить его сейчас?</string>
      <string name="comment_upload_account_not_activitied">Ваш аккаунт не активирован. Пожалуйста, активируйте и попробуйте еще раз.</string>
      <string name="comment_upload_auth_failed">"Can't send comment. Try signing in again."</string>
@@ -453,8 +455,6 @@
      <string name="text_show_all">View all</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_personal_info">Personal</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="unit_w">w</string>
      <string name="updatable_apps">Обновляемые приложения</string>
      <string name="update">Обновить</string>
      <string name="update_all">Обновить все</string>
