@@ -274,6 +274,8 @@
      <string name="message_too_big_for_video">Сообщение слишком велико, чтобы приложить видео</string>
      <string name="message_type_label">"Тип: "</string>
      <string name="messagelist_sender_self">Я</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipub_messaging_entry_title">Mi Messages</string>
      <string name="move_down">Переместить вниз</string>
      <string name="move_up">Переместить вверх</string>
      <string name="msg_type_hint_mms">Мультимедийное сообщение</string>
