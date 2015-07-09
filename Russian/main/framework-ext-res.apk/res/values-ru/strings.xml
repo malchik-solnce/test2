@@ -24,6 +24,10 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="key_btn_ok">OK</string>
      <string name="key_btn_space">Пробел</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="location_usage_restricted_body">Touch to remove restriction.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="location_usage_restricted_title">Background location restricted</string>
      <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
      <string name="lockscreen_access_pattern_cleared">Шаблон очищен</string>
      <string name="lockscreen_access_pattern_detected">Шаблон распознан</string>
@@ -37,6 +41,9 @@
      <string name="perm_send_push_dspt">Allow Mi push messages</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="perm_send_push_lab">Send push message</string>
+     <string name="permdesc_manageLocationPolicy">Allows the app to manage location policies and define app-specific rules.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="permlab_manageLocationPolicy">manage location policy</string>
      <string name="reboot_confirm_title">Перезагрузить устройство?</string>
      <string name="reboot_progress">Перезагрузка…</string>
      <string name="replace">Заменить</string>

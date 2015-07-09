@@ -220,6 +220,16 @@
      <string name="background_data_dialog_message">Отключение фонового режима обмена данными экономит заряд батареи и уменьшает объем трафика. Однако некоторые приложения могут использовать этот режим даже после его отключения.</string>
      <string name="background_data_dialog_title">Отключить фоновый режим?</string>
      <string name="background_data_summary">Синхронизация, отправка и получение данных доступны всегда</string>
+     <string name="background_location_control_summary">"Allow or prevent apps from getting your device's location info in the background"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="background_location_control_title">Background location access</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="background_location_deselect_apps">Deselect All</string>
+     <string name="background_location_requests_summary">"Allow apps to use location service when you're not using them"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="background_location_requests_title">Allow background location</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="background_location_select_apps">Select All</string>
      <string name="background_process_stop_description">Это старый процесс приложения, который по-прежнему запущен на случай, если он снова понадобится. Обычно останавливать его не требуется.</string>
      <string name="backup_configure_account_default_summary">Не найдены аккаунты с резервными копиями данных</string>
      <string name="backup_configure_account_title">Резервный аккаунт</string>
