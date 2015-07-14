@@ -365,5 +365,5 @@ Turn the phone, Speak to microphone at the position of the receiver, you should 
 
 Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cit_x5_audio_lb_top_to_speaker_title">Top mic speaker feedback test</string>
+     <string name="cit_x5_audio_lb_topmic_to_speaker_title">Top mic speaker feedback test</string>
 </resources>

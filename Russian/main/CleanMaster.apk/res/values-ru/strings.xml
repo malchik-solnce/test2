@@ -7,9 +7,15 @@
      <string name="activity_title_cache_data">Кэш</string>
      <string name="activity_title_deep_clean">Расширенная очистка</string>
      <string name="activity_title_garbage_cleanup">Очистка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activity_title_ignored_image">Ignored</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activity_title_image_gallery">Delete duplicates</string>
      <string name="activity_title_large_file">Файлы</string>
      <string name="activity_title_residual">Мусор</string>
      <string name="activity_title_settings">Настройки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activity_title_similar_image_group">Delete duplicates</string>
      <string name="activity_title_uninstall_apps">Прилож.</string>
      <string name="activity_title_white_list">Белый список</string>
      <string name="apk_status_damage">Повреждено</string>
@@ -34,11 +40,32 @@
      <string name="button_text_cancel">Отмена</string>
      <string name="button_text_cleanup">Удалить</string>
      <string name="button_text_delete_from_white_list">Удалить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_text_delete_pic">Delete</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_text_group_ignore">Ignore</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_text_group_unlike">Not duplicates</string>
      <string name="button_text_install">Устан.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_text_keep_one">Reserve one photo</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_text_known">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_text_let_me_select">OK</string>
+     <string name="button_text_not_prompt_again">"Don't show again"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_text_restore_ignore">Undo</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_text_select_all">Select</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_text_select_pic">Select</string>
      <string name="button_text_uninstall">Удалить</string>
      <string name="button_text_uninstall_only">Удалить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_text_unselect_all">Unselect</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_text_unselect_pic">Unselect</string>
      <string name="button_text_view_detail">Инфо</string>
      <string name="button_text_view_file">Файлы</string>
      <string name="cache_title_empty_folder">Пустые папки (%d)</string>
@@ -53,14 +80,24 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm_auto_cleaner">OK</string>
      <string name="deepclean_cache_header_left">Файлы кэша: %d</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dialog_content_checkbox_delete_cloud_image">Delete photos from Mi Cloud as well</string>
+     <string name="dialog_content_delete_image_confirm">Delete %d photos?</string>
+     <string name="dialog_content_select_all_confirm">Keep a copy of this photo?</string>
      <string name="dialog_msg_backup_and_uninstall_apps">Создать резервную копию и удалить выбранные приложения?</string>
      <string name="dialog_msg_check_all">Выбрать %1$s, содержащий %2$d элемен.?</string>
      <string name="dialog_msg_load_cleanup_engine_error">Ошибка запуска очистки. Повторите позже.</string>
      <string name="dialog_msg_uninstall_apps">Удалить выбранные приложения?</string>
      <string name="dialog_title_backup_and_uninstall_apps">Бэкап и удаление</string>
      <string name="dialog_title_check_all">Выбрать все</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dialog_title_delete_image">Delete selected images</string>
      <string name="dialog_title_load_cleanup_engine_error">Ошибка</string>
      <string name="dialog_title_uninstall_apps">Удалить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="empty_content_no_ignore_image">Empty</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="empty_content_no_similar_image">No duplicates</string>
      <string name="empty_title_ad">Реклама не найдена</string>
      <string name="empty_title_apk">Нет файлов</string>
      <string name="empty_title_garbage_cache">Кэш не найден</string>
@@ -69,6 +106,8 @@
      <string name="empty_title_large_files">Нет файлов</string>
      <string name="empty_title_residual">Нет файлов</string>
      <string name="header_optimizer">Используя эту функцию, Вы соглашаетесь с %s</string>
+     <string name="hint_bar_select_image">%d selected</string>
+     <string name="hint_clean_select_similar_image">Deleting duplicates…</string>
      <string name="hints_ad_header_left">Файлы рекламы: %d</string>
      <string name="hints_apk_header_left">Файлы апк: %d</string>
      <string name="hints_apk_version">Версия: %s</string>
@@ -154,6 +193,13 @@
      <string name="preference_key_garbage_auto_clean_content">key_garbage_auto_clean_content</string>
      <string name="preference_key_garbage_auto_process_mode">key_garbage_auto_process_mode</string>
      <string name="preference_key_open_optimizer_cloud_scan">key_open_optimizer_cloud_scan</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="similar_image_desc">Delete duplicate photos from Gallery</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="similar_image_empty">No duplicates found</string>
+     <string name="similar_image_scaning">Checking…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="similar_image_title">Delete duplicates</string>
      <string name="summary_auto_cleaner">Включить автоматическую очистку системы каждые 3 дня?</string>
      <string name="summary_delete_cache">Удалить файлы кэша? После удаления, некоторые приложения могут быть удалены или не работать должным образом. Будьте внимательны!</string>
      <string name="summary_delete_large_file">Удалить большие файлы? После удаления, некоторые приложения могут не работать должным образом. Будьте внимательны!</string>
@@ -169,11 +215,20 @@
      <string name="toast_backup_uninstall_failed">Не удалось создать резервную копию приложений %d. Повторите попытку позже.</string>
      <string name="toast_backup_uninstall_failed2">Не удалось сделать копию</string>
      <string name="toast_backup_uninstall_success">Резервное копирование и удаление завершено</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="toast_delete_select_image_succeed">Deleted</string>
      <string name="toast_garbage_cleanup_success">Очистка завершена</string>
      <string name="toast_garbage_list_empty">Отличное состояние. Очистка не требуется!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="toast_must_select_before_restore">Choose photos to restore</string>
      <string name="toast_network_eror">Ошибка сети</string>
      <string name="toast_removed_from_white_list">Удалено из белого списка</string>
      <string name="toast_resolve_apk_error">Ошибка apk</string>
+     <string name="toast_scaning_similar_image">Checking photos…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="toast_select_image_need_delete">Choose photos to delete</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="toast_selecte_group_restore_succeed">Photos restored</string>
      <string name="toast_uninstall_success">Удаление завершено</string>
      <string name="white_list_ad_header">Рекламные файлы: %d</string>
      <string name="white_list_apk_header">Апк файлов: %d</string>

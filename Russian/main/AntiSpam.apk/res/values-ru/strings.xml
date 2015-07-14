@@ -164,13 +164,19 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_agent_block">Marked as agent</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_agent_time_setting">Block numbers reported as telemarketers more than particular times</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_fraud">Fraud</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_fraud_block">Marked as fraud</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_fraud_time_setting">Block numbers reported as scams more than particular times</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_harass">Harassment</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_harass_block">Reported as harassment</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_harass_time_setting">Block numbers reported as harassment more than particular times</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_number_agent">Agent</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -193,6 +199,11 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
      <string name="mark_sell">Telemarketer</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_sell_block">Marked as telemarketer</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_sell_time_setting">Block numbers reported as sales more than particular times</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_time_setting_dialog_title">Reported times settings</string>
+     <string name="mark_time_text">%d</string>
      <string name="marked_by_others">%d пользователей отметили как</string>
      <string name="marked_by_user">вы отметили как</string>
      <string name="menu_add">Добавить</string>
@@ -234,6 +245,8 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
      <string name="quiet_off_mode">All can disturb mode</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="read_all_sms">Mark as read</string>
+     <string name="repeated_marked_number_summary">"Don't block a second call from the same person within 3 minutes."</string>
+     <string name="repeated_marked_number_title">"Don't block repeated reported calls"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="report">Report</string>
      <string name="report_error">"Couldn't report message"</string>

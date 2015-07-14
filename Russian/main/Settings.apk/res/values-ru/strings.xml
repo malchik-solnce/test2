@@ -1570,6 +1570,8 @@ Dissatisfied? Try"</string>
      <string name="music_dirac_mode_general_earbuds">General earbuds</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_dirac_mode_general_inear">General inear</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="music_dirac_mode_headset">Mi Headphones</string>
      <string name="music_dirac_mode_in_ear">Mi in-ear headphones</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_dirac_mode_off">Dirac off</string>
@@ -1580,6 +1582,8 @@ Dissatisfied? Try"</string>
      <string name="music_dirac_mode_piston_basic">Basic Edition</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_dirac_mode_piston_standard">Standard Edition</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="music_dirac_mode_piston_youth">Youth Edition</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_dolby_mode_movie">Video</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

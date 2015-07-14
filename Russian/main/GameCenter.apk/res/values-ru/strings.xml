@@ -191,6 +191,8 @@
      <string name="enter_game">Enter Game</string>
      <string name="error_sdcard_as_data_storage">Ошибка входа: SD-карта не обнаружена</string>
      <string name="essence_area">%s-精华区</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="exit">Exit</string>
      <string name="expand_full_text">Развернуть</string>
      <string name="expand_full_text_comment">Развернуть весь текст▼</string>
      <string name="failed_to_add_photo">Ошибка добавления фотографии</string>
@@ -429,6 +431,8 @@
      <string name="h5_float_menu_hidden">收起菜单</string>
      <string name="h5_float_menu_share">分享好友</string>
      <string name="h5_float_menu_shortcut">桌面图标</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="has_focus">Followed</string>
      <string name="head_text_login">Войти в аккаунт XiaoMi</string>
      <string name="header_processing">Подготовка загрузки</string>
      <string name="header_waiting">Ожидание загрузки</string>
@@ -542,6 +546,8 @@
      <string name="main_search_hint">Введите ключевые слова</string>
      <string name="male">М</string>
      <string name="management_tag">Мои игры</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="me_tag">Me</string>
      <string name="megabytes_unit">%1$s МБ</string>
      <string name="menu_download_manager">Загрузки</string>
      <string name="menu_install_all">Установить все</string>
@@ -569,6 +575,8 @@
      <string name="mibi_tab_accoun_title">Account Info</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mibi_tab_activity_more">More</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_tab_bbs">Game Zone</string>
      <string name="mibi_tab_format_xiaomi_account">Xiaomi Account:%s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mibi_tab_item_honor">Honor</string>
@@ -750,6 +758,7 @@ Please check and refresh"</string>
      <string name="pref_summary_auto_update_setting">Напомнить скачать</string>
      <string name="pref_summary_clear_search_record">Очистить данные о поиске</string>
      <string name="pref_summary_data_check_update">Нажми, для проверки версии</string>
+     <string name="pref_summary_data_save_mode">2G/3G/4G网络下，不加载图片</string>
      <string name="pref_summary_no_installed_in_rank">排行榜不显示已安装应用</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_summary_reserve_apk">Reserve APKs after install</string>
@@ -806,6 +815,7 @@ Please check and refresh"</string>
      <string name="pull_to_refresh_footer_pull_label">Проведите вверх, чтобы посмотреть больше</string>
      <string name="pull_to_refresh_footer_release_label">Проведите вниз, чтобы посмотреть больше</string>
      <string name="pull_to_refresh_pull_label">Потяните вниз, чтобы обновить</string>
+     <string name="pull_to_refresh_refreshing_label">Refresh…</string>
      <string name="pull_to_refresh_release_label">Отпустите, чтобы обновить</string>
      <string name="purchase_mibi">%s MiCredits</string>
      <string name="purchase_record_title">Записи покупок</string>
@@ -817,6 +827,8 @@ Please check and refresh"</string>
      <string name="quick_update">Quick Update</string>
      <string name="quick_update_economize_size">(Economize%s)</string>
      <string name="quick_update_size">Quick Update%s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="rank_select">Select</string>
      <string name="rank_tag">Топ</string>
      <string name="rating_button">Рейтинг: %1$s</string>
      <string name="receive_red_packet">领取</string>
@@ -960,6 +972,9 @@ Please check and refresh"</string>
      <string name="share_button">Отправить другу</string>
      <string name="share_subject">Отправить приложение： %1$s</string>
      <string name="share_text">Посмотри какая прикольная игра с XiaoMi Game Center: %1$s, что то потрясающие! Отправить в: %2$s</string>
+     <string name="share_weibo_endnote">已附带游戏下载链接</string>
+     <string name="share_weibo_from">来自@小米游戏 %1$s</string>
+     <string name="share_weibo_text">发现了一款很赞的游戏“%1$s”，推荐给大家。</string>
      <string name="show_all_local_app">Просмотр всех приложений</string>
      <string name="simple_date_format_MMdd">MM-dd</string>
      <string name="simple_date_format_yyyyM">yyyy-MM</string>
@@ -1148,10 +1163,12 @@ Please check and refresh"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vip_home_privilege">VIP benefits</string>
      <string name="vip_home_qq">QQ: %s</string>
+     <string name="vip_home_qq_none">QQ : N/A</string>
      <string name="vip_home_retain_level">&lt;font color=#2a2a2a>Fees due:&lt;/font>&lt;font color=#fd8000>%d&lt;/font>&lt;font color=#2a2a2a>RMB to upgrade.&lt;/font></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vip_home_status">VIP Status</string>
      <string name="vip_home_tel">Телефон: %s</string>
+     <string name="vip_home_tel_none">Phone: N/A</string>
      <string name="vip_home_update_level">&lt;font color=#2a2a2a>Points needed to level up&lt;/font>&lt;font color=#fd8000>%d&lt;/font>&lt;font color=#2a2a2a>RMB&lt;/font></string>
      <string name="vip_home_valid_end_pre">&lt;font color=#2a2a2a>Expires in: &lt;/font>%s</string>
      <string name="vip_home_valid_end_suf">&lt;font color=#767676>(%d days remaining)&lt;/font></string>
