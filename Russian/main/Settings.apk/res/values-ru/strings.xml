@@ -1814,6 +1814,10 @@ Are you sure to change?"</string>
      <string name="power_cell">Связь с сетью</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="power_center">Power</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="power_hide_mode_summary">Backstage behavior control applications, significant savings in electricity</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="power_hide_mode_title">Hide Mode</string>
      <string name="power_idle">Режим ожидания</string>
      <string name="power_mgr">Питание</string>
      <string name="power_mode">Режим питания</string>

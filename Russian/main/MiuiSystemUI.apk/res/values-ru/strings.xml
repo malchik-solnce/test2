@@ -162,6 +162,10 @@
      <string name="oldman_status_bar_time_format_24">HH:mm</string>
      <string name="reject_call">Отклонение вызова</string>
      <string name="return_to_incall_screen">Нажмите, для возврата к вызову</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="screen_button_notification_text">To turn them on, press the Home and Power buttons simultaneously.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="screen_button_notification_title">Navigation buttons are turned off</string>
      <string name="screenshot_failed_text">Не удалось сохранить скриншот. Возможно, накопители заняты.</string>
      <string name="screenshot_saved_text">Нажмите, чтобы просмотреть</string>
      <string name="screenshot_saved_title">Скриншот сохранен</string>

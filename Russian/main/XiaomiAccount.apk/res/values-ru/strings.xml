@@ -179,8 +179,6 @@ Please input the verification code in the email"</string>
      <string name="facebook">facebook</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="failed_dup_secure_phone_number">This phone number is already associated with another Mi Account</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="failed_get_mibi_info">Failed to get the mi credit</string>
      <string name="find_password_on_web_msg">Посети account.mi.com для получения пароля</string>
      <string name="forget_password"><u>Забыл пароль?</u></string>
      <string name="get_back_pwd">Получить пароль</string>
@@ -189,8 +187,6 @@ Please input the verification code in the email"</string>
      <string name="get_email_verifycode_exceed_limit">Too many verification codes have been sent to this email address. Wait 24 hours and try again.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="hide_mibi_info">Mi credit info has been hidden</string>
      <string name="input_captcha_hint">Введи код</string>
      <string name="input_password_hint">Введи пароль</string>
      <string name="input_vcode_hint">Введи проверочный код</string>
@@ -199,8 +195,6 @@ Please input the verification code in the email"</string>
      <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
      <string name="loading">Loading…</string>
      <string name="loading_micloud_sync_data">Loading…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="loading_mili_center">Loading Mi Credit</string>
      <string name="login">Войти</string>
      <string name="login_failed">Не удалось войти</string>
      <string name="login_instead_reg">Использовать этот номер телеофна</string>
@@ -214,7 +208,6 @@ Please input the verification code in the email"</string>
      <string name="mi_account_identity_title">Verify your identity</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mi_pass">Mi Pass</string>
-     <string name="mibi_balance">%s Mi Credits</string>
      <string name="micloud_account_name">Mi аккаунт</string>
      <string name="micloud_area_code_title">Код страны</string>
      <string name="micloud_delete_account">Удалить аккаунт</string>
