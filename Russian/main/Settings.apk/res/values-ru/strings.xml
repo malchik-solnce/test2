@@ -220,6 +220,16 @@
      <string name="background_data_dialog_message">Отключение фонового режима обмена данными экономит заряд батареи и уменьшает объем трафика. Однако некоторые приложения могут использовать этот режим даже после его отключения.</string>
      <string name="background_data_dialog_title">Отключить фоновый режим?</string>
      <string name="background_data_summary">Синхронизация, отправка и получение данных доступны всегда</string>
+     <string name="background_location_control_summary">"Allow or prevent apps from getting your device's location info in the background"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="background_location_control_title">Background location access</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="background_location_deselect_apps">Deselect All</string>
+     <string name="background_location_requests_summary">"Allow apps to use location service when you're not using them"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="background_location_requests_title">Allow background location</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="background_location_select_apps">Select All</string>
      <string name="background_process_stop_description">Это старый процесс приложения, который по-прежнему запущен на случай, если он снова понадобится. Обычно останавливать его не требуется.</string>
      <string name="backup_configure_account_default_summary">Не найдены аккаунты с резервными копиями данных</string>
      <string name="backup_configure_account_title">Резервный аккаунт</string>
@@ -501,8 +511,6 @@
      <string name="bt_trace_log_summary">Включить журнал трассировки Bluetooth</string>
      <string name="bugreport_in_power">Отчеты об ошибках</string>
      <string name="bugreport_in_power_summary">Показывать в меню опцию отправки отчета об ошибке</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bugreport_tool_log">Capture Bugreport</string>
      <string name="bugreport_tool_log_toast">Лог сохранен в %s</string>
      <string name="bugreport_tool_log_toast_generate_bugreport">Создание отчета об ошибке</string>
      <string name="build_number">Номер сборки:</string>
@@ -566,6 +574,8 @@
      <string name="check_update">Check for updates</string>
      <string name="checkbox_notification_same_as_incoming_call">Использовать этот уровень громкости также для уведомлений</string>
      <string name="checking_for_updates">Checking for updates…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="choose_smartcover_type">Choose case type</string>
      <string name="choose_timezone">Выбрать часовой пояс</string>
      <string name="cleaner">Очистка</string>
      <string name="clear_activities">Удалить настройки по умолчанию</string>
@@ -597,6 +607,8 @@
      <string name="common_settings">Частые</string>
      <string name="complete_settings">Полные</string>
      <string name="computing_size">Вычисление…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="config_charging_function_name">charging</string>
      <string name="config_list_label">Настроенные сети</string>
      <string name="configure_input_method">Настройка методов ввода</string>
      <string name="confirm_download_cancelation_dialog_message">Cancel download?</string>
@@ -1503,14 +1515,6 @@ Dissatisfied? Try"</string>
      <string name="mobile_no_provisioning_url">%1$s не имеет известных сайт продовольствования</string>
      <string name="mobile_unknown_sim_operator">Неизвестный оператор</string>
      <string name="model_number">Модель:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="modem_tool_log">Capture Modem Logs</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="modem_tool_log_start">Start Capturing</string>
-     <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="modem_tool_log_stop">Stop Capturing</string>
-     <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
      <string name="move_app">Переместить</string>
      <string name="move_app_failed_dlg_text">Не удалось переместить приложение %1$s</string>
      <string name="move_app_to_internal">На телефон</string>
@@ -1566,6 +1570,8 @@ Dissatisfied? Try"</string>
      <string name="music_dirac_mode_general_earbuds">General earbuds</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_dirac_mode_general_inear">General inear</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="music_dirac_mode_headset">Mi Headphones</string>
      <string name="music_dirac_mode_in_ear">Mi in-ear headphones</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_dirac_mode_off">Dirac off</string>
@@ -1574,6 +1580,10 @@ Dissatisfied? Try"</string>
      <string name="music_dirac_mode_piston_2">Mi piston-2</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_dirac_mode_piston_basic">Basic Edition</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="music_dirac_mode_piston_standard">Standard Edition</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="music_dirac_mode_piston_youth">Youth Edition</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="music_dolby_mode_movie">Video</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -1668,6 +1678,8 @@ Dissatisfied? Try"</string>
      <string name="no_updates_warning2">"Relax, we'll tell you if there's an update :)"</string>
      <string name="noise_suppression">Подавление шума</string>
      <string name="normal_date_format">По умолчанию (%s)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="normal_smartcover_title">Opaque front cover</string>
      <string name="not_installed">Не установлено</string>
      <string name="notification_breathing_light_color_title">Уведомления</string>
      <string name="notification_breathing_light_freq_title">Частота мигания</string>
@@ -1802,6 +1814,10 @@ Are you sure to change?"</string>
      <string name="power_cell">Связь с сетью</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="power_center">Power</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="power_hide_mode_summary">Backstage behavior control applications, significant savings in electricity</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="power_hide_mode_title">Hide Mode</string>
      <string name="power_idle">Режим ожидания</string>
      <string name="power_mgr">Питание</string>
      <string name="power_mode">Режим питания</string>
@@ -2338,6 +2354,8 @@ Are you sure to change?"</string>
      <string name="slot_status_title">Информация IMEI</string>
      <string name="small_font">Маленький</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="smallwindow_smartcover_title">Transparent front cover</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="smartcover_sensitive_title">Smartcover mode</string>
      <string name="sms_application_title">Приложение для обмена SMS</string>
      <string name="sms_change_default_dialog_text" formatted="false">>Использовать приложение для сообщений «%s» вместо «%s»?</string>
@@ -2688,6 +2706,10 @@ Are you sure to change?"</string>
      <string name="usage_type_video">Видео</string>
      <string name="usage_type_wake_lock">Активный режим</string>
      <string name="usage_type_wifi_running">Wi-Fi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="usb_charging_summary">Turn off all other USB connection features to speed up charging.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="usb_charging_title">Speed up charge</string>
      <string name="usb_connection_category">Подключить как</string>
      <string name="usb_host_mode_subtext">Для использования игровых контроллеров и других устройств с USB портом. Может уменьшиться время работы батареи.</string>
      <string name="usb_host_mode_text">Включить режим USB хоста</string>

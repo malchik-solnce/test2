@@ -78,6 +78,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="min_sleep_time">1</string>
      <string name="more">Еще</string>
+     <string name="multi_subscriptions_subtitle_title">Cilck to listen %1$s/%2$s</string>
+     <string name="multi_subscriptions_title">%1$d of your subscriptions are updated</string>
      <string name="my_favorite">Мое избранное</string>
      <string name="my_program">Локально</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -96,6 +98,7 @@
      <string name="notification_description_from_radio">Радио</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
+     <string name="one_subscription_title">Your subscription to the %1$s program update!</string>
      <string name="play_local_sound">Воспроизводится локальный файл: %1$s</string>
      <string name="play_quality_toast">Выберите качество воспроизведения</string>
      <string name="presonal_center">Настройки акканута</string>

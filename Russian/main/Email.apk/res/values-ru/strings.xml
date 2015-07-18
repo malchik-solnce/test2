@@ -128,6 +128,8 @@
      <string name="account_setup_failed_dlg_certificate_message">Не удалось установить защищенное подключение к серверу</string>
      <string name="account_setup_failed_dlg_certificate_message_fmt">"Не удалось установить защищенное подключение к серверу.
 %s."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_setup_failed_dlg_device_locked">Your address was blocked by device lock</string>
      <string name="account_setup_failed_dlg_edit_details_action">Изменить сведения</string>
      <string name="account_setup_failed_dlg_server_message">Не удалось подключиться к серверу</string>
      <string name="account_setup_failed_dlg_server_message_fmt">"Can't connect to server.
@@ -270,6 +272,10 @@
      <string name="attachment_not_exists">The attachment is not available!</string>
      <string name="attachment_not_found">Не удалось загрузить файл</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="attachment_open_SecurityException_hint">Check permissions, damage, etc.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="attachment_open_SecurityException_title">Failed to open file</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="attachment_stop_all">Stop</string>
      <string name="attachment_text">Текст</string>
      <string name="attachment_type_blocked">Не удается сохранить или открыть этот тип прикрепленных файлов</string>
@@ -359,6 +365,10 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="contact_edit_set_black_list">Set blacklist</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="contact_edit_set_black_list_from">Delete all mails from this sender</string>
+     <string name="contact_edit_set_black_list_receive">Delete all mails of this recipient (normally an email group)</string>
+     <string name="contact_edit_set_black_list_receive_summary">To/Cc lists only contain this recipient</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="contact_edit_set_phone_contact">Edit phone contacts</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="contact_edit_set_pop_up_tips">Popup tips</string>
@@ -432,6 +442,8 @@
      <string name="dialog_account_auto_sync_setting_no_open">"Sync mail option is off,can't receive new messages."</string>
      <string name="dialog_auto_download_failed">Автозагрузка не закончена</string>
      <string name="dialog_auto_sync_setting_no_open">"Sync option is off,can't receive new messages."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server error.</string>
      <string name="dialog_insufficient_space_for_single_account_on_internal">Недостаточно места для %s</string>
      <string name="dialog_insufficient_space_on_external">Не удается завершить автозагрузку. Нет места на внешней памяти.</string>
      <string name="dialog_insufficient_space_on_internal">Недостаточно места во внутренней памяти</string>
@@ -922,6 +934,25 @@
      <string name="provider_note_live">Доступ по протоколу POP, позволяющий этой программе подключаться, разрешен только в некоторых аккаунтах Plus. Если Вам не удается войти с помощью своего адреса электронной почты и пароля, скорее всего, у вас бесплатный аккаунт (не Plus). Чтобы войти в такой аккаунт, используйте браузер.</string>
      <string name="provider_note_t_online">Прежде чем настраивать аккаунт, перейдите на веб-сайт оператора связи и установите пароль для доступа к электронной почте по протоколу POP3</string>
      <string name="pull_to_refresh">Потяни, чтобы обновить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="push_wps_better_confirm_download">Download</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="push_wps_better_confirm_exit">Other apps to open</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="push_wps_better_confirm_message">WPS Office can better support this type of attachment, so that your work more efficient</string>
+     <string name="push_wps_better_confirm_noshow_hint">"Don't show again"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="push_wps_better_confirm_title">Recommended WPS Office</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="push_wps_confirm_cancel">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="push_wps_confirm_download">Download</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="push_wps_confirm_message">No application can open this attachment, recommended the use of WPS Office</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="push_wps_confirm_title">Recommended WPS Office</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="push_wps_no_response_app">No response application</string>
      <string name="quick_1">Спасибо!</string>
      <string name="quick_2">Отличная идея!</string>
      <string name="quick_3">Я отвечу позже</string>
@@ -1060,6 +1091,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ser_resp_err_map_pserr">Incorrect username or password</string>
      <string name="ser_resp_err_map_serclosed">Сервис закрыт</string>
+     <string name="ser_resp_err_map_serclosed_url_tag">How to solve?</string>
      <string name="ser_resp_err_map_ssl">"Пожалуйста, попробуй выбрать 'SSL / TLS (принимать все сертификаты)' в 'типе безопасности'"</string>
      <string name="set_network">Настроить сеть</string>
      <string name="settings_activity_title">Настройки</string>
@@ -1146,6 +1178,8 @@
      <string name="unread_from_someone">Unread from [%s]</string>
      <string name="unread_string">не прочитано</string>
      <string name="unsent_messages_in_outbox">Неотправленных сообщений в папке %2$s: %1$s</string>
+     <string name="unzip_file_failed">Unzip failed！</string>
+     <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
      <string name="updated_at">Обновлено: %1$s</string>
      <string name="updated_just_now">Обновлено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -1157,7 +1191,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="upload_log_success">Logs uploaded successfully</string>
      <string name="upload_log_title">Upload the diagnostic logs?</string>
-     <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="upload_log_yes">Upload</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

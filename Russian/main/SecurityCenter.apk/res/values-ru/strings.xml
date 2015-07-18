@@ -56,19 +56,23 @@
      <string name="battery_history_minutes">%1$d мин. %2$d с.</string>
      <string name="battery_history_minutes_no_seconds">%1$dм.</string>
      <string name="battery_history_seconds">%1$d с.</string>
-     <string name="boot_day_shutdown_day">Device will power on in %1$dd at %2$s and power off in %3$dd at %4$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="battery_stats_charging_label">Charging</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="battery_stats_gps_on_label">GPS on</string>
+     <string name="battery_stats_on_battery">%1$s on battery</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="battery_stats_phone_signal_label">Mobile network signal</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="battery_stats_screen_on_label">Screen on</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="battery_stats_wake_lock_label">Awake</string>
+     <string name="battery_stats_wifi_running_label">Wi‑Fi</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="boot_reminder">Power on your device at a scheduled time</string>
-     <string name="boot_reminder_day">Device will power on in %1$dd %2$dh %3$dm</string>
-     <string name="boot_reminder_day_hour">Device will power on in %1$dd %2$dh</string>
-     <string name="boot_reminder_hour">Device will power on in %1$dh %2$dm</string>
-     <string name="boot_reminder_minute">Device will power on in %1$dm</string>
-     <string name="boot_reminder_only_day">Device will power on in %1$dd</string>
-     <string name="boot_reminder_only_hour">Device will power on in %1$dh</string>
-     <string name="boot_shutdown">Device will power on at %1$s and power off at %2$s</string>
-     <string name="boot_shutdown_day">Device will power on at %1$s and power off in %2$dd at %3$s</string>
      <string name="boot_time">Device will power on at %1$s</string>
      <string name="boot_time_day">Device will power on in %1$dd at %2$s</string>
+     <string name="boot_time_day_tomorrow">Power on tomorrow at %1$s</string>
      <string name="brightness_auto_adjust_off">Яркость подсветки можно регулировать вручную путем перемещения ползунка. Яркость экрана останется неизменной при любом окружающем освещении.</string>
      <string name="brightness_auto_adjust_on">Эффект автояркости можно регулировать путем перемещения ползунка. Эффект яркости экрана будет меняться в зависимости от света в помещении или на улице.</string>
      <string name="btn_text_cleanup_all">Очистить</string>
@@ -300,6 +304,29 @@
      <string name="menu_text_networkassistants_remain">Трафик</string>
      <string name="menu_text_power_manager">Управление питанием</string>
      <string name="menu_text_power_percent">Питание %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_report_activity_label">Monthly report</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_report_click_reconnect_network">Try again</string>
+     <string name="month_report_disconnect_tip">"Can't connect to the network"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_report_history_activity_label">Report history</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_report_month_report_switch">Show monthly report</string>
+     <string name="month_report_network_dialog_description">Allow Security app to connect to the internet to get news?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_report_network_dialog_positive">Allow</string>
+     <string name="month_report_network_dialog_title">"Can't get security news"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_report_result_share">Share</string>
+     <string name="month_report_share_img_fail">"Couldn't share"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_report_share_loading">Loading</string>
+     <string name="month_report_warning_dialog_description">"To view monthly report, turn this feature on in Security app's Settings."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_report_warning_dialog_positive">Turn on</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="month_report_warning_dialog_title">Monthly security report</string>
      <string name="name_antivirus">"Tencent's Privacy Policy"</string>
      <string name="never">Один раз</string>
      <string name="notification_button_text_of_low_memory">Очистить</string>
@@ -514,6 +541,7 @@
      <string name="preference_key_default_apps_manager">key_default_apps_manager</string>
      <string name="preference_key_lock_screen_memory_clean">lock_screen_memory_clean</string>
      <string name="preference_key_module_permissions">key_module_permissions</string>
+     <string name="preference_key_month_report_switch">key_month_report_switch</string>
      <string name="preference_key_notification_bar_manager">key_notification_bar_manager</string>
      <string name="preference_key_open_virus_cloud_scan">key_open_virus_cloud_scan</string>
      <string name="preference_key_open_virus_install_monitor">key_open_virus_install_monitor</string>
@@ -543,13 +571,11 @@
      <string name="score_pts">%</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="settings_title_permission">Permission settings</string>
-     <string name="shutdown_boot">Device will power off at %1$s and power on at %2$s</string>
-     <string name="shutdown_boot_day">Device will power off at %1$s and power on in %2$dd at %3$s</string>
      <string name="shutdown_cancel_reminder">"Didn't power off"</string>
      <string name="shutdown_cancel_reminder_detail">"Device didn't power off because you were in the middle of a call"</string>
-     <string name="shutdown_day_boot_day">Device will power off in %1$dd at %2$s and power on in %3$dd at %4$s</string>
      <string name="shutdown_time">Device will power off at %1$s</string>
      <string name="shutdown_time_day">Device will power off in %1$dd at %2$s</string>
+     <string name="shutdown_time_day_tomorrow">Power off tomorrow at %1$s</string>
      <string name="st_title_mode_choose_group">Выбери режим</string>
      <string name="suffix_virus_count_bottom">всего</string>
      <string name="suffix_virus_count_top">подозрений</string>

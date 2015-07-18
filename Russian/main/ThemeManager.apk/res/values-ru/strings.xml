@@ -59,6 +59,10 @@
      <string name="gift_present_dlg_anonymous">Anonymous gift</string>
      <string name="gift_present_dlg_input_hint">Mi Account ID/Phone</string>
      <string name="gift_present_dlg_no_fee">"You won't be charged by your carrier for sending gifts"</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: "Theme can't be gifted more than %1$s times." -->
      <string name="gift_present_dlg_present_max_limit">"Theme can't be gifted more than %$1s times."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gift_present_dlg_share">Create code and share gift</string>
@@ -231,6 +235,7 @@
      <string name="resource_menu_refresh">Обновить</string>
      <string name="resource_mute">Нет</string>
      <string name="resource_my">Телефон</string>
+     <string name="resource_network_diagnostics"><u>Network Diagnostics</u></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_no_match_app">No app was found to handle this action.</string>
      <string name="resource_no_network_text">"Can't connect to the network."</string>
@@ -258,11 +263,40 @@
      <string name="resource_ringtone_playing_error">Ошибка проигрывания</string>
      <string name="resource_ringtone_volume_mute">Громкость мелодии отключена</string>
      <string name="resource_save_to_note">Сохранить в заметки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_search_color">Choose a color to search</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_search_color_hint_black">Black</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_search_color_hint_blue">Blue</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_search_color_hint_brown">Brown</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_search_color_hint_cyan">Cyan</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_search_color_hint_gray">Gray</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_search_color_hint_green">Green</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_search_color_hint_orange">Orange</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_search_color_hint_pink">Pink</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_search_color_hint_purple">Purple</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_search_color_hint_red">Red</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_search_color_hint_white">White</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_search_color_hint_yellow">Yellow</string>
      <string name="resource_search_list_empty">"Didn't find anything"</string>
      <string name="resource_see_more">Еще</string>
      <string name="resource_select">Выбрать</string>
-     <string name="resource_select_ringtone_confirm">Select this sound?</string>
-     <string name="resource_select_ringtone_confirm_picker">Select this sound?</string>
+     <string name="resource_select_alarm_audio_confirm">Select this notification sound?</string>
+     <string name="resource_select_audio_confirm_picker">Select this sound?</string>
+     <string name="resource_select_boot_audio_confirm">Select this boot sound?</string>
+     <string name="resource_select_notification_audio_confirm">Select this alarm sound?</string>
+     <string name="resource_select_ringtone_audio_confirm">Select this ringtone?</string>
      <string name="resource_selected">Лучшие</string>
      <string name="resource_send">Отправить</string>
      <string name="resource_server_alert_dialog_title">Технические неполадки</string>
@@ -368,6 +402,8 @@
      <string name="theme_purchased_non_local">Online</string>
      <string name="theme_select_others">Другое</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="theme_setting">Settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="theme_user_agreement_allow">OK</string>
      <string name="theme_user_agreement_content1">Прочитайте действующие условия, прежде чем использовать этот продукт:</string>
      <string name="theme_user_agreement_content2"> Пользовательское соглашение</string>
@@ -385,6 +421,7 @@
      <string name="title_component">Компоненты</string>
      <string name="title_system_resource">Системные</string>
      <string name="to_activate_the_account">Активируйте свой аккаунт Xiaomi</string>
+     <string name="vip_level_value">LV%d</string>
      <string name="wallpaper_crop">Обрезать</string>
      <string name="wallpaper_decoded_error">Не удалось декодировать</string>
      <string name="wallpaper_loading_text">Загрузка…</string>

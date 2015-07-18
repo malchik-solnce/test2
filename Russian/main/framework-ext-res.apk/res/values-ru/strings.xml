@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <string name="alwaysUsePrompt">Использовать по умолчанию</string>
+     <string name="auto_start_warning_allow">Разрешить</string>
+     <string name="auto_start_warning_deny">Запретить</string>
+     <string name="auto_start_warning_title">Разрешить %s автозапуск в дальшейшем?</string>
+     <string name="call_record_or">" или "</string>
+     <string name="call_record_sample_prefix_miui">Запись вызова</string>
+     <string name="caller_info_name_delimiter">" или "</string>
+     <string name="copy">Копировать</string>
+     <string name="cut">Вырезать</string>
+     <string name="first_back_long_press_message">"Нажмите и удерживайте кнопку назад, чтобы принудительно закрыть приложение и его процессы.
+
+Чтобы выключить эту функцию, зайдите в настройки -> дополнительно -> кнопки."</string>
+     <string name="force_exit_message">Приложение %1$s закрыто</string>
+     <string name="force_exit_skip_message">%1$s системное приложение. Нельзя закрыть.</string>
+     <string name="global_actions_airplane_mode">Режим полета</string>
+     <string name="global_actions_reboot">Перезагрузка</string>
+     <string name="global_actions_shutdown">Выключение</string>
+     <string name="global_actions_silent_mode">Режим без звука</string>
+     <string name="handy_mode_summary">Для выхода нажмите на свободное место за экраном</string>
+     <string name="handy_mode_title">Управление одной рукой</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="key_btn_ok">OK</string>
+     <string name="key_btn_space">Пробел</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="location_usage_restricted_body">Touch to remove restriction.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="location_usage_restricted_title">Background location restricted</string>
+     <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
+     <string name="lockscreen_access_pattern_cleared">Шаблон очищен</string>
+     <string name="lockscreen_access_pattern_detected">Шаблон распознан</string>
+     <string name="lockscreen_access_pattern_start">Шаблон начат</string>
+     <string name="memory_clear_nothing_result">Нет памяти для очистки</string>
+     <string name="memory_clear_result">Очищено %1$s | Свободно %2$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui">miui</string>
+     <string name="paste">Вставить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="perm_send_push_dspt">Allow Mi push messages</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="perm_send_push_lab">Send push message</string>
+     <string name="permdesc_manageLocationPolicy">Allows the app to manage location policies and define app-specific rules.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="permlab_manageLocationPolicy">manage location policy</string>
+     <string name="reboot_confirm_title">Перезагрузить устройство?</string>
+     <string name="reboot_progress">Перезагрузка…</string>
+     <string name="replace">Заменить</string>
+     <string name="screen_button_disabled_message">Наэкранные кнопки отключены. Чтобы включить нажмите одновременно кнопки домой и питание.</string>
+     <string name="screen_button_enabled_message">Наэкранные кнопки включены</string>
+     <string name="screen_button_notification_text">Для включения нажмите кнопки домой и питание одновременно</string>
+     <string name="screen_button_notification_title">Кнопки отключены</string>
+     <string name="screen_on_proximity_sensor_hint">Чтобы выключить, нажмите кнопки назад и громкость+ одновременно</string>
+     <string name="screen_on_proximity_sensor_summary">Не закрывайте верхнюю часть телефона</string>
+     <string name="screen_on_proximity_sensor_title">Защита датчиком</string>
+     <string name="screen_paper_mode_enter_toast">Режим чтения включен. Вы можете выключить его в дополнительных настройках > режим чтения.</string>
+     <string name="screen_rotation_freeze_message">Автоповорот отключен</string>
+     <string name="select">Выбрать</string>
+     <string name="select_all">Выбрать все</string>
+     <string name="shutdown_confirm_title">Выключить устройство?</string>
+     <string name="shutdown_progress">Выключение…</string>
+     <string name="sim_added_reboot_confirm">Перезагрузить</string>
+     <string name="sim_added_reboot_title">SIM-карта будет активирована после перезагрузки устройства</string>
+     <string name="softap_notifif_summary">%d подключен</string>
+     <string name="softap_notifif_title">Модем "%s" включен</string>
+     <string name="status_bar_toggle_ac">Доступ</string>
+     <string name="status_bar_toggle_ac_action">com.android.settings/.Settings$AccessControlActivity</string>
+     <string name="status_bar_toggle_auto_brightness">Подсветка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
+     <string name="status_bar_toggle_brightness">Подсветка</string>
+     <string name="status_bar_toggle_data">Интернет</string>
+     <string name="status_bar_toggle_divider">Еще</string>
+     <string name="status_bar_toggle_drive_mode">Авто</string>
+     <string name="status_bar_toggle_flight_mode">Полет</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="status_bar_toggle_gps">GPS</string>
+     <string name="status_bar_toggle_lock">Блокировка</string>
+     <string name="status_bar_toggle_mute">Без звука</string>
+     <string name="status_bar_toggle_network_type">Тип сети</string>
+     <string name="status_bar_toggle_paper_mode">Чтение</string>
+     <string name="status_bar_toggle_paper_mode_action">com.android.settings/.display.ScreenPaperModeActivity</string>
+     <string name="status_bar_toggle_power_mode">Режим</string>
+     <string name="status_bar_toggle_privacy_mode">Гость</string>
+     <string name="status_bar_toggle_privacy_mode_action">com.android.settings/.Settings$AccessControlActivity</string>
+     <string name="status_bar_toggle_quiet_mode">Тишина</string>
+     <string name="status_bar_toggle_reboot">Перезагрузка</string>
+     <string name="status_bar_toggle_rotate">Поворот</string>
+     <string name="status_bar_toggle_screen_button">Кнопки</string>
+     <string name="status_bar_toggle_screenshot">Скриншот</string>
+     <string name="status_bar_toggle_shutdown">Выключение</string>
+     <string name="status_bar_toggle_sync">Синхр.</string>
+     <string name="status_bar_toggle_sync_auto">Автосинхр.</string>
+     <string name="status_bar_toggle_sync_manual">Ручная синхр.</string>
+     <string name="status_bar_toggle_syncing">Синхронизация</string>
+     <string name="status_bar_toggle_torch">Фонарик</string>
+     <string name="status_bar_toggle_vibrate">Вибрация</string>
+     <string name="status_bar_toggle_wifi">Wi-Fi</string>
+     <string name="status_bar_toggle_wifi_ap">Wi-Fi модем</string>
+     <string name="unknown_caller">Неизвестный номер</string>
+</resources>

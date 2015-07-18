@@ -28,6 +28,12 @@
         <item>4 звезды</item>
         <item>5 звезд</item>
      </string-array>
+     <string-array name="bbs_more">
+        <item>Enlarge text</item>
+        <item>Follow thread starter</item>
+        <item>Copy link</item>
+        <item>Full article</item>
+     </string-array>
      <string-array name="constellations">
         <item>Овен</item>
         <item>Телец</item>
@@ -616,6 +622,13 @@
         <item>edit SMS or MMS</item>
         <item>write to your social stream</item>
         <item>write sync settings</item>
+     </string-array>
+     <string-array name="personal_menu">
+        <item>Gift Packs</item>
+        <item>Promotion</item>
+        <item>Payment</item>
+        <item>Customer</item>
+        <item>Notice</item>
      </string-array>
      <string-array name="purchase_record_types">
         <item>@string/purchase_record_type_all</item>

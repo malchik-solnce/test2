@@ -49,6 +49,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="display_expire_netiv1">Month Owner</string>
      <string name="doc_filter">ДОКУМЕНТЫ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="download">Downloads</string>
      <string name="download_complete">Скачанные</string>
      <string name="download_error">Ошибка</string>
      <string name="download_error_insufficient_space">Недостаточно места</string>
@@ -82,6 +84,10 @@
      <string name="download_title_sorted_by_size">Загрузки – по размеру</string>
      <string name="download_wait_connect">Ожидание подключения к сети</string>
      <string name="download_when_network_connected">Использовать мобильную сеть</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="downloaded_empty">No downloaded content</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="downloading_empty">No downloading content</string>
      <string name="downloads_operating">Загрузка…</string>
      <string name="dredge_xunlei_account">Создать аккаунт Xunlei</string>
      <string name="editmode_menu_delete">Удалить</string>
@@ -166,6 +172,7 @@
      <string name="select_all">Выбрать все</string>
      <string name="select_operation_items">Пожалуйста выберите</string>
      <string name="selected_count">Выбрано %1$d из %2$d</string>
+     <string name="show_more">More(%s)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="toast_xunlei_engine_open">Turned Xunlei download accelerator on</string>
      <string name="turn_off_xunlei_message">После отключения возможна более медленная скорость загрузки</string>

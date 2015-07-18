@@ -43,6 +43,10 @@
      <string name="accessibility_wimax_signal_full">Надежный сигнал WiMAX</string>
      <string name="accessibility_wimax_three_bars">Сигнал WiMAX: три деления</string>
      <string name="accessibility_wimax_two_bars">Сигнал WiMAX: два деления</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_usb_message">Insert the SIM card to activate the USB function</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_usb_title">activate USB</string>
      <string name="always_use_accessory">Использовать по умолчанию для этого USB-аксессуара</string>
      <string name="always_use_device">Использовать по умолчанию для этого USB-устройства</string>
      <string name="app_label">Графический интерфейс системы</string>
@@ -82,11 +86,17 @@
      <string name="description_direction_left">Сдвиньте влево для %s</string>
      <string name="description_direction_up">Сдвиньте вверх для %s</string>
      <string name="description_target_search">Поиск</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="disable_notification_summary">The notification will not show after disable</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="disable_notification_title">Disable Notification</string>
      <string name="dismount_storage">Только зарядка</string>
      <string name="dlg_confirm_kill_storage_users_text">При включении режима накопителя некоторые приложения будут недоступны</string>
      <string name="dlg_confirm_kill_storage_users_title">Включить USB-накопитель</string>
      <string name="dlg_error_title">USB операция неудачна</string>
      <string name="drive_mode_tip">Вы находитесь в автомобиле. Пожалуйста, будьте осторожны за рулем при работе с телефоном.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="expanded_notification_manager">Manage</string>
      <string name="ext_media_badremoval_notification_message">Размонтируйте USB-хранилище перед извлечением</string>
      <string name="ext_media_badremoval_notification_title">USB-хранилище неожиданно удалено</string>
      <string name="ext_media_checking_notification_message">Проверка на наличие ошибок…</string>
@@ -143,6 +153,8 @@
      <string name="notification_otg_unknow_in">Устройство OTG подключено</string>
      <string name="notification_otg_unknow_out">Устройство OTG отключено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="notification_template_text">has a message, touch to show</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="oldman_airplane_mode_text">airplane</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="oldman_incall_text">incall</string>
@@ -150,6 +162,10 @@
      <string name="oldman_status_bar_time_format_24">HH:mm</string>
      <string name="reject_call">Отклонение вызова</string>
      <string name="return_to_incall_screen">Нажмите, для возврата к вызову</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="screen_button_notification_text">To turn them on, press the Home and Power buttons simultaneously.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="screen_button_notification_title">Navigation buttons are turned off</string>
      <string name="screenshot_failed_text">Не удалось сохранить скриншот. Возможно, накопители заняты.</string>
      <string name="screenshot_saved_text">Нажмите, чтобы просмотреть</string>
      <string name="screenshot_saved_title">Скриншот сохранен</string>
@@ -201,6 +217,8 @@ d MMMM yyyy"</string>
      <string name="usb_debugging_title">Включить отладку по USB?</string>
      <string name="usb_device_confirm_prompt">Запускать %1$s при подключении этого USB-устройства?</string>
      <string name="usb_device_permission_prompt">Открыть приложению \"%1$s\" доступ к USB-устройству?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="usb_function_charging_text">Connected in charging mode</string>
      <string name="usb_mode_dont_ask">Запомнить мой выбор</string>
      <string name="usb_mode_mount_storage_title">Подключить USB накопитель?</string>
      <string name="usb_mode_notification">Режим накопителя</string>

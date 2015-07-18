@@ -13,6 +13,7 @@
         <item quantity="other">%d songs added</item>
         <item quantity="one">%d song added</item>
      </plurals>
+     <!-- The size of the array does not match! Now: 2 must: 3 -->
      <plurals name="Nnew_tracks_count">
         <item quantity="other">%d new</item>
      </plurals>

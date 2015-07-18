@@ -3,7 +3,11 @@
 <resources>
      <string name="activity_not_found">Приложение не найдено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_already_exist">App already exists</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_being_backup_message">App is being backed up.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_being_restored_message">App is being restored</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_category_books">Books</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -79,6 +83,8 @@
      <string name="delete">Delete</string>
      <string name="delete_wallpaper_message">Delete %1$d wallpaper?</string>
      <string name="delete_wallpapers_message">Delete %1$d wallpapers?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="deselect_all">Deselect all</string>
      <string name="disable_wallpaper_scroll">Turn side-scrolling off</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="download_action">Download</string>
@@ -134,6 +140,8 @@
      <string name="gadget_photo_24_label">Фоторамка 2х4</string>
      <string name="gadget_photo_44_label">Фоторамка 4х4</string>
      <string name="gadget_photo_label">Фоторамка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="gadget_power_clear_button_label">Super Cleaner</string>
      <string name="gadget_search_label">Поиск</string>
      <string name="gadget_weather_app_not_installed">Нажмите для установки погоды MIUI</string>
      <string name="gadget_weather_aqi_title">Качество воздуха</string>
@@ -160,7 +168,7 @@
      <string name="image_too_small_message">Original image is not large enought</string>
      <string name="install">Установить</string>
      <string name="invalid_contact_shortcut">Недопустимый ярлык</string>
-     <string name="is_setting_wallpaper_toast">Setting wallpaper…</string>
+     <string name="is_setting_wallpaper_message">Setting wallpaper…</string>
      <string name="is_system_wallpaper_message">"Can't delete system resources"</string>
      <string name="loading_desktop">Загрузка…</string>
      <string name="loading_wallpaper">Just a sec…</string>
@@ -216,8 +224,19 @@
      <string name="pref_wallpaper_scroll_type_title">Прокрутка обоев</string>
      <string name="preferences_general_title">Основные настройки</string>
      <string name="preferences_title">Настройки рабочего стола</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="recommend_apps_default_title">Empty</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="recommend_apps_notice">Recommended apps</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="recommend_apps_switch_summary">Show recommended apps at the bottom of the screen.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="recommend_apps_switch_title">Recommended apps</string>
+     <string name="recommend_apps_tips">"This feature needs to connect to the internet to work normally. To turn this feature this off, touch this folder's name."</string>
      <string name="reset_scene_prompt">Экран будет сброшен в стандартное расположение</string>
      <string name="scroll_tip_format_when_announce_accessibility">На странице: %1$d приложений: %2$d</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="select_all">Select all</string>
      <string name="select_frame">Рамка</string>
      <string name="select_photo">Фото</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

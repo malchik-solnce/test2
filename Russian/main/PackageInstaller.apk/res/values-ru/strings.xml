@@ -3,6 +3,8 @@
 <resources>
      <string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка</string>
      <string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activity_package_delete_confirm_title">Important Warning</string>
      <string name="allow_source_dlg_text">"%1$s хочет установить другие приложения.
 
 Разрешить и запомнить выбор?"</string>
@@ -11,6 +13,14 @@
      <string name="app_not_found_dlg_text">Приложение не было найдено в списке установленных приложений</string>
      <string name="app_not_found_dlg_title">Приложение не найдено</string>
      <string name="auto_startup_dialog_msg">"Система позволит приложению запускаться автоматически. Разрешить автозапуск?"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_text_cancel">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_text_delete">Delete</string>
+     <string name="button_text_delete_timer">Delete (%d)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_text_next_step">Next</string>
+     <string name="button_text_next_step_timer">Next (%d)</string>
      <string name="caller_app">Запрос от %1$s</string>
      <string name="cancel">Отмена</string>
      <string name="dlg_app_replacement_statement">"Данное приложение заменит уже существующее.
@@ -51,6 +61,10 @@
      <string name="other_relative">Другие разрешения</string>
      <string name="out_of_space_dlg_text">Не удалось установить приложение %1$s. Освободите место и повторите попытку.</string>
      <string name="out_of_space_dlg_title">Недостаточно места</string>
+     <string name="package_delete_confirm_step_1">Delete %s?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="package_delete_confirm_step_2">Deleting this app may cause your system to become unstable.</string>
+     <string name="package_delete_confirm_step_3">"You won't be able to open this app after you delete it."</string>
      <string name="perm_action_accept">Разрешить</string>
      <string name="perm_action_prompt">Спрашивать</string>
      <string name="perm_action_reject">Запретить</string>

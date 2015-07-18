@@ -57,6 +57,8 @@
      <string name="mx_activate_dlg_title">Интернет звонки</string>
      <string name="mx_activate_user_agreement_p1">"Используя этот сервис, Вы соглашаетесь с MIUI VoIP "</string>
      <string name="mx_btn_enable_now">Включить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mx_choose_sim_dlg_title">Please choose phone number to activate Mi Voice</string>
      <string name="mx_dspt_provision">MIUI VoIP позволяет совершать бесплатные звонки другим пользователям MIUI. Может взиматься оплата оператором за использование мобильного интернета.</string>
      <string name="mx_dspt_provision_2">MIUI VoIP позволяет совершать бесплатные звонки другим пользователям MIUI. Может взиматься оплата оператором за использование мобильного интернета. Одно сообщение может быть отправлено для проверка Вашего номера телефона.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -154,6 +156,7 @@
      <string name="voip_free_voice_tip">Free voip call</string>
      <string name="voip_gsm_online">Невозможно совершить интернет звонок во время обычного вызова</string>
      <string name="voip_hang_up_mic_failed">Микрофон недоступен. Убедитесь, что он не используется другим приложением.</string>
+     <string name="voip_incall">"Voip call can't be set up while Voip is incall, please call later"</string>
      <string name="voip_incoming_from_friend">Входящий интернет вызов %1$s</string>
      <string name="voip_network_not_online">Интернет недоступен</string>
      <string name="voip_network_operators">Подключен интернет по сети %1$sG. Может взиматься плата оператором за трафик.</string>

@@ -56,12 +56,18 @@
      <string name="avg_score">%.1f</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="bestv">Bestv</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bmp_quality_mode">Picture Quality mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bmp_quality_mode_desc">Checked, high quality show mode.</string>
      <string name="buffering">Буферизация…</string>
      <string name="buffering_video_netplay_label_v5">Буферизация…</string>
      <string name="cancel">Отмена</string>
      <string name="cancel_favorite_success">Удалено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="check_app_version">Checking latest version...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="check_network">Network is not connected, please check your connection</string>
      <string name="clarity_high">Высокое</string>
      <string name="clarity_standard">Стандартное</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -123,6 +129,8 @@
      <string name="declaration_allow">Agree</string>
      <string name="declaration_content">Принимаешь условия использования предусмотренные Sohu Video, iQiyi и других провайдеров видео?</string>
      <string name="declaration_content_td_custom">Will you agree to connect the internet when you use video?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="defaults">Default</string>
      <string name="delete">Удалить</string>
      <string name="delete_action_text">删除 （%d）</string>
      <string name="delete_addon">Удалить</string>
@@ -177,6 +185,8 @@
      <string name="empty_data">Load error</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="empty_keyword_hint">Keyword cannot be empty</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="empty_tv_exiting">Exiting ...</string>
      <string name="episode_name_format">第%1$s集</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="error_empty_filter_title">No Result</string>
@@ -188,6 +198,14 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="file_not_exist">The file does not exist</string>
      <string name="filter">Фильтр</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="forecast">Forecast</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="forecast_empty_hint">No Epg</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="forecasts">EPG</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="fullscreen">Full Screen</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="funshion">Funshion</string>
      <string name="gong_count_dlna">DLNA: %d</string>
@@ -231,6 +249,8 @@
      <string name="join_alert_title">Join internal test</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="join_hint">Input the invite code</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="key_back_down_toast">Press back key again to exit</string>
      <string name="lastrefresh">Recent update:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lekan">Lekan</string>
@@ -260,6 +280,14 @@
      <string name="minute"> Minute</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mipush_setting">Xiaomi push</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miwifi_app_download_content">downloading ...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miwifi_app_download_title">Xiaomi Router</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miwifi_app_update_button">Update</string>
+     <string name="miwifi_app_update_content">note:this feature requires a router with version 2.0 or higher</string>
+     <string name="miwifi_app_update_title">You need to update router app to use this feature. Update now?</string>
      <string name="month" />
      <string name="my_favorite">Избранное</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -385,6 +413,12 @@
      <string name="select_count_xiang">Выбрано: %d</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="select_none">Deselect all</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="select_tv">Channels</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="select_tv_empty_hint">No Channel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="select_tvs">Channels</string>
      <string name="send">Отправить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="server_summary">Choose Service Server</string>
@@ -438,6 +472,8 @@
      <string name="total_episode">%1$s Episodes</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tudou">Tudou</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="tv_channel_empty_hint">No Channel</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ui_style">UI Style</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

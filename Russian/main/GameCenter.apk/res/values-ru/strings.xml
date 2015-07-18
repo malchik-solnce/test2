@@ -7,13 +7,6 @@
      <string name="VipS_showStr1">VIP уровень</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="about_game_center">About</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accelerate">accelerate</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accelerate_unit">X</string>
-     <string name="accelerate_value_is">speed has been open to %s</string>
-     <string name="accelerating_function_introduction_1">小提示:在此启动游戏,即可享受加速功能</string>
-     <string name="accelerating_function_introduction_2">你可以自己控制游戏速度,用途吗,你懂的...</string>
      <string name="account_all_game">Все игры</string>
      <string name="account_feedback">Отзыв</string>
      <string name="account_local_game_title">Мои игры</string>
@@ -27,17 +20,20 @@
      <string name="account_more_info_vip">VIP</string>
      <string name="account_tag">Я</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="account_unlogin_text">Sign in to you Mi Account</string>
+     <string name="account_title_text_function">Function</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="action_settings">Settings</string>
+     <string name="account_unlogin_text">Sign in to you Mi Account</string>
+     <string name="additional_function">辅助功能</string>
      <string name="alipay_rechare_title_hint">Выберите сумму пополнения:</string>
      <string name="alipay_recharge_hint">Сумма не может превышать 5000rmb</string>
      <string name="alipay_recharge_item_name">Сумма пополнения (rmb):</string>
      <string name="alipay_recharge_title">Пополнение через Alipay</string>
      <string name="all_cat_tag">Все</string>
+     <string name="all_category_name">全部</string>
      <string name="all_comments">Все</string>
      <string name="all_games">Все</string>
      <string name="all_gifts">Все</string>
+     <string name="all_pic">全部图片</string>
      <string name="already_bottom">Больше ничего нет</string>
      <string name="app_comments">Комментарии</string>
      <string name="app_comments_title">Комментариев: %1$s</string>
@@ -53,6 +49,11 @@
      <string name="average_score_person">Игроков: %d</string>
      <string name="background_install_failed">Установка в фоне не удалась</string>
      <string name="bad_comments">Негативные</string>
+     <string name="bbs_publish_no_login">"Can't post threads without login"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bbs_summary_default">0</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bbs_threadlist_no_thread">No threads</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="beta_cat_tag">Beta</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -87,6 +88,10 @@
      <string name="charge_game_lunch_need_login_alert">Need to login to launch paid game</string>
      <string name="check_sd_card">Проверьте свой телефон или вставьте SD-карту</string>
      <string name="check_update">Проверка обновления…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="checkin_continue_days">0</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="checkin_days">0</string>
      <string name="choose_use_app">Использовать с помощью</string>
      <string name="clear_search_history_success">История поиска очищена</string>
      <string name="click_again_exit_app">Нажмите еще раз для выхода</string>
@@ -138,8 +143,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="customer_service_staff_info">Staff information</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="day_ago">days</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_nick_name">KDev Group</string>
      <string name="delete">Удалить</string>
      <string name="description_info">Описание</string>
@@ -150,6 +153,8 @@
      <string name="dialog_nick_name_title">Мой ник</string>
      <string name="display_hide_gift_detail">Сведения о пакете</string>
      <string name="downloadComplete">Загружено!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="download_announcement">Download</string>
      <string name="download_apk_no_sdk_content">Пожалуйста, установите SD-карту для установки игры</string>
      <string name="download_apk_no_sdk_title">SD-карта не найдена</string>
      <string name="download_count">Загрузок: %1$s</string>
@@ -177,14 +182,17 @@
      <string name="downloadmager_downloadother">Завершено (%1$d)</string>
      <string name="downloadmager_downloadqueue">В очереди (%1$d)</string>
      <string name="downloadmanager_retry">Повторить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="drag_to_adjust_speed">drag to adjust the speed</string>
      <string name="edit_comment">Изменить комментарий</string>
      <string name="edit_comment_title">Редактирование: %1$s</string>
      <string name="edit_text_default">Введи комментарий</string>
      <string name="enable_ignore_local_app">%d  updates were ignored</string>
      <string name="enable_updata_local_app">Обновлений: %d</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="enter_game">Enter Game</string>
      <string name="error_sdcard_as_data_storage">Ошибка входа: SD-карта не обнаружена</string>
+     <string name="essence_area">%s-精华区</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="exit">Exit</string>
      <string name="expand_full_text">Развернуть</string>
      <string name="expand_full_text_comment">Развернуть весь текст▼</string>
      <string name="failed_to_add_photo">Ошибка добавления фотографии</string>
@@ -229,22 +237,12 @@
      <string name="first_recommend_download">full installation</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="first_recommend_enter">enter gamecenter</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="float_window_menu_gone">hide</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="float_window_menu_plugin">plugin</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="free_open">Free open</string>
      <string name="from_camre">Сделать фото</string>
      <string name="from_file">Выбрать из галереи</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="from_gamecenter_download">Download From the GameCenter</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="function_declaration">Function declaration</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="function_setting">Features</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="game_accelerated_failure">Game accelerated failure</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="game_category">Category</string>
      <string name="game_check_purchase__failed">"Couldn't complete purchase"</string>
@@ -259,8 +257,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="game_detail_base_information">Base Information</string>
      <string name="game_detail_developer">Разработчик:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="game_detail_fee">Fee</string>
+     <string name="game_detail_download_btn">下载</string>
      <string name="game_detail_fee_type_1">Покупки в приложении</string>
      <string name="game_detail_fee_type_2">Покупки в приложении</string>
      <string name="game_detail_fee_type_3">Беспл.</string>
@@ -276,6 +273,7 @@
      <string name="game_exchange_status">purchasing</string>
      <string name="game_honor_wall">Стена почета</string>
      <string name="game_install">Install:</string>
+     <string name="game_not_installed">You have not installed%1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="game_tag_promotion">Promotion</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -286,6 +284,8 @@
      <string name="gamedetail_guesst_youlike">Похожие игры</string>
      <string name="gamedetail_screenshot_img">%1$s скриншоты</string>
      <string name="gamedetail_screenshot_video">%1$s видео</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="games_update">Games Update</string>
      <string name="gender_female">Женщина</string>
      <string name="gender_male">Мужчина</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -332,6 +332,9 @@
      <string name="gift_in_time_s">с</string>
      <string name="gift_intime_youxiaoqi">Истекает: %s</string>
      <string name="gift_list_title">Содержание GamePack</string>
+     <string name="gift_money_btn_text">我收下了</string>
+     <string name="gift_money_mibi_text">%s米币</string>
+     <string name="gift_money_tip_text">恭喜你获得</string>
      <string name="gift_need">%d pts</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gift_pack">Giftpacks</string>
@@ -347,6 +350,7 @@
      <string name="gift_pack_gift_count_down_minute">%1$s minutes to buy</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gift_pack_gift_end">Closed</string>
+     <string name="gift_pack_gift_nobuy_count">%1$sno have buy gift packs</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gift_pack_gift_presell">Soon</string>
      <string name="gift_pack_gift_price">%1$s points</string>
@@ -385,6 +389,8 @@
      <string name="gift_received_progress">Gift package progress</string>
      <string name="gift_receiving">Receiving…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="gift_search_bar_text">Search</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gift_search_hint">Enter the package name</string>
      <string name="gift_time_day"> дней</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -408,20 +414,34 @@
      <string name="good_comments">Позитивные</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="guess_you_like">Guess you like</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="h5_float_layout_contentdescription_dim">dim</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="h5_float_layout_contentdescription_left">left</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="h5_float_layout_contentdescription_normal">normal</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="h5_float_layout_contentdescription_right">right</string>
+     <string name="h5_float_menu_exit">退出游戏</string>
+     <string name="h5_float_menu_favorite">添加收藏</string>
+     <string name="h5_float_menu_favorite_added">已添加到收藏</string>
+     <string name="h5_float_menu_favorite_shared">分享成功！</string>
+     <string name="h5_float_menu_favorite_shortcut">游戏图标已添加到桌面</string>
+     <string name="h5_float_menu_favorite_shortcut_failed">桌面图标创建失败 T_T</string>
+     <string name="h5_float_menu_hidden">收起菜单</string>
+     <string name="h5_float_menu_share">分享好友</string>
+     <string name="h5_float_menu_shortcut">桌面图标</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="has_focus">Followed</string>
      <string name="head_text_login">Войти в аккаунт XiaoMi</string>
      <string name="header_processing">Подготовка загрузки</string>
      <string name="header_waiting">Ожидание загрузки</string>
-     <string name="hello_world">Hello world!</string>
      <string name="home_tag">Главная</string>
      <string name="hot_cat_tag">Топ</string>
      <string name="hot_city">Популярные</string>
      <string name="hot_rank_tag">Топ рейтинга</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="hour_ago">hours</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ignore_manage">Ignored updates</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="in_game_auto_start">into game automatically start</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="initial_activation_notification_content">The fastest millet mobile phone with the high game</string>
      <string name="initial_activation_notification_title">Happiness is in the game center!</string>
@@ -436,11 +456,19 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="install_btn_ok">OK</string>
      <string name="install_fail">%1$s - сбой установки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="install_games_promotion_title">The installed game promotions</string>
      <string name="install_games_title">Мои игры</string>
      <string name="install_hash_fail">%1$s - установка не удалась: пакет не прошел проверку</string>
      <string name="install_inconsistent_fail">несоотвествие подписей</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="install_myriad_time">myriad times</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="install_new_version_apk_content">New version apk is has been downloaded ,Please install the new version.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="install_new_version_apk_install">Install</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="install_new_version_apk_title">New Version Available</string>
      <string name="install_no_network_description">Ошибка сетевого соединения, повтори попытку соединения</string>
      <string name="install_no_permission">Ошибка загрузки. Повтори еще раз.</string>
      <string name="install_on_data_description">Хочешь установить приложения %1$s %2$s？</string>
@@ -498,21 +526,16 @@
      <string name="king_cloud_text_middle">Ksyun.</string>
      <string name="king_cloud_text_right" />
      <string name="last_recommend_gift">Подарочные пакеты</string>
-     <string name="last_use_plugin">%s ago used plugin function</string>
      <string name="launch">Открыть</string>
      <string name="launch_failed_text">Не удалось открыть %1$s</string>
      <string name="level_experience">Уровень и опыт</string>
      <string name="loading">Загрузка HD картинки…</string>
-     <string name="loading_app_detail">Загрузка сведений…</string>
      <string name="loading_app_list">Загрузка списка игр…</string>
-     <string name="loading_category_list">Загрузка категорий…</string>
      <string name="loading_default_text">Loading…</string>
-     <string name="loading_search_result">Загрузка результатов поиска…</string>
-     <string name="loading_subject_game_list">Загрузка, подождите…</string>
-     <string name="loading_subject_list">Загрузка, подождите…</string>
-     <string name="loading_web_content">Загрузка…</string>
      <string name="local_game_head">Игр: %d</string>
      <string name="local_games_empty_txt">Здесь будут установленные игры</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="local_games_gift">Local Gifts</string>
      <string name="locating">Поиск…</string>
      <string name="locations_overseas">Другой</string>
      <string name="login_fail">Не удалось войти</string>
@@ -523,6 +546,8 @@
      <string name="main_search_hint">Введите ключевые слова</string>
      <string name="male">М</string>
      <string name="management_tag">Мои игры</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="me_tag">Me</string>
      <string name="megabytes_unit">%1$s МБ</string>
      <string name="menu_download_manager">Загрузки</string>
      <string name="menu_install_all">Установить все</string>
@@ -550,11 +575,17 @@
      <string name="mibi_tab_accoun_title">Account Info</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mibi_tab_activity_more">More</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_tab_bbs">Game Zone</string>
      <string name="mibi_tab_format_xiaomi_account">Xiaomi Account:%s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_tab_item_honor">Honor</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mibi_tab_item_more">More</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mibi_tab_item_voucher">Game vouchers</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_tab_item_wallet">Wallet</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mibi_tab_online_customer_service">Feedback</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -565,17 +596,7 @@
      <string name="mibi_tab_online_platform_promotion">Platform promotion</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mibi_tab_other">other</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="minute_ago">minutes</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="miui_recommend_btn_install_gamecenter">Install Xiaomi genuine</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="miui_recommend_btn_install_system">Install the original</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="miui_recommend_title">Recommendation for installation of Xiaomi genuine</string>
      <string name="miui_recommend_title_game">%1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="miui_recommend_title_static">The benefit of installation of Xiaomi genuine</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="miuishare_account_activate_confirmation">Activation required</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -607,13 +628,11 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="miuishare_weibo_title">Weibo</string>
      <string name="modify_nick_name_hint">Введите ник (2-12 символов, букв и цифр)</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="month_ago">months</string>
      <string name="more_subjects">Просмотреть другие темы</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="more_support_games">more</string>
      <string name="my_account">Мой аккаунт</string>
+     <string name="my_account_honor">%s Point</string>
      <string name="my_account_mibi">%s Mibi</string>
+     <string name="my_account_tickets">%s Piece</string>
      <string name="my_account_title">Мой профиль</string>
      <string name="my_account_unlogin">выйти</string>
      <string name="my_favorites_title">Любимые категории</string>
@@ -626,8 +645,6 @@
      <string name="my_vip">My VIP</string>
      <string name="my_xiaomi_account">Аккаунт Xiaomi</string>
      <string name="need_update_game">Войдите, чтобы управлять обновлениями</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="never_use_plugin">never used plugin function</string>
      <string name="new_app_tag">Новые</string>
      <string name="new_cat_tag">Новые</string>
      <string name="new_edition_sync_summary">Auto-update via WLAN</string>
@@ -648,7 +665,6 @@
      <string name="no_local_apps">Нет установленных приложений</string>
      <string name="no_local_game">Нет установленных игр</string>
      <string name="no_meiyoule">Все закончилось</string>
-     <string name="no_network">Нет доступа в интернет. Проверьте сеть и попробуйте обновить :)</string>
      <string name="no_network_connect">"no internet
 Please check and refresh"</string>
      <string name="no_network_no_comment">нет подключения к сети</string>
@@ -662,6 +678,13 @@ Please check and refresh"</string>
      <string name="no_yiguoqi">Истек</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="not_have_install_games">Do not have to install the game</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="noti_gamicon_description">Update game icon</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="noti_icon_description">Notification icon</string>
+     <string name="noti_title_text_color">&lt;font color=%1$s>%2$s&lt;/font></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="noti_titleicon_description">Title icon</string>
      <string name="notif_install_failed">Ошибка установки %1$s</string>
      <string name="notif_install_failed_sdcard_space_not_enough">Не удалось установить: не хватает места на SD-карты</string>
      <string name="notif_install_failed_system_space_not_enough">Не удалось установить: недостаточно памяти</string>
@@ -674,8 +697,8 @@ Please check and refresh"</string>
      <string name="online_game_gift">Пакеты</string>
      <string name="online_game_hot">Хиты</string>
      <string name="online_game_new">Новые</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="open_add_speed_switch">Please open the acceleration option</string>
+     <string name="open_red_packet_fail_toast">红包领取失败</string>
+     <string name="open_red_packet_unlogin_toast">请先登陆小米账号后，再领取</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="order_detail_order">Consumer order number</string>
      <string name="order_detail_order_amount">Amount: &lt;font color=#454545>%s MiCredits&lt;/font></string>
@@ -685,11 +708,15 @@ Please check and refresh"</string>
      <string name="order_detail_title">Details of the Purchase</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="order_list_empty_text">You have no purchase</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="participants_text">Participants</string>
      <string name="password_hint">Пароль</string>
      <string name="password_invalid">Пароль недействительный. Пожалуйста, введите 8-16 комбинацию из цифр и/или букв.</string>
      <string name="pause">Пауза</string>
      <string name="paused">приостановленно</string>
      <string name="paused_with_reason">&lt;font color=#909090>Приостановлено: %1$s%%&lt;/font> &lt;font color=#f76811>%2$s&lt;/font></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pay_announcement">Pay</string>
      <string name="pending">ожидание</string>
      <string name="permission_button">Разрешения (%1$s)</string>
      <string name="permission_extra">Другие</string>
@@ -698,43 +725,11 @@ Please check and refresh"</string>
      <string name="permission_risky_security">Безопасность</string>
      <string name="permissions_expand_title">Все разрешения</string>
      <string name="permissions_title">%1$s - разрешения</string>
+     <string name="pic_num">%d张</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pic_upload_error">Error uploading photo</string>
-     <string name="played_game_account_count">Game ID of %d</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="played_game_account_default">default login</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="played_game_account_empty">Not Data</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="played_game_account_new">Create ID</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="played_game_account_save_open">Start the game after saving</string>
-     <string name="played_game_account_set_name">Game ID:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="played_game_account_update">Successfully modified</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="played_game_item_name">Game ID Management</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="played_game_item_set_name">Game ID Setting</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="played_game_view_title">Playing games</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="played_game_view_title_played">Played games</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="playing_games">local</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="plugin">plugin</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="plugin_more_support_list_empty">no more games with plugin</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="plugin_playing_list_empty">no playing games with plugin</string>
-     <string name="plugin_provider">This plugin is provided by %s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="plugin_provider_name">Huluxia</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="plugin_setting">plugin setting</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="plugin_start_setting">plugin startup setting</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="plugin_summary">third party game auxiliary tool set</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -763,12 +758,15 @@ Please check and refresh"</string>
      <string name="pref_summary_auto_update_setting">Напомнить скачать</string>
      <string name="pref_summary_clear_search_record">Очистить данные о поиске</string>
      <string name="pref_summary_data_check_update">Нажми, для проверки версии</string>
+     <string name="pref_summary_data_save_mode">2G/3G/4G网络下，不加载图片</string>
+     <string name="pref_summary_no_installed_in_rank">排行榜不显示已安装应用</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_summary_reserve_apk">Reserve APKs after install</string>
      <string name="pref_summary_update_notification">Сообщение об обновлении для приложений</string>
      <string name="pref_title_auto_update_setting">Настройки автоматического обновления</string>
      <string name="pref_title_clear_search_record">Очистить историю поиска</string>
      <string name="pref_title_data_check_update">Проверить обновление</string>
+     <string name="pref_title_no_installed_in_rank">排行榜过滤</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_title_push_activity_notification">Promotions Reminder</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -795,6 +793,8 @@ Please check and refresh"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="progress_pending">Pending</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="promotion_content_title">Promotion Content</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="promotion_detail_action_text_attend">Participate in promotion</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="promotion_detail_action_text_install">Go to install</string>
@@ -808,13 +808,14 @@ Please check and refresh"</string>
      <string name="promotion_title">Promotions</string>
      <string name="psw_invalid">неверный пароль</string>
      <string name="publish_info">%1$s %2$s %3$s</string>
+     <string name="pull_down_refresh">下拉可以刷新…</string>
+     <string name="pull_down_to_end">已经到底了</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pull_to_refresh_end_date">Last update time</string>
      <string name="pull_to_refresh_footer_pull_label">Проведите вверх, чтобы посмотреть больше</string>
-     <string name="pull_to_refresh_footer_refreshing_label">Загрузка…</string>
      <string name="pull_to_refresh_footer_release_label">Проведите вниз, чтобы посмотреть больше</string>
      <string name="pull_to_refresh_pull_label">Потяните вниз, чтобы обновить</string>
-     <string name="pull_to_refresh_refreshing_label">Загрузка…</string>
+     <string name="pull_to_refresh_refreshing_label">Refresh…</string>
      <string name="pull_to_refresh_release_label">Отпустите, чтобы обновить</string>
      <string name="purchase_mibi">%s MiCredits</string>
      <string name="purchase_record_title">Записи покупок</string>
@@ -822,8 +823,15 @@ Please check and refresh"</string>
      <string name="purchase_record_type_suffix">%s платежей</string>
      <string name="purchase_record_type_thismonth">За месяц</string>
      <string name="purchase_record_type_today">За сегодня</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="quick_update">Quick Update</string>
+     <string name="quick_update_economize_size">(Economize%s)</string>
+     <string name="quick_update_size">Quick Update%s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="rank_select">Select</string>
      <string name="rank_tag">Топ</string>
      <string name="rating_button">Рейтинг: %1$s</string>
+     <string name="receive_red_packet">领取</string>
      <string name="recharge_alipay_detail">Alipay платеж</string>
      <string name="recharge_fail">Ошибка пополения</string>
      <string name="recharge_fee_detail">Платежные карты China Mobile, Unicom, Telcom</string>
@@ -832,30 +840,107 @@ Please check and refresh"</string>
      <string name="recharge_proxy">Proxy charge</string>
      <string name="recharge_success">Успешно пополнено!</string>
      <string name="recharging">Ожидание обработки…</string>
+     <string name="recom_install_games">Plug-ins and Tools</string>
+     <string name="recommend_pull_down_banner_view">查看</string>
+     <string name="recommend_pull_down_end">暂时没有更多内容了</string>
+     <string name="recommend_pull_down_friends_format">"&lt;font color=#ff6600>%1$d&lt;/font>  个好友正在玩"</string>
+     <string name="recommend_pull_down_game_world_server_today">今日开服</string>
+     <string name="recommend_pull_down_game_world_server_tomorrow">明日开服</string>
+     <string name="recommend_pull_down_games_format">发现了%1$d款游戏</string>
+     <string name="recommend_pull_down_games_gift_format">发现了%1$d款游戏,%2$d个惊喜</string>
+     <string name="recommend_pull_down_gift_format">发现了%1$d个惊喜</string>
+     <string name="recommend_pull_down_html_game_action_text">进入</string>
+     <string name="recommend_pull_down_html_type">页游</string>
+     <string name="recommend_pull_down_promotion_type">活动</string>
+     <string name="recommend_pull_down_red_packet_hint">恭喜您，获得一个红包</string>
+     <string name="recommend_pull_down_red_packet_result_format">恭喜你，获得%1$s</string>
+     <string name="recommend_pull_down_redpacket_hint">赶快领取红包吧</string>
+     <string name="recommend_pull_down_subject_type">专题</string>
+     <string name="recommend_pull_down_toast_default_hint">下拉有惊喜～</string>
+     <string name="release_to_refresh">松开刷新…</string>
      <string name="remain_text">Осталось:</string>
      <string name="remain_text_withnum">Осталось %s</string>
      <string name="remove_package_timeout_fail">%1$s установка не выполнена. Пожалуйста, вручную удалите клиент перед обновлением до последней версии.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="replace_btn_text_checknet">View Network</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="replace_btn_text_garbagecleanup">Purge memory</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="replace_btn_text_neterror">Network error, please check</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="replace_btn_text_notinstall">Abandon</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="replace_btn_text_repeat">Retry</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="replace_btn_text_tryagain_later">Try again later</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="replace_downloaded_btn_text">Now start</string>
+     <string name="replace_downloading_btn_text">Preparation…</string>
+     <string name="replace_game_name_begin">推荐安装小米定制版\" %s \"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="replace_game_name_end">The installation is complete</string>
+     <string name="replace_game_name_loading">正在为你准备小米定制版%s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="replace_game_tip_begin">You will receive a number of exclusive benefits</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="replace_game_tip_end">Full harvest, go experience it</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="replace_game_tip_loading">Welfare positive galloping, please do not go away</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="replace_install_mipkg_text">Custom install</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="replace_install_oldpkg_text">Original version</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="replace_rewards_btn_text">login</string>
+     <string name="replace_rewards_finish_tiptext">这些都是送给最爱的你：</string>
+     <string name="replace_tip_text_finish">我们的活动结束了，小米定制版\" %s \"已就绪</string>
+     <string name="replace_tip_text_gamegift">获得一个&lt;br>%s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="replace_tip_text_gamepackage">See in GameCenter</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="replace_tip_text_garbagecleanup">Insufficient system space, go clean up</string>
+     <string name="replace_tip_text_install">Installing…</string>
+     <string name="replace_tip_text_install_pkg">Do you want to install the application?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="replace_tip_text_mibi">The five working days in direct deposit Mi account</string>
+     <string name="replace_tip_text_nor">"While you're waiting, you can participate in activities, win prizes"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="replace_tip_text_northing">Another position, then try ......</string>
+     <string name="replace_tip_text_time">"%s秒后获得下次机会
+更多奖励等着你!!"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="replace_tip_text_unknow_ex">try it again</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="replace_tip_text_verify_apk_error">APK verification fails, please try to install the original version</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="request_game_detail_fail">request game detail fail.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="reset">reset</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resetting_success">Reset successful</string>
+     <string name="response_cer">MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDG0UrKW1fr6ubJzzlElSo2yZ3utoB734GkipVUguD2NrFSvyGHsUu4hmxio3453FAmeUGzqAJu31tSYL4B5QePpjvEjBfRaMvho/nPhabMAXT6WVUvcM03fy7ThNXd7ByV2jHUJH9Eg2cdgozQPYgNpdiNf93U2J4naZJld80ZsQIDAQAB</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="restore">Restore</string>
      <string name="save_photo_fail">Ошибка сохранения фото</string>
      <string name="save_photo_success">Фото успешно сохранено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="save_pic">Save</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="save_pic_fail">Failed to save the image</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="save_pic_success">Saved to local</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sdk_float_setting_tittle">Game float always display</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_game_hint">Search Game</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="second_ago">seconds</string>
      <string name="select_recharge_value">Пожалуйста, выберите сумму пополнения</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="selected_not_pic">Only image format files are acceptable</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="send_message">Send Message</string>
+     <string name="send_pic">发送</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="server_box_text_customer">Customer</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="server_box_text_message">Notice</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="server_box_text_payment">Payment</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="service_of_birthday_gift">Birthday GamePacks</string>
      <string name="service_of_charge_rebate">Additional gifts:</string>
@@ -887,21 +972,24 @@ Please check and refresh"</string>
      <string name="share_button">Отправить другу</string>
      <string name="share_subject">Отправить приложение： %1$s</string>
      <string name="share_text">Посмотри какая прикольная игра с XiaoMi Game Center: %1$s, что то потрясающие! Отправить в: %2$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="share_weibo_endnote">Has been with the game download link</string>
-     <string name="share_weibo_from">From @ xiaomi game %1$s</string>
-     <string name="share_weibo_text">Find a good game “%1$s”，recommend it to everyone 。</string>
+     <string name="share_weibo_endnote">已附带游戏下载链接</string>
+     <string name="share_weibo_from">来自@小米游戏 %1$s</string>
+     <string name="share_weibo_text">发现了一款很赞的游戏“%1$s”，推荐给大家。</string>
      <string name="show_all_local_app">Просмотр всех приложений</string>
      <string name="simple_date_format_MMdd">MM-dd</string>
      <string name="simple_date_format_yyyyM">yyyy-MM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sixin_no_content_tips">No verification message</string>
      <string name="special_comm">Поддержка VIP</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="specific_category">Special</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="start_along_game">start along game</string>
      <string name="start_game">Играть</string>
      <string name="status_downloading">Загрузка: %1$s%%</string>
      <string name="status_unzipping">Распаковка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="stimulated_code">Stimulated Code</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="stimulated_code_list_empty">There is no stimulated code now</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="string_account_network_error_check">Please check your connection settings.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -914,6 +1002,9 @@ Please check and refresh"</string>
      <string name="tab_history">Purchase</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tab_mytickets">My vouchers</string>
+     <string name="take_photo">拍照</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ten_thousand">ten thousand</string>
      <string name="term_of_validity">Time remaining: %s</string>
      <string name="this_month_no_purchase_record">нет записей о Ваших покупках в этом месяце</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -938,8 +1029,6 @@ Please check and refresh"</string>
      <string name="ticket_list_empty_text">You do not already have the game voucher</string>
      <string name="ticket_source_text">%s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="title_activity_quicken">QuickenActivity</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_change">Change Batch</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_gift">GamePacks</string>
@@ -947,7 +1036,7 @@ Please check and refresh"</string>
      <string name="title_level">Уровень</string>
      <string name="title_message_center">Сообщения</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="to_install">Install</string>
+     <string name="title_personal_info">Personal</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="toast_name_used">This name has already been used</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -996,6 +1085,9 @@ Please check and refresh"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="update_game_cancel_ignore_toast">Restored, prompt will be shown when new version available.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="update_game_cue_subhead">We have prepared some good games for you</string>
+     <string name="update_game_cue_title">All the installed games are the newest version!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="update_game_ignore">Ignore update of this game.</string>
      <string name="update_game_ignore_text">%d games ignore update.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -1043,6 +1135,7 @@ Please check and refresh"</string>
      <string name="version_label">Версия：</string>
      <string name="vertical_line">｜</string>
      <string name="view_all_gift">Еще</string>
+     <string name="view_cnt">%s人查看</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="view_exchange_code">Check exchange code</string>
      <string name="view_get_point">How to get points?</string>
@@ -1059,6 +1152,7 @@ Please check and refresh"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vip_home_all_privilege">View all VIP benefits</string>
      <string name="vip_home_birthday">Birthday: %s</string>
+     <string name="vip_home_birthday_none">Birthday:</string>
      <string name="vip_home_grade">VIP%d</string>
      <string name="vip_home_level">Уровень</string>
      <string name="vip_home_level_distant_pre">&lt;font color=\"#2a2a2a\">Очков необходимо до VIP%d&lt;/font></string>
@@ -1069,10 +1163,12 @@ Please check and refresh"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vip_home_privilege">VIP benefits</string>
      <string name="vip_home_qq">QQ: %s</string>
+     <string name="vip_home_qq_none">QQ : N/A</string>
      <string name="vip_home_retain_level">&lt;font color=#2a2a2a>Fees due:&lt;/font>&lt;font color=#fd8000>%d&lt;/font>&lt;font color=#2a2a2a>RMB to upgrade.&lt;/font></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vip_home_status">VIP Status</string>
      <string name="vip_home_tel">Телефон: %s</string>
+     <string name="vip_home_tel_none">Phone: N/A</string>
      <string name="vip_home_update_level">&lt;font color=#2a2a2a>Points needed to level up&lt;/font>&lt;font color=#fd8000>%d&lt;/font>&lt;font color=#2a2a2a>RMB&lt;/font></string>
      <string name="vip_home_valid_end_pre">&lt;font color=#2a2a2a>Expires in: &lt;/font>%s</string>
      <string name="vip_home_valid_end_suf">&lt;font color=#767676>(%d days remaining)&lt;/font></string>
@@ -1093,6 +1189,7 @@ Please check and refresh"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="visiting_appointments">Appointments</string>
      <string name="voucher_total">Total：</string>
+     <string name="wali_api_url">http://mis.migc.xiaomi.com</string>
      <string name="webkit_errpage_btn_text">Обновить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="webkit_errpage_tip">Please check your connection settings.</string>

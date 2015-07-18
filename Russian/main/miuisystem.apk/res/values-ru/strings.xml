@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="android_ringtone_default_with_actual">Default ringtone (%1$s)</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="android_ringtone_silent">None</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="android_ringtone_unknown">Unknown ringtone</string>
+     <string name="android_ringtone_default_with_actual">Мелодия по умолчанию (%1$s)</string>
+     <string name="android_ringtone_silent">Нет</string>
+     <string name="android_ringtone_unknown">Неизвестная мелодия</string>
+     <string name="app_name_which_call">Application:%s</string>
+     <string name="app_version_which_call">Application version:%s</string>
      <string name="arbor_day">День древонасаждения</string>
      <string name="autumn_begins">Осень</string>
      <string name="autumn_equinox">Точка осеннего равноденствия</string>
@@ -19,14 +19,13 @@
      <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
      <string name="def_ringtone_slot_1">/system/media/audio/ringtones/MI.ogg</string>
      <string name="def_ringtone_slot_2">/system/media/audio/ringtones/MI.ogg</string>
-     <string name="def_sms_delivered_sound">/system/media/audio/ui/MessageComplete.ogg</string>
-     <string name="def_sms_delivered_sound_slot_1">/system/media/audio/ui/MessageComplete.ogg</string>
-     <string name="def_sms_delivered_sound_slot_2">/system/media/audio/ui/MessageComplete.ogg</string>
-     <string name="def_sms_received_sound">/system/media/audio/notifications/FadeIn.ogg</string>
-     <string name="def_sms_received_sound_slot_1">/system/media/audio/notifications/FadeIn.ogg</string>
-     <string name="def_sms_received_sound_slot_2">/system/media/audio/notifications/FadeIn.ogg</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="default_name">Default</string>
+     <string name="def_sms_delivered_sound">/system/media/audio/notifications/MessageComplete.ogg</string>
+     <string name="def_sms_delivered_sound_slot_1">/system/media/audio/notifications/MessageComplete.ogg</string>
+     <string name="def_sms_delivered_sound_slot_2">/system/media/audio/notifications/MessageComplete.ogg</string>
+     <string name="def_sms_received_sound">/system/media/audio/notifications/MessageIncoming.ogg</string>
+     <string name="def_sms_received_sound_slot_1">/system/media/audio/notifications/MessageIncoming.ogg</string>
+     <string name="def_sms_received_sound_slot_2">/system/media/audio/notifications/MessageIncoming.ogg</string>
+     <string name="default_name">По умолчанию</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="device_hongmi">Redmi</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -36,8 +35,10 @@
      <string name="double_seventh_day">Танабата</string>
      <string name="easter">復活節</string>
      <string name="fools_day">День дураков</string>
-     <string name="grain_buds" />
-     <string name="grain_in_ear" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="grain_buds"></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="grain_in_ear"></string>
      <string name="grain_rain">Дожди</string>
      <string name="great_cold">Великие холода</string>
      <string name="great_heat">Жара</string>
@@ -51,43 +52,69 @@
      <string name="international_womens_day">Международный женский день</string>
      <string name="labour_day">Первомайские</string>
      <string name="lantern_festival">Фестиваль фонарей</string>
+     <string name="license_host_unreachable">"Can't connect to network. To view this information now, 
+go to %s"</string>
      <string name="light_snow">Легкий снег</string>
-     <string name="lunar_ba" />
-     <string name="lunar_calendar">Лунный календарь</string>
-     <string name="lunar_chu" />
-     <string name="lunar_chu_shi" />
-     <string name="lunar_er" />
-     <string name="lunar_er_shi" />
-     <string name="lunar_jiu" />
-     <string name="lunar_leap" />
-     <string name="lunar_ling" />
-     <string name="lunar_liu" />
-     <string name="lunar_nian" />
-     <string name="lunar_qi" />
-     <string name="lunar_san" />
-     <string name="lunar_san_shi" />
-     <string name="lunar_shi" />
-     <string name="lunar_shi_er" />
-     <string name="lunar_shi_yi" />
-     <string name="lunar_si" />
-     <string name="lunar_wu" />
-     <string name="lunar_year" />
-     <string name="lunar_yi" />
-     <string name="lunar_yue" />
-     <string name="lunar_zheng" />
+     <string name="loading">Loading…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="maml_component_customization_title">Settings</string>
+     <string name="lunar_ba"></string>
+     <string name="lunar_calendar">Лунный календарь</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lunar_chu"></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lunar_chu_shi"></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lunar_er"></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lunar_er_shi"></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lunar_jiu"></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lunar_leap"></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lunar_ling"></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lunar_liu"></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lunar_nian"></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lunar_qi"></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lunar_san"></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lunar_san_shi"></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lunar_shi"></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lunar_shi_er"></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lunar_shi_yi"></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lunar_si"></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lunar_wu"></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lunar_year"></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lunar_yi"></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lunar_yue"></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lunar_zheng"></string>
+     <string name="maml_component_customization_title">Настройки компонентов</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_license">Mi Credit Terms of Service</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="miui_device_name">MIUI v6 MS</string>
      <string name="national_day">День нации</string>
      <string name="new_years_day">Новый год</string>
      <string name="no_notification_tips">Нет уведомлений</string>
      <string name="partys_day">День веселья</string>
+     <string name="policy_name">Policy:%s</string>
      <string name="presentation_payphone">Таксофон</string>
      <string name="presentation_private">Скрытый номер</string>
      <string name="presentation_unknown">Неизвестный номер</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_select">Select</string>
+     <string name="resource_select">Выбрать</string>
      <string name="slight_cold">Осаму</string>
      <string name="slight_heat">Тепло</string>
      <string name="solar_calendar">Григорианский календарь</string>
