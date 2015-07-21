@@ -69,6 +69,7 @@
      <string name="next">Далее</string>
      <string name="no_sim_found">SIM-карта недоступна</string>
      <string name="note_list_none">Список пуст</string>
+     <string name="notification_activate_failed">"Couldn't activate VoIP, click to open"</string>
      <string name="notification_dialing">Вызов…</string>
      <string name="notification_incoming_call">Входящий вызов</string>
      <string name="notification_missedCallTicker">Missed call from %s</string>
@@ -120,10 +121,8 @@
      <string name="unkown">Unknown</string>
      <string name="unread_calls">Пропущенные вызовы</string>
      <string name="unread_calls_count">Пропущенных вызовов: %d</string>
-     <string name="user_agreement1">"Используя этот сервис, Вы соглашаетесь с MIUI VoIP "</string>
-     <string name="user_agreement2">пользовательским соглашением</string>
-     <string name="user_agreement3">" и "</string>
-     <string name="user_agreement4">политикой конфиденциальности</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_agreement">Private Policy</string>
      <string name="voip_btn_mute">Микрофон</string>
      <string name="voip_btn_speaker">Динамик</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

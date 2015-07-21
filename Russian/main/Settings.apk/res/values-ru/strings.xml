@@ -3014,6 +3014,8 @@ Are you sure to change?"</string>
      <string name="wifi_eap_ca_cert">Сертификат центра сертификации</string>
      <string name="wifi_eap_identity">Пользователь</string>
      <string name="wifi_eap_method">Метод EAP</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_eap_sim_simcard">Choose SIM</string>
      <string name="wifi_eap_user_cert">Сертификат пользователя</string>
      <string name="wifi_empty_list_user_restricted">У вас нет разрешения на изменение Wi-Fi сети</string>
      <string name="wifi_empty_list_wifi_off">"Чтобы просмотреть доступные сети

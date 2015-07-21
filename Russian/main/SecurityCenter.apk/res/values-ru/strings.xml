@@ -77,6 +77,8 @@
      <string name="brightness_auto_adjust_on">Эффект автояркости можно регулировать путем перемещения ползунка. Эффект яркости экрана будет меняться в зависимости от света в помещении или на улице.</string>
      <string name="btn_text_cleanup_all">Очистить</string>
      <string name="btn_text_done">Готово</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="btn_text_power_cleanup">Super Clean</string>
      <string name="btn_text_quick_cleanup">Очистить</string>
      <string name="btn_text_quick_optimize">Оптимизировать</string>
      <string name="btn_text_quick_scan">Сканировать</string>

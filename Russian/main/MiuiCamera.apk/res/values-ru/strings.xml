@@ -40,6 +40,12 @@
      <string name="confirm_location_message">Сохранять информацию о месте съемки фотографий?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm_location_title">Store location info</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="confirm_recording_fail_calling_alert">Cannot start recording during the call.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="confirm_recording_fail_recorder_busy_alert">Other application may be recording sound, retry after stopping it.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="confirm_recording_fail_title">Recording fail</string>
      <string name="confirm_restore_message">Восстановить настройки по умолчанию?</string>
      <string name="confirm_restore_title">Восстановление настроек</string>
      <string name="delete">Удалить</string>

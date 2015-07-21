@@ -137,6 +137,9 @@
      <string name="cloud_folder_chooser_move">Удалить изображения из оригнального альбома</string>
      <string name="cloud_gallery_recyclebin_full">Корзина в облаке полна. Пожалуйста очистите ее на i.mi.com.</string>
      <string name="cloud_gallery_space_full">Ошибка отправки - облачное хранилище заполнено</string>
+     <string name="cloud_gallery_space_full_buy_more">"Can't sync new photos with your Mi Cloud. To sync more photos, buy additional storage space."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_gallery_space_full_title">Mi Cloud is full</string>
      <string name="cloud_media_set_set">Облачные альбомы</string>
      <string name="cloud_owner_album_share_guide">Вы можете поделиться этим альбомом с друзьями</string>
      <string name="cloud_screenshots_display_name">Скриншоты</string>
@@ -272,6 +275,8 @@
      <string name="face_album">Face album</string>
      <string name="face_album_long_tap_tip">To select multiple people or change group settings, press &amp; hold a profile picture</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="face_album_new_name_hint">New name</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="face_album_not_named">Not named</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="face_album_rename_hint">Enter a name</string>
@@ -284,6 +289,8 @@ try to take more pictures"</string>
      <string name="face_albumset_pending_enable_tip">Will sort photos when device is connected to WLAN</string>
      <string name="face_albumset_use_tip">"Help to find those pretty faces，
 making it simple to view and manage pictures"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="face_choose_tip">Select from exist album</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="face_move_dialog_title">Choose a face album</string>
      <string name="facelift">Сияние</string>
@@ -728,6 +735,8 @@ making it simple to view and manage pictures"</string>
      <string name="unpublish_succeeded">Альбом снят с публикации!</string>
      <string name="unpublishing">Отмена публикации, подождите…</string>
      <string name="untagged">Без тегов</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="upgrade_micloud_space">Get more space</string>
      <string name="user_alias_self">Я</string>
      <string name="video_err">Не удалось воспроизвести видео</string>
      <string name="video_not_exist">Видео не существует</string>

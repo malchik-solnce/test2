@@ -57,6 +57,7 @@
      <string name="button_ok">OK</string>
      <string name="button_return">Назад</string>
      <string name="call_title">Звонки</string>
+     <string name="camera_summary">Camera settings (not including photos)</string>
      <string name="cancel">Отмена</string>
      <string name="cancel_backup">Отмена</string>
      <string name="cancel_restore">Отменить</string>

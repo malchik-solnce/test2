@@ -154,6 +154,9 @@
      <string name="event_info_end">End\u0009\u0009\u0009</string>
      <string name="event_info_organizer">"Организатор: "</string>
      <string name="event_info_reminders_label">Напоминание</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="event_info_reminders_label_1">Reminder</string>
+     <string name="event_info_reminders_label_more">Reminder %d</string>
      <string name="event_info_repeat">"Повторение: "</string>
      <string name="event_info_title">Просмотр мероприятия</string>
      <string name="event_info_title_invite">Приглашение на встречу</string>

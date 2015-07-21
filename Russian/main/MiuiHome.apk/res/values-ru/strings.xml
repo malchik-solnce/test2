@@ -63,6 +63,8 @@
      <string name="cant_remove_retained_app">Не удалось удалить приложений</string>
      <string name="cant_remove_system_app">Нельзя удалить системное приложение</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="choose_theme">Theme</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="choose_wallpaper">Choose wallpaper</string>
      <string name="chooser_wallpaper">Выбрать обои из</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -79,6 +81,8 @@
      <string name="default_folder_title_recommend">Рекомендуемые</string>
      <string name="default_folder_title_security">Безопасность</string>
      <string name="default_folder_title_tools">Инструменты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="default_theme_name">Default</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="delete">Delete</string>
      <string name="delete_wallpaper_message">Delete %1$d wallpaper?</string>
@@ -285,6 +289,8 @@
      <string name="wallpaper_scrolling">все</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wallpaper_settings">Wallpaper</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wallpaper_settings_for_pad">Wallpaper</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wallpaper_success_message">Wallpaper applied successfully</string>
      <string name="widget_favorite_contacts_edit">Редактор</string>
