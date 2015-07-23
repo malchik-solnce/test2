@@ -233,6 +233,8 @@
      <string name="hints_virus_name_title">Название:</string>
      <string name="hints_virus_scan_result_descx">"This app is a major risk to your phone's security."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="history_details_title">History details</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="info_and_call">Calls and messaging</string>
      <string name="item_app_permission">Разрешения приложений</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

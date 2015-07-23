@@ -362,9 +362,13 @@ This feature encrypts and uploads your device's ID to Mi's servers."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mx_dspt_provision_with_voip">Call other MIUI users for free using your internet connection. You can turn this feature on or off anytime in Settings.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mx_dspt_provision_with_voip2">Privacy Policy</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mx_sub_dspt_provision">Mi Message</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mx_sub_dspt_provision_with_voip">Internet calling</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mx_voip_dspt">Mi Communication</string>
      <string name="next">Далее</string>
      <string name="noRemind">Не напоминать</string>
      <string name="no_sim">SIM-карта не обнаружена</string>
@@ -492,8 +496,6 @@ You can turn this feature on and off anythime in Settings.
      <string name="view_storage_title">View cloud space</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="voip_choose_sim">Choose phone number to activate Mi Voice</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="voip_dspt">Mi Voice</string>
      <string name="wipe_data_dialog_msg_separator">, </string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="xiaomi_cloud_service">Mi Cloud</string>

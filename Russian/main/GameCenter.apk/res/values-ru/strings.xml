@@ -861,14 +861,17 @@ Please check and refresh"</string>
      <string name="remain_text">Осталось:</string>
      <string name="remain_text_withnum">Осталось %s</string>
      <string name="remove_package_timeout_fail">%1$s установка не выполнена. Пожалуйста, вручную удалите клиент перед обновлением до последней версии.</string>
+     <string name="replace_bonus_list_title">来源：%s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="replace_btn_text_checknet">View Network</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="replace_btn_text_garbagecleanup">Purge memory</string>
+     <string name="replace_btn_text_getbonus">领取</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="replace_btn_text_neterror">Network error, please check</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="replace_btn_text_notinstall">Abandon</string>
+     <string name="replace_btn_text_notreceive">已领取</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="replace_btn_text_repeat">Retry</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -894,12 +897,16 @@ Please check and refresh"</string>
      <string name="replace_rewards_btn_text">login</string>
      <string name="replace_rewards_finish_tiptext">这些都是送给最爱的你：</string>
      <string name="replace_tip_text_finish">我们的活动结束了，小米定制版\" %s \"已就绪</string>
+     <string name="replace_tip_text_finishtext">更多奖励请登录小米游戏中心</string>
      <string name="replace_tip_text_gamegift">获得一个&lt;br>%s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="replace_tip_text_gamepackage">See in GameCenter</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="replace_tip_text_garbagecleanup">Insufficient system space, go clean up</string>
+     <string name="replace_tip_text_getbonus">请先登录后再领取</string>
+     <string name="replace_tip_text_getbonus_error">领取失败，请稍后再试</string>
      <string name="replace_tip_text_install">Installing…</string>
+     <string name="replace_tip_text_install_mipkg">提示：安装小米定制版领取更多奖励</string>
      <string name="replace_tip_text_install_pkg">Do you want to install the application?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="replace_tip_text_mibi">The five working days in direct deposit Mi account</string>
@@ -908,6 +915,7 @@ Please check and refresh"</string>
      <string name="replace_tip_text_northing">Another position, then try ......</string>
      <string name="replace_tip_text_time">"%s秒后获得下次机会
 更多奖励等着你!!"</string>
+     <string name="replace_tip_text_unknow">未知</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="replace_tip_text_unknow_ex">try it again</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

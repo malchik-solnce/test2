@@ -13,6 +13,8 @@
      <string name="activate_feature_mms_sync">SMS sync</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="activate_feature_mx">Free cloud messaging</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_feature_mx_and_voip">Mi Message and Voice</string>
      <string name="activate_phone_failed_notif_title">"Couldn't activate SIM card"</string>
      <string name="activate_phone_failed_notif_title_msim">"Couldn't activate SIM card %s"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -60,6 +62,9 @@ Enter the phone number associated with your new SIM card to reactivate %s"</stri
      <string name="activate_popup_desc_register_account_intl">An international SMS will be sent to register your Mi Account</string>
      <string name="activate_popup_desc_sim_card">An SMS will be sent to activate your SIM card in order to enable features like %s (carrier rates apply)</string>
      <string name="activate_popup_desc_sim_card_downlink">Please enter the number for your SIM card, in order to enable features like %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_popup_desc_voip_privacy">Privacy Policy</string>
+     <string name="activate_popup_desc_voip_privacy_prefix">". VoIP is supported by Weihui. View Weihui's "</string>
      <string name="activate_popup_title_all_gateway_failed_query_info">"Can't find number"</string>
      <string name="activate_popup_title_all_gateway_failed_send_sms">"Can't send text message"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

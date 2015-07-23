@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="DOWNLOAD_UNIT_BIT">B</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="DOWNLOAD_UNIT_GB">GB</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="DOWNLOAD_UNIT_KB">KB</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="DOWNLOAD_UNIT_MB">MB</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="DOWNLOAD_UNIT_TB">TB</string>
      <string name="Only_the_wifi">Действует только при Wi-Fi</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="add_flow_fail_haveget_msg">Sorry,You have Get Free High Speed Flow This Month</string>
@@ -93,6 +103,8 @@
      <string name="editmode_menu_delete">Удалить</string>
      <string name="editmode_menu_share">Отправить</string>
      <string name="experience_xunlei_account_speed">Аккаунт Xunlei</string>
+     <string name="expire_notification_msg">您的迅雷会员即将到期，点击查看详情。</string>
+     <string name="expire_today_notification_msg">您的迅雷会员今天将到期，点击查看详情。</string>
      <string name="free_high_speed_channel">Доступно данных</string>
      <string name="free_speedup_exp">Бесплатный сервис Xunlei</string>
      <string name="get_account_dialog_msg">Получение информации акаунта</string>
@@ -118,6 +130,9 @@
      <string name="mi_money_">mi_money)</string>
      <string name="missing_title">Неизвестно</string>
      <string name="no_downloads">Нет загрузок</string>
+     <string name="no_vip_info">开通迅雷会员即可享受加速特权</string>
+     <string name="no_vip_show_info">"手机与电脑齐加速；
+畅享加速节省时间更给力！"</string>
      <string name="one_month">Месячная опалата</string>
      <string name="open_download">Открыть</string>
      <string name="open_xunlei_speed_service">Включить сервис ускорения</string>
@@ -173,6 +188,14 @@
      <string name="select_operation_items">Пожалуйста выберите</string>
      <string name="selected_count">Выбрано %1$d из %2$d</string>
      <string name="show_more">More(%s)</string>
+     <string name="start_xunlei_speedup_info">会员登录后下载任务时自动开启高速通道</string>
+     <string name="third_web_cancel">取消</string>
+     <string name="third_web_confirm">确定</string>
+     <string name="third_web_default">设为默认保存路径，以后不再提醒</string>
+     <string name="third_web_filename_hint">文件名称</string>
+     <string name="third_web_filesize">文件大小:</string>
+     <string name="third_web_savepath">目录</string>
+     <string name="third_web_title">保存</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="toast_xunlei_engine_open">Turned Xunlei download accelerator on</string>
      <string name="turn_off_xunlei_message">После отключения возможна более медленная скорость загрузки</string>
@@ -185,6 +208,12 @@
      <string name="valid_in_this_month">доступно в этом месяце</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vip_auto_speedup">Xunlei members to accelerate directly</string>
+     <string name="vip_expire_show_info">您的迅雷会员即将到期\
+立即续费尊享95折优惠</string>
+     <string name="vip_expire_today_show_info">您的迅雷会员今天将到期\
+立即续费尊享95折优惠</string>
+     <string name="vip_show_info">500万迅雷会员的选择\
+专属加速特权，畅享快人一步的放肆</string>
      <string name="xunlei_brand">При поддержке Xunlei</string>
      <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

@@ -23,6 +23,8 @@
      <string name="backup_theme_progress_message">Сохранение темы, подождите…</string>
      <string name="backup_theme_success_message">Бэкап успешно завершен!</string>
      <string name="change_wallpaper">Обои</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="choose_new_themes">New Themes</string>
      <string name="close">Закрыть</string>
      <string name="component_category_finest_title">ОСНОВНЫЕ КОМПОНЕНТЫ</string>
      <string name="component_category_more_title">ДОПОЛНИТЕЛЬНЫЕ КОМПОНЕНТЫ</string>
@@ -116,6 +118,10 @@
      <string name="online_no_network">Не удается подключиться к сети</string>
      <string name="online_search_hint">Поиск ресурсов</string>
      <string name="payment_info">Мой Mi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="present_local_themes">Downloaded</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="present_online_themes">Online</string>
      <string name="purchased_list">Список покупок</string>
      <string name="purchased_list_format">%1$s purchased</string>
      <string name="resource_account_abnormal_state">Ошибка аккаунта. Попробуйте позже.</string>

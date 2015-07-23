@@ -389,12 +389,16 @@
      <string name="content_description">Отправитель: %1$s; тема: %2$s; фрагмент: %3$s; дата: %4$s; состояние: %5$s</string>
      <string name="content_description_today">Отправитель: %1$s; тема: %2$s; фрагмент: %3$s; время: %4$s; состояние: %5$s</string>
      <string name="contextmenu_add_contact">Добавить контакт</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="contextmenu_call">Call</string>
      <string name="contextmenu_copy">Копировать</string>
      <string name="contextmenu_copylink">Скопировать ссылку</string>
      <string name="contextmenu_dial_dot">Набрать…</string>
      <string name="contextmenu_feedback">Отправить отзыв</string>
      <string name="contextmenu_help">Справка</string>
      <string name="contextmenu_map">Карты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="contextmenu_open">Open</string>
      <string name="contextmenu_openlink">Открыть в браузере</string>
      <string name="contextmenu_send_mail">Отправить письмо</string>
      <string name="contextmenu_sharelink">Отправить ссылку</string>
@@ -408,6 +412,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="conversation_overload_toast">This email is too big to load, please go through all on PC later</string>
      <string name="conversation_photo_welcome_text">Чтобы открыть цепочку писем, нажми на фото отправителя</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="copied">Copied</string>
      <string name="copy_email">Скопировать адрес эл. почты</string>
      <string name="copy_number">Скопировать номер телефона</string>
      <string name="create_action">Создать</string>
@@ -476,6 +482,8 @@
      <string name="download_confirm_message">Чтобы открыть этот файл, нужно скачать вложение размером %1$s</string>
      <string name="download_confirm_title">Подтверждение загрузки</string>
      <string name="download_failed">Ошибка загрузки. Нажми, чтобы повторить.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="download_message_failed_for_too_large">The message is too big to download.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="download_show_image">Download and display image</string>
      <string name="downloading_message_body">Downloading email, please wait…</string>
@@ -929,6 +937,8 @@
      <string name="prefetched_got_it">"I've got it"</string>
      <string name="preview_attachment">Просмотр</string>
      <string name="previous_action">Назад</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="print">Print</string>
      <string name="prompt_title">Совет</string>
      <string name="protocol">Протокол</string>
      <string name="provider_note_live">Доступ по протоколу POP, позволяющий этой программе подключаться, разрешен только в некоторых аккаунтах Plus. Если Вам не удается войти с помощью своего адреса электронной почты и пароля, скорее всего, у вас бесплатный аккаунт (не Plus). Чтобы войти в такой аккаунт, используйте браузер.</string>

@@ -245,6 +245,7 @@
      <string name="open_file_failed">не удалось открыть</string>
      <string name="operate_confirm_in_3g">Use your mobile data connection to download this large file?</string>
      <string name="operating">Обработка…</string>
+     <string name="operation_add_fav">Adding to starred…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="operation_agree">Agree</string>
      <string name="operation_cancel">Отмена</string>
@@ -256,6 +257,7 @@
      <string name="operation_create_folder">Новая папка</string>
      <string name="operation_create_folder_message">Введите имя папки</string>
      <string name="operation_decompressing">Распаковка архива…</string>
+     <string name="operation_del_fav">Removing from starred…</string>
      <string name="operation_delete">Удалить</string>
      <string name="operation_delete_confirm_message">Подтверждение удаления</string>
      <string name="operation_delete_confirm_message_folder">"Удаление папки удалит все файлы в ней. 

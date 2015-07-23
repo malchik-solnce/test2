@@ -15,7 +15,6 @@
      <string name="adjust_traffic_carrier_summary_two_day_before">Обновлено 2 дня назад</string>
      <string name="adjust_traffic_carrier_summary_yesterday">Обновлено вчера в %s</string>
      <string name="adjust_traffic_data">Настроить трафик</string>
-     <string name="alter_dialog_message">Connecting to data services when roaming internationally can result in steep charges from your carrier. Allow apps on exceptions list to connect to data services when roaming internationally?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="apn_exception_summary">Carrier Access point information set abnormalities</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -50,6 +49,7 @@
      <string name="connect_internet_by_wifi">Connect to internet using WLAN</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="current_network_state_not_need_diagnose">Normal</string>
+     <string name="daily_limit_and_lock_screen">Daily data usage &amp; notifications</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="daily_limit_network_available_body">Touch to view data usage stats.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -186,8 +186,6 @@ For more info check the message you received from your service provider"</string
      <string name="load_fail">"Can't load"</string>
      <string name="local_ip_exception_summary">"Couldn't get local IP address. To report this issue to MIUI, go to the Report Bug app and send a log from your device."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="lock_screen_setting_summary">Show notification after 100KB has been used</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lock_screen_traffic_guide_notification_summary">Mobile data used during lock screen.</string>
      <string name="lock_screen_traffic_guide_notification_title">Used %s of mobile data</string>
      <!-- The count of MNPS does not match! Now: 2 must: 3
@@ -198,6 +196,14 @@ For more info check the message you received from your service provider"</string
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lock_screen_traffic_purchase_textview">Buy mobile data</string>
      <string name="lock_screen_traffic_warn_title">Предупреждение трафика</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lock_screen_warning_category">Lockscreen notifications</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lock_screen_warning_switch_summary">Show warning on lockscreen when data usage exceeds a certain amount</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lock_screen_warning_switch_title">Show warnings on lockscreen</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lock_screen_warning_value">data usage warning amount</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="main_alert_message_month_limit_error">The data limit you set is incorrect</string>
      <string name="main_alert_message_no_imsi">SIM-карта не обнаружена</string>
@@ -310,6 +316,16 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
  2. If you're using two SIM cards, try switching to the other card and see if you're able to connect normally.
  3. Make sure your SIM card and your device's SIM slot aren't damaged. Confirm that the SIM card you're using is properly inserted in your device's SIM tray."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="network_speed_for_apps_close">Force stop</string>
+     <string name="network_speed_for_apps_close_app_dlg_msg">Force stop this app?</string>
+     <string name="network_speed_for_apps_close_system_app_dlg_msg">"Can't force stop system apps."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="network_speed_for_apps_others">Other</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="network_speed_for_apps_title">Connection speed details</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="network_speed_for_apps_total">Connection speed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="networkchanged_exception_summary">Network connection has changed. Please test again.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="networkchanged_exception_title">Connection changed</string>
@@ -334,6 +350,11 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
      <string name="online_songs">Музыка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="open_now">Allow app to use mobile data</string>
+     <string name="operator_setted_error_dialog_message">"The SIM you're using is from %1$s. This is different from the location you set manually (%2$s). Change SIM location to %3$s?"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="operator_setted_error_notify_message">Tap to change SIM location.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="operator_setted_error_notify_title">SIM card error</string>
      <string name="other_exception_summary">"You don't have an internet connection"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="other_exception_title">Checking for other issues</string>
@@ -354,11 +375,7 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
      <string name="pref_adjust_data_usage">Шаблон сообщения оператора</string>
      <string name="pref_adjust_traffic_data">Настроить вручную</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_allow_connect_network_summary">Connect to data services when roaming internationally</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_allow_connect_network_title">International data roaming</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_allow_connect_network_whitelist_summary">Allow apps on exceptions list to connect to data services when roaming internationally</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_allow_connect_network_whitelist_title">Allow exceptions</string>
      <string name="pref_app_traffic_managent">Настройки ограничения</string>
@@ -397,6 +414,8 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
      <string name="pref_pkg_begin_date">Дата начала учета</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_roaming_daily_limit_setting">Daily data limit for roaming</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_roaming_setting_gategory">Data roaming</string>
      <string name="pref_setting_operators_message">Измененное сообщение устройство отправит оператору, чтобы синхронизировать статистику использования данных</string>
      <string name="pref_show_mobile_traffic">Показывать статистику использования данных при разблокировке устройсва, за период его блокировки (более 3 минут)</string>
      <string name="pref_special_traffic_exceed_limit">Сообщить, когда использование данных достигнет предела</string>
@@ -405,7 +424,7 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
      <string name="pref_specified_traffic_settings">Настроить трафик</string>
      <string name="pref_title_declaration">Информация о услуге</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_title_diagnostics_dont_show_float_notification">Show alerts in notification shade</string>
+     <string name="pref_title_diagnostics_show_float_notification">Floating notifications</string>
      <string name="pref_title_mobile_traffic">Показывать использование трафика при заблокированном экране</string>
      <string name="pref_title_network_diagnostics">Диагностика сети</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -622,6 +641,8 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
      <string name="traffic_saving_button_sorted_chose_simcard">SIM-карта</string>
      <string name="traffic_saving_button_start">Запустить</string>
      <string name="traffic_saving_button_stop">Остановить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_saving_can_optimized">Optimize</string>
      <string name="traffic_saving_history_title">История</string>
      <string name="traffic_saving_history_total_money">Деньги</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -674,8 +695,6 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="traffic_setting_completed">OK</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="traffic_setting_daily_limit_summary">Set data usage limits</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="traffic_setting_extra_pkg_oversea_summary">Adjust data plan and usage limits</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="traffic_setting_extra_pkg_summary">Adjust data plan and usage limits</string>
@@ -702,7 +721,6 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
      <string name="traffic_setting_open">On</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="traffic_setting_step_num">Data plan settings</string>
-     <string name="traffic_setting_update_template_falure">"Can't connect to the network"</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 0 must: 0
 	%d: 1 must: 0 -->

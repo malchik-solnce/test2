@@ -3,6 +3,8 @@
 <resources>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="about_fraud_num_online_identification">About this feature</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="about_phone_event">About Service Info</string>
      <string name="about_smart_antispam_summary">О идентификации</string>
      <string name="about_telephone_fraud">О мошенничестве</string>
      <string name="account_address">Основные адреса</string>
@@ -90,6 +92,7 @@
      <string name="express_addressee_info">Инфо о адресате</string>
      <string name="express_addressee_name">Имя адресата</string>
      <string name="express_addressee_region">Регион адресата</string>
+     <string name="express_banner_header">%1$s / Tracking number</string>
      <string name="express_cancel_order">Отмена</string>
      <string name="express_company_list_empty">Нет компаний</string>
      <string name="express_company_phone_prefix">Контакт:</string>
@@ -162,15 +165,12 @@ Please check your tracking number."</string>
      <string name="express_no_order">No order</string>
      <string name="express_no_order_info">Нет информации</string>
      <string name="express_order_confirmation">Подтверждение заказа</string>
-     <string name="express_order_created_time">Created time:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_failed">Failed</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="express_order_info">Order info</string>
-     <string name="express_order_internal_id">Order ID:</string>
      <string name="express_order_ongoing">Ordering…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_result">Result</string>
+     <string name="express_order_state">%1$s / %2$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_state_accepted">Accepted</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -232,8 +232,8 @@ Custom service will contact you in a moment"</string>
      <string name="express_view_status">Track</string>
      <string name="expresss_inquiry_all_logistics">Все</string>
      <string name="expresss_inquiry_frequently_used_logistics">Частые</string>
-     <string name="follow_express">Follow %1$s</string>
-     <string name="follow_express_success">Follow success, you can receive messages and get more services from %1$s.</string>
+     <string name="follow_label">Follow %1$s</string>
+     <string name="follow_success">Now following %1$s.</string>
      <string name="fraud_number_online_identification">Block telemarketers (requires internet connection)</string>
      <string name="gallery">Галерея</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -247,6 +247,10 @@ Custom service will contact you in a moment"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="general_favorite_ok">Favorite added</string>
      <string name="general_favorite_title">Избранные</string>
+     <!-- The count of MNPS does not match! Now: 3 must: 1
+	%s: 3 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Follow %1$s to receive relevant updates -->
      <string name="general_follow_hint">"Once followed %1$s, you can receive information from %1$s, and get more service from %1$s.
 
 Confirm to follow this yellow page?"</string>
@@ -349,33 +353,22 @@ Confirm to follow this yellow page?"</string>
      <string name="no_price">No price info</string>
      <string name="notify_connect_summary">Спрашивать перед подключением к сети</string>
      <string name="notify_connect_title">Разрешение сети</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Order date: -->
      <string name="order_date_label">Дата покупки: %s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="order_detail">Detail</string>
      <string name="order_empty_hint">Нет заказов</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: "Order #: " -->
      <string name="order_id_label">Id заказа: %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="order_info">Order info</string>
      <string name="order_merchant_title">Мои заказы</string>
      <string name="order_merchant_title_format">%1$s-%2$s</string>
      <string name="order_not_found">Нет покупок</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: "Order price: " -->
      <string name="order_price_label">Стоимость заказа: %s</string>
-     <string name="order_product_name_label">Название:</string>
-     <string name="order_status">%s</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: "Order status: " -->
+     <!-- Original string: Product name: %1$s -->
+     <string name="order_product_name_label">Название:</string>
      <string name="order_status_label">Статус заказа: %s</string>
      <string name="order_type_recharge">Top-up</string>
      <string name="packages_no_package">Нет подходящего пакета трафика</string>
@@ -392,6 +385,7 @@ Confirm to follow this yellow page?"</string>
      <string name="payment_failed_common_problems">Возникла проблема при оплате</string>
      <string name="payment_unknown_status_summary">Проверьте подключение к сети и попробуйте снова</string>
      <string name="payment_unknown_status_title">Нет подтверждения оплаты</string>
+     <string name="phone_event_setting_notice_text">"You will receive service infomation after a service number's incoming call or outgoing call. By using this, you may upload phone status of these calls."</string>
      <string name="phone_info_divider"> ｜ </string>
      <string name="photo_count">%d total</string>
      <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
@@ -402,6 +396,7 @@ Confirm to follow this yellow page?"</string>
      <string name="recharge_actual_price">Цена:</string>
      <string name="recharge_charge_range">Цена: %1$s-%2$s юань</string>
      <string name="recharge_charge_value">Цена: %s юань</string>
+     <string name="recharge_follow_name">top-up service</string>
      <string name="recharge_history">История пополнений</string>
      <string name="recharge_history_empty">История пуста</string>
      <string name="recharge_input_phone_title">Введите номер телефона (China mobile, China Unicom, или China Telecom)</string>
@@ -420,6 +415,7 @@ Confirm to follow this yellow page?"</string>
      <string name="recharge_payment_result_ok_title">Добавлено %s юань</string>
      <string name="recharge_payment_result_progress_summary">Проверка пополнения…</string>
      <string name="recharge_phone">Номер пополенения:</string>
+     <string name="recharge_phone_format">%1$s / %2$s</string>
      <string name="recharge_phone_number_empty">Номер телефона не должен быть пустым</string>
      <string name="recharge_phone_number_error">Неверный номер телефона</string>
      <string name="recharge_select_money_title">Выбери размер пополнения</string>
@@ -438,6 +434,8 @@ Confirm to follow this yellow page?"</string>
      <string name="remind_user_suspect_number_message">"Преступники могут украсть номера чужих телефонов. В случае сомнений, пожалуйста, перезвоните, чтобы проверить.
 Органы общественной безопасности, почтового сектора, электронной коммерции компании и курьерские компании не запрашивают информацию о банковыских картах и паролях."</string>
      <string name="remind_user_suspect_number_title">Остерегайся мошенников</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="rmb">RMB</string>
      <string name="scan">Сканировать</string>
      <string name="select_package_before_buy">Выбери пакет для покупки</string>
      <string name="send_shortcut_failed">Ошибка отправки</string>
@@ -459,6 +457,10 @@ Confirm to follow this yellow page?"</string>
      <string name="toast_finish_delete_call_log">Журнал вызовов был удален</string>
      <string name="toast_text_copied">Текст скопирован</string>
      <string name="try_again">Попробуй еще раз</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="turn_on_phone_event_summary">Upload phone status of services numbers</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="turn_on_phone_event_title">Receive service info</string>
      <string name="turn_on_smart_antispam_hint">После включения, номера будут определены. Если это не работает, Вы можете пометить их, чтобы помочь определить мошенников.</string>
      <string name="turn_on_smart_antispam_summary_off">Запрос только локальных запрограммированных номеров</string>
      <string name="turn_on_smart_antispam_summary_on">Идентифицировать неизвестные номера и загружать из сети</string>
@@ -494,6 +496,4 @@ Confirm to follow this yellow page?"</string>
      <string name="yellowpage_navigation_network_location_not_enabled_summary">Improve search results by allowing Directory to access your location info.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="yellowpage_navigation_network_location_not_enabled_title">Location access</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="yuan">Yuan</string>
 </resources>

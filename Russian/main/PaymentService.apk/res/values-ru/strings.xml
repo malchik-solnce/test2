@@ -31,6 +31,10 @@
      <string name="mibi_balance_payment">Balance: %1$s Mi Credits</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mibi_balance_title">Balance</string>
+     <string name="mibi_bill_delete_dialog_title">Delete %1$s</string>
+     <string name="mibi_bill_delete_message">Delete “%1$s”?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_bill_menu_delete_item">Delete</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mibi_bill_record_empty">No records.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -123,6 +127,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mibi_detail_recharge_time">Time</string>
      <string name="mibi_detail_recharge_title">Top-up records</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_enter_failed">Open failed</string>
      <string name="mibi_error_account_changed_summary">"Your account info has changed.
 Please log in again."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
