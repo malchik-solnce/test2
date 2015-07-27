@@ -208,12 +208,12 @@
      <string name="valid_in_this_month">доступно в этом месяце</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vip_auto_speedup">Xunlei members to accelerate directly</string>
-     <string name="vip_expire_show_info">您的迅雷会员即将到期\
-立即续费尊享95折优惠</string>
-     <string name="vip_expire_today_show_info">您的迅雷会员今天将到期\
-立即续费尊享95折优惠</string>
-     <string name="vip_show_info">500万迅雷会员的选择\
-专属加速特权，畅享快人一步的放肆</string>
+     <string name="vip_expire_show_info">"您的迅雷会员即将到期\
+立即续费尊享95折优惠"</string>
+     <string name="vip_expire_today_show_info">"您的迅雷会员今天将到期\
+立即续费尊享95折优惠"</string>
+     <string name="vip_show_info">"500万迅雷会员的选择\
+专属加速特权，畅享快人一步的放肆"</string>
      <string name="xunlei_brand">При поддержке Xunlei</string>
      <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

@@ -109,12 +109,15 @@
      <string name="file_info_modified">Изменен:</string>
      <string name="file_info_size">Размер:</string>
      <string name="file_loading">Загрузка…</string>
+     <string name="file_name_invalid">"File names can't contain the following characters: /\\:*?&lt;>"</string>
      <string name="file_not_exist">файл не существует</string>
      <string name="file_too_large">Этот файл слишком большой для загрузки на сервер</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="files">Files</string>
      <string name="finished">Завершено</string>
      <string name="folder_exist">Папка уже существует</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="folder_name_empty">Folder name cannot be empty</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="folder_name_illegal">Invalid folder name</string>
      <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Нажми сюда&lt;/a>для очистки корзины</string>
@@ -221,7 +224,8 @@
      <string name="my_photo_desc" />
      <string name="my_video">Видео</string>
      <string name="my_video_desc" />
-     <string name="name_illegal">Имя не может быть пустым</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="name_empty">You must enter a name.</string>
      <string name="net_lose_connected">Сеть недоступна, невозможно получить размер</string>
      <string name="networkView_notConnected">Нет доступных сетей</string>
      <string name="network_connect_confirm_des">Using kuaipan will access network, agree?</string>
@@ -290,8 +294,10 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="petabyteShort">PB</string>
      <string name="phone">Устройство</string>
+     <string name="port_range">Port must be between 1024–65535</string>
      <string name="pull_to_signin">Потяни вниз, чтобы войти в систему и получить место</string>
      <string name="release_to_signin">Отпусти для входа</string>
+     <string name="rename_alert">"If you change this file's extension, you may not be able to open it."</string>
      <string name="rename_description">Переименование…</string>
      <string name="rename_failed">Переименование %1$s не удалось</string>
      <string name="sd_card_available">Свободно: %1$s</string>
