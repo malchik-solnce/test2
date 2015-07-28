@@ -19,6 +19,8 @@
      <string name="ads_control">Advertise Control</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ads_control_desc">Checked, display advertise when start application</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ads_ignore">Ignore</string>
      <string name="airkan_control_device_des">Управляй воспроизведением видео с помощью кнопки в нижней части</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="airkan_device_xiaomi_phone">Xiaomi</string>

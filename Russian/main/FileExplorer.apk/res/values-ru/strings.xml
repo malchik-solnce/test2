@@ -29,6 +29,8 @@
      <string name="category_file">Files</string>
      <string name="category_music">Музыка</string>
      <string name="category_other">Прочее</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="category_photo">Photos</string>
      <string name="category_picture">Фото</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="category_recent">Recent</string>
@@ -77,6 +79,8 @@
      <string name="delete_folders">Удалить выбранные папки? (%1$d)</string>
      <string name="delete_selected_tasks">Delete selected？</string>
      <string name="des_running_trans">%1$d файл(ов) ожидают отправки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dialog_confirm">OK</string>
      <string name="dialog_select_type">Выбери тип файла</string>
      <string name="dialog_type_audio">Аудио</string>
      <string name="dialog_type_image">Изображения</string>
@@ -137,6 +141,8 @@
      <string name="group_title">%2$s from %1$s</string>
      <string name="instruction">Адрес синхронизации:</string>
      <string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="just_now">Just now</string>
      <string name="kilobyteShort">КБ</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="kp_category_all">Category</string>
@@ -161,6 +167,8 @@
      <string name="kuaipan_delete_guide_des">Delete guide？</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="kuaipan_delete_success">Photo deleted</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="kuaipan_info">KuaiPan files</string>
      <string name="kuaipan_over_space">В KuaiPan нет больше свободного места</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="kuaipan_photo_folder_divider">,</string>
@@ -175,6 +183,8 @@
      <string name="kuaipan_root_fooder">Home</string>
      <string name="kuaipan_tech_support">При поддержке Kingsoft Kuaipan</string>
      <string name="load_err">Ошибка загрузки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="load_more">View more</string>
      <string name="loading">Загрузка</string>
      <string name="login_reg_content">KuaiPan позволяет хранить файлы и синхронизировать их между несколькими устройствами</string>
      <string name="login_reg_content0">Ваш облачный диск KuaiPan</string>
@@ -232,16 +242,29 @@
      <string name="never_notify_network_connect">"Don't show me this again"</string>
      <string name="new_folder_name">Новая папка</string>
      <string name="no">Нет</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_app_tags">Empty</string>
      <string name="no_display_file">"Can't display %1$s"</string>
      <string name="no_enough_storage_indication">Не хватает места для вставки файла. Очисти место с помощью очистки или просто удалите большие файлы.</string>
      <string name="no_enough_storage_title">Не хватает места</string>
      <string name="no_file">Нет файлов</string>
      <string name="no_more_space">Не хватает места на диске</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_recent_files">No recent files</string>
      <string name="no_tasks">Задач нет</string>
      <string name="no_wifi">Нет Wi-Fi сети</string>
      <string name="no_wifi_hint">Wi-Fi не найдено нажмите для настройки</string>
      <string name="notif_server_starting">Синхронизация включена</string>
      <string name="notif_title">Обмен файлами включен</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="notification_dialog_confirm">OK</string>
+     <string name="notification_dialog_content">Automatically notify and organize when files are added or changed in %1$s.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="notification_dialog_title">Notifications</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="notification_setting">Notifications</string>
+     <string name="notification_summary">"%1$s doesn't support this feature yet"</string>
+     <string name="notification_title">Notify when new files are added to %1$s</string>
      <string name="open_changed_file_message">"Файл, который Вы пытаетесь открыть был изменен. Вы можете:
 1. Скачать (обновить локальный файл)
 2. Загрузить (обновить файл в облаке)"</string>
@@ -300,6 +323,13 @@
      <string name="rename_alert">"If you change this file's extension, you may not be able to open it."</string>
      <string name="rename_description">Переименование…</string>
      <string name="rename_failed">Переименование %1$s не удалось</string>
+     <string name="rlv_last_refreshing_time">Last scanned %1$s</string>
+     <string name="rlv_loading_more">Just a sec…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="rlv_pull_to_refresh">Pull to refresh</string>
+     <string name="rlv_refreshing">Scanning files…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="rlv_release_to_refresh">Release to refresh</string>
      <string name="sd_card_available">Свободно: %1$s</string>
      <string name="sd_card_size">Всего: %1$s</string>
      <string name="sd_full">SD-карта заполнена</string>
@@ -307,8 +337,69 @@
      <string name="sdcard">SD Card</string>
      <string name="sdcard_available">Available %1$s</string>
      <string name="sdcard_total">Total %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_activity_hint">Enter keyword</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_app">Source</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_app_more">More</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_category">Type</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_empty_view_hint">No results</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_error_hint">Enter keywords to search</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_file_type_apk">Apk</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_file_type_doc">Doc</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_file_type_music">Music</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_file_type_other">Other</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_file_type_picture">Photo</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_file_type_video">Video</string>
      <string name="search_hint">Введи часть или все имя файла</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_keyword">Tags</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_keyword_buy">Shopping</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_keyword_game">Game</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_keyword_im">Chat</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_keyword_messge">Express</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_keyword_news">News</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_keyword_wallet">Wallet</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_result_hint1">Related</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_result_hint2">All</string>
+     <string name="search_result_hint3">" "</string>
+     <string name="search_result_hint4" />
+     <string name="search_result_hint5" />
+     <string name="search_result_hint6">(%d items)</string>
+     <string name="search_result_hint7">(%d)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_result_more">More</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_statistic_appname">source</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_statistic_keyword">keyin</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_statistic_match_invalid">0</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_statistic_match_valid">1</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_statistic_tag">tag</string>
      <string name="search_title">Поиск документов</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_title_hint">Search</string>
      <string name="send_to_midrive_failed_message">Не удалось отправить в MiDrive. Неверный формат файла.</string>
      <string name="server_control_advanced_settings">Расширенные настройки</string>
      <string name="server_control_charset">Кодирование передачи</string>
@@ -329,6 +420,7 @@
      <string name="stay_awake_summary">Не переводить экран в режим сна при использовании FTP</string>
      <string name="stay_awake_title">Без сна</string>
      <string name="stop_server">Остановить</string>
+     <string name="storage_info">%1$s available</string>
      <string name="storage_internal">Внутренняя память</string>
      <string name="storage_sd_card">SD-карта</string>
      <string name="storage_usb">USB-накопитель</string>
@@ -404,4 +496,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="year_month_day_format">MMM dd, yyyy</string>
      <string name="yes">ОК</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="yesterday">Yesterday</string>
 </resources>
