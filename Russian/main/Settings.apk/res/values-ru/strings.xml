@@ -2089,6 +2089,7 @@ Are you sure to change?"</string>
      <string name="runningservices_settings_title">Работающие приложения</string>
      <string name="scan_list_label">Результат сканирования: </string>
      <string name="screen">НАСТРОЙКИ ЭКРАНА</string>
+     <string name="screen_color_and_optimize">Colors &amp; Contrast</string>
      <string name="screen_color_temperature">Температура цвета</string>
      <string name="screen_color_temperature_and_saturation">Цветовая температура</string>
      <string name="screen_compatibility_label">Совместимость с экраном</string>
