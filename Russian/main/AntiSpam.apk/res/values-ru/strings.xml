@@ -238,6 +238,8 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="quiet">Quiet</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="quiet_group">Do not disturb</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="quiet_important_interruptions_mode">Silent mode</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="quiet_mode">Quiet mode</string>
@@ -262,6 +264,8 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
      <string name="report_warning_title">Report SMS</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_not_ready">SIM card not ready</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sim_not_ready_toast">SIM card not ready, setting failed</string>
      <string name="sms_delete_hint">Удалить все заблокированные сообщения, отправленные выбранным номером?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sms_delete_title">Remove Message</string>

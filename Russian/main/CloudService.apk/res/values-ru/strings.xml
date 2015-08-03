@@ -68,10 +68,6 @@ Last backup: %2$s"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_space_upgrade_no_quota_info">Invalid data, please try again later</string>
      <string name="cloud_space_upgrade_title">Get Free Cloud Space!</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cloud_sync_setting_summary_standard">Use your mobile data connection to sync SMS, Contacts info, and call logs. Use WLAN to sync photos, videos, MMS, app data, Contact profile photos, and more.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cloud_sync_setting_summary_wlan">Only sync when connected to WLAN</string>
      <string name="cloudservice_new_sync">Sync %s with Mi Cloud</string>
      <string name="cmcc_micloud_dspt">Используй Mi Cloud для синхронизации данных, поиска устройства</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -372,8 +368,6 @@ This feature encrypts and uploads your device's ID to Mi's servers."</string>
      <string name="next">Далее</string>
      <string name="noRemind">Не напоминать</string>
      <string name="no_sim">SIM-карта не обнаружена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="only_in_wlan">Only use WLAN to sync</string>
      <string name="other_settings">Другие настройки</string>
      <string name="password">Введи пароль</string>
      <string name="phone_number_may_required_dspt_provision">"This service may require your phone number. "</string>
@@ -457,10 +451,6 @@ You can turn this feature on and off anythime in Settings.
      <string name="sync_off">Выкл.</string>
      <string name="sync_on">Вкл.</string>
      <string name="sync_resend_sms_dspt_provision">" If you switch SIM cards, your carrier may charge for an SMS message used to reactivate this service."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sync_setting">Sync settings</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sync_standard">Sync the small stuff</string>
      <string name="sync_sub_1_intl_sms">Для активации SIM-карты, будет отправлено одно международное сообщение</string>
      <string name="sync_sub_1_sms">Для активации SIM-карты, будет отправлено одно обычное сообщение</string>
      <string name="sync_sub_1_sms_1_intl_sms">Для активации SIM-карт, будет отправлено одно международное и одно обычное сообщение</string>

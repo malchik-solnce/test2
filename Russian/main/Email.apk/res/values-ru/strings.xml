@@ -222,6 +222,8 @@
      <string name="add_account">Добавить аккаунт</string>
      <string name="add_attachment">Прикрепить файл</string>
      <string name="add_bcc_label">Скрытая копия</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="add_calendar">Remind</string>
      <string name="add_cc_label">Копия</string>
      <string name="add_file_attachment">Прикрепить файл</string>
      <string name="add_label">Добавить папку</string>
@@ -388,12 +390,18 @@
      <string name="contact_select">Select contacts</string>
      <string name="content_description">Отправитель: %1$s; тема: %2$s; фрагмент: %3$s; дата: %4$s; состояние: %5$s</string>
      <string name="content_description_today">Отправитель: %1$s; тема: %2$s; фрагмент: %3$s; время: %4$s; состояние: %5$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="contextmenu_add">Add to Contacts</string>
      <string name="contextmenu_add_contact">Добавить контакт</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="contextmenu_call">Call</string>
      <string name="contextmenu_copy">Копировать</string>
      <string name="contextmenu_copylink">Скопировать ссылку</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="contextmenu_create">Create a new contact</string>
      <string name="contextmenu_dial_dot">Набрать…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="contextmenu_edit">Edit contact</string>
      <string name="contextmenu_feedback">Отправить отзыв</string>
      <string name="contextmenu_help">Справка</string>
      <string name="contextmenu_map">Карты</string>
