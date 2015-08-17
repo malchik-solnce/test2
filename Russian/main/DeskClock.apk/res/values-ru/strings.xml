@@ -27,6 +27,9 @@
      <string name="auto_silence_never">Отключено</string>
      <string name="auto_silence_summary">Сигнал выключится через %d мин.</string>
      <string name="auto_silence_title">Автоотключение</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="birthday_alarm">Birthday alarm</string>
+     <string name="birthday_alarm_summary">Play \"Happy Birthday\" instead of default alarm sound on your birthday</string>
      <string name="cancel">Стоп</string>
      <string name="close_alarm">Отключить будильник</string>
      <string name="common_settings">ОБЩИЕ НАСТРОЙКИ</string>

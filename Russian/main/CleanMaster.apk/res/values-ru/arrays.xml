@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+     <string-array name="apk_clean_menu">
+        <item>Clean up</item>
+        <item>File</item>
+        <item>Exception</item>
+        <item>Install</item>
+     </string-array>
+     <string-array name="app_clean_menu">
+        <item>Details</item>
+        <item>File</item>
+        <item>Back up and uninstall</item>
+        <item>Uninstall</item>
+     </string-array>
      <string-array name="auto_clean_size">
         <item>100 МБ</item>
         <item>300 МБ</item>
@@ -16,6 +28,11 @@
         <item>Спросить перед очисткой</item>
         <item>Очистить в фоне</item>
         <item>Уведомить после очистки</item>
+     </string-array>
+     <string-array name="cache_clean_menu">
+        <item>Clean up</item>
+        <item>File</item>
+        <item>Exception</item>
      </string-array>
      <string-array name="cache_sort_type">
         <item>Размер</item>

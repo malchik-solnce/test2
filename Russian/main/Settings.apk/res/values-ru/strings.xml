@@ -90,6 +90,8 @@
      <string name="adjust_3d_depth_title">Настройка 3D для игр</string>
      <string name="advanced_settings">Дополнительные настройки</string>
      <string name="advanced_settings_summary">Включить дополнительные настройки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="advanced_text_layout">Enable advanced text layout function</string>
      <string name="agps_roaming">A-GPS when roaming</string>
      <string name="agps_roaming_dia">"Using A-GPS while roaming may increase your mobile data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
      <string name="agps_roaming_dia_title">Use A-GPS when roaming</string>
@@ -334,7 +336,12 @@
      <string name="bluetooth_ask_discovery">Одному из приложений нужно, чтобы ваш телефон был доступен для поиска на других устройствах в течение %1$d сек. Включить Bluetooth?</string>
      <string name="bluetooth_ask_enablement">Приложение запрашивает разрешение включить Bluetooth. Разрешить?</string>
      <string name="bluetooth_ask_enablement_and_discovery">Одному из приложений нужно, чтобы ваш телефон был доступен для поиска на других устройствах в течение %1$d сек. Включить Bluetooth?</string>
+     <string name="bluetooth_ask_enablement_and_discovery_detected">wants to turn on Bluetooth and make your phone visible to other devices for %1$d seconds.</string>
      <string name="bluetooth_ask_enablement_and_lasting_discovery">Одному из приложений нужно, чтобы ваш телефон был доступен для поиска на других устройствах. Включить Bluetooth?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">wants to turn on Bluetooth and make your phone visible to other devices. You can change this later in Bluetooth settings.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bluetooth_ask_enablement_detected">wants to turn on Bluetooth.</string>
      <string name="bluetooth_ask_lasting_discovery">Одному из приложений нужно, чтобы ваш телефон был доступен для поиска на других устройствах. Включить Bluetooth?</string>
      <string name="bluetooth_auto_connect">Автоматическое подключение</string>
      <string name="bluetooth_confirm_passkey_msg">Для подключения к устройству&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>на нем должен отображаться этот код доступа:&lt;br>&lt;b>%2$s</string>
@@ -540,6 +547,8 @@
      <string name="camera_key_action_title">Клавиша MI</string>
      <string name="camera_key_action_toggle_title">Переключатель</string>
      <string name="cancel">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cancel_action">Cancel</string>
      <string name="cancel_alert">Отменить изменения?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cancel_download_buton_text">Cancel</string>
@@ -574,6 +583,16 @@
      <string name="check_update">Check for updates</string>
      <string name="checkbox_notification_same_as_incoming_call">Использовать этот уровень громкости также для уведомлений</string>
      <string name="checking_for_updates">Checking for updates…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="children_mode_enable_title">Parental controls</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="children_mode_set_apps_title">Accessible apps</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="children_mode_tips_off">After turning parental controls on, tap the Home button to return to Home screen</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="children_mode_tips_on">After turning parental controls off, tap the Home button to return to Home screen</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="children_mode_title">Parental controls</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="choose_smartcover_type">Choose case type</string>
      <string name="choose_timezone">Выбрать часовой пояс</string>
@@ -611,6 +630,8 @@
      <string name="config_charging_function_name">charging</string>
      <string name="config_list_label">Настроенные сети</string>
      <string name="configure_input_method">Настройка методов ввода</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="confirm_action">OK</string>
      <string name="confirm_download_cancelation_dialog_message">Cancel download?</string>
      <string name="confirm_erase">Удалить</string>
      <string name="confirm_new_backup_pw_prompt">Подтвердите пароль</string>
@@ -776,6 +797,9 @@
      <string name="default_usb_mode">Тип подключения USB</string>
      <string name="delete">Удалить</string>
      <string name="deny">Запретить</string>
+     <string name="deny_sms_message">"Don't allow installed apps to send SMS"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="deny_sms_title">Lock SMS</string>
      <string name="details_subtitle">Расход батареи</string>
      <string name="details_title">Расход батареи</string>
      <string name="dev_settings_warning_message">Эти настройки только для разработчиков. Они могут вызвать нестабильность работы устройства и приложений на нем.</string>
@@ -874,8 +898,9 @@
      <string name="dndm_repeated_call_summary_3min">Второй вызов от того же человека в течение трех минут не будет отключен</string>
      <string name="dndm_repeated_call_summary_none">Не делать исключения для повторных вызовов</string>
      <string name="dndm_special_call_setting_group">Настройки исключений</string>
-     <string name="dndm_summary">После включения, входящие звонки и сообщения будут без звука</string>
      <string name="dndm_vip_call_button_title">Из списка исключений</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dndm_vip_call_setting_detal">Always accept calls from exceptions</string>
      <string name="dndm_vip_call_setting_title">Настройка исключений</string>
      <string name="dndm_vip_call_summary_contact">Все контакты</string>
      <string name="dndm_vip_call_summary_custom">Исключений: %d</string>
@@ -884,6 +909,10 @@
      <string name="dndm_vip_list_custom">Исключения</string>
      <string name="dndm_vip_list_custom_group">Исключения</string>
      <string name="dndm_vip_list_group">Список исключений</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dndm_wristband">Smart bracelet</string>
+     <string name="dndm_wristband_detailed">"Turn on Do Not Disturb if Mi Band detects you're sleeping within an hour before scheduled start time"</string>
+     <string name="dndm_wristband_detailed2">"Turn off Do Not Disturb if Mi Band detects you've woken up within an hour before scheduled end time"</string>
      <string name="do_not_disturb_mode">Тихий режим</string>
      <string name="dock_audio_settings_title">Аудио</string>
      <string name="dock_audio_summary_car">Настройки док-станции автомобиля</string>
@@ -974,6 +1003,10 @@
      <string name="error_mnc_not23">Поле MNC должно содержать 2 или 3 цифры</string>
      <string name="error_name_empty">Необходимо указать название</string>
      <string name="error_title">Предупреждение</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="every_day">Every day</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="experience_optimization_category">Experience optimization</string>
      <string name="external_code_size_label">USB-накопитель</string>
      <string name="external_data_size_label">SD-карта</string>
      <string name="factory_reset_summary">Вы можете удалить Ваши личные данные в Восстановление и сброс или выбрать установленные приложения для удаления и отформатировать SD-карту до заводских настроек</string>
@@ -996,6 +1029,8 @@
      <string name="fluency_mode">Optimize system performance</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="fluency_mode_confirm_and_reboot">Reboot now</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="font_size_exhuge">Extra Huge</string>
      <string name="font_size_huge">Огромный</string>
      <string name="font_size_large">Большой</string>
      <string name="font_size_medium">Средний</string>
@@ -1072,7 +1107,7 @@ Dissatisfied? Try"</string>
      <string name="google_backup_section_title">Резервное копирование Google</string>
      <string name="gsm_to_wifi_connect_type_title">Настройки &gt; Wi-Fi</string>
      <string name="handy_mode">One-handed mode</string>
-     <string name="handy_mode_enable">One-handed mode</string>
+     <string name="handy_mode_enter_ask">Ask before entering One-handed mode</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="handy_mode_size">Screen size</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -1205,6 +1240,9 @@ Dissatisfied? Try"</string>
      <string name="launching_pho">Launching phone info, please wait.</string>
      <string name="launching_rep">Reporting…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="layout_size_exhuge">Large</string>
+     <string name="layout_size_huge" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="layout_size_large">Large</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="layout_size_medium">Medium</string>
@@ -1217,6 +1255,12 @@ Dissatisfied? Try"</string>
      <string name="led_pulse_summary">Мигать светодиодом при новых уведомлениях</string>
      <string name="led_settings">Настройки индикации</string>
      <string name="legal_information">Правовая информация</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="legal_workday">Legal workdays</string>
+     <string name="legal_workday_invalidate">Mon-Fri (holiday info expired)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="legal_workday_invalidate_message">Tap to update public holiday info.</string>
+     <string name="legal_workday_message">(Skip holidays)</string>
      <string name="license_title">Лицензия</string>
      <string name="line_breaking_summary">Оптимизировать разрывы линий</string>
      <string name="line_breaking_title">Оптимизация текста</string>
@@ -1649,6 +1693,8 @@ Dissatisfied? Try"</string>
      <string name="network_state_label">Состояние сети: </string>
      <string name="networkid_label">ID сети: </string>
      <string name="networks">Выбор оператора</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="never">Never</string>
      <string name="new_backup_pw_prompt">Введите новый пароль</string>
      <string name="next_button_label">Далее</string>
      <string name="next_label">Далее</string>
@@ -1759,6 +1805,10 @@ Dissatisfied? Try"</string>
      <string name="page_layout_30">Zoey Jhone</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="page_layout_31">Chartte Yvon</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_32">Play Store</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="page_layout_33">Google</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="page_layout_4">Music</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -2024,6 +2074,8 @@ Are you sure to change?"</string>
      <string name="remove_account_label">Удалить аккаунт</string>
      <string name="remove_device_admin">Отключить</string>
      <string name="remove_from_frequently_fragment">Удалить "%s" из общих настроек?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="repeat">Repeat</string>
      <string name="reset_app_preferences">Сбросить настройки приложений</string>
      <string name="reset_app_preferences_button">Сбросить</string>
      <string name="reset_app_preferences_desc">"Это сбросит все настройки для: 
@@ -2271,6 +2323,12 @@ Are you sure to change?"</string>
      <string name="set_dds_error">Ошибка установки подписки</string>
      <string name="set_dds_failed">Ошибка установки подписки. Очистите текущее подключение и повторите попытку позже.</string>
      <string name="set_dds_success">Подписка установлена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="set_password_action">Set password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="set_password_message">Set a password to turn off parental controls as well as to unlock this device</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="set_password_title">Set password</string>
      <string name="set_sms_error">Ошибка устанвоки текстовой подписки. Подписка не активна.</string>
      <string name="set_voice_error">Ошибка установки голосовой подписки. Подписка не активна.</string>
      <string name="settings_backup">Создать резервную копию настроек</string>
@@ -2442,6 +2500,10 @@ Are you sure to change?"</string>
      <string name="status_bar_settings_notification_bar">Notification shade</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_settings_notification_led">Notification light</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="status_bar_settings_notification_priority">Priority</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="status_bar_settings_notification_priority_summary">Show notifications at the top of the list</string>
      <string name="status_bar_settings_notification_sound_vibrate">Sounds &amp; vibrations</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_settings_show_carrier">Show service provider</string>
@@ -2551,6 +2613,8 @@ Are you sure to change?"</string>
      <string name="tether_settings_title_usb_bluetooth">Режим модема</string>
      <string name="tether_settings_title_wifi">Точка доступа Wi-Fi</string>
      <string name="tethering_help_button_text">Справка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="theme_settings_title">Themes</string>
      <string name="time_picker_title">Время</string>
      <string name="time_zone_auto_stub">Выбрать временную зону</string>
      <string name="timezone_settings">Часовой пояс</string>

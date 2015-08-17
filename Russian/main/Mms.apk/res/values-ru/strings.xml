@@ -279,8 +279,14 @@
      <string name="move_down">Переместить вниз</string>
      <string name="move_up">Переместить вверх</string>
      <string name="msg_type_hint_mms">Мультимедийное сообщение</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="msg_type_hint_mms_omit">MMS</string>
      <string name="msg_type_hint_mx">Облачное сообщение</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="msg_type_hint_mx_omit">Mi Msg</string>
      <string name="msg_type_hint_sms">Текстовое сообщение</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="msg_type_hint_sms_omit">SMS</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msglist_continue_to_pull_for_more">Pull down to view more</string>
      <string name="msglist_more_refreshing">Refreshing…</string>
@@ -379,6 +385,8 @@ SMS (%1$d), MMS (%2$d)"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_show_blocked_messages_summary">Show blocked SMS in conversations</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_show_sms_template_in_summary">Automatically detect OTP in SMS messages</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_show_sms_template_summary">Automatically copy and fill in verification codes</string>
      <string name="pref_sms_theme_title">НАСТРОЙКИ ВИДА</string>
      <string name="pref_summary_allow_si_sl_push">Разрешить прием WAP Push сообщений (SI/SL)</string>
@@ -400,6 +408,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_summary_show_recent_contacts">Показать список последних контактов при создании нового сообщения</string>
      <string name="pref_summary_wake_up_screen">Включать экран при получении нового сообщения</string>
      <string name="pref_system_title">СИСТЕМНЫЕ НАСТРОЙКИ</string>
+     <string name="pref_time_auto_group_disabled_summary">"It's not supported in current font size"</string>
      <string name="pref_time_auto_group_summary">Группировать сообщения по времени</string>
      <string name="pref_time_auto_group_title">Группировка</string>
      <string name="pref_title_allow_si_sl_push">Разрешить WAP Push</string>
@@ -601,6 +610,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="title_show_blocked_messages">show blocked SMS</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_show_sms_template">Check SMS for verification codes</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_show_sms_template_in">Check SMS for OTP</string>
      <string name="title_timed_message_dialog">Время отправки сообщения</string>
      <string name="to_address_label">"Получатель: "</string>
      <string name="to_count">Всего: %d</string>

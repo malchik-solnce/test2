@@ -99,7 +99,7 @@ Last backup: %2$s"</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: "If you lose your device, you can go to %s to locate, lock, or reset it. You can turn this feature on and off anytime in Settings.
+     <!-- Original string: "If you lose your device, you can go to %s to locate, lock, or reset it. You can turn this feature on or off anytime in Settings.
 " -->
      <string name="find_device_dspt_provision">"If you lose your device, you can go to "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -159,6 +159,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
      <string name="micloud_check_sim_notify_title">Reactivate Mi Cloud</string>
      <string name="micloud_check_sim_title">"Look's like you've changed SIM cards. Sign in
 to your Mi Account to reactivate Mi Cloud."</string>
+     <string name="micloud_detail_download_syncing">Downloading %s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_detail_fail">fail</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -173,6 +174,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
      <string name="micloud_detail_success">synced</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_detail_syncing">syncing</string>
+     <string name="micloud_detail_upload_syncing">Uploading %s</string>
      <string name="micloud_detail_wlan">%d data unsynced</string>
      <string name="micloud_detail_wlan_contact">%d contact photo unsynced</string>
      <string name="micloud_detail_wlan_mms">%d mms unsynced</string>
@@ -375,9 +377,11 @@ This feature encrypts and uploads your device's ID to Mi's servers."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="photo">Photos</string>
      <string name="pref_summary_sync_display_photo_on_wifi_only">Рекомендуется включить, иначе будет использоваться мобильный интернет</string>
+     <string name="pref_summary_sync_video_on_wifi_only">"Only sync contacts' profile videos when you're connected to a WLAN network"</string>
      <string name="pref_title_sync_contacts_title">Синхронизация контактов</string>
      <string name="pref_title_sync_display_photo_on_wifi_only">Только по Wi-Fi</string>
-     <string name="pref_title_sync_my_profile_title">Синхронизация профиля</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_title_sync_video_on_wifi_only">Only use WLAN to sync video</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="privacy_policy">Privacy Policy</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

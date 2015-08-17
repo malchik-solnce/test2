@@ -50,11 +50,6 @@
      <string name="collapse_update_apps_hint">Click to show all update apps</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="collapse_update_history_hint">Click to show all update history</string>
-     <string name="comment_1_star">1 звезда</string>
-     <string name="comment_2_star">2 звезды</string>
-     <string name="comment_3_star">3 звезды</string>
-     <string name="comment_4_star">4 звезды</string>
-     <string name="comment_5_star">5 звезд</string>
      <string name="comment_average_score">Всего</string>
      <string name="comment_cannot_comment">Чтобы оставить комментарий, нужно скачать это приложение</string>
      <string name="comment_count_hint">Touch to rate:</string>
@@ -115,7 +110,6 @@
      <string name="diagnostics_btn_feedback_skip">Skip diagnostics and feedback</string>
      <string name="diagnostics_btn_processing">Обработка…</string>
      <string name="diagnostics_btn_start">Начало диагностики</string>
-     <string name="diagnostics_btn_upload">Выгрузить</string>
      <string name="diagnostics_cdn_ip">4. IP адрес CDN</string>
      <string name="diagnostics_data_cost_hint">Инструмент диагностики использует около 100 Кб мобильного интернета</string>
      <string name="diagnostics_data_sending">Отправка результатов…</string>
@@ -362,7 +356,6 @@
      <string name="pref_title_delete_package">Автоудаление апк</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_title_feedback">Feedback</string>
-     <string name="pref_title_network_diagnostics">Диагностика сети</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_title_receive_push_message">Receive push message</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

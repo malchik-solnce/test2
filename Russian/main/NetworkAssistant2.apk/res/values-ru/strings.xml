@@ -130,6 +130,8 @@ For more info check the message you received from your service provider"</string
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dialog_roaming_title">International roaming</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dialog_title_attention">Attention</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="disable_air_mode">Turn airplane mode off</string>
      <string name="dns_exception_summary">"Router's DNS settings are unavailable."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -186,7 +188,15 @@ For more info check the message you received from your service provider"</string
      <string name="load_fail">"Can't load"</string>
      <string name="local_ip_exception_summary">"Couldn't get local IP address. To report this issue to MIUI, go to the Report Bug app and send a log from your device."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: %s used at lock screen -->
      <string name="lock_screen_traffic_guide_notification_summary">Mobile data used during lock screen.</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Tap to manage data usage. -->
      <string name="lock_screen_traffic_guide_notification_title">Used %s of mobile data</string>
      <!-- The count of MNPS does not match! Now: 2 must: 3
 	%s: 2 must: 3
@@ -332,17 +342,38 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_network_btn">Try again</string>
      <string name="none_mi_service_app_detail">Пусто</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: To limit data usage automatically, set up your monthly data plan. -->
      <string name="notify_daily_data_usage_body">%s used today. Tap to set limit.</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Tap to set data limit. -->
      <string name="notify_daily_limit_body">%s used this week. Tap to set limit.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Used %s today -->
      <string name="notify_daily_limit_title">Set a daily data limit</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 2
+	%s: 1 must: 2
+	%d: 0 must: 0 -->
+     <!-- Original string: %1$s used %2$s today -->
      <string name="notify_daily_limit_title_for_slotnum">Set daily data limit for %s</string>
-     <string name="notify_daily_traffic_saving_title">%s used today</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Set a data usage limit to prevent going over your monthly data plan. -->
      <string name="notify_month_traffic_body">%s used this month. Tap to set limit.</string>
+     <string name="notify_month_traffic_title">Used %s this month</string>
+     <string name="notify_month_traffic_title_for_slotnum">%1$s used %2$s this month</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="notify_setting_pkg_title">Set your monthly data limit</string>
-     <string name="notify_setting_pkg_title_for_slotnum">Set monthly data limit for %s</string>
-     <string name="notify_weekly_pkg_body">%s used this week. Tap to set limit.</string>
+     <string name="notify_weekly_traffic_body">To limit data usage automatically, set up your monthly data plan.</string>
+     <string name="notify_weekly_traffic_title">Used %s this week</string>
+     <string name="notify_weekly_traffic_title_for_slotnum">%1$s used %2$s this week</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok_button">OK</string>
      <string name="online_chat">Чаты</string>
@@ -459,7 +490,7 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: "By using this service, you are agreeing to Opera's &lt;a href=%s> Terms and Conditions&lt;/a>." -->
+     <!-- Original string: "By using this service, you are agreeing to Opera's &lt;a href=%s> Terms of Service&lt;/a>." -->
      <string name="privacy_declare_dialog_message">"By using this service, you are agreeing to Opera's &lt;a href=http://max.oupeng.com/eula.html> Terms and Conditions&lt;/a>."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="privacy_declare_dialog_title">Terms and Conditions</string>
@@ -487,6 +518,7 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
      <string name="repair_loading_text">Loading…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="replace_dns">Auto replacement</string>
+     <string name="restrictbackground_conflict_saving_msg">"Can't use Data saver when background data is restricted. Turn Data saver off and restrict background data?"</string>
      <string name="right_precent">100%</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="roaming_limit_dialog_message">Reached daily roaming data limit.</string>
@@ -506,6 +538,13 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
      <string name="roaming_start_title">International roaming</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="root">Root</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="saving_conflict_dialog_cancel">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="saving_conflict_dialog_ok">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="saving_conflict_dialog_title">Attention</string>
+     <string name="saving_conflict_restrictbackground_msg">"Can't use Data saver when background data is restricted. Allow background data and turn Data saver on?"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sc_allow_network_dialog_message">You need to allow this app to connect to the internet for it function normally.</string>
      <string name="sc_allow_network_dialog_tiltle">"Can't use data saver"</string>
@@ -703,6 +742,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="traffic_setting_extra_traffic_title">Additional settings</string>
      <string name="traffic_setting_fragment_area">Местоположение</string>
+     <string name="traffic_setting_fragment_area_dual">%s Locale</string>
      <string name="traffic_setting_fragment_brand">Бренд</string>
      <string name="traffic_setting_fragment_button1_text">Отмена</string>
      <string name="traffic_setting_fragment_button2_text">Сохранить</string>

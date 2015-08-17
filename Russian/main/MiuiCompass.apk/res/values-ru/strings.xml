@@ -17,6 +17,7 @@
      <string name="calibrate_tip">Tilt your device to roll the ball around the circle</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="calibrate_title">Calibrate compass</string>
+     <string name="dialog_body_no_network">"Can't connect to network"</string>
      <string name="dialog_calibrat_altitude">Калибрация через интеренет подключение</string>
      <string name="dialog_title_no_network">Сетей не найдено. Подключись через Wi-Fi или включи мобильный интернет.</string>
      <string name="direction_east">В</string>
@@ -28,6 +29,10 @@
      <string name="direction_south_west">ЮЗ</string>
      <string name="direction_west">З</string>
      <string name="do_not_show_next_time">"Don't show again"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_camera_unavailable">Check if another app is currently using Camera.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_camera_unavailable_title">Camera unavailable</string>
      <string name="first_using_dialog_message">"Compass needs to use your device's network connection, camera, and location services to work normally."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="first_using_dialog_title">Access permission</string>

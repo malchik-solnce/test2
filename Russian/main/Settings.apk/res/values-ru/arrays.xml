@@ -35,6 +35,16 @@
         <item>0</item>
         <item>1</item>
      </string-array>
+     <string-array name="alarm_repeat_type">
+        <item>Everyday</item>
+        <item>Weekdays</item>
+        <item>Custom</item>
+     </string-array>
+     <string-array name="alarm_repeat_type_no_workdays">
+        <item>Everyday</item>
+        <item>Weekdays</item>
+        <item>Custom</item>
+     </string-array>
      <string-array name="animator_duration_scale_entries">
         <item>Отключена</item>
         <item>Быстрая</item>
@@ -271,6 +281,7 @@
         <item>sRGB</item>
         <item>Натуральный</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 5 must: 6 -->
      <string-array name="entries_font_size">
         <item>Мелкий</item>
         <item>Обычный</item>

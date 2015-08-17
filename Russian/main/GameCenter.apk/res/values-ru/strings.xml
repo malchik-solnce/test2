@@ -185,6 +185,8 @@
      <string name="edit_comment">Изменить комментарий</string>
      <string name="edit_comment_title">Редактирование: %1$s</string>
      <string name="edit_text_default">Введи комментарий</string>
+     <string name="egret_runtime_engine_loading">Runtime Loading:%s</string>
+     <string name="egret_runtime_game_loading">Game Loading:%s</string>
      <string name="enable_ignore_local_app">%d  updates were ignored</string>
      <string name="enable_updata_local_app">Обновлений: %d</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -392,6 +394,12 @@
      <string name="gift_search_bar_text">Search</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gift_search_hint">Enter the package name</string>
+     <string name="gift_success_button_download">下载游戏</string>
+     <string name="gift_success_cue_installed">请尽快在游戏中使用，否则会被放到淘号。</string>
+     <string name="gift_success_cue_steal">淘到号不一定能兑换成功，请尽快下载游戏使用。</string>
+     <string name="gift_success_cue_uninstalled">礼包领取成功，请尽快下载游戏使用。</string>
+     <string name="gift_success_primary">礼包领取成功</string>
+     <string name="gift_success_secondary">兑换码已保存到</string>
      <string name="gift_time_day"> дней</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gift_time_end">end</string>
@@ -422,9 +430,13 @@
      <string name="h5_float_layout_contentdescription_normal">normal</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="h5_float_layout_contentdescription_right">right</string>
+     <string name="h5_float_menu_cancel_favorite">取消收藏</string>
      <string name="h5_float_menu_exit">退出游戏</string>
      <string name="h5_float_menu_favorite">添加收藏</string>
+     <string name="h5_float_menu_favorite_add_failed">添加收藏失败</string>
      <string name="h5_float_menu_favorite_added">已添加到收藏</string>
+     <string name="h5_float_menu_favorite_cancel_failed">取消收藏失败</string>
+     <string name="h5_float_menu_favorite_cancelled">已取消收藏</string>
      <string name="h5_float_menu_favorite_shared">分享成功！</string>
      <string name="h5_float_menu_favorite_shortcut">游戏图标已添加到桌面</string>
      <string name="h5_float_menu_favorite_shortcut_failed">桌面图标创建失败 T_T</string>
@@ -693,6 +705,12 @@ Please check and refresh"</string>
      <string name="notif_installing">Установка "%1$s"…</string>
      <string name="notif_title_update">Доступно %1$s обновление！</string>
      <string name="notif_unzipping">Распаковка "%1$s"…</string>
+     <string name="obtain_code">淘号</string>
+     <string name="obtain_code_again">再淘一次</string>
+     <string name="obtain_code_count">已淘%s次</string>
+     <string name="obtain_code_fail">淘号失败</string>
+     <string name="obtain_code_success">"%1$s
+淘到号啦！"</string>
      <string name="online_game_beta">Бета</string>
      <string name="online_game_gift">Пакеты</string>
      <string name="online_game_hot">Хиты</string>
@@ -847,13 +865,13 @@ Please check and refresh"</string>
      <string name="recommend_pull_down_game_world_server_today">今日开服</string>
      <string name="recommend_pull_down_game_world_server_tomorrow">明日开服</string>
      <string name="recommend_pull_down_games_format">发现了%1$d款游戏</string>
-     <string name="recommend_pull_down_games_gift_format">发现了%1$d款游戏,%2$d个惊喜</string>
      <string name="recommend_pull_down_gift_format">发现了%1$d个惊喜</string>
      <string name="recommend_pull_down_html_game_action_text">进入</string>
      <string name="recommend_pull_down_html_type">页游</string>
      <string name="recommend_pull_down_promotion_type">活动</string>
      <string name="recommend_pull_down_red_packet_hint">恭喜您，获得一个红包</string>
      <string name="recommend_pull_down_red_packet_result_format">恭喜你，获得%1$s</string>
+     <string name="recommend_pull_down_redbag_format">发现了%1$d个红包</string>
      <string name="recommend_pull_down_redpacket_hint">赶快领取红包吧</string>
      <string name="recommend_pull_down_subject_type">专题</string>
      <string name="recommend_pull_down_toast_default_hint">下拉有惊喜～</string>

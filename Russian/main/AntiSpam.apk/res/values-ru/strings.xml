@@ -49,6 +49,8 @@
      <string name="ad_update_time">Обновлено: %s</string>
      <string name="ad_update_time_unKnown">Обновлено: неизвестно</string>
      <string name="ad_update_title">Автоматическое обновление</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="address">Address</string>
      <string name="address_choose_hint">Регионы: %1$s, %2$s и %3$d</string>
      <string name="addwhitelist">В белый список</string>
      <string name="all_address_choose_hint">Все регионы</string>
@@ -61,6 +63,8 @@
      <string name="app_name">Черный список</string>
      <string name="backsound_set_hint">Установить обратную мелодию на %s?</string>
      <string name="baidu_thanks">При поддержке Baidu</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="birthday">Birthday</string>
      <string name="bl_block_info" formatted="false">Вызовов: %d | Сообщений: %d</string>
      <string name="bl_no_blacklist">Пусто</string>
      <string name="bl_no_block_call">Пусто</string>
@@ -133,8 +137,10 @@
      <string name="dlg_remove_blacklist_ing">Удаление из черного списка…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlg_remove_blacklist_ok">OK</string>
-     <string name="dlg_remove_whitelist">Удалить выбранные номера из белого списка?</string>
+     <string name="dlg_remove_whitelist_content">Remove these numbers from exceptions?</string>
      <string name="dlg_remove_whitelist_ing">Удаление из белого списка…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dlg_remove_whitelist_title">Remove</string>
      <string name="dlg_retore">Восстановить это сообщение?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlg_retore_ok">OK</string>
@@ -143,10 +149,15 @@
      <string name="dlg_white_address_antispam_message">Добавить регион в белый список?</string>
      <string name="dlg_white_antispam_hint">Белый список</string>
      <string name="dlg_white_antispam_message">Добавить сообщение в белый список?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="email">Email</string>
+     <string name="empty_activity_title">" "</string>
      <string name="fw_blocked">Черный список</string>
      <string name="fw_blocked_count">Заблокировано</string>
      <string name="fw_blocked_join">" and "</string>
      <string name="hint_antispam_mode_edit">Пользовательский режим</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="im">IM</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="info_antispam_close">AntiSpam Off</string>
      <string name="info_antispam_current_mode">%s</string>
@@ -164,17 +175,23 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_agent_block">Marked as agent</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_agent_block_large">Intermediary</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_agent_time_setting">Block numbers reported as telemarketers more than particular times</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_fraud">Fraud</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_fraud_block">Marked as fraud</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_fraud_block_large">Fraud</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_fraud_time_setting">Block numbers reported as scams more than particular times</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_harass">Harassment</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_harass_block">Reported as harassment</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_harass_block_large">Harassment</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_harass_time_setting">Block numbers reported as harassment more than particular times</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -199,6 +216,8 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
      <string name="mark_sell">Telemarketer</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_sell_block">Marked as telemarketer</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mark_sell_block_large">Telemarketer</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mark_sell_time_setting">Block numbers reported as sales more than particular times</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -228,6 +247,12 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
      <string name="menu_restore">Восстановить в сообщения</string>
      <string name="menu_sms">Отправить сообщение</string>
      <string name="menu_wh_remove">Удалить из белого списка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="name">Name</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="nickname">Nickname</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="note">Note</string>
      <string name="note_call_none">Нет вызовов</string>
      <string name="note_keyword_none">Нет ключевых слов</string>
      <string name="note_list_none">Список пуст</string>
@@ -235,6 +260,10 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
      <string name="note_sms_none">Нет сообщений</string>
      <string name="one_address_choose_hint">Регион: %s1</string>
      <string name="open_callwait">Включить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="organization">Organization</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="phone">Phone</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="quiet">Quiet</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -266,6 +295,8 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
      <string name="sim_not_ready">SIM card not ready</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_not_ready_toast">SIM card not ready, setting failed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sip_phone">SIP Phone</string>
      <string name="sms_delete_hint">Удалить все заблокированные сообщения, отправленные выбранным номером?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sms_delete_title">Remove Message</string>
@@ -405,6 +436,8 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
      <string name="toast_keyword_invalid">Неверное ключевое слово</string>
      <string name="two_address_choose_hint">Регионы: %1$s, %2$s2</string>
      <string name="user_define_title">Добавление режима</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="website">Website</string>
      <string name="whitelist_prefix_add_hint">Добавить все номера с префиксом в белый список</string>
      <string name="wl_no_whitelist">Нет номеров</string>
 </resources>

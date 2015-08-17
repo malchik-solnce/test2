@@ -2,6 +2,8 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="alert_message_delete_record">Удалить выбранную запись?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="alert_message_delete_record_title">Delete Record</string>
      <string name="app_name">Диктофон</string>
      <string name="back">Назад</string>
      <string name="button_queue_for_wifi">В очередь</string>
@@ -29,6 +31,8 @@
      <string name="error_sdcard_access">Не удалось получить доступ к SD-карте</string>
      <string name="error_sdcard_unmounted">SD-карта недоступна</string>
      <string name="fm_record">Записи радио (%d)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="loading_recording">Loading</string>
      <string name="low_battery_error">Аккумулятор телефона заряжен менее, чем 5%. Для того, чтобы не потерять запись, она была остановлена ​​и сохранена. Неожиданное отключение может привести к потере записи, рекомендуется записывать при полной зарядке.</string>
      <string name="message_file_size_error">Запись достигла максимальной длины записи (%s)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -73,7 +77,7 @@
      <string name="record_list_cloud_call">Записи вызовов в облаке</string>
      <string name="record_list_cloud_fm">Записи радио в облаке</string>
      <string name="record_list_fm">Записи радио</string>
-     <string name="record_mark_point">%smark</string>
+     <string name="record_name_minute" />
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="record_picker_title">Choose a recording</string>
      <string name="recording">Запись…</string>

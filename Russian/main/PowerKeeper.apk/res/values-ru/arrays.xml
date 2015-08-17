@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+     <!-- The size of the array does not match! Now: 9 must: 10 -->
      <string-array name="action_name">
         <item>set_brightness</item>
         <item>set_cpufreq_max</item>
@@ -11,6 +12,7 @@
         <item>set_idle_notification</item>
         <item>set_keyguard_notification</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 9 must: 10 -->
      <string-array name="action_name_translate">
         <item>Максимальная яркость</item>
         <item>Максимальная частота ЦП</item>
@@ -21,6 +23,7 @@
         <item>Первое уведомление</item>
         <item>Уведомления на экране блокировки</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 10 must: 14 -->
      <string-array name="action_param">
         <item>none</item>
         <item>ui</item>
@@ -32,6 +35,7 @@
         <item>true</item>
         <item>false</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 10 must: 14 -->
      <string-array name="action_param_translate">
         <item>Нет действий</item>
         <item>Стандарт</item>
@@ -90,6 +94,7 @@
      <string-array name="read_disable">
         <item>com.chaozh.iReaderFree</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 8 must: 9 -->
      <string-array name="shown_action_name">
         <item>set_cpu_powermode</item>
         <item>set_lcd_mode</item>
@@ -99,6 +104,7 @@
         <item>set_keyguard_notification</item>
         <item>set_sync_alarm</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 8 must: 9 -->
      <string-array name="shown_action_param_default">
         <item>middle</item>
         <item>ui</item>

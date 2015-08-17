@@ -97,21 +97,6 @@
         <item>Предыдущее письмо</item>
         <item>Список писем</item>
      </string-array>
-     <string-array name="prefEntries_removal_action">
-        <item>Только архивировать</item>
-        <item>Только удалять</item>
-        <item>Архивировать или удалять</item>
-     </string-array>
-     <string-array name="prefSummaries_autoAdvance">
-        <item>Показывать более позднюю цепочку после удаления текущей</item>
-        <item>Показывать более раннюю цепочку после удаления текущей</item>
-        <item>Показывать список цепочек после удаления текущей цепочки</item>
-     </string-array>
-     <string-array name="prefSummaries_removal_action_summary">
-        <item>Только архивировать</item>
-        <item>Только удалять</item>
-        <item>Архивировать или удалять</item>
-     </string-array>
      <!-- The size of the array does not match! Now: 15 must: 19 -->
      <string-array name="quote_devider_text_array">
         <item>@string/quote_divider_apple</item>
@@ -201,12 +186,5 @@
         <item>@string/special_text_3</item>
         <item>@string/special_text_4</item>
         <item>@string/special_text_5</item>
-     </string-array>
-     <string-array name="wait_for_sync_body_txt_array">
-        <item>@string/wait_for_sync_body_txt_array_1</item>
-        <item>@string/wait_for_sync_body_txt_array_2</item>
-        <item>@string/wait_for_sync_body_txt_array_3</item>
-        <item>@string/wait_for_sync_body_txt_array_4</item>
-        <item>@string/wait_for_sync_body_txt_array_5</item>
      </string-array>
 </resources>

@@ -87,6 +87,8 @@
      <string name="data_no_enough_space_message">Восстановление может потерпеть неудачу. Освободи немного места и попробуй еще раз.</string>
      <string name="delete">Удалить</string>
      <string name="delete_backup_process">Выполняется удаление, подождите…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="delete_backup_title">Delete backup</string>
      <string name="delete_failed_backup_confirm">Резервная копия имеет ошибки, невозможно восстановить</string>
      <string name="deselect_all">Отменить все</string>
      <string name="digit_percent">%</string>
@@ -141,7 +143,6 @@
      <string name="local_select_account_contact">Аккауты и контакты</string>
      <string name="local_select_sysdata">Настройки системы</string>
      <string name="local_select_userapp">Приложения + данные</string>
-     <string name="menu_patch_delete">Удаление резервных копий</string>
      <string name="miliao_account_guide">"MiTalk повышен до аккаунта Xiaomi
 Наслаждайтесь всеми сервисами Xiaomi"</string>
      <string name="miliao_account_login">Войти в MiTalk</string>

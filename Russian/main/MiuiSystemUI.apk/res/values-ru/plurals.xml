@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+     <plurals name="disable_notification_confirm_title">
+        <item quantity="other">Block %d apps</item>
+        <item quantity="one">Block %d app</item>
+     </plurals>
      <plurals name="status_bar_accessibility_recent_apps">
         <item quantity="other">Недавних приложений: %d</item>
         <item quantity="one">Недавних приложений: 1</item>

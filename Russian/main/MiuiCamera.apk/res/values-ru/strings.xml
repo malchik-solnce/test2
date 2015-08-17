@@ -31,6 +31,10 @@
      <string name="camera_error_title">Ошибка камеры</string>
      <string name="camera_label">Камера</string>
      <string name="camera_settings_label">Камера</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="camera_snap_mode_title">Quick snap mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="camera_snap_mode_title_detail">Tap to view details</string>
      <string name="cannot_connect_camera_once">Невозможно подключится к камере. Перезайдите в приложение.</string>
      <string name="cannot_connect_camera_twice">Невозможно подключится к камере. Перезагрузите устройство.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -69,22 +73,10 @@
      <string name="face_beauty_age_alias_male_45_60">Мужчина 45-60</string>
      <string name="face_beauty_age_alias_male_60_m">Мужчина 60+</string>
      <string name="face_beauty_age_alias_male_8_17">Мужчина 8-17</string>
-     <string name="face_beauty_enlarge_eye_high">-9</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="face_beauty_enlarge_eye_low">off</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="face_beauty_enlarge_eye_medium">off</string>
      <string name="face_beauty_intelligent_level_0">Выкл.</string>
      <string name="face_beauty_intelligent_level_1">Низная</string>
      <string name="face_beauty_intelligent_level_2">Средняя</string>
      <string name="face_beauty_intelligent_level_3">Высокая</string>
-     <string name="face_beauty_skin_color_high">-4</string>
-     <string name="face_beauty_skin_color_low">-10</string>
-     <string name="face_beauty_skin_color_medium">-8</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="face_beauty_slim_face_high">0</string>
-     <string name="face_beauty_slim_face_low">-7</string>
-     <string name="face_beauty_slim_face_medium">-2</string>
      <string name="find_other_qrcode">Найден код</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hide_priority_in_system_settings">0</string>
@@ -182,6 +174,8 @@
      <string name="pref_camera_delay_capture_entry_5s">5s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_delay_capture_entry_audio">Audio</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_delay_capture_entry_off">Off</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_delay_capture_title">Countdown</string>
      <string name="pref_camera_exposuretime_entry_0.5">2 сек.</string>
@@ -344,6 +338,9 @@
      <string name="pref_camera_skinToneEnhancement_entry_auto">Авто</string>
      <string name="pref_camera_skinToneEnhancement_entry_disable">Выкл.</string>
      <string name="pref_camera_skinToneEnhancement_entry_enable">Вкл.</string>
+     <string name="pref_camera_snap_enable_summary">When the display is off, press &amp; hold the Volume Down button to enter Quick snap mode. Press it again to take a photo.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_snap_enable_title">Quick snap mode</string>
      <string name="pref_camera_sound_title">Звуки камеры</string>
      <string name="pref_camera_touchafaec_entry_off">Выкл.</string>
      <string name="pref_camera_touchafaec_entry_on">Вкл.</string>
@@ -377,6 +374,7 @@
      <string name="pref_face_beauty_low">-11</string>
      <string name="pref_face_beauty_medium">-8</string>
      <string name="pref_face_beauty_title">Красивое лицо</string>
+     <string name="pref_front_camera_delay_capture_default">-1</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_front_mirror_default">auto</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -392,8 +390,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_front_mirror_entryvalue_on">on</string>
      <string name="pref_front_mirror_title">Передняя камера</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_hm_front_video_quality_default">110</string>
      <string name="pref_manual_exposure_title">Ручная выдержка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_mi_front_video_quality_default">6</string>

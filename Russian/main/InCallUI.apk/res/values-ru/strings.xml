@@ -139,16 +139,30 @@
      <string name="deleting_fdn_contact">Выполняется удаление номера ограниченного набора…</string>
      <string name="description_delete_button">пробел</string>
      <string name="description_dial_button">набор номера</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="description_image_button_answer">Swipe up to answer</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="description_image_button_dialpad">Dialpad</string>
      <string name="description_image_button_eight">восемь</string>
      <string name="description_image_button_five">пять</string>
      <string name="description_image_button_four">четыре</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="description_image_button_hangup">End</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="description_image_button_message_enter">Swipe up to reply with message</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="description_image_button_message_exit">Hide messages</string>
      <string name="description_image_button_nine">девять</string>
      <string name="description_image_button_one">один</string>
      <string name="description_image_button_pound">решетка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="description_image_button_reject">Swipe up to decline</string>
      <string name="description_image_button_seven">семь</string>
      <string name="description_image_button_six">шесть</string>
      <string name="description_image_button_star">звездочка</string>
      <string name="description_image_button_three">три</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="description_image_button_tools">Options</string>
      <string name="description_image_button_two">два</string>
      <string name="description_image_button_zero">ноль</string>
      <string name="dial_emergency_empty_error">Вызов не осуществлен, наберите номер экстренного вызова!</string>
@@ -332,6 +346,8 @@
      <string name="messageCFU">Всегда переадресовывать вызов на этот номер</string>
      <string name="mhh_disable">Медицинские учреждения и больницы отключены</string>
      <string name="mhh_enable">Медицинские учреждения и больницы включены</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miprofile_stranger_card">Stranger card</string>
      <string name="mismatchPin">Введенные коды PIN не совпадают. Повтори попытку.</string>
      <string name="mismatchPin2">Введенные коды PIN2 не совпадают. Повтори попытку.</string>
      <string name="mobile_networks">Настройки мобильной сети</string>

@@ -442,6 +442,9 @@
      <string name="incall_error_turn_off_airplane_mode">Отключите режим полета</string>
      <string name="incall_status_dialed_mmi">Запуск последовательности MMI…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="incoming_video_show_pref_summary">Show profile video set by caller. To use this feature, turn contact cards on.</string>
+     <string name="incoming_video_show_pref_title">"Show caller's profile video"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="international_disable">International news disabled</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="international_enable">International news enabled</string>
@@ -698,6 +701,8 @@ This can take up to 5 minutes."</string>
 Повторите попытку или свяжитесь со службой поддержки."</string>
      <string name="other_settings">Другие настройки вызовов</string>
      <string name="other_settings_category">РАЗНЫЕ НАСТРОЙКИ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="overseas_roaming_setting">Overseas roaming</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="password">Password</string>
      <string name="password_changed">Пароль изменен</string>

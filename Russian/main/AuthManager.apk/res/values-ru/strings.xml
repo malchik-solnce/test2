@@ -273,4 +273,6 @@
      <string name="SysOpt_Boost_Receiver">Фоновые</string>
      <string name="app_name">Суперпользователь</string>
      <string name="permisson_reject_notice_toast_text">"\"%1$s\" doesn't have permission to %2$s. You can change app permissions any time in Security > Permissions."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="static_cache_db_md5">d3bcc85e9ff1f1f8f1e641ea19e7b30f</string>
 </resources>

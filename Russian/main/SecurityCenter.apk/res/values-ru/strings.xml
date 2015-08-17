@@ -111,7 +111,6 @@
      <string name="button_text_uninstall_shortcut">Удалить ярлык</string>
      <string name="button_text_view">Посмотреть</string>
      <string name="button_text_view_power">Посмотреть</string>
-     <string name="cache_check_content">%1$d прил., кэш %2$s</string>
      <string name="cache_header_title">К очистке: %1$d Освободится: %2$s памяти</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="call_and_contact">Calls and Contacts</string>
@@ -265,7 +264,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="manual_item_white_list_title">Some apps can be optimized</string>
      <string name="manual_white_list_header">%d exceptions</string>
-     <string name="memeory_check_content">%1$d прил., память %2$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="memory_check_content_none">None</string>
      <string name="menu_item_about_content">Версия: %s</string>
      <string name="menu_item_about_summary">Версия:%s</string>
      <string name="menu_item_about_title">О приложении</string>

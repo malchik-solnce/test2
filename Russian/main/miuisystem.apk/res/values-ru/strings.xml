@@ -13,6 +13,12 @@
      <string name="chinese_youth_day">День молодежи</string>
      <string name="christmas_day">Рождество</string>
      <string name="clear_and_bright">Чинг Минг</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_state_disabled">Sync with Mi Cloud is off</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_state_finished">Synced with Mi Cloud</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_state_syncing">Synced with Mi Cloud</string>
      <string name="cold_dews">Холодные росы</string>
      <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
      <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>

@@ -60,6 +60,10 @@
      <string name="battery_low_title">Подключите зарядное устройство</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="battery_profiles">Use battery profiles</string>
+     <string name="block_record_notification_more_text">%1$s %2$d apps. Touch to view</string>
+     <string name="block_record_notification_text">%1$s. Touch to view</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="block_record_notification_title">Block record</string>
      <string name="bluetooth_tethered">Общий модем доступен через Bluetooth</string>
      <string name="call_status_dialing">Вызов</string>
      <string name="call_status_ringing">Звонок</string>
@@ -96,6 +100,8 @@
      <string name="dlg_error_title">USB операция неудачна</string>
      <string name="drive_mode_tip">Вы находитесь в автомобиле. Пожалуйста, будьте осторожны за рулем при работе с телефоном.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="expanded_confirm_disable_notification">Confirm</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="expanded_notification_manager">Manage</string>
      <string name="ext_media_badremoval_notification_message">Размонтируйте USB-хранилище перед извлечением</string>
      <string name="ext_media_badremoval_notification_title">USB-хранилище неожиданно удалено</string>
@@ -121,6 +127,7 @@
      <string name="hint_for_long_press_app_switch_key">Long pressing to show menu</string>
      <string name="invalid_charger">"Зарядка по USB порту не поддерживается.
 Используйте зарядное устройство из комплекта поставки."</string>
+     <string name="kilobyte_per_second">K/s</string>
      <string name="label_view">Просмотр</string>
      <string name="lockscreen_carrier_default">Нет сети</string>
      <string name="mdb_entering">Вход…</string>
@@ -134,7 +141,9 @@
      <string name="media_projection_action_text">Start now</string>
      <string name="media_projection_dialog_text">"%s will start capturing everything that's displayed on your screen."</string>
      <string name="media_projection_remember_text">"Don't show again"</string>
+     <string name="megabyte_per_second">M/s</string>
      <string name="mount_storage">Как диск</string>
+     <string name="network_speed_suffix">%1$s%2$s</string>
      <string name="no_notification_tips">Нет уведомлений</string>
      <string name="notification_otg_gamestick_in">Игровой контроллер подключен</string>
      <string name="notification_otg_gamestick_out">Игровой контроллер отключен</string>

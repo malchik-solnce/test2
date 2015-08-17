@@ -6,12 +6,13 @@
      <string name="alert_action_edit_anyway">Продолжить</string>
      <string name="alert_edit_action_delete">Удалить</string>
      <string name="alert_edit_action_update">Обновить</string>
-     <string name="alert_message_delete_folders">Удалить выбранные папки (%1$s)?</string>
-     <string name="alert_message_delete_folders_notes">Удалить выбранные папки (%1$s) и заметки (%2$s)?</string>
+     <string name="alert_message_delete">Delete %1$s?</string>
      <string name="alert_message_delete_note">Удалить заметку?</string>
-     <string name="alert_message_delete_notes">Удалить выбранные заметки (%1$s)?</string>
      <string name="alert_message_edit_anyway">Заметка содержит неподдерживаемое содержимое. Редактирование может привести к потере данных.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="alert_title_delete">Delete note</string>
      <string name="alert_title_edit_anyway">Вы хотите отредактировать?</string>
+     <string name="all_terms">%1$s and %2$s</string>
      <string name="app_name">Заметки</string>
      <string name="app_widget">Заметки</string>
      <string name="attachment_camera">Камера</string>
@@ -54,6 +55,7 @@
      <string name="menu_stick">Прикрепить</string>
      <string name="menu_title_select_folder">Выберите папку</string>
      <string name="menu_unstick">Открепить</string>
+     <string name="micloud_state_total_count">%1$s</string>
      <string name="not_now">Не сейчас</string>
      <string name="note_alert_expired">Просрочено</string>
      <string name="note_link_email">Отправить E-mail</string>

@@ -104,6 +104,14 @@
      <string name="loading">Загрузка…</string>
      <string name="loading_resource_detail_fail">Ошибка загрузки</string>
      <string name="loading_resource_detail_info">Загрузка данных…</string>
+     <string name="lockscreen_magazine_subscribe">%1$s followers</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lockscreen_magazine_summary">Get new wallpapers delivered straight to your lock screen</string>
+     <string name="lockscreen_magazine_system_subscribe">%1$s selected</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lockscreen_magazine_system_title">Default</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="lockscreen_magazine_title">Curated lock screens</string>
      <string name="lockscreen_wallpaper">Локскрин</string>
      <string name="lockstyle_personal_settings">Настроить</string>
      <string name="long_ringtone_resource">Длинные</string>
@@ -347,6 +355,10 @@
      <string name="selected_resource_file_invalid">Выбранный файл неверный</string>
      <string name="settings">Настройки</string>
      <string name="short_ringtone_resource">Короткие</string>
+     <string name="theme_apply_failured">"Can't apply lock screen wallpaper"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="theme_apply_success">Lock screen applied</string>
+     <string name="theme_applying">Applying…</string>
      <string name="theme_batch_update_all">Обновить все</string>
      <string name="theme_batch_update_dlg_content">Обновить %1$s и %2$d других тем сейчас?</string>
      <string name="theme_batch_update_dlg_content_single">Обновить %1$s сейчас?</string>
@@ -403,6 +415,15 @@
      <string name="theme_multiple_button_title_customize">Customize</string>
      <string name="theme_name">%1$s</string>
      <string name="theme_no">Нет</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="theme_precast_update_notification_content">Tap to view new themes.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="theme_precast_update_notification_title">Updated to MIUI 7</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="theme_provision_default_theme_title">Default</string>
+     <string name="theme_provision_loading_tips">Just a sec…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="theme_provision_title">Choose a theme</string>
      <string name="theme_purchased_list_empty">"You haven't purchased any themes."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="theme_purchased_non_local">Online</string>

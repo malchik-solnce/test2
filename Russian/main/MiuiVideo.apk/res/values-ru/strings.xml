@@ -302,6 +302,12 @@
      <string name="mycamera">Мое видео</string>
      <string name="myfavorite"> Избранное</string>
      <string name="myfavorite_onlylocal"> избранное</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="need_upgrade_button">Check</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="need_upgrade_summary">This function is available in new version, please press update to install new version.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="need_upgrade_title">Available in new version</string>
      <string name="negative_comment">Отрицательные</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="netease">NetEase</string>

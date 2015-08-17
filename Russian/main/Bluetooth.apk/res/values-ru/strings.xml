@@ -135,6 +135,8 @@
      <string name="notification_sent">Передача по Bluetooth: отправлено %1$s</string>
      <string name="notification_sent_complete">100% завершено</string>
      <string name="notification_sent_fail">Передача по Bluetooth: файл %1$s не отправлен</string>
+     <string name="notify_device_lose_connection_text">Tap to unpair %1$s</string>
+     <string name="notify_device_lose_connection_title">Lost connection with %1$s</string>
      <string name="notify_server">Уведомить TCP-сервер</string>
      <string name="ok_button">ОК</string>
      <string name="outbound_history_title">Исходящие передачи</string>
@@ -170,6 +172,13 @@
      <string name="transfer_menu_clear">Удалить из списка</string>
      <string name="transfer_menu_clear_all">Очистить список</string>
      <string name="transfer_menu_open">Открыть</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="unbind_device_alert_cancel">Cancel</string>
+     <string name="unbind_device_alert_content">Lost connection with %1$s. To save battery, unpair this device now.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="unbind_device_alert_ok">Unpair</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="unbind_device_alert_title">Unpair device</string>
      <string name="unknownName">Неизвестное имя</string>
      <string name="unknownNumber">Неизвестный</string>
      <string name="unknown_device">Неизвестное устройство</string>
