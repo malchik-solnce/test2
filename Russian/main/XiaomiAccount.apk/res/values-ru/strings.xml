@@ -244,6 +244,8 @@ Please input the verification code in the email"</string>
      <string name="passport_access_denied">Access denied</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="passport_account_hint_text">Email or phone number</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="passport_account_identity_title">Verify your identity</string>
      <string name="passport_account_name">Account: %1$s</string>
      <string name="passport_account_not_activated">"Account hasn't been activated"</string>
      <string name="passport_account_not_actived">"Your account hasn't been activated"</string>
@@ -416,6 +418,8 @@ To activate your account, follow the
      <string name="passport_remove_unactivated_account_notice">"Your account hasn't been activated."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="passport_resend_active_email">Resend activation email</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="passport_send_too_many_code">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
      <string name="passport_sim_index_info">SIM card %1$d - %2$s</string>
      <string name="passport_skip_login">Skip sign-in</string>
      <string name="passport_skip_register">Skip Sign-up</string>

@@ -160,6 +160,8 @@
      <string name="ex_type_mx">Облачные сообщения</string>
      <string name="ex_type_sms">Сообщения</string>
      <string name="exceed_message_size_limitation">Достигнут максимальный размер сообщения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="exceed_message_text_limitation">Message text length limit reached.</string>
      <string name="expire_on">Срок истекает: %s</string>
      <string name="exporting_progress_private_message">Экспорт сообщений в приватный ящик…</string>
      <string name="failed_to_add_media">Невозможно добавить этот объект (%1$s)</string>

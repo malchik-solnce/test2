@@ -104,6 +104,8 @@
      <string name="account_setup_failed_security">Не удалось установить подключение к серверу из-за ошибки безопасности</string>
      <string name="account_setup_failed_security_policies_unsupported">Ваше Android-устройство не поддерживает обязательные для сервера функции защиты: %s</string>
      <string name="account_setup_failed_tls_required">TLS не поддерживается сервером</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_setup_failed_too_many_partnerships">Login failed, the maximum number of server connections allowed has been reached.</string>
      <string name="account_setup_incoming_delete_policy_delete_label">При удалении из входящих</string>
      <string name="account_setup_incoming_delete_policy_never_label">Никогда</string>
      <string name="account_setup_incoming_imap_path_prefix_hint">По желанию</string>
@@ -650,6 +652,10 @@
      <string name="outbox_alert_certificate_error">E-mail certificate excetpion, please update it</string>
      <string name="outbox_alert_description_auth_error">Причина: ошибка авторизации с сервера во время синхрон. исходящих сообщений</string>
      <string name="outbox_alert_description_cannot_authenticate">%s Mail system failure</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="outbox_alert_description_email_size_error">The maximum size of Email has been reached.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="outbox_alert_description_fail_authentication">Username or password is incorrect.</string>
      <string name="outbox_alert_description_http_error">Причина: HTTP ошибка с сервера во время синхрон. исходящих сообщений</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="outbox_alert_description_insufficient_storage_error">Insufficient storage in the mail server</string>
