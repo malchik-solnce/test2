@@ -312,6 +312,10 @@
      <string name="mx_activate_int_hint_malformed_info">Ваши личные данные повреждены. Требуется отправка международного SMS для повторной активации облачных сообщений. Активировать?</string>
      <string name="mx_activate_int_hint_server">Сервер отклонил запрос активации. Требуется отправка международного SMS для повторной активации облачных сообщений. Активировать?</string>
      <string name="mx_activate_int_hint_sim_change">SIM-карта изменилась. Требуется отправка международного SMS для повторной активации облачных сообщений. Активировать?</string>
+     <string name="mx_and_voip_enable">Mi Message &amp; Voice</string>
+     <string name="mx_and_voip_enable_popup_msg">"Send messages and make calls to other MIUI users without incurring charges from your carrier. VoIP is supported by Weihui. View weihui's Privacy Policy."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mx_and_voip_enable_popup_msg2">Privacy Policy</string>
      <string name="mx_auto_resend_mms">Отправить как MMS</string>
      <string name="mx_auto_resend_mms_summary">Отправлять сообщения как MMS, когда облачные сообщения не доступны</string>
      <string name="mx_auto_resend_sms">Отправить как SMS</string>
@@ -659,6 +663,11 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="view_hms_attachment_fail">Download image failed.</string>
      <string name="view_hms_details">Подробнее</string>
      <string name="view_message_details">Подробности</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="voip_enable">Mi Message and Voice</string>
+     <string name="voip_enable_popup_msg">"Make calls to other MIUI users without incurring charges from your carrier. VoIP is supported by Weihui. View Weihui's Privacy Policy."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="voip_enable_popup_msg2">Privacy Policy</string>
      <string name="wap_push_title">"Push-сообщение "</string>
      <string name="warning_show">Send in %ds</string>
      <string name="xiaomi_service_number">Сервисный номер</string>

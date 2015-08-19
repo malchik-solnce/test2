@@ -108,6 +108,8 @@
 %3$s's %4$s shared %5$s's album with you"</string>
      <string name="baby_album_sharer_recommand_face">Add existing photos of %1$s?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="baby_album_sharers_page_title">Share with families</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="baby_birthday">Birthday</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="baby_lock_wallpaper">Lock screen wallpaper</string>
@@ -204,9 +206,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
      <string name="confirm_delete">Удалить выбранные файлы? (%s)</string>
-     <string name="confirm_delete_has_cloud_image_video">Удалить изображения и видео в облаке? (%s)</string>
-     <string name="confirm_delete_has_cloud_local_image_video">Удалить изображения и видео с устройства и облака? (%s)</string>
-     <string name="confirm_delete_has_local_image_video">Удалить изображения и видео? (%s)</string>
      <string name="confirm_delete_init_message">Фото будут удалены с устройства и облака. Если хотите удалить только с телефона, перейдите в альбомы устройства.</string>
      <string name="confirm_delete_init_title">Внимание</string>
      <string name="confirm_download">Вам необходимо скачать %s. Подсказка не будет больше показана.</string>
@@ -872,6 +871,8 @@ making it simple to view and manage pictures"</string>
      <string name="video_not_exist">Видео не существует</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="videos">Videos</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="view_baby_album">View baby album</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="view_face_album">View album</string>
      <string name="view_sharers">Посмотреть поделившихся</string>

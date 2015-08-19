@@ -15,6 +15,8 @@
      <string name="button_delete">Удалить</string>
      <string name="button_next">Далее</string>
      <string name="cancel_recover_settings"><u>Отмена</u></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="click_try_to_restore_again">click to try again</string>
      <string name="cloud_app_backup_success">Бэкап приложения завершен</string>
      <string name="cloud_app_check_data">Загрузка из Mi Cloud…</string>
      <string name="cloud_app_current_device">Текущее устройство</string>

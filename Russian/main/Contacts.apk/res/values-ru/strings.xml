@@ -173,6 +173,8 @@
      <string name="composer_not_initialized">Сбой при запуске редактора vCard</string>
      <string name="confirm_delete_contact_all_call_logs">Удалить из журнала вызовов?</string>
      <string name="confirm_delete_selected_all_call_logs">Удалить из журанала вызовов?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="confirm_delete_sim_entry_miui_title">Delete</string>
      <string name="confirm_export_message">Список контактов будет экспортирован в файл "%s"</string>
      <string name="confirm_export_title">Экспорт контактов</string>
      <string name="connections">Связи</string>
@@ -511,8 +513,12 @@ Contact cards are turned off"</string>
      <string name="in_call_show_delete_title">Delete video?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="in_call_show_demo_present">Preview</string>
+     <string name="in_call_show_guide_intro">"Record a profile video
+ that will play on other MIUI users' devices when you call"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="in_call_show_guide_start_recording">Record now</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="in_call_show_guide_title">Profile video</string>
      <string name="in_call_show_long_press_to_record">Press &amp; hold to record</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="in_call_show_pick_video">Choose</string>

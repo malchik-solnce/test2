@@ -2,6 +2,12 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="altitude_title">Высота</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="altitude_uncalibrate_cancel">Cancel</string>
+     <string name="altitude_uncalibrate_msg">"Can't calibrate altitude accurately without GPS or mobile data connection."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="altitude_uncalibrate_refresh">Try again</string>
+     <string name="altitude_uncalibrate_tip">"Can't calibrate altitude"</string>
      <string name="altitude_unit">м</string>
      <string name="app_label">Компас</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

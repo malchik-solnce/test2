@@ -10,10 +10,6 @@
      <string name="announcement">Attention</string>
      <string name="app_empty">Нет приложений</string>
      <string name="app_label">Отзывы</string>
-     <string name="bluetooth_problem1">Сопряжение не удалось со сторонними устройствами</string>
-     <string name="bluetooth_problem2">Не удается обнаружить сторонние устройства</string>
-     <string name="bluetooth_problem3">Не удается отправить файлы</string>
-     <string name="bluetooth_problem4">Не удается принять файлы</string>
      <string name="btn_send">Отправить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="bugreport_dump_complete_notification_summary">Tap to view.</string>
@@ -27,16 +23,6 @@
      <string name="bugreport_tool_log">Create bug report</string>
      <string name="bugreport_tool_log_toast">Log saved to %s</string>
      <string name="bugreport_tool_log_toast_generate_bugreport">Creating bug report (takes about a minute)</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="button_feedback">Other</string>
-     <string name="button_plus">+1</string>
-     <string name="camera_problem1">Плохое качество фото</string>
-     <string name="camera_problem2">Не удается подключиться к камере по USB</string>
-     <string name="camera_problem3">Принудительное закрытие камеры</string>
-     <string name="camera_problem4">Не удается переключаться между задними и передними камерами</string>
-     <string name="camera_problem5">Камера перестает работать</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="common_problem_empty">Empty</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cta_cancel">cancel</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -77,11 +63,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="err_type_xiaomi_service">Customer service</string>
      <string name="hot_problem">Распространенные ошибки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="hot_problem_empty">Empty</string>
      <string name="loading_apps">Загрузка списка…</string>
-     <string name="loading_hot_problem">Загрузка…</string>
-     <string name="loading_problem_list">Loading list…</string>
      <string name="menu_copy">Копировать</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="modem_tool_log">Capture modem logs</string>
@@ -91,8 +73,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="modem_tool_log_stop">Stop</string>
      <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="network_disconnected">No network</string>
      <string name="network_err">Не удается подключиться к сети. Проверьте подключение и попробуйте обновить.</string>
      <string name="network_unavailable_dialog_content">Ваш отзыв будет отправлен при включенном интернете</string>
      <string name="network_unavailable_dialog_title">Сеть недоступна</string>
@@ -101,25 +81,12 @@
      <string name="plus_one_submit_dialog_content">"Your selected feedback, along with error logs, will be sent to Mi's servers."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="plus_one_submit_dialog_not_show_again">Remember preference</string>
-     <string name="power_consuming_problem1">Увеличение потребления питания после обновления</string>
-     <string name="power_consuming_problem2">При использовании этого приложения потребляется энергия</string>
-     <string name="power_consuming_problem3">Высокое потребление энергии в режиме ожидания</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="problem_detail">Cause</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="problem_solution">Solution</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="problem_title">Description</string>
-     <string name="reboot_problem1">Не удается перезагрузить</string>
-     <string name="reboot_problem2">Случайная перезагрузка при использовании определенного приложения</string>
      <string name="refresh">Обновить</string>
      <string name="report_miui">Отправить в MIUI</string>
      <string name="screen_lock">Экран блокировки</string>
      <string name="section_description">Описание</string>
      <string name="section_err_type">Тип проблемы</string>
      <string name="section_screenshot">Скриншот</string>
-     <string name="signal_problem1">Нет сигнала</string>
-     <string name="signal_problem2">Слабый сигнал</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="submit_dialog_cancel">Cancel</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -129,12 +96,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="submit_dialog_title">Send report to Xiaomi</string>
      <string name="suggestion_description">Я надеюсь, что добавите функцию X, потому что…</string>
-     <string name="suggestion_problem1">Добавьте эту функцию, потому что…</string>
      <string name="system_app_select">Системные приложения</string>
      <string name="systemui">Панель уведомлений</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="title_common_problem">Common bugs</string>
-     <string name="title_hot_problem">Распространенные ошибки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_nonsystem_app">Other apps</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -153,8 +116,4 @@
      <string name="toast_report_copied_to_clipboard">Отчет скопирован в буфер обмена</string>
      <string name="toast_report_sent_failed">Ошибка отправки отчета</string>
      <string name="toast_report_sent_succeed">Отчет был успешно отправлен</string>
-     <string name="wifi_problem1">Не удается автоматически подключаться к безопасной Wi-Fi сети</string>
-     <string name="wifi_problem2">Слабый сигнал Wi-Fi</string>
-     <string name="wifi_problem3">Неожиданное отключение Wi-Fi</string>
-     <string name="wifi_problem4">Не удается подключиться к сети</string>
 </resources>
