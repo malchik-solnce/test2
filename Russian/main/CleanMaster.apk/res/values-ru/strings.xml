@@ -67,6 +67,10 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_text_select_pic">Select</string>
      <string name="button_text_uninstall">Удалить</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Uninstall %s -->
      <string name="button_text_uninstall_only">Удалить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_text_unselect_all">Unselect</string>
@@ -213,6 +217,7 @@
      <string name="hints_title_garbage">мусора</string>
      <string name="item_title_process_mode">Выберите действие</string>
      <string name="last_check_canceled">Предыдущая проверка отменена</string>
+     <string name="mainbtn_text_quick_cleanup">Clean up %s</string>
      <string name="memeory_check_content">%1$d apps, memory %2$s</string>
      <string name="msg_cleanup_db_update_time_unknown">Обновлено: неизвестно</string>
      <string name="msg_update_error_code_already_running">Обновление</string>

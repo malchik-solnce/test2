@@ -492,6 +492,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Производительность</item>
         <item>Сбалансированный</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 9 must: 10 -->
      <string-array name="preferred_app_entries">
         <item>Рабочий стол</item>
         <item>Телефон</item>

@@ -67,6 +67,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="children_mode_exit">Exit</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="children_mode_tips">Return to Settings and manage access to apps.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="choose_wallpaper">Choose wallpaper</string>
      <string name="chooser_wallpaper">Выбрать обои из</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -288,6 +290,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wallpaper_auto_change_title">Lock screen</string>
      <string name="wallpaper_failed_message">"Can't apply wallpaper"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wallpaper_scaling_message">Scaling to fixed size</string>
      <string name="wallpaper_scrolling">все</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wallpaper_settings">Wallpaper</string>

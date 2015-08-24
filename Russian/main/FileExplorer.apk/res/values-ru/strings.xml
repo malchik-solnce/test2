@@ -74,6 +74,7 @@
      <string name="delete_dialog_button">Delete</string>
      <string name="delete_failed">Ошибка удаления</string>
      <string name="delete_file">Удалить этот файл?</string>
+     <string name="delete_file_error">"Couldn't delete file"</string>
      <string name="delete_files">Удалить выбранные файлы? (%1$d)</string>
      <string name="delete_folder">Удалить эту папку?</string>
      <string name="delete_folders">Удалить выбранные папки? (%1$d)</string>
@@ -265,6 +266,7 @@
      <string name="notification_setting">Notifications</string>
      <string name="notification_summary">"%1$s doesn't support this feature yet"</string>
      <string name="notification_title">Notify when new files are added to %1$s</string>
+     <string name="online_not_support">"Can't view this file online at the moment."</string>
      <string name="open_changed_file_message">"Файл, который Вы пытаетесь открыть был изменен. Вы можете:
 1. Скачать (обновить локальный файл)
 2. Загрузить (обновить файл в облаке)"</string>
@@ -413,6 +415,7 @@
      <string name="signin_error">Нет сети или сеть нестабильна. Повторите еще раз.</string>
      <string name="signin_success">"Ты успешно вошел!
 Получено %1$s."</string>
+     <string name="smb_loading">Just a sec…</string>
      <string name="space_info">Объем в сети: %1$s доступно，всего: %2$s</string>
      <string name="space_usage">Использование места</string>
      <string name="start_server">Запустить</string>
