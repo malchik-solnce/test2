@@ -163,6 +163,10 @@
      <string name="cannot_send_message_reason">Ваше сообщение не имеет получателей</string>
      <string name="cant_delete_system_album">"Can't delete %s because it's a system album."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="change_to_face_mode">Chane to face mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="change_to_photo_mode">Change to photo mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="choose_baby_sexy">Gender</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="choose_cloud_album">Choose album</string>
@@ -230,6 +234,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="create_baby_album">Create a baby album</string>
      <string name="create_baby_album_dialog_msg">Create an album for \"%s\"?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="create_baby_album_later_toast">Later you can create baby album also on the top right menu</string>
      <string name="create_new_cloud_folder">Создать новую облачную папку</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="create_new_face">New face</string>
@@ -583,6 +589,7 @@ making it simple to view and manage pictures"</string>
      <string name="not_is">Not %s?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="not_now">Not now</string>
+     <string name="not_remind_any_more">"Don't remind later"</string>
      <string name="not_show_hidden_albums">Скрыть скрытые альбомы</string>
      <string name="old">​Old</string>
      <string name="only_show_camera_in_first_page">Только фотографии камеры</string>
@@ -604,6 +611,8 @@ making it simple to view and manage pictures"</string>
      <string name="operation_remove_from_face_album">Remove face</string>
      <string name="operation_remove_secret">Удалить секрет</string>
      <string name="operation_rename">Переименовать</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="operation_rename_baby">Input baby name</string>
      <string name="operation_set_as_screensaver">На заставку</string>
      <string name="operation_share">Поделиться</string>
      <string name="operation_successful">Успешно отправлено!</string>
