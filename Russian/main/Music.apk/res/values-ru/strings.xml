@@ -294,6 +294,11 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
      <string name="online_music">Онлайн</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="online_music_enabled_subtitle">Tap to stream your favorite songs.</string>
+     <string name="online_music_enabled_summary">Listen and download your favorite songs. View billboard charts and curated playlists wherever you go!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="online_music_enabled_title">Free streaming is here</string>
      <string name="online_playlist_is_empty">Плейлист пуст</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="only_online_can_select_quality">Only online song can select quality</string>

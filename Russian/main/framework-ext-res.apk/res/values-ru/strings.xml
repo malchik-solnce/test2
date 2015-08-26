@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+     <string name="all_call_livetalk_enable">Use top-up packages for domestic and international calls</string>
+     <string name="all_call_livetalk_remain_mins">Minutes remaining: (%1$s domestic) | %2$s (%3$s)</string>
      <string name="alwaysUsePrompt">Использовать по умолчанию</string>
      <string name="auto_start_warning_allow">Разрешить</string>
      <string name="auto_start_warning_deny">Запретить</string>
@@ -26,6 +28,10 @@
      <string name="handy_mode_enter_dlg_title">Enter One-handed mode</string>
      <string name="handy_mode_summary">Для выхода нажмите на свободное место за экраном</string>
      <string name="handy_mode_title">Управление одной рукой</string>
+     <string name="internal_livetalk_enable">Use top-up packages for domestic calls</string>
+     <string name="internal_remain_mins">%1$s minutes remaining (domestic calls)</string>
+     <string name="international_livetalk_enable">Use top-up packages for international calls</string>
+     <string name="international_remain_mins">%1$s minutes remaining (%2$s calls)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="key_btn_ok">OK</string>
      <string name="key_btn_space">Пробел</string>

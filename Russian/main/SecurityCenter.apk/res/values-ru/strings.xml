@@ -34,7 +34,39 @@
      <string name="activity_title_virus">Вирусы</string>
      <string name="activity_title_virus_detail">Подробнее о вирусах</string>
      <string name="activity_title_virus_settings">Настройки</string>
+     <string name="antivirus_choose_engine">Use definitions from %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="antivirus_choose_engine_dialog_title">Choose definitions</string>
+     <string name="antivirus_choose_engine_disable_toast">"Can't switch definitions while scan is in progress"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="antivirus_choose_engine_settings">Virus definition settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="antivirus_choose_engine_title">Definitions</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="antivirus_more_engine_dialog_summary">Using multiple sets of definitions to scan may take more time.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="antivirus_more_engine_dialog_title">Attention</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="antivirus_none_engine_dialog_ok">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="antivirus_none_engine_dialog_title">Choose definitions</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="antivirus_privacy_dialog_cloudscan">Upload app names and details</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="antivirus_privacy_dialog_cloudscan_description">Upload and scan app names and details using online virus definitions.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="antivirus_privacy_dialog_ok">OK</string>
+     <string name="antivirus_privacy_dialog_summary">"This feature encrypts and uploads your device's ID to AVL and Tencent's servers (%s)."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="antivirus_privacy_dialog_summary_link">view Privacy Policy</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="antivirus_privacy_dialog_title">Privacy Policy</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Powered by %s -->
      <string name="antivirus_sec_support">При поддержке Tencent</string>
+     <string name="antivirus_update_db">%s</string>
      <string name="app_name_securitycenter">Безопасность</string>
      <string name="app_not_installed_toast">"App isn't installed on your device."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -145,6 +177,7 @@
      <string name="descx_finish_scan_system">Finishing system protection scan</string>
      <string name="descx_quick_scan_cancel">Сканирование отменено</string>
      <string name="descx_quick_scan_done">Сканирование завершено</string>
+     <string name="descx_quick_scan_preparation">Just a sec…</string>
      <string name="descx_scanning_item">Сканирование %s</string>
      <string name="descx_start_cleanup_cache">Очистка кэша</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -290,7 +323,6 @@
      <string name="menu_item_virus_install_monitor_summary">Проверять приложения на вирусы перед установкой</string>
      <string name="menu_item_virus_install_monitor_title">Установить защиту</string>
      <string name="menu_item_virus_lib_auto_update_summary">Обновлено: %s</string>
-     <string name="menu_item_virus_lib_auto_update_title">Обновлять автоматически</string>
      <string name="menu_text_antispam">Антиспам</string>
      <string name="menu_text_antivirus">Антивирус</string>
      <string name="menu_text_garbage_cleanup">Очистка</string>
@@ -538,10 +570,13 @@
      <string name="pref_title_lock_screen_memory_clean">Clean at lock screen</string>
      <string name="preference_category_key_reference_settings">key_reference_settings</string>
      <string name="preference_category_key_virus_lib_auto_update">key_category_virus_lib_auto_update</string>
+     <string name="preference_key_antivirus_choose_engine">key_antivirus_choose_engine</string>
      <string name="preference_key_app_permission_control">key_app_permission_control</string>
      <string name="preference_key_auto_start_manager">key_auto_start_manager</string>
      <string name="preference_key_category_title_module_settings">key_category_title_module_settings</string>
      <string name="preference_key_cta_settings">key_cta_settings</string>
+     <string name="preference_key_database_auto_update_enabled">key_database_auto_update_enabled_%s</string>
+     <string name="preference_key_database_auto_update_time">key_database_auto_update_time_%s</string>
      <string name="preference_key_default_apps_manager">key_default_apps_manager</string>
      <string name="preference_key_lock_screen_memory_clean">lock_screen_memory_clean</string>
      <string name="preference_key_module_permissions">key_module_permissions</string>

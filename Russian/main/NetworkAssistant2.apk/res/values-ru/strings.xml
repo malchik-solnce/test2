@@ -226,6 +226,7 @@ For more info check the message you received from your service provider"</string
      <string name="main_button_usage_adjust_manual">Установить трафик</string>
      <string name="main_button_usage_adjusting">Настройка…</string>
      <string name="main_button_usage_package_setting">Установить трафик</string>
+     <string name="main_message_no_package_by_dual">Set data limit for %s</string>
      <string name="main_primary_message_traffic_cur_leisure">Off-peak data usage</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="main_primary_message_traffic_cur_normal">Under data limit</string>

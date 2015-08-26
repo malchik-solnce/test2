@@ -2,8 +2,36 @@
 <!-- Builded with CloudBuildr -->
 <resources>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="AVL">AVL</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="DesAVL">AVL</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="DesMi">Mi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="DesTencent">Tencent</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="Mi">Mi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="Tencent">Tencent</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_name">Tencent</string>
+     <string name="avl_dialog_cloudscan" />
+     <string name="avl_dialog_dbupdate" />
+     <string name="avl_dialog_header">"This feature encrypts and uploads your device's ID to AVL's servers (%s)."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="avl_dialog_policy">view Privacy Policy</string>
+     <string name="avl_dialog_title">"AVL's Privacy Policy"</string>
+     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
      <string name="default_sdcard_volume_path" />
      <string name="hello_world">Hello world!</string>
      <string name="menu_settings">Настройки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="tencent_dialog_cloudscan">Upload and scan app names and details using online virus definitions.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="tencent_dialog_dbupdate">Update virus definitions automatically</string>
+     <string name="tencent_dialog_header">"This feature encrypts and uploads your device's ID to Tencent's servers (%s)."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="tencent_dialog_policy">view Privacy Policy</string>
+     <string name="tencent_dialog_title">Tencent’s Privacy Policy</string>
+     <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
 </resources>

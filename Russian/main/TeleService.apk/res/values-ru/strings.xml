@@ -3,6 +3,15 @@
 <resources>
      <string name="ContactScreen">Доб./изм. контакт SIM-карты</string>
      <string name="ExportContactScreen">Экспорт контактов из телефона на SIM-карту</string>
+     <string name="active_phone_fail_nochoice">"Can't activate SIM card"</string>
+     <string name="active_phone_fail_toast">"Can't activate SIM card %1$s"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="active_phone_sim_absent">Insert your SIM card now</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="active_phone_success_nochoice">SIM card activated</string>
+     <string name="active_phone_success_toast">SIM card %1$s activated</string>
+     <string name="activing_simcard">Activating SIM %1$d</string>
+     <string name="activing_simcard_alone">Activating SIM…</string>
      <string name="add">Добавить</string>
      <string name="addSimEntries">Добавить контакт на SIM-карту</string>
      <string name="add_fdn_contact">Добавить номер ограниченного набора</string>
@@ -40,6 +49,10 @@
      <string name="answer_state_setting_title">Входящие вызовы</string>
      <string name="antispam_notification_title">Неизвестный номер</string>
      <string name="apn_settings">Точки доступа интернет</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="area_code_preference_summary">Auto dial area code</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="areacode_set_default">Default</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="atr_disable">Area Traffic Reports disabled</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -196,6 +209,12 @@
      <string name="change_password">Изменить парль запрета</string>
      <string name="change_pin">Изменить PIN SIM-карты</string>
      <string name="change_pin2">Изменить PIN2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="china_mobile">China Mobile</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="china_telecom">China Telecom</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="china_unicom">China Unicom</string>
      <string name="clir_choices_hide_number">Скрывать номер</string>
      <string name="clir_choices_network_default">Настройка сети</string>
      <string name="clir_choices_show_number">Показывть номер</string>
@@ -231,6 +250,10 @@
      <string name="data_enabled">Мобильный интрнет</string>
      <string name="deactivate_all">Отменить все</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="default_area_code_setting">Default area code</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="default_areacode">Default area code</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_call_type">CSVoice</string>
      <string name="default_preference_summary">&lt;Не настроено></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -263,7 +286,18 @@
      <string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dialer_default_package">com.android.contacts</string>
+     <string name="dialog_activate_livetalk">Activate top-up package</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dialog_call_ordinary_telephone">Use regular SIM instead</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dialog_hang_up">End call</string>
      <string name="dialog_network_priority_title">Приоритетная</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dialog_no">No</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dialog_purchase">Top up</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dialog_yes">Yes</string>
      <string name="disable">Отключить</string>
      <string name="disable_all_cf">Отключить все переадресации</string>
      <string name="disable_cfb_forbidden">Ваш оператор не поддерживает отключение переадресации звонков, если телефон занят</string>
@@ -277,6 +311,7 @@
      <string name="display_name">DisplayName</string>
      <string name="display_name_summary">&lt;Совпадает с именем пользователя></string>
      <string name="display_name_title">Отображаемое имя</string>
+     <string name="do_not_ask">"Don't ask again"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="domain_address">SipDomain</string>
      <string name="domain_address_title">Сервер</string>
@@ -350,6 +385,8 @@
      <string name="enable_proximity_summary">Отключать экран во время разговора</string>
      <string name="enable_proximity_title">Датчик приближения</string>
      <string name="enable_sim_pin">Включить запрос PIN SIM-карты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ensure_info">Yes</string>
      <string name="enterName">Введите имя:</string>
      <string name="enterNumber">Введите номер телефона:</string>
      <string name="enter_callbarring_password">Введите пароль запрета вызовов (4 цифры)</string>
@@ -363,8 +400,26 @@
      <string name="eo_disable">Employment Opportunities disabled</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="eo_enable">Employment Opportunities enabled</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_type_account_201">Insufficient funds</string>
+     <string name="error_type_account_202">"Can't complete call"</string>
+     <string name="error_type_account_203">"The type of number you dialed isn't supported"</string>
+     <string name="error_type_account_208">"Can't complete call to this number"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_type_account_301">The code you entered is incorrect</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_type_account_302">The code you entered has already been used</string>
+     <string name="error_type_account_500">"Can't connect to mobile network"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_type_network">Network error</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_type_unknown">Unknown error</string>
      <string name="error_updating_title">Ошибка настройки вызовов</string>
      <string name="exception_error">Ошибка сети или SIM-карты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="expected_avaiable_minute">Minutes remaining</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="expected_avaiable_minute_summary">International calling rates may fluctuate</string>
      <string name="exportAllcontatsFailed">Не удалось экспортировать все контакты с SIM-карту!!!</string>
      <string name="exportAllcontatsNoContacts">Нет контактов для экспортна на to SIM-карту!!!</string>
      <string name="exportAllcontatsSuccess">Все контакты успешно экспортированы на SIM-карту</string>
@@ -388,6 +443,8 @@
      <string name="fdn_invalid_number">Номер ограниченного набора не обновлен: он не должен содержать больше 20 цифр</string>
      <string name="fdn_summary">Ограничение исходящих звонков кроме разрешенных</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="feedback">Feedback</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="flash_when_ring_summary">Flash notification light for incoming calls</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="flash_when_ring_title">Flash when ringing</string>
@@ -399,8 +456,11 @@
      <string name="general_news_settings">General News</string>
      <string name="general_setting">Общие настройки</string>
      <string name="get_pin2">Введите PIN2</string>
+     <string name="get_product_list_failed">"Can't load list"</string>
+     <string name="get_purchase_history_failed">"Couldn't get purchase history"</string>
      <string name="get_smsc_address_error">Не удается подключиться к сети</string>
      <string name="get_smsc_address_timeout">Тайм-аут подключения</string>
+     <string name="get_use_history_failed">"Couldn't get history"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="got_it">OK</string>
      <string name="gsm_umts_network_preferences_dialogtitle">Режим сети</string>
@@ -413,6 +473,8 @@
      <string name="importAllSimEntries">Импортировать все</string>
      <string name="importSimEntry">Импортировать</string>
      <string name="importToFDNfromContacts">Импортировать из контактов</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="important_attention">Attention</string>
      <string name="importingSimContacts">Импорт контактов с SIM-карты</string>
      <string name="ims_accounts_title">Аккаунт IMS</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -444,6 +506,14 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="incoming_video_show_pref_summary">Show profile video set by caller. To use this feature, turn contact cards on.</string>
      <string name="incoming_video_show_pref_title">"Show caller's profile video"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="international_dial_complete_intention">Save money on international calls.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="international_dial_complete_no">Not now</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="international_dial_complete_summary">Top up with MIUI to get discounts on international calls.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="international_dial_complete_yes">Use Mi Voice</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="international_disable">International news disabled</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -516,13 +586,92 @@
      <string name="lafs_disable">Local Airport Flight Schedules disabled</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lafs_enable">Local Airport Flight Schedules enabled</string>
+     <string name="left_minutes">" min"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="list_language_dtitle">Languages</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="list_language_summary">Select the news language</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="list_language_title">Language</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_about_info">About</string>
+     <string name="livetalk_about_info_content">"V0.9 beta (Short codes for service numbers aren't supported at the moment. You need to connect to the internet to use this feature. Each call uses 1Kb of mobile data. You need to turn on Free Listening to use this service, otherwise your carrier may charge you while roaming.)"</string>
+     <string name="livetalk_activate">Activate top-up package</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_activate_number">Activate SIM card</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_activate_number_1">Activate SIM 1</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_activate_number_2">Activate SIM 2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_activate_sim_card">Activate</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_activate_summary">Your carrier may charge for an SMS message used to activate this service.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_add_white_list_info">Add phone number to dial directly.</string>
+     <string name="livetalk_avaiable_minute">%1$s minutes remaining</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_charge_now">Buy now</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_complete">Done</string>
+     <string name="livetalk_complete_domestic_phone">Make international call using top-up package.</string>
+     <string name="livetalk_complete_international_phone">Make domestic call using top-up package.</string>
+     <string name="livetalk_complete_introduction">Top-up package has been added to your Mi Account and will be used on your next call.</string>
+     <string name="livetalk_complete_name">Switch to top-up package</string>
+     <string name="livetalk_complete_title">Call to complete top-up</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_continue_button">Continue</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_creat_account_fialed">Account error</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_dial_direct">Dial directly</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_experience_button">Try now</string>
+     <string name="livetalk_introduction_text">"Low flow, low cost and high quality 
+Super cheap international calls over the Internet"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_last_step">Back</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_login_experience_button">Sign in</string>
+     <string name="livetalk_name">Top-up package</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_network_confirm">OK</string>
+     <string name="livetalk_network_confirm_summary">Top-up packages use about 1KB of mobile data each time a call is connected.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_next_step">Next</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_niece_price_arrow">This feature is available in 13 countries and regions</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_niece_price_summary">International rates, please refer to our using the record</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_niece_price_title">In the closed beta preferential</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_nsufficient_balance">Insufficient balance.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_package_introduction_text">Exclusive discount for MIUI users. Less data usage and lower prices.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_package_name">Top up balance</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_provision">Terms of Service</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_provision_checkbox">Accept Terms of Service</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_provision_second">, and needs to connect to the internet to work normally.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_service_and_short_number_not_support">Service numbers and short numbers are not supported.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_setting">Top up settings</string>
+     <string name="livetalk_sim_card_not_activated">"SIM card hasn't been activated."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_unavaiable_info">This service is temporarily unavailable</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="livetalk_user_config_title">Activate SIM card</string>
+     <string name="livetalk_version">Top-up Package Version 0.9 | Beta</string>
+     <string name="livetalk_white_list_number_title">Call without using top-up package</string>
      <string name="load_networks_progress">Поиск…</string>
+     <string name="load_rates_failed">"Couldn't load"</string>
+     <string name="loading">Just a sec…</string>
+     <string name="loading_recent_failed">"Couldn't load."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="local_disable">Local news disabled</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -637,8 +786,14 @@
      <string name="new_pin2_label">Новый PIN2</string>
      <string name="new_pin_label">Новый PIN</string>
      <string name="no_change">Номер не изменен</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_data">No data</string>
      <string name="no_internet_available">Перед звонком через интернет проверьте подключение</string>
      <string name="no_internet_available_title">Подключение к интернету отсутствует</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_more">No more</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_product_list">Empty</string>
      <string name="no_sip_account_found">Нет аккаунтов. Создать новый?</string>
      <string name="no_sip_account_found_title">Нет аккаунтов</string>
      <string name="no_vm_number">Не указан номер голосовой почты</string>
@@ -649,7 +804,11 @@
      <string name="no_wifi_available">Для совершения интернет-вызовов необходимо подключение к сети Wi-Fi (используйте настройки беспроводной сети)</string>
      <string name="no_wifi_available_title">Отсутствует подключение Wi-Fi</string>
      <string name="not_a_valid_port">Номер порта должен быть от 1000 до 65534</string>
+     <string name="not_activate_sim_card_content">"Top-up package hasn't been activated for the SIM card you selected. Try using your regular SIM to make this call instead. You will receive normal charges from your carrier."</string>
      <string name="not_allowed">Установленная SIM-карта не может подключиться к этой сети</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="not_sufficient_funds_content">Your account balance is too low. Try using your SIM card to make this call instead. You will receive normal charges from your carrier.</string>
+     <string name="not_supported_number_content">"Refueling package doesn't support service numbers. Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
      <string name="not_voice_capable">Голосовые вызовы не поддерживаются</string>
      <string name="notification_missedCallTicker">Пропущенные вызовы от абонента %s</string>
      <string name="notification_missedCall_call_back">Перезвонить</string>
@@ -672,6 +831,16 @@
      <string name="old_pin_label">Прежний PIN</string>
      <string name="open_miui">Открыть</string>
      <string name="optional_summary">&lt;Необязательно></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="order_by_name">Alphabetical</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="order_by_recent">Frequently used</string>
+     <string name="order_id">"Order ID: "</string>
+     <string name="order_price">¥ %1$s</string>
+     <string name="order_status_fail">Order status: failed</string>
+     <string name="order_status_successful">Order status: complete</string>
+     <string name="order_time">%1$s min</string>
+     <string name="order_unit_price">¥ %1$s/min</string>
      <string name="ota_activate">Активировать</string>
      <string name="ota_call_end">Назад</string>
      <string name="ota_failure">Сбой при программировании</string>
@@ -699,6 +868,10 @@ This can take up to 5 minutes."</string>
 Возможно, Вам следует найти зону с более высоким уровнем сигнала (у окна или на улице). 
 
 Повторите попытку или свяжитесь со службой поддержки."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="other">Other</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="other_countries_and_regions">Other locales</string>
      <string name="other_settings">Другие настройки вызовов</string>
      <string name="other_settings_category">РАЗНЫЕ НАСТРОЙКИ</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -736,6 +909,9 @@ This can take up to 5 minutes."</string>
      <string name="place_a_call1">Оператор 1</string>
      <string name="place_a_call2">Оператор 2</string>
      <string name="place_a_call3">Оператор 3</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="please_choose_the_duration">Choose a duration.</string>
+     <string name="please_choose_the_refueling_package">Choose top-up package</string>
      <string name="pocket_mode_summary">Автоматическая блокировка устройства при помещении в карман</string>
      <string name="pocket_mode_title">Защита датчиком</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -774,6 +950,10 @@ This can take up to 5 minutes."</string>
      <string name="proceed">Далее</string>
      <string name="progress_dialog_exiting_ecm">Выход из режима экстренных обратных вызовов</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="provision_content">This feature needs an internet connection to work normally.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="provision_title">Internet connection</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="proxy_address">ProxyAddress</string>
      <string name="proxy_address_title">Адрес прокси-сервера</string>
      <string name="pstn_phone">Вызов по сотовой сети</string>
@@ -786,12 +966,35 @@ SIM-карта будет заблокирована навсегда при н�
      <string name="puk_unlock_failed">PUK unlock unsuccessful.</string>
      <string name="puk_unlock_success">PUK-код успешно разблокирован</string>
      <string name="puk_unlocked">SIM-карта разблокирована. Разблокировка телефона…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="purchase">Purchase</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="purchase_confirm">Purchase</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="purchase_limit">You reached the top up limit</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="purchase_list">Purchase history</string>
+     <string name="purchase_notification">"Prices above are for domestic calls. For international calls see the "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="purchase_notification_title">Check supported regions</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="purchase_rates_title">Rates</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="query">Query</string>
      <string name="radio_off_error">Чтобы увидеть эти настройки, нужно включить радио</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="rates_correspond">Corresponding rates.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="rc_unlock_failed">RUIM Corporate unlock request unsuccessful.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="rc_unlock_success">RUIM Corporate unlock successful.</string>
      <string name="reading_settings">Чтение настроек…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="refueling_package_a">Package A</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="refueling_package_b">Package B</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="refueling_package_c">Package C</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="regional_disable">Regional news disabled</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -887,6 +1090,7 @@ SIM-карта будет заблокирована навсегда при н�
      <string name="sendSms">Отправить SMS</string>
      <string name="send_button">Отправить</string>
      <string name="send_keepalive_title">Отправлять keep-alive</string>
+     <string name="send_order_failed">"Couldn't send order"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="set_primary">SetPrimary</string>
      <string name="set_primary_summary">Использовать этот аккаунт по умолчанию для исходящих вызовов</string>
@@ -895,14 +1099,33 @@ SIM-карта будет заблокирована навсегда при н�
      <string name="set_smsc_address_timeout">Тайм-аут подключения</string>
      <string name="set_smsc_address_title">Настроить смс-центр</string>
      <string name="set_subscription">Выберите SIM-карту</string>
+     <string name="setting_activate_domestic_title">Top up (domestic calls)</string>
+     <string name="setting_activate_international_title">Top up (international calls)</string>
+     <string name="setting_duration_other_prompt">"For international calling rates check "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="setting_duration_title">Remaining time</string>
      <string name="settings_label">Настройки сети</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sim1_activated">SIM card 1</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sim1_no_activated">SIM card 1 not activated</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sim2_activated">, SIM card 2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sim2_no_activated">, SIM card 2 not activated</string>
      <string name="simContacts_airplaneMode">Чтобы импортировать контакты с SIM-карты, отключите режим полета</string>
      <string name="simContacts_emptyLoading">Считывание с SIM-карты…</string>
      <string name="simContacts_title">Контакты SIM-карты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sim_activated">Activated</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sim_card_activate">Current SIM card</string>
      <string name="sim_contact_name">Имя</string>
      <string name="sim_contact_number">Номер</string>
      <string name="sim_ndp_dismiss_text">Закрыть</string>
      <string name="sim_ndp_unlock_text">Разблокировать</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sim_no_activated">Not activated</string>
      <string name="sim_unlock_failed">Не удалось выполнить запрос на разблокировку SIM</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_unlock_success">SIM unlock successful.</string>
@@ -1006,6 +1229,17 @@ SIM-карта будет заблокирована навсегда при н�
      <string name="throttle_help">Подробнее</string>
      <string name="throttle_rate">Скорость передачи данных</string>
      <string name="throttle_time_frame">Время передачи данных</string>
+     <string name="time_statistic">%1$d minutes of network time saved</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_country">Locale</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_duration">Duration</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_purchase">Top up</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_rates">Rates</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_user_config">Activate SIM card</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="transport">Protocol</string>
      <string name="transport_title">Протокол</string>
@@ -1021,6 +1255,7 @@ SIM-карта будет заблокирована навсегда при н�
      <string name="tty_mode_option_title">Режим телетайпа</string>
      <string name="turnover_mute_summary">Переверните для выключения звука, если телефон лежит горизонтально</string>
      <string name="turnover_mute_title">Переворот - тишина</string>
+     <string name="unable_dial_livetalk">"Can't complete call"</string>
      <string name="undefined">Не определено</string>
      <string name="unknown">Неизвестный абонент</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -1033,6 +1268,12 @@ SIM-карта будет заблокирована навсегда при н�
      <string name="uplmn_list_setting_title">Предпочтительные сети</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="uplmn_numeric_is_empty">Enter a network ID</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="use_history">Activity</string>
+     <string name="use_history_duration_hour">%1$h</string>
+     <string name="use_history_duration_min">%1$smin</string>
+     <string name="use_history_endtime">Ended: %1$s</string>
+     <string name="use_history_starttime">Started: %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="username">UserName</string>
      <string name="username_title">Имя пользователя</string>
